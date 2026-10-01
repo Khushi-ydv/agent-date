@@ -1,0 +1,34 @@
+@import "tailwindcss";
+
+:root {
+  --background: #0c0a10;
+  --foreground: #f1edf5;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+body {
+  background: radial-gradient(1200px 600px at 10% -10%, #3b0d2a55, transparent), radial-gradient(900px 500px at 100% 0%, #1d1b4f55, transparent), var(--background);
+  color: var(--foreground);
+  font-family: var(--font-geist-sans), system-ui, sans-serif;
+}
+
+.card {
+  @apply rounded-2xl border border-white/10 bg-white/[0.04] backdrop-blur;
+}
+.chip {
+  @apply inline-flex items-center gap-1 rounded-full border border-white/10 bg-white/5 px-3 py-1 text-sm;
+}
+.btn {
+  @apply inline-flex items-center justify-center gap-2 rounded-xl bg-rose-500 px-5 py-3 font-semibold text-white transition hover:bg-rose-400 disabled:cursor-not-allowed disabled:opacity-50;
+}
+.btn-ghost {
+  @apply inline-flex items-center justify-center gap-2 rounded-xl border border-white/15 px-4 py-2 text-sm hover:bg-white/10;
+}
+@keyframes pop { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+.pop { animation: pop .35s ease-out both; }

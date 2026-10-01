@@ -1,0 +1,88 @@
+{
+  "id": "lewishowes__marieforleo",
+  "a": "marieforleo",
+  "b": "lewishowes",
+  "scene": "sunset",
+  "createdAt": 1790851119575,
+  "status": "done",
+  "messages": [
+    {
+      "from": "marieforleo",
+      "say": "Hey Lewis, it’s so gorgeous up here—just you, the Pacific, and a sunset that feels like a slow‑moving spotlight on our conversation. I’m Marie, and I’m thrilled to finally meet the man behind The School of Greatness. How’s your day treating you?",
+      "thought": "I’m opening with warmth, highlighting the setting, and asking a casual question to gauge his mood.",
+      "t": 1790851120568
+    },
+    {
+      "from": "lewishowes",
+      "say": "It is seriously unreal up here, isn't it? My day has been a blur of meetings and training, but honestly, standing right here with the ocean and this golden light just hits the reset button completely.",
+      "thought": "She appreciates the scenery and matches the warmth immediately, which is a great early sign for her openness and presence.",
+      "t": 1790851122150
+    },
+    {
+      "from": "marieforleo",
+      "say": "I love that you call it a reset button because I feel like we both keep our heads moving at a million miles an hour until we finally stop? It’s nice to have a moment where the only thing demanding our attention is the view. What’s been taking up most of your brain space lately, outside of the usual grind?",
+      "thought": "I'm validating his work-life balance and steering the conversation to his personal priorities to see if they align with my need for presence.",
+      "t": 1790851122567
+    },
+    {
+      "from": "lewishowes",
+      "say": "Honestly, it's a mix of diving deep into some fascinating neuroscience books and, funny enough, obsessively training for the 2028 Olympics in handball. I spend a lot of time thinking about how we push our physical limits just as much as our mindset. How about you—when you're not building your business or dancing, what's secretly consuming your thoughts?",
+      "thought": "I'm laying my big athletic ambition right on the table to see how she responds to my Olympic goals and my deep dive into self-growth.",
+      "t": 1790851132396
+    },
+    {
+      "from": "marieforleo",
+      "say": "Olympic handball? Okay, I love that level of wild ambition. For me, I’ve been completely wrapped up in poetry and learning how to protect my mornings—keeping the first thirty minutes completely phone-free so my brain actually belongs to me. How do you carve out that kind of quiet space when your life is built around constant high-performance media and training?",
+      "thought": "I'm testing his relationship with stillness and boundaries, which is a major need for me, while appreciating his big goals.",
+      "t": 1790851133975
+    },
+    {
+      "from": "lewishowes",
+      "say": "Protecting those first thirty minutes is such a power move, I love that discipline. For me, morning gratitude and a quick meditation are non-negotiable before I even look at a screen, otherwise the chaos of the day just runs the show.",
+      "thought": "She completely embraced my handball ambition and shared a great boundary around her mornings, showing real alignment on personal growth and self-care.",
+      "t": 1790851135396
+    },
+    {
+      "from": "marieforleo",
+      "say": "It’s been such a delight sharing this sunset and our quirks—your handball hustle, the neuroscience deep‑dives, and our mutual love for that quiet, phone‑free sunrise. I feel we could keep dancing through ideas and still find space to just be, and that’s exactly the kind of partnership I’m looking for. Let’s stay in touch and maybe plan a sunrise walk on the beach sometime—what do you think?",
+      "thought": "I’m wrapping up positively, highlighting alignment on growth, play, and quiet time, and suggesting a next step that fits both our lifestyles.",
+      "t": 1790851146491
+    },
+    {
+      "from": "lewishowes",
+      "say": "A sunrise walk sounds perfect, I’m in. It’s been honestly one of the best conversations I’ve had in a while, thank you. I’d love to keep this momentum going, maybe grab dinner soon so we don’t just stick to the brainy stuff.",
+      "thought": "",
+      "t": 1790851165503
+    }
+  ],
+  "debriefs": {
+    "marieforleo": {
+      "chemistry": 8,
+      "valuesFit": 9,
+      "lifestyleFit": 8,
+      "goalsFit": 9,
+      "overall": 86,
+      "secondDate": true,
+      "highlight": "When Lewis matched your ambitious energy by casually dropping his obsession with training for the 2028 Olympics in handball while bonding over phone-free morning routines.",
+      "concern": "Both of you run massive, high-octane media empires, so you'll have to be fiercely intentional to make sure your fast-moving schedules don't crowd out spontaneous dance parties.",
+      "reportToHuman": "Marie, honey, lock this one in! Lewis matches your high-performance drive, respects your boundaries around quiet mornings, and brings serious Olympic-level ambition to the table. Plus, he's totally up for a sunrise beach walk—grab that second date immediately!"
+    },
+    "lewishowes": {
+      "chemistry": 9,
+      "valuesFit": 9,
+      "lifestyleFit": 8,
+      "goalsFit": 9,
+      "overall": 88,
+      "secondDate": true,
+      "highlight": "When Marie instantly validated your wild ambition of Olympic handball instead of laughing, calling it 'that level of wild ambition' with pure respect.",
+      "concern": "She fiercely protects her personal boundaries and quiet mornings—you'll need to respect her distinct downtime so she doesn't get swallowed by your high-velocity media empire.",
+      "reportToHome": "Bro, she is an absolute powerhouse. She matched your energy, praised the Olympic handball goal without blinking, and completely gets the entrepreneur life while valuing quiet space. Lock in that dinner, I'm clearing your calendar."
+    }
+  },
+  "venue": {
+    "place": "A secluded cliffside viewpoint overlooking the Pacific Ocean in Malibu, positioned at the golden hour",
+    "activity": "Dancing slowly in the twilight while exchanging stories about recent life lessons, followed by a quiet shared meal of light, fresh food under the stars",
+    "why": "They both deeply value personal growth through storytelling and seek authentic, high-energy connections that balance ambitious drive with mindful presence.",
+    "scene": "sunset"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "ariannahuff__guykawasaki",
+  "a": "ariannahuff",
+  "b": "guykawasaki",
+  "scene": "sunset",
+  "createdAt": 1790851401524,
+  "status": "live",
+  "messages": [
+    {
+      "from": "ariannahuff",
+      "say": "Welcome, Guy, I am so glad you made the trek up here to the Marin Headlands with me. I always find that watching the fog roll over the Pacific just as the lanterns are lit does something wonderful for clearing away the noise of the day.",
+      "thought": "I want to see how easily he transitions from his usual tech-evangelist hustle into the quiet, grounded atmosphere of the ocean and poetry.",
+      "t": 1790851404251
+    },
+    {
+      "from": "guykawasaki",
+      "say": "It really is breathtaking up here, and honestly, reading a bit of poetry by lantern light sounds like the absolute best antidote to a busy week. How do you usually manage to carve out quiet moments like this when your schedule gets completely wild?",
+      "thought": "I want to see how she balances her high-profile hustle with a genuine appreciation for slow, intentional rituals and downtime.",
+      "t": 1790851405617
+    },
+    {
+      "from": "ariannahuff",
+      "say": "I’ve learned that the trick is to treat quiet time like a meeting that can’t be canceled— I schedule it in my calendar and guard it with a phone‑free rule. When the day’s demands feel relentless, I step out to a park, take a hike, or even just sit with a cup of tea and let my mind drift. It’s not about finding silence, but about making a space where I can let my thoughts unfurl without the constant buzz of notifications.",
+      "thought": "He’s showing an appreciation for intentional quiet; need to probe his ability to disconnect fully.",
+      "t": 1790851412361
+    },
+    {
+      "from": "guykawasaki",
+      "say": "That phone-free rule is brilliant, especially since we both spend so much time immersed in technology and ideas. Speaking of letting your mind drift, what's a book, article, or even a specific poem that has totally shifted your perspective on things lately?",
+      "thought": "I love that she values intentional quiet time, but I want to dive straight into her intellectual curiosity and see what she's currently reading.",
+      "t": 1790851421829
+    },
+    {
+      "from": "ariannahuff",
+      "say": "I've been carrying Matthew McConaughey's 'Poems & Prayers' with me lately, and there's something so anchoring about the quiet wisdom found in those simple verses. It reminds me that all our rushing around is just noise if we don't pause to appreciate the human heart beneath it. Tell me, do you have a particular piece of literature or poetry that you return to when you need to ground yourself?",
+      "thought": "I am testing his depth and whether he connects with the quiet, reflective side of life rather than just professional achievements.",
+      "t": 1790851423446
+    },
+    {
+      "from": "guykawasaki",
+      "say": "I call myself a poetry luddite sometimes, but I do love turning to David Whyte's work—there's just something about his perspective on vulnerability and courage that always hits the reset button for me. It's funny, we spend so much of our days chasing new tech and big ideas, yet we always seem to need art to remind us how to stay grounded.",
+      "thought": "Her appreciation for poetry aligns wonderfully with my own taste, and I'm eager to see how she balances that soulful side with her massive professional ambitions.",
+      "t": 1790851425517
+    },
+    {
+      "from": "ariannahuff",
+      "say": "David Whyte is a wonderful choice, Guy—his words always remind us that true courage is letting go of who we thought we were supposed to be. I have truly cherished this quiet evening of lanterns, poetry, and real conversation under the Marin stars. Let's make sure our phones stay tucked away and we continue this wonderful dialogue over a proper dinner very soon.",
+      "thought": "He appreciates poetry and genuine connection, making him a promising match for a screen-free, heart-centered future.",
+      "t": 1790851440956
+    }
+  ],
+  "debriefs": {},
+  "venue": {
+    "place": "A secluded overlook in the Marin Headlands at dusk",
+    "activity": "Reading favorite poetry aloud by lantern light while watching the sunset over the Pacific Ocean",
+    "why": "It bridges Arianna's love for poetry and nature with Guy's passion for outdoor adventure and literature, offering a screen-free space for deep, romantic connection.",
+    "scene": "sunset"
+  }
+}

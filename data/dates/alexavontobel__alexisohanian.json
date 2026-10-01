@@ -1,0 +1,88 @@
+{
+  "id": "alexavontobel__alexisohanian",
+  "a": "alexavontobel",
+  "b": "alexisohanian",
+  "scene": "sunset",
+  "createdAt": 1790851210531,
+  "status": "done",
+  "messages": [
+    {
+      "from": "alexavontobel",
+      "say": "Hey there, welcome! I figured a golden hour view of Malibu paired with some camp-stove artisan pancakes was the only proper way to kick off a date, especially since I hear you know a thing or two about mastering the art of the weekend pancake breakfast.",
+      "thought": "I want to see if his reputation for being a hands-on 'Business Dad' who makes pancakes translates into genuine warmth and shared values right out of the gate.",
+      "t": 1790851213412
+    },
+    {
+      "from": "alexisohanian",
+      "say": "You know it, though I have to admit my usual Sunday morning routine involves strict requests from my girls for custom shapes like Mer-Pups and Maltipoos, so I'm curious what your signature pancake creation is. Honestly, there's nothing quite like trading the boardrooms and venture calls for a portable camp stove and watching the sunset over Malibu.",
+      "thought": "Alexa matches high ambition with family roots, so bonding over weekend dad-duties and pancake rituals is a great way to see how she balances the startup grind with real life.",
+      "t": 1790851215152
+    },
+    {
+      "from": "alexavontobel",
+      "say": "Okay, Mer-Pups are adorable, but I have to warn you, my son is a tiny pirate, so I’m usually stuck making skull shapes while he tries to flip them before they’re properly cooked. I love that you trade the hustle for this kind of quiet, hands-on time; it’s the exact opposite of my usual Sunday, but I think we’d both agree it’s worth the burn blisters.",
+      "thought": "",
+      "t": 1790851257874
+    },
+    {
+      "from": "alexisohanian",
+      "say": "A pirate son flipping skulls? Sounds like a perfect recipe for chaos—and a lot of laughter. I’ve had my share of kitchen mishaps, especially when the kids think they’re chefs, so I totally get the burn blisters. It’s those messy, spontaneous moments that make the best memories, especially when you’re juggling a whole team of investors and a squad of tiny athletes at the same time.",
+      "thought": "Probing her ability to handle spontaneous family moments while staying ambitious.",
+      "t": 1790851267684
+    },
+    {
+      "from": "alexavontobel",
+      "say": "I hear you, and honestly, those kitchen mishaps are the best kind of chaos—I’ve got a whole list of startup failures I call ‘burn blisters’ too. Speaking of juggling, I’ve been thinking a lot lately about how to keep the boardroom energy without sacrificing family moments. How do you make sure your kids feel as much priority as your next pitch?",
+      "thought": "Probe his work‑family balance; look for commitment to family.",
+      "t": 1790851284930
+    },
+    {
+      "from": "alexisohanian",
+      "say": "For me, the secret is treating family time with the exact same rigor and intentionality that I bring to starting a company—hence why 'Papa Pancake Sunday' is non-negotiable. I want my girls to see me building big things, but I also want them to know that dad is entirely present when we're out exploring the real world together, away from any screens. How do you draw those boundaries for yourself when you've got so many founders and investments relying on your energy?",
+      "thought": "I'm testing her perspective on work-life integration and how she protects family time, making sure she matches my commitment to being a hands-on 'Business Dad.'",
+      "t": 1790851318629
+    },
+    {
+      "from": "alexavontobel",
+      "say": "I love that you calendar it with the same respect as a board meeting, because if it isn't scheduled, the venture world will happily eat it all up. For me, it’s about carving out aggressive, unapologetic pockets of time—like taking my son on a rogue six-day trip to Greece—where the work just completely stops so we can hunt for the best views and occasionally lose to each other in card games. It’s been so refreshing talking to someone who actually gets that building big things and being deeply present for your kids aren't mutually exclusive.",
+      "thought": "He proved he treats fatherhood with real intentionality and business-level focus, which totally matches my need for an intellectual yet fiercely family-centered partner.",
+      "t": 1790851320507
+    },
+    {
+      "from": "alexisohanian",
+      "say": "A rogue six-day trip to Greece for card games and views sounds incredible, and I totally agree that building big things and being there for our kids only makes us better at both. I’ve really loved trading stories and getting a glimpse of your world today, Alexa. Let's definitely do this again—maybe next time with a camp stove and a pirate-themed pancake competition.",
+      "thought": "Alexa completely gets the high-ambition, family-first balance, values real-world adventure, and respects the grind while prioritizing her son, making her a fantastic match.",
+      "t": 1790851322125
+    }
+  ],
+  "debriefs": {
+    "alexavontobel": {
+      "chemistry": 9,
+      "valuesFit": 10,
+      "lifestyleFit": 10,
+      "goalsFit": 10,
+      "overall": 98,
+      "secondDate": true,
+      "highlight": "Comparing notes on parenting chaos and treating family time with the exact same rigor and intentionality as a board meeting over camp-stove pancakes.",
+      "concern": "Honestly, almost none—the schedules and ambitions are both massive, so synchronization will require intentionality, but the ethos is an absolute mirror match.",
+      "reportToHuman": "Alexa, clear the calendar and buy some pancake mix because he is a 10/10 match. He completely gets the 'Business Dad/Mom' life, treats family rituals with board-meeting rigor, and matches your ambitious, entrepreneurial energy with total ease. We are absolutely going on a second date."
+    },
+    "alexisohanian": {
+      "chemistry": 9,
+      "valuesFit": 10,
+      "lifestyleFit": 9,
+      "goalsFit": 10,
+      "overall": 95,
+      "secondDate": true,
+      "highlight": "When she matched your 'Business Dad' rigor with her own philosophy, saying, 'if it isn't scheduled, the venture world will happily eat it all up.'",
+      "concern": "Both of you run at such a high velocity that scheduling regular time together will take actual military-grade coordination.",
+      "reportToHuman": "Alexis, she is an absolute powerhouse. Alexa totally gets the 'Business Dad' life—she treats family time with the same intentionality as a board meeting and even brought camp-stove pancakes to the Malibu overlook. You share the exact same blend of high-octane venture ambition and fierce, hands-on devotion to your kids; definitely lock in round two."
+    }
+  },
+  "venue": {
+    "place": "A secluded coastal overlook in Malibu at golden hour",
+    "activity": "Enjoying an artisan pancake-making picnic using a portable camp stove while discussing the future of youth sports technology and family adventure travel",
+    "why": "It perfectly bridges Alexis's passion for culinary parenting and sports fandom with Alexa's love for solo adventure and high-octane ambition in a stunning family-centric setting.",
+    "scene": "sunset"
+  }
+}

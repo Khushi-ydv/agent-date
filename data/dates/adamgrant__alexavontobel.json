@@ -1,0 +1,48 @@
+{
+  "id": "adamgrant__alexavontobel",
+  "a": "alexavontobel",
+  "b": "adamgrant",
+  "scene": "sunset",
+  "createdAt": 1790851210532,
+  "status": "error",
+  "messages": [
+    {
+      "from": "alexavontobel",
+      "say": "Hey Adam, welcome—so glad you could make it. I’ve brought us a little coffee to sip while we watch the sunset; I hear the ocean’s a perfect backdrop for a good book and an even better conversation.",
+      "thought": "Setting the tone with warmth and a casual invitation to talk—looking for his reaction to the relaxed environment.",
+      "t": 1790851211889
+    },
+    {
+      "from": "adamgrant",
+      "say": "That is easily the best welcome committee I've ever encountered—coffee and an ocean view are pretty hard to beat. Honestly, watching the sunset out here feels like the right antidote to a week spent deep in research and writing. What's a belief or an assumption you've had to completely rethink lately?",
+      "thought": "I want to see right away if she's genuinely open to self-reflection and challenging her own mental models, which is an absolute non-negotiable for me.",
+      "t": 1790851222805
+    },
+    {
+      "from": "alexavontobel",
+      "say": "Thanks, that’s a great compliment—coffee and sea are a simple pair I can’t argue with. Lately I’ve been wrestling with the idea that ambition always has to be a solo sprint. I used to think the most driven people work alone, but I’ve learned that the best breakthroughs come when you’re willing to lean on a partner, even if that means compromising a bit. How about you—what’s a belief you’ve had to flip on its head recently?",
+      "thought": "Prompting him to share a personal shift; looking for evidence of flexibility and openness, key to compatibility.",
+      "t": 1790851249622
+    },
+    {
+      "from": "adamgrant",
+      "say": "I love that, because the lone-genius myth is one of the most stubborn misconceptions out there. For a long time, I caught myself falling into the trap of people-pleasing, thinking I had to keep everyone happy and agree with the room to be effective. I've really had to unlearn that and embrace the idea that constructive friction and healthy disagreement are actually the highest forms of care. Speaking of ambition and pacing—how do you manage to balance the high-octane drive of venture investing with making real, grounded space for family and adventure?",
+      "thought": "I'm testing her commitment to balancing a demanding career with deep personal life and family, which is critical for someone with my schedule.",
+      "t": 1790851254452
+    },
+    {
+      "from": "alexavontobel",
+      "say": "I completely agree—healthy friction is where all the real growth happens. For me, balance isn't some magical passive state; it's just ruthless intentionality and scheduling. My kids keep me completely grounded, and whether it's dragging my oldest into a card game where he happily destroys me or taking an impromptu trip, I protect that time fiercely. How does your work-life balance actually play out day-to-day when your schedule gets completely wild?",
+      "thought": "Answering his question directly and flipping it back to test how he manages his own high-stakes career alongside personal life and family.",
+      "t": 1790851256166
+    }
+  ],
+  "debriefs": {},
+  "venue": {
+    "place": "cliffside overlooking the ocean",
+    "activity": "watching a sunset over the sea with coffee and a shared reading of a favorite book",
+    "why": "both share a love for intellectual curiosity and meaningful conversation",
+    "scene": "sunset"
+  },
+  "error": "gemini-3.5-flash 429"
+}

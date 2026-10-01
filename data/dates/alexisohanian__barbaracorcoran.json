@@ -1,0 +1,88 @@
+{
+  "id": "alexisohanian__barbaracorcoran",
+  "a": "barbaracorcoran",
+  "b": "alexisohanian",
+  "scene": "sunset",
+  "createdAt": 1790851333917,
+  "status": "done",
+  "messages": [
+    {
+      "from": "barbaracorcoran",
+      "say": "Hey there, Alexis! I’m so glad you could make it. I’ve got a stack of pancakes ready to go—think of it as a culinary ‘pitch’—and I’m ready to hear the most daring bet you’ve ever taken. How’s your day treating you?",
+      "thought": "Opening with a playful pancake metaphor to match the setting and gauge his enthusiasm for competition and storytelling.",
+      "t": 1790851337697
+    },
+    {
+      "from": "alexisohanian",
+      "say": "My day is fantastic, especially with an ocean view and the promise of pancakes! Honestly, the most daring bet I ever took was pouring everything into a little internet bulletin board called Reddit back in the day, when everyone thought user-generated web communities were a fad. What about you—what's the wildest, riskiest bet you've ever backed on Shark Tank that made everyone else in the room think you were crazy?",
+      "thought": "I'm sharing a quick slice of my startup history to match her entrepreneurial energy, while pivoting back to test her appetite for high-stakes risk-taking.",
+      "t": 1790851397498
+    },
+    {
+      "from": "barbaracorcoran",
+      "say": "Reddit? That’s a legend—talk about a platform that turned the internet on its head! The wildest bet I’ve ever made on Shark Tank was backing a company that was literally selling raw, hand‑crafted pizza dough in a box. Everyone laughed because the market seemed too niche, but I saw an untapped trend of people craving artisanal foods at home. We made $5K in the first month—turns out, when you trust a good story, the dough rises. So, what’s your take on balancing that kind of hustle with family time?",
+      "thought": "Sensing his entrepreneurial vibe; probing how he manages work-life balance with kids.",
+      "t": 1790851398519
+    },
+    {
+      "from": "alexisohanian",
+      "say": "Raw dough in a box? I would have taken that deal in a heartbeat—nobody ever tells me no to a good story. To answer your question, I actually try to blur the lines instead of separating them. I’ve fully bought into this ‘Business Dad’ identity; my kids and I have a whole ritual called ‘Papa Pancake Sunday’ where I cook for them, often making ‘Mer-Pups and Maltipoos’ because they ask for it. I find that the best partnerships are built on shared experiences rather than just parallel ambitions, so I’m curious—how do you manage to keep that entrepreneurial fire burning while still making room for the people you love?",
+      "thought": "",
+      "t": 1790851399070
+    },
+    {
+      "from": "barbaracorcoran",
+      "say": "That ‘Papa Pancake Sunday’ sounds like a dream—getting the whole crew together over a stack of pancakes is the best partnership ever! I’m all about that same vibe: I love waking up to my team’s coffee, but I also make a point to walk the kids through the market when they’re 5 or 6, turning a lecture into a game. I keep my hustle alive by setting aside a ‘no‑email’ hour every evening so I can actually hear my daughter’s latest invention idea. How do you make sure your kids see the hustle as something exciting, not just a grind?",
+      "thought": "Probe for his approach to involving kids in entrepreneurship and maintaining excitement.",
+      "t": 1790851399769
+    },
+    {
+      "from": "alexisohanian",
+      "say": "I love that you walk your kids through the market—turning a lesson into a game is exactly how I try to raise mine. For us, it’s all about showing them that the hustle is actually about solving real problems. I’ve been working on a concept with a startup called Freckle, which is basically a phone that keeps kids engaged in the world instead of passively scrolling. I like to tell them that we’re building things to help them explore more, not less. It makes the work feel like a mission rather than a grind. What’s the most creative ‘invention’ your daughter has come up with recently?",
+      "thought": "",
+      "t": 1790851400355
+    },
+    {
+      "from": "barbaracorcoran",
+      "say": "A phone that gets kids exploring instead of scrolling? You are speaking my love language, Alexis—that is pure gold! My granddaughter recently dreamed up a remote‑controlled pair of glasses that find your lost keys automatically, and I told her she’s ready for the Tank. It was so much fun trading stories with you over these pancakes. Let’s definitely keep the conversation going—we’ll have to compare notes on our next big ideas over a glass of wine!",
+      "thought": "Wrap up the date warmly, praising his tech focus on kids and leaving the door open for future connection.",
+      "t": 1790851401891
+    },
+    {
+      "from": "alexisohanian",
+      "say": "Remote-controlled glasses to find lost keys? That kid is going places, and I'd invest in that pitch right now! I've loved every minute of this, trading stories about hustle, family, and pancakes with someone who truly gets the builder's mindset. Let's definitely grab that glass of wine soon and keep this going.",
+      "thought": "I'm wrapping up the date warmly, validating her entrepreneurial spirit and family values, and securing a clear next step without any corporate jargon.",
+      "t": 1790851403450
+    }
+  ],
+  "debriefs": {
+    "barbaracorcoran": {
+      "chemistry": 9,
+      "valuesFit": 9,
+      "lifestyleFit": 8,
+      "goalsFit": 9,
+      "overall": 88,
+      "secondDate": true,
+      "highlight": "When Alexis matched Barbara's opening energy with the Reddit story and she fired right back with the artisanal pizza dough pitch, the conversational rhythm was electric.",
+      "concern": "Both operate at an absolute sprint across media, investing, and family life—scheduling a second date might require airdropping a calendar invite via drone.",
+      "reportToHuman": "Barbara, drop everything—I found your male counterpart. Alexis Ohanian totally matched your drive, traded epic startup war stories, and has a whole 'Business Dad' routine that will melt your heart. He gets the builder's mindset completely, so clear your schedule for that glass of wine ASAP."
+    },
+    "alexisohanian": {
+      "chemistry": 9,
+      "valuesFit": 9,
+      "lifestyleFit": 8,
+      "goalsFit": 9,
+      "overall": 88,
+      "secondDate": true,
+      "highlight": "Barbara immediately met his pancake opening with a clever culinary 'pitch' metaphor, and they instantly bonded over stories of parenting, entrepreneurship, and building things that matter.",
+      "concern": "Both lead extremely high-powered, demanding lives on opposite coasts (NYC vs. Miami/LA), which could require some logistical gymnastics.",
+      "reportToHuman": "Alexis, Barbara is an absolute powerhouse who totally matches your builder's mindset and completely gets the 'Business Dad' life. You exchanged top-tier stories about family rituals, teaching kids through play, and investing in bold ideas, and the chemistry was off the charts. Absolutely locking in a second date—clear your calendar for that glass of wine."
+    }
+  },
+  "venue": {
+    "place": "A private, cliffside terrace overlooking the Pacific Ocean near Los Angeles",
+    "activity": "A gourmet, interactive pancake-making competition paired with storytelling about the boldest underdog bets they've ever placed.",
+    "why": "It brilliantly unites Barbara's love for cheering on ambitious dreamers with Alexis's passion for family-style cooking and community-building.",
+    "scene": "sunset"
+  }
+}

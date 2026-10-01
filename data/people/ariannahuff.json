@@ -4,7 +4,7 @@
   "linkedinUrl": "https://www.linkedin.com/in/ariannahuffington/",
   "instagramUrl": "https://www.instagram.com/ariannahuff/",
   "status": "ready",
-  "datingStatus": "idle",
+  "datingStatus": "dating",
   "log": [
     {
       "t": 1790849106212,
@@ -14,7 +14,7 @@
     {
       "t": 1790849106213,
       "step": "Read Instagram @ariannahuff",
-      "detail": "12 recent posts, bio: \u201cMother. Sister. Yiayia. @HuffPost Founder. Founder & CEO, @Thrive Global. On a m\u201d \u00b7 via instagram-crawler-html (Mozilla)"
+      "detail": "12 recent posts, bio: “Mother. Sister. Yiayia. @HuffPost Founder. Founder & CEO, @Thrive Global. On a m” · via instagram-crawler-html (Mozilla)"
     },
     {
       "t": 1790849106213,
@@ -24,11 +24,11 @@
     {
       "t": 1790849106216,
       "step": "Read LinkedIn: Arianna Huffington",
-      "detail": "Arianna Huffington - Thrive Global \u00b7 10 posts/articles \u00b7 via linkedin-public-page (json-ld)"
+      "detail": "Arianna Huffington - Thrive Global · 10 posts/articles · via linkedin-public-page (json-ld)"
     },
     {
       "t": 1790849106217,
-      "step": "\u2713 Identity check",
+      "step": "✓ Identity check",
       "detail": "LinkedIn and Instagram names match"
     },
     {
@@ -45,6 +45,16 @@
       "t": 1790850791518,
       "step": "Identified as a woman, looking for men",
       "detail": "Instagram bio: \"Mother. Sister. Yiayia.\""
+    },
+    {
+      "t": 1790851386848,
+      "step": "Agent is reviewing the pool",
+      "detail": "20 other agents' clients"
+    },
+    {
+      "t": 1790851401523,
+      "step": "Asked out",
+      "detail": "Guy Kawasaki, Deepinder Goyal, Simon Sinek"
     }
   ],
   "linkedin": {
@@ -54,7 +64,7 @@
     "url": "https://www.linkedin.com/in/ariannahuffington",
     "name": "Arianna Huffington",
     "headline": "Arianna Huffington - Thrive Global",
-    "about": "I\u2019m the founder and CEO of Thrive Global, a behavior change technology company with the\u2026",
+    "about": "I’m the founder and CEO of Thrive Global, a behavior change technology company with the…",
     "location": "New York, New York, United States",
     "profilePic": "https://media.licdn.com/dms/image/v2/C4D03AQHmPuoZ-4Jh6w/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1602549160281?e=2147483647&v=beta&t=SJ3CJg1dFApKoiMOaJmdhhIq4GPm0M01Px7CY5T9D38",
     "followers": 9599196,
@@ -74,17 +84,17 @@
     "posts": [
       {
         "kind": "article",
-        "text": "\ud83d\udcad AI's Magic Wand Fantasy: On My Mind",
+        "text": "💭 AI's Magic Wand Fantasy: On My Mind",
         "date": "2026-09-06T12:55:25.000+00:00"
       },
       {
         "kind": "article",
-        "text": "\ud83d\udcad The Magic Power of Coincidences: On My Mind",
+        "text": "💭 The Magic Power of Coincidences: On My Mind",
         "date": "2026-08-02T12:52:06.000+00:00"
       },
       {
         "kind": "article",
-        "text": "\ud83d\udcad The Secret to Brain Health: On My Mind",
+        "text": "💭 The Secret to Brain Health: On My Mind",
         "date": "2026-07-05T14:25:52.000+00:00"
       },
       {
@@ -94,12 +104,12 @@
       },
       {
         "kind": "article",
-        "text": "Microsteps: The Big Idea That\u2019s Too Small to Fail",
+        "text": "Microsteps: The Big Idea That’s Too Small to Fail",
         "date": "2026-05-07T16:52:57.000+00:00"
       },
       {
         "kind": "article",
-        "text": "\ud83d\udcad The Two-Minute Ritual for a Better Life: On My Mind",
+        "text": "💭 The Two-Minute Ritual for a Better Life: On My Mind",
         "date": "2026-05-03T13:53:55.000+00:00"
       },
       {
@@ -109,12 +119,12 @@
       },
       {
         "kind": "article",
-        "text": "\ud83d\udcadBrain Health, Longevity and Immortality Slop: On My Mind",
+        "text": "💭Brain Health, Longevity and Immortality Slop: On My Mind",
         "date": "2026-03-01T17:43:20.000+00:00"
       },
       {
         "kind": "article",
-        "text": "What Shakespeare Can Teach Us About AI\u2019s Sycophancy Problem",
+        "text": "What Shakespeare Can Teach Us About AI’s Sycophancy Problem",
         "date": "2026-02-01T18:15:20.000+00:00"
       },
       {
@@ -123,7 +133,7 @@
         "date": "2026-01-04T15:23:31.000+00:00"
       }
     ],
-    "activityText": " Arianna Huffington Arianna Huffington 19h Arianna Huffington shared this Most of us already know what supports better health, but the challenge is making those behaviors part of daily life. And today Thrive Global and Deloitte are launching a strategic relationship that makes it easier for people to move from awareness to action so they can build healthier habits and improve their health \u2014 one Microstep at a time. Currently, most U.S. healthcare spending is reactive, focused on treating illnesses and conditions after they occur. But Deloitte estimates that proactive \u201cwell-care\u201d could save the country up to $2.2 trillion a year in medical and pharmacy costs. This number captures the enormous opportunity we have to move the needle. By bringing together Thrive\u2019s AI-powered behavior change platform and Deloitte\u2019s experience in health care transformation, data and analytics, digital innovation and large-scale implementation, we\u2019ll help organizations harness the science-backed power of our daily behaviors \u2014 food, movement, sleep, stress management and connection \u2014 and scale behavior change to help people build healthier habits and routines. And starting in October, Deloitte will incorporate Thrive content across key areas of health into the wellbeing resources available to its U.S. workforce. Learn more about how Thrive Global and Deloitte are helping organizations support health and wellbeing through behavior change here: https://lnkd.in/dEBtA3Sw Arianna Huffington reacted on this Arianna Huffington reacted on this Melinda French Gates Melinda French Gates 1d Arianna Huffington reacted on this Have you ever felt like the price of your professional success is your own health and well-being? If so, you\u2019re not alone. This collective delusion has told so many women that if we want to advance at work, we have to sleep less, push through exhaustion, ignore pain, and put ourselves last. When we neglect our health, everything else becomes harder. Running on empty may help us power through in the moment, but over time it can lead to burnout, chronic health challenges, and consequences that outlast any job or promotion. Is this really what success looks like? Changing this requires more than an individual mindset shift. Women deserve\u2014and we all benefit from\u2014health systems and workplaces that make it easier for people to get the care they need and pursue their ambitions at the same time. The goal shouldn't be helping women choose between their health and their dreams. It should be making sure they never have to. Arianna Huffington Arianna Huffington 1d Arianna Huffington shared this I joined Dawn Nakagawa on the Berggruen Institute \u2019s Futurology podcast to explore one of my favorite topics: how the age of AI is prompting us to discover what makes us uniquely human. When AI can give us instant answers to nearly everything, the questions we ask \u2014 about who we are and what truly defines us \u2014 matter more than ever. Now that AI has dethroned human intelligence, our "
+    "activityText": " Arianna Huffington Arianna Huffington 19h Arianna Huffington shared this Most of us already know what supports better health, but the challenge is making those behaviors part of daily life. And today Thrive Global and Deloitte are launching a strategic relationship that makes it easier for people to move from awareness to action so they can build healthier habits and improve their health — one Microstep at a time. Currently, most U.S. healthcare spending is reactive, focused on treating illnesses and conditions after they occur. But Deloitte estimates that proactive “well-care” could save the country up to $2.2 trillion a year in medical and pharmacy costs. This number captures the enormous opportunity we have to move the needle. By bringing together Thrive’s AI-powered behavior change platform and Deloitte’s experience in health care transformation, data and analytics, digital innovation and large-scale implementation, we’ll help organizations harness the science-backed power of our daily behaviors — food, movement, sleep, stress management and connection — and scale behavior change to help people build healthier habits and routines. And starting in October, Deloitte will incorporate Thrive content across key areas of health into the wellbeing resources available to its U.S. workforce. Learn more about how Thrive Global and Deloitte are helping organizations support health and wellbeing through behavior change here: https://lnkd.in/dEBtA3Sw Arianna Huffington reacted on this Arianna Huffington reacted on this Melinda French Gates Melinda French Gates 1d Arianna Huffington reacted on this Have you ever felt like the price of your professional success is your own health and well-being? If so, you’re not alone. This collective delusion has told so many women that if we want to advance at work, we have to sleep less, push through exhaustion, ignore pain, and put ourselves last. When we neglect our health, everything else becomes harder. Running on empty may help us power through in the moment, but over time it can lead to burnout, chronic health challenges, and consequences that outlast any job or promotion. Is this really what success looks like? Changing this requires more than an individual mindset shift. Women deserve—and we all benefit from—health systems and workplaces that make it easier for people to get the care they need and pursue their ambitions at the same time. The goal shouldn't be helping women choose between their health and their dreams. It should be making sure they never have to. Arianna Huffington Arianna Huffington 1d Arianna Huffington shared this I joined Dawn Nakagawa on the Berggruen Institute ’s Futurology podcast to explore one of my favorite topics: how the age of AI is prompting us to discover what makes us uniquely human. When AI can give us instant answers to nearly everything, the questions we ask — about who we are and what truly defines us — matter more than ever. Now that AI has dethroned human intelligence, our "
   },
   "instagram": {
     "source": "instagram",
@@ -145,47 +155,47 @@
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/825322538_18627634714041718_7672014345391099136_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=zGTm3Jr5argQ7kNvwGY3Yi_&_nc_oc=AdoLgTMfAG1HZYCEhC0wMPwecBy-soUFMQVMoVZ92RA2nmtNUs1NVXA3c6bYVwS6eLHEAKKV-7OuJ1RdBSpPK6Ya&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=BnjPSA34PQ7XyAwhuGoCTg&_nc_ss=7f689&oh=00_AQO4GtcC3zJ11M_6ShNkR4HxDOIyLqyCEu_aE4FQvez34A&oe=6AC40648",
-        "caption": "What a beautiful story of hope in The @Guardian. Twenty-one years ago, a field in Norfolk was home to a single crop. Today, it is a wildflower meadow with more than 150 plant species. Since 2011, the only maintenance has been one hay cut each summer. The cut keeps the field from becoming woodland and gives more delicate wildflowers room to grow.\n\nAs @UCL Professor Carl Sayer put it: \u201cSometimes we\u2019re not patient enough.\u201d And after watching the meadow become more biodiverse each year, he says, \u201cIt\u2019s hope \u2014 we can recover things. We just need to do less in the recovery process.\u201d\n\nLife is a dance between making it happen and letting it happen. In this meadow, making it happen means one simple act of care each year. Letting it happen means trusting nature and giving it time. The same is true in our lives: our daily choices around sleep, food, movement, stress and connection give our bodies and minds the support they need to renew.\n\nRead more in The Guardian at the link in bio."
+        "caption": "What a beautiful story of hope in The @Guardian. Twenty-one years ago, a field in Norfolk was home to a single crop. Today, it is a wildflower meadow with more than 150 plant species. Since 2011, the only maintenance has been one hay cut each summer. The cut keeps the field from becoming woodland and gives more delicate wildflowers room to grow.\n\nAs @UCL Professor Carl Sayer put it: “Sometimes we’re not patient enough.” And after watching the meadow become more biodiverse each year, he says, “It’s hope — we can recover things. We just need to do less in the recovery process.”\n\nLife is a dance between making it happen and letting it happen. In this meadow, making it happen means one simple act of care each year. Letting it happen means trusting nature and giving it time. The same is true in our lives: our daily choices around sleep, food, movement, stress and connection give our bodies and minds the support they need to renew.\n\nRead more in The Guardian at the link in bio."
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/819728279_18626711506041718_438601459794380142_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=ahfvzONp3mYQ7kNvwH2U4za&_nc_oc=Adqj061AALqtoDowDO4m2_dZZ24ErG-8vYkYOXaH7oRn28BIaiL5qx4r8zbkhzIQWH6Ns1yf41IsK0Q1_3shONLV&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=BnjPSA34PQ7XyAwhuGoCTg&_nc_ss=7f689&oh=00_AQNG1kn_u5JhrcdmHqp9UGJZN8jgzPoiXCoVffSOEPhA1g&oe=6AC41C32",
-        "caption": "Congratulations @ArielEmanuel on the publication of Roll the Calls!\n\nOf course I knew Ari had an amazing story. Angry boy from Chicago overcomes severe dyslexia, rises from mailroom to C-suite, transforms himself into one of the legendary dealmakers and visionaries in Hollywood history \u2013 I expected Ari\u2019s memoir to be a page-turner. But I didn\u2019t expect such tenderness, such sweetness, so much heart. I wasn\u2019t ready for all the wisdom about mental health and self-confidence and resilience and the search for one\u2019s true happiness. I simply wasn\u2019t prepared for Shoe Dog meets Goodfellas with a dash of The Little Prince. What a pleasant, refreshing, and wonderful surprise this book is.\n\nAnd that\u2019s my blurb for the book! You can get a copy at the link in bio."
+        "caption": "Congratulations @ArielEmanuel on the publication of Roll the Calls!\n\nOf course I knew Ari had an amazing story. Angry boy from Chicago overcomes severe dyslexia, rises from mailroom to C-suite, transforms himself into one of the legendary dealmakers and visionaries in Hollywood history – I expected Ari’s memoir to be a page-turner. But I didn’t expect such tenderness, such sweetness, so much heart. I wasn’t ready for all the wisdom about mental health and self-confidence and resilience and the search for one’s true happiness. I simply wasn’t prepared for Shoe Dog meets Goodfellas with a dash of The Little Prince. What a pleasant, refreshing, and wonderful surprise this book is.\n\nAnd that’s my blurb for the book! You can get a copy at the link in bio."
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/819470239_18626461324041718_7130022809516005017_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=vGqwbgEHoJcQ7kNvwESMCfF&_nc_oc=AdqlF-Zl42eD9beMkVA2skndxtq-VDQHBHCoPt26QmwWxDztqFKvxxi44HPkH5J-8Nl2E3N8jLqWV9c19aVRz-bo&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=BnjPSA34PQ7XyAwhuGoCTg&_nc_ss=7f689&oh=00_AQPd7gXastGUeTC62w0RCqMKbT9ituiS8-UTLJChWHoBYA&oe=6AC405BC",
-        "caption": "Looking back at two great days at @Dreamforce. @Salesforce\u2019s chief marketing officer @ErinOles moderated a conversation with @officiallymcconaughey and me about who shapes culture in the age of AI.\n\nHere\u2019s what nobody wants to admit about the content explosion: the bottleneck was never production. It was always judgment. For most of history, we assumed the hard part was making things \u2014 and the machines have now solved that. Anyone can generate a screenplay, a song, a strategy deck in seconds. But Matthew put his finger on what the machines haven\u2019t solved: AI can tell you what\u2019s popular, but it doesn\u2019t yet have an ear for what\u2019s really good.\n\nThose are profoundly different things. Popularity is a pattern in the data. Good is a judgment \u2014 and judgment is built from everything that never shows up in training data: taste formed over decades, failures metabolized into instinct, the thousand small refinements of a lived life. Erin compressed it into one line: the real AI superpower isn\u2019t the tool, it\u2019s the taste.\n\nWhich means we\u2019ve been worried about the wrong scarcity. The scarce resource of this era isn\u2019t intelligence \u2014 machines have made intelligence abundant. It\u2019s wisdom. And here\u2019s the inconvenient truth about wisdom: it can\u2019t be generated, downloaded, or scaled. It has to be lived into existence, one experience at a time.\n\nMachines gather knowledge exponentially. Humans gather wisdom slowly. Whether that gap becomes a crisis or a renaissance depends entirely on whether we treat our own development as seriously as we treat the technology\u2019s. And keeping people at the center of the AI conversation was the focus of my session at Dreamforce with chief people officer Nathalie Scardino and HR leaders from around the world."
+        "caption": "Looking back at two great days at @Dreamforce. @Salesforce’s chief marketing officer @ErinOles moderated a conversation with @officiallymcconaughey and me about who shapes culture in the age of AI.\n\nHere’s what nobody wants to admit about the content explosion: the bottleneck was never production. It was always judgment. For most of history, we assumed the hard part was making things — and the machines have now solved that. Anyone can generate a screenplay, a song, a strategy deck in seconds. But Matthew put his finger on what the machines haven’t solved: AI can tell you what’s popular, but it doesn’t yet have an ear for what’s really good.\n\nThose are profoundly different things. Popularity is a pattern in the data. Good is a judgment — and judgment is built from everything that never shows up in training data: taste formed over decades, failures metabolized into instinct, the thousand small refinements of a lived life. Erin compressed it into one line: the real AI superpower isn’t the tool, it’s the taste.\n\nWhich means we’ve been worried about the wrong scarcity. The scarce resource of this era isn’t intelligence — machines have made intelligence abundant. It’s wisdom. And here’s the inconvenient truth about wisdom: it can’t be generated, downloaded, or scaled. It has to be lived into existence, one experience at a time.\n\nMachines gather knowledge exponentially. Humans gather wisdom slowly. Whether that gap becomes a crisis or a renaissance depends entirely on whether we treat our own development as seriously as we treat the technology’s. And keeping people at the center of the AI conversation was the focus of my session at Dreamforce with chief people officer Nathalie Scardino and HR leaders from around the world."
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/819828439_18626131690041718_4996553307036499441_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=50q2wiRcqGwQ7kNvwFwgLXH&_nc_oc=AdowMbB4PiwFYvRB7L583U52t_z4XF0dXXzf0MKJXfAi1rHjd9Ymq_K8HJymGPqEx7ncwgMXzprpvkWAeLdCOu6-&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=BnjPSA34PQ7XyAwhuGoCTg&_nc_ss=7f689&oh=00_AQM0KA4FEtqJyhNn0oUVl7w9BefRZyXdLaorm14LMN56WQ&oe=6AC41C1E",
-        "caption": "A beautiful evening celebrating the opening of the @LucasMuseum of Narrative Art \u2014 a museum as expansive, surprising and impossible to categorize as the works it celebrates.\n\nThe museum houses the art collection of George Lucas and @MellodyHobson. At a time when AI dominates our public conversation, it\u2019s a reminder that machines aren\u2019t the only ones producing wonders. It\u2019s a cathedral of wonder and awe, human creativity, storytelling and connection. As Mellody said, \u201cNarrative art creates an emotional connection, not an intellectual one.\u201d\n\nThe museum looks, appropriately, like a spaceship, rising, curving and folding into the landscape \u2013 in fact, there isn\u2019t a right angle anywhere in the building. Works associated with empires and religious traditions live alongside illustrations, comic strips and movie images that have shaped our lives. There is even an immersive reproduction of the Sistine Chapel ceiling, which George calls \u201cGod\u2019s comic book\u201d because its panels tell a story. And throughout, cinema is treated not as something separate from art history but as another chapter in our ancient drive to turn experience into narrative. It\u2019s why one of the museum\u2019s theaters is named for Robert Flaherty, a pioneer of documentary filmmaking.\n\nAnd then there are the monsters. The museum\u2019s exploration of them brought to mind what Guillermo del Toro\u2019s work shows about monsters being revealing mirrors. We create them to give form to what frightens us and to explore the parts of ourselves we can\u2019t always confront directly. The same is true of the myths, which let us wrestle with the same big questions at a larger scale. The characters and settings change but the elemental questions remain: Who are we? What do we fear? What are we willing to fight for? And who can we become?\n\nAt a moment when so much is pulling us apart, George Lucas and Mellody Hobson have created a home for the images, stories and myths that unite us \u2014 a place where art is an invitation to feel, wonder and see ourselves in one another."
+        "caption": "A beautiful evening celebrating the opening of the @LucasMuseum of Narrative Art — a museum as expansive, surprising and impossible to categorize as the works it celebrates.\n\nThe museum houses the art collection of George Lucas and @MellodyHobson. At a time when AI dominates our public conversation, it’s a reminder that machines aren’t the only ones producing wonders. It’s a cathedral of wonder and awe, human creativity, storytelling and connection. As Mellody said, “Narrative art creates an emotional connection, not an intellectual one.”\n\nThe museum looks, appropriately, like a spaceship, rising, curving and folding into the landscape – in fact, there isn’t a right angle anywhere in the building. Works associated with empires and religious traditions live alongside illustrations, comic strips and movie images that have shaped our lives. There is even an immersive reproduction of the Sistine Chapel ceiling, which George calls “God’s comic book” because its panels tell a story. And throughout, cinema is treated not as something separate from art history but as another chapter in our ancient drive to turn experience into narrative. It’s why one of the museum’s theaters is named for Robert Flaherty, a pioneer of documentary filmmaking.\n\nAnd then there are the monsters. The museum’s exploration of them brought to mind what Guillermo del Toro’s work shows about monsters being revealing mirrors. We create them to give form to what frightens us and to explore the parts of ourselves we can’t always confront directly. The same is true of the myths, which let us wrestle with the same big questions at a larger scale. The characters and settings change but the elemental questions remain: Who are we? What do we fear? What are we willing to fight for? And who can we become?\n\nAt a moment when so much is pulling us apart, George Lucas and Mellody Hobson have created a home for the images, stories and myths that unite us — a place where art is an invitation to feel, wonder and see ourselves in one another."
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/819571861_18626053819041718_2724820551665780672_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=nHMhcuwgFYUQ7kNvwGtf8Au&_nc_oc=Adr90WVFlw3DZjZQaKq8W3iCp0GvzWKXErXwJd-s8blSdhakNd2K95gqY4TSXAYWO12OzadlCEIlW8PHw4im-b22&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=BnjPSA34PQ7XyAwhuGoCTg&_nc_ss=7f689&oh=00_AQPqCL1u-kt0iDMzvqCJ2ZLDwIjEToye8bp23FNhWDxRzw&oe=6AC3F0A3",
-        "caption": "As we mark World Alzheimer\u2019s Day, more than 7 million people over age 65 in the US are living with Alzheimer\u2019s disease \u2014 a figure that is projected to almost double in the next few decades. And more than 12 million people are caregivers to loved ones with Alzheimer\u2019s or other dementias. There\u2019s no sugarcoating a disease that results in the widespread loss of brain function, and no number that captures the heartbreak of seeing a loved one decline. And yet, there is reason for hope.\n\nThat\u2019s because research shows that Alzheimer\u2019s-related brain changes can begin up to 20 years before symptoms set in, highlighting the importance of investing in our brain health and addressing modifiable risk factors throughout adulthood.\n\nThis is a 20-year window of opportunity. As with so many chronic conditions, research is showing that with brain health, our DNA is not necessarily our destiny. We have more power than we previously thought to shape our brain health, both day-to-day and in the long run.\n\nRead more in @incmagazine at the link in bio."
+        "caption": "As we mark World Alzheimer’s Day, more than 7 million people over age 65 in the US are living with Alzheimer’s disease — a figure that is projected to almost double in the next few decades. And more than 12 million people are caregivers to loved ones with Alzheimer’s or other dementias. There’s no sugarcoating a disease that results in the widespread loss of brain function, and no number that captures the heartbreak of seeing a loved one decline. And yet, there is reason for hope.\n\nThat’s because research shows that Alzheimer’s-related brain changes can begin up to 20 years before symptoms set in, highlighting the importance of investing in our brain health and addressing modifiable risk factors throughout adulthood.\n\nThis is a 20-year window of opportunity. As with so many chronic conditions, research is showing that with brain health, our DNA is not necessarily our destiny. We have more power than we previously thought to shape our brain health, both day-to-day and in the long run.\n\nRead more in @incmagazine at the link in bio."
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/808553879_18625706620041718_1562316469303052137_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=-8iTOlQey38Q7kNvwEMr2Zn&_nc_oc=AdpZt8F_tvYQoD-2cLHxZ0GZIfoeok4GGJfeM9cuVk_ubWZYdItTKQFUIAymhAQJebn5EsGgt58ZPYIuWVI6YqDJ&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=BnjPSA34PQ7XyAwhuGoCTg&_nc_ss=7f689&oh=00_AQOEd1DmV-t6O47pKO5JAIwcIhwxjXL-JVHYoL1R1VTRVQ&oe=6AC4104D",
-        "caption": "Thursday evening on brain health was the largest event I\u2019ve ever had in my home. And it so perfectly captured the sense of possibility of this moment, when brain health has moved from medical journals to the center of the conversation on health. I moderated a wide-ranging conversation with Andrew Adams, Group VP of Molecule Discovery, Lilly Research Laboratories, who shared not only about his work on molecular discovery and genetic medicines, but how it is inspired by the lived experience of his mother and grandmother; Konstantina Stankovic, the chair of otolaryngology and head and neck surgery at @Stanford Medicine, who urged us to \u201cprotect our senses,\u201d since our hearing, smell and other senses are key inputs to the brain and some of the first signals that can tell us when an intervention is needed; and Baba Shiv, a behavioral neuroscientist and professor at the @StanfordGSB, who shared that when multitasking and distraction are taking such a toll on our brain health, one of the best Microsteps we can take is to \u201clearn how to subtract before you can add.\u201d\n\nIt was a great conversation, and one of the themes that emerged was that with brain health, the biggest innovations are being driven not by competitive advantage but \u201ccollaborative advantage.\u201d\n\nAnd the collective wisdom in the room proved it. As we opened the floor to questions and comments, we heard from authors (neurologist @teenashettymd, whose Healing the Brain came out earlier this month, and Sandro Galea, Dean at the School of Public Health at Washington University in St. Louis and author most recently of Why Health?), entrepreneurs (Shiv Rao, CEO and co-founder of AI health company Abridge), and clinicians including Dr. David Dodick, Chief Medical Officer at the Atria Health and Research Institute, and Brendan G. Carr, the CEO of Mount Sinai Health System."
+        "caption": "Thursday evening on brain health was the largest event I’ve ever had in my home. And it so perfectly captured the sense of possibility of this moment, when brain health has moved from medical journals to the center of the conversation on health. I moderated a wide-ranging conversation with Andrew Adams, Group VP of Molecule Discovery, Lilly Research Laboratories, who shared not only about his work on molecular discovery and genetic medicines, but how it is inspired by the lived experience of his mother and grandmother; Konstantina Stankovic, the chair of otolaryngology and head and neck surgery at @Stanford Medicine, who urged us to “protect our senses,” since our hearing, smell and other senses are key inputs to the brain and some of the first signals that can tell us when an intervention is needed; and Baba Shiv, a behavioral neuroscientist and professor at the @StanfordGSB, who shared that when multitasking and distraction are taking such a toll on our brain health, one of the best Microsteps we can take is to “learn how to subtract before you can add.”\n\nIt was a great conversation, and one of the themes that emerged was that with brain health, the biggest innovations are being driven not by competitive advantage but “collaborative advantage.”\n\nAnd the collective wisdom in the room proved it. As we opened the floor to questions and comments, we heard from authors (neurologist @teenashettymd, whose Healing the Brain came out earlier this month, and Sandro Galea, Dean at the School of Public Health at Washington University in St. Louis and author most recently of Why Health?), entrepreneurs (Shiv Rao, CEO and co-founder of AI health company Abridge), and clinicians including Dr. David Dodick, Chief Medical Officer at the Atria Health and Research Institute, and Brendan G. Carr, the CEO of Mount Sinai Health System."
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/814575221_18625106557041718_9192183239871255910_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=rfJvkWiwAOYQ7kNvwGLTw5N&_nc_oc=Adp2Q-X9ksGU6pknQ__XF446ADBz2nbe3uGE3XrtDD1N_09giPDhpkjVr0f3wEWNsWlZeq4j9eOrCFrYNgmVJhYO&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=BnjPSA34PQ7XyAwhuGoCTg&_nc_ss=7f689&oh=00_AQMTgx9lWinOd3eF3_uyatik6b0uSqwl6hC4UbKaBZgbSw&oe=6AC41BCB",
-        "caption": "New research from @gallup and @pivotaldotcom quantifies what women have been reporting for years: women face significant barriers in getting healthcare, and these barriers affect more than just health outcomes.\n\n51% of women report at least one negative experience with healthcare providers \u2014 symptoms dismissed, misdiagnosis, or not getting needed answers. For men, it\u2019s 39%.\n\nThe findings also make clear that the consequences extend well beyond health outcomes. 54% of women report an impact on family life or relationships, 42% on work or career, and 32% on community participation.\nThat\u2019s the reframe this research offers: barriers to care are not only a health problem. They\u2019re a barrier to opportunity, with effects that ripple through families, workplaces, communities, and our economy.\n\nWomen are accomplishing so much despite these barriers. Imagine the possibilities \u2014 for their health, their connections, and so much more \u2014 if they got the care they needed.\n\nRead more at the link in bio."
+        "caption": "New research from @gallup and @pivotaldotcom quantifies what women have been reporting for years: women face significant barriers in getting healthcare, and these barriers affect more than just health outcomes.\n\n51% of women report at least one negative experience with healthcare providers — symptoms dismissed, misdiagnosis, or not getting needed answers. For men, it’s 39%.\n\nThe findings also make clear that the consequences extend well beyond health outcomes. 54% of women report an impact on family life or relationships, 42% on work or career, and 32% on community participation.\nThat’s the reframe this research offers: barriers to care are not only a health problem. They’re a barrier to opportunity, with effects that ripple through families, workplaces, communities, and our economy.\n\nWomen are accomplishing so much despite these barriers. Imagine the possibilities — for their health, their connections, and so much more — if they got the care they needed.\n\nRead more at the link in bio."
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/813832215_18624476473041718_3732753932149761107_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=bbsG3Zh3y-cQ7kNvwF42xaq&_nc_oc=AdoXGaizAy6C14lrDHSD2G948kbBqhnHbj4CiRlairnG83M1FV4pF2YANPQ6gtMbuPSj2C5MrwmbeZnh698CZ_Cx&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=BnjPSA34PQ7XyAwhuGoCTg&_nc_ss=7f689&oh=00_AQNSh3Dw5MXE3LlroxDtsU9cx33phVAjcVADAxbioB-9rw&oe=6AC3E816",
-        "caption": "Yesterday afternoon at @Dreamforce with @Salesforce President and Chief People Officer Nathalie Scardino and a group of people leaders talking about AI, work, and what it means to be irreplaceably human.\n\nAI is now saving managers nearly three hours per week. But 36% of them say they waste more than half of it.\n\nIt\u2019s called the AI Efficiency Trap \u2014 when productivity gains create pressure to simply do more, feeding the very stress and burnout the technology was supposed to relieve. \n\nAvoiding that trap is the real opportunity for leaders \u2014 and it\u2019s much bigger than deploying new tools. It\u2019s being intentional about the time AI gives back: reinvesting it in recharging, in creativity, in connection, in the work that requires our full attention and judgment. And it\u2019s making clear to your people that their value is measured not in additional output for its own sake, but in their capacity to think, create and connect.\n\nThe companies that thrive in this era won\u2019t be defined by how much time AI saved them, but by how deliberately they reinvested it."
+        "caption": "Yesterday afternoon at @Dreamforce with @Salesforce President and Chief People Officer Nathalie Scardino and a group of people leaders talking about AI, work, and what it means to be irreplaceably human.\n\nAI is now saving managers nearly three hours per week. But 36% of them say they waste more than half of it.\n\nIt’s called the AI Efficiency Trap — when productivity gains create pressure to simply do more, feeding the very stress and burnout the technology was supposed to relieve. \n\nAvoiding that trap is the real opportunity for leaders — and it’s much bigger than deploying new tools. It’s being intentional about the time AI gives back: reinvesting it in recharging, in creativity, in connection, in the work that requires our full attention and judgment. And it’s making clear to your people that their value is measured not in additional output for its own sake, but in their capacity to think, create and connect.\n\nThe companies that thrive in this era won’t be defined by how much time AI saved them, but by how deliberately they reinvested it."
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/809201535_18626485381051596_8684693528980430783_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=GZwL4g5UPNgQ7kNvwF1ARR2&_nc_oc=AdpbgRAHYTi0TBcnXdMt_0N8oUnN1XmZUW7sRz4Dq-3rI-nyb27xwamFau1PE-LryJH1iWcovXz6Lz7xsXUbEkQm&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=BnjPSA34PQ7XyAwhuGoCTg&_nc_ss=7f689&oh=00_AQOu39ijB91FLtfnXmUfvECSK7DyBdNp7yFHcEw25Fqgqg&oe=6AC3F1B7",
-        "caption": "Got questions about brain health? Join Arianna Huffington, Dr. Vin Gupta, and Dr. Brandy Matthews, for an AMA in r/science on World Alzheimer\u2019s Day, 9/21! Link in bio.\n\nAMA hosts include:\n- Arianna Huffington: Founder and CEO of Thrive Global\n- Dr. Vin Gupta: Medical Analyst for NBC News and MSNBC, and Managing Director of Health Innovation at Manatt\n- Dr. Brandy Matthews: Vice President, Global Medical Affairs, Alzheimer\u2019s Disease at Eli Lilly and Company"
+        "caption": "Got questions about brain health? Join Arianna Huffington, Dr. Vin Gupta, and Dr. Brandy Matthews, for an AMA in r/science on World Alzheimer’s Day, 9/21! Link in bio.\n\nAMA hosts include:\n- Arianna Huffington: Founder and CEO of Thrive Global\n- Dr. Vin Gupta: Medical Analyst for NBC News and MSNBC, and Managing Director of Health Innovation at Manatt\n- Dr. Brandy Matthews: Vice President, Global Medical Affairs, Alzheimer’s Disease at Eli Lilly and Company"
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/812102160_18624216076041718_120042520157734140_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=_JOOxj6SxzsQ7kNvwHwFhn6&_nc_oc=AdphqrgrEFay3CeEECs7see23CCn4gnvEFWnUqPqqqlF9LjAlg7ZYgUQsmH7ElBb4YJZitIiSKNV5W0Utma59j5n&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=BnjPSA34PQ7XyAwhuGoCTg&_nc_ss=7f689&oh=00_AQOGNLbiwciyaKO0GcccBb4WPozjQ6Lm5gBnxV_CJKQUNg&oe=6AC3F12A",
-        "caption": "Love this poem from @officiallymcconaughey\u2019s \u201cPoems & Prayers\u201d that\u2019s now on my nightstand. Looking forward to my conversation with Matthew and @Salesforce CMO Erin Oles tomorrow at @Dreamforce."
+        "caption": "Love this poem from @officiallymcconaughey’s “Poems & Prayers” that’s now on my nightstand. Looking forward to my conversation with Matthew and @Salesforce CMO Erin Oles tomorrow at @Dreamforce."
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/812064425_18624183208041718_5812851162078673920_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=tGEWNM9Hkx0Q7kNvwHytrCo&_nc_oc=AdpYBkh3zNZl6MQbBPXxd3p1Mdp0TIV8XmgVOiqNJ34z9V1tvAe-8hEAY3NY_qz2mV4ADZEOEUF3y6n5-B49Blm7&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=BnjPSA34PQ7XyAwhuGoCTg&_nc_ss=7f689&oh=00_AQPWYo68dEZY6Nbgsfkt5SsZkgd9a7tQ1llNlctyIQJhgA&oe=6AC40158",
-        "caption": "We talk a lot about how to succeed in a job we love. But how we navigate a job we don\u2019t love matters too. As I shared with the @WSJ, \u201cYou approach staying in a job you don\u2019t love very differently if you don\u2019t operate from a place of fear and despair.\u201d\n\nOur wellbeing is not just about helping us thrive when things are going well. It gives us the resilience and perspective to see new possibilities and make decisions from a place of strength.\n\nRead more in Allison Pohle\u2019s article, \u201cThe 24 New Rules for Succeeding at Work\u201d in The Wall Street Journal."
+        "caption": "We talk a lot about how to succeed in a job we love. But how we navigate a job we don’t love matters too. As I shared with the @WSJ, “You approach staying in a job you don’t love very differently if you don’t operate from a place of fear and despair.”\n\nOur wellbeing is not just about helping us thrive when things are going well. It gives us the resilience and perspective to see new possibilities and make decisions from a place of strength.\n\nRead more in Allison Pohle’s article, “The 24 New Rules for Succeeding at Work” in The Wall Street Journal."
       }
     ]
   },
@@ -268,7 +278,7 @@
       },
       {
         "label": "Behavioral Science",
-        "detail": "Passionate about 'Microsteps'\u2014the small, daily habits that lead to sustainable lifestyle changes.",
+        "detail": "Passionate about 'Microsteps'—the small, daily habits that lead to sustainable lifestyle changes.",
         "source": "linkedin",
         "confidence": 0.9
       },
@@ -391,5 +401,106 @@
   "seeking": "men",
   "genderSource": "inferred",
   "genderEvidence": "Instagram bio: \"Mother. Sister. Yiayia.\"",
-  "shortlist": null
+  "shortlist": [
+    {
+      "id": "guykawasaki",
+      "interest": 96,
+      "reason": "Guy's unique blend of cutting-edge tech evangelism with a genuine love for poetry, literature, and community-building makes him an exceptional intellectual and soulful match for Arianna."
+    },
+    {
+      "id": "deepigoyal",
+      "interest": 94,
+      "reason": "Deepinder's profound focus on longevity, brain health, mindfulness, and the appreciation of quiet beauty aligns seamlessly with Arianna's dedication to well-being and mindful living."
+    },
+    {
+      "id": "simonsinek",
+      "interest": 91,
+      "reason": "Simon's deep-rooted optimism, commitment to purpose-driven leadership, and ability to hold space for vulnerability offer the exact emotional depth and warmth Arianna seeks."
+    },
+    {
+      "id": "thisisbillgates",
+      "interest": 89,
+      "reason": "Bill's relentless curiosity, dedication to global health, and love for quiet, low-key moments like reading and travel provide a wonderful parallel to Arianna's global thought-leadership."
+    },
+    {
+      "id": "adamgrant",
+      "interest": 88,
+      "reason": "Adam brings an incredible intellectual rigor and a passion for human potential that would spark endless, stimulating conversations about psychology and growth."
+    },
+    {
+      "id": "thesharkdaymond",
+      "interest": 85,
+      "reason": "Daymond's shared fascination with bio-hacking, health science, and a deep appreciation for family moments create a strong foundation for a warm, grounded connection."
+    },
+    {
+      "id": "alexisohanian",
+      "interest": 84,
+      "reason": "Alexis's fierce dedication as a 'Business Dad' and champion of family and equity matches Arianna's profound reverence for parenting, family heritage, and legacy."
+    },
+    {
+      "id": "thejustinwelsh",
+      "interest": 82,
+      "reason": "Justin's conscious recovery from burnout and belief that quiet weekends at home are the ultimate luxury directly mirror Arianna's mission to protect her peace."
+    },
+    {
+      "id": "riteshagar",
+      "interest": 80,
+      "reason": "Ritesh's mission to make travel meaningful, combined with his empathetic leadership style, offers a refreshing alignment with Arianna's cultural and global outlook."
+    },
+    {
+      "id": "nikhilkamathcio",
+      "interest": 79,
+      "reason": "Nikhil's appreciation for thoughtful discourse, philosophy, and offline gatherings would make for a wonderfully cultured and engaging evening of conversation."
+    },
+    {
+      "id": "ankurwarikoo",
+      "interest": 78,
+      "reason": "Ankur's deep commitment to daily habits, self-awareness, and conscious routines resonates closely with Arianna's philosophy of transformative Microsteps."
+    },
+    {
+      "id": "rajshamani",
+      "interest": 76,
+      "reason": "Raj's purpose-driven curiosity and passion for health and personal development make him an eager and intellectually alive conversational partner."
+    },
+    {
+      "id": "steven",
+      "interest": 74,
+      "reason": "Steven's exploration of neuroscience and preventative health meets his desire for deep, grounded connection after a high-growth day."
+    },
+    {
+      "id": "sahilbloom",
+      "interest": 72,
+      "reason": "Sahil's disciplined routines and growth mindset offer structure, though balancing his relentless pace with Arianna's need for stillness would require mindful intention."
+    },
+    {
+      "id": "danielpriestley",
+      "interest": 70,
+      "reason": "Daniel's entrepreneurial drive and interest in future trends provide plenty of intellectual fodder, though he would need to actively lean into quiet, analog presence."
+    },
+    {
+      "id": "lewishowes",
+      "interest": 68,
+      "reason": "Lewis's dedication to personal growth and storytelling is commendable, though his high-energy media hustle might occasionally clash with Arianna's sanctuary of calm."
+    },
+    {
+      "id": "neilpatel",
+      "interest": 65,
+      "reason": "While brilliant in digital strategy and data, Neil's fast-paced tech orientation would require a deliberate shift to slow down for Arianna's preference for poetry and philosophy."
+    },
+    {
+      "id": "mkbhd",
+      "interest": 63,
+      "reason": "Marques's passion for emerging consumer tech is fascinating, but his world leans heavily into digital screens rather than the screen-free sanctuary Arianna cherishes."
+    },
+    {
+      "id": "richardbranson",
+      "interest": 60,
+      "reason": "Sir Richard's appetite for high-octane adventure and saying 'yes' to thrilling escapades might move at a pace too dizzying for Arianna's deliberate, restorative rhythm."
+    },
+    {
+      "id": "garyvee",
+      "interest": 55,
+      "reason": "While Gary possesses a deeply empathetic heart underneath his hustle, his constant digital broadcasting and high-octane velocity directly contrast with Arianna's sacred quiet spaces."
+    }
+  ]
 }

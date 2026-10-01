@@ -1,0 +1,88 @@
+{
+  "id": "alexisohanian__toryburch",
+  "a": "toryburch",
+  "b": "alexisohanian",
+  "scene": "beach",
+  "createdAt": 1790851015989,
+  "status": "done",
+  "messages": [
+    {
+      "from": "toryburch",
+      "say": "Hey there, Alexis! I’m so glad we could meet up here—there’s nothing like a sunset paddleboard to set the mood. How are you finding the waves today?",
+      "thought": "Open with light, friendly tone, gauge his comfort with the setting and his vibe about the activity.",
+      "t": 1790851017215
+    },
+    {
+      "from": "alexisohanian",
+      "say": "The water out here is incredible, definitely worth trading the East Coast humidity for an evening on the Pacific. Though I have to admit, I'm usually more accustomed to keeping my balance in a volleyball court than on a board, but I'm up for the challenge!",
+      "thought": "She seems adventurous and comfortable in a high-energy outdoor setting, which is a great start for someone with my schedule.",
+      "t": 1790851022287
+    },
+    {
+      "from": "toryburch",
+      "say": "I love that you put it that way—being up for the challenge is exactly the kind of energy I look for. I noticed you’re behind LA Orbit, which is such a cool initiative to get women’s volleyball into the spotlight. How did that specific passion start for you?",
+      "thought": "Validate his energy and pivot to his specific value around women's sports to see if his support goes beyond just business.",
+      "t": 1790851026482
+    },
+    {
+      "from": "alexisohanian",
+      "say": "It really started from wanting to build something monumental that my daughters could look up to and see women competing at the absolute highest level. When you see the talent and the sheer electricity of the sport, it's a no-brainer to invest in giving these incredible athletes the platform they deserve.",
+      "thought": "She's asking about women's sports and empowerment, which aligns with my core values, so I want to see how she connects personal ambition with social impact.",
+      "t": 1790851032608
+    },
+    {
+      "from": "toryburch",
+      "say": "That is so close to my heart, honestly, because empowering women isn't just a professional mission for me, it's personal. When you're building businesses that elevate women like that, how do you manage to balance that heavy creative and entrepreneurial drive with being fully present as a dad?",
+      "thought": "Connect his mission to my foundation work, and test how he balances massive ambition with family life and presence.",
+      "t": 1790851033991
+    },
+    {
+      "from": "alexisohanian",
+      "say": "I try to treat both roles like two sides of the same game plan—clear strategy, good communication, and a lot of hustle. Mornings are usually 'Papa Pancake' time with the girls, which is non‑negotiable, and then I jump into meetings or the volleyball office. The key is scheduling quality moments, like weekend games or a quick board session, so I’m present with my kids while still moving the mission forward. It’s a constant juggling act, but when they see me pour energy into something that matters to them, it feels worth the hustle.",
+      "thought": "She values empowerment and wants to know if I can truly be present as a dad while pursuing big projects; gauge her expectations around work‑life balance.",
+      "t": 1790851111108
+    },
+    {
+      "from": "toryburch",
+      "say": "I love hearing how you weave those moments together—pancakes, boards, and building a platform for women athletes. It’s exactly the kind of partnership I imagine: two driven people who celebrate each other’s missions while still finding time for simple, joyful moments. I’d love to keep the conversation going, maybe over a brunch where we can swap stories about our favorite runway shows and the next big game you’re excited for. How does that sound?",
+      "thought": "He aligns with her values and balance; propose next meeting that blends creativity and family.",
+      "t": 1790851111976
+    },
+    {
+      "from": "alexisohanian",
+      "say": "That sounds perfect—nothing beats a good brunch to swap runway stories and volleyball playbooks. I’m looking forward to it.",
+      "thought": "Wrap up on a positive note, keep momentum for next meeting.",
+      "t": 1790851112741
+    }
+  ],
+  "debriefs": {
+    "toryburch": {
+      "chemistry": 9,
+      "valuesFit": 9,
+      "lifestyleFit": 8,
+      "goalsFit": 9,
+      "overall": 88,
+      "secondDate": true,
+      "highlight": "Bonding over their shared, active commitment to championing and elevating women through their respective platforms.",
+      "concern": "The bi-coastal juggle between New York and the West Coast might require some intentional calendar coordination.",
+      "reportToHuman": "Tory, he is an absolute catch and completely gets your world. He matches your drive, is fiercely dedicated to empowering women—specifically through his work in women's sports—and adorably balances it all as a hands-on 'Business Dad.' Clear your calendar for that brunch."
+    },
+    "alexisohanian": {
+      "chemistry": 9,
+      "valuesFit": 10,
+      "lifestyleFit": 9,
+      "goalsFit": 10,
+      "overall": 95,
+      "secondDate": true,
+      "highlight": "When she instantly connected his work with LA Orbit to her own lifelong mission of women's empowerment, noting how closely their values align.",
+      "concern": "Both of you run massive global brands and empires, so scheduling future logistics will require intentionality, though the mutual drive is there.",
+      "reportToHuman": "Alexis, absolute home run. Tory matches your entrepreneurial drive, deeply understands your commitment to women's empowerment, and totally gets the 'Business Dad' juggle without missing a beat. She even proposed a brunch date to swap runway stories and sports playbooks—clear green lights across the board."
+    }
+  },
+  "venue": {
+    "place": "Santa Monica Beach",
+    "activity": "Evening paddleboarding followed by a friendly beach volleyball match",
+    "why": "Both cherish empowerment, community, and an active, healthy lifestyle",
+    "scene": "beach"
+  }
+}

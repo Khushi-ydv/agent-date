@@ -4,7 +4,7 @@
   "linkedinUrl": "https://www.linkedin.com/in/namita-thapar/",
   "instagramUrl": "https://www.instagram.com/namitathapar/",
   "status": "ready",
-  "datingStatus": "idle",
+  "datingStatus": "done",
   "log": [
     {
       "t": 1790849336760,
@@ -14,7 +14,7 @@
     {
       "t": 1790849336761,
       "step": "Read Instagram @namitathapar",
-      "detail": "12 recent posts, bio: \u201cFounder, @arthbyemcure Shark @ Shark Tank India. Fight against Obesity @arthbitt\u201d \u00b7 via instagram-crawler-html (Mozilla)"
+      "detail": "12 recent posts, bio: “Founder, @arthbyemcure Shark @ Shark Tank India. Fight against Obesity @arthbitt” · via instagram-crawler-html (Mozilla)"
     },
     {
       "t": 1790849336762,
@@ -24,11 +24,11 @@
     {
       "t": 1790849336763,
       "step": "Read LinkedIn: Namita Thapar",
-      "detail": "Namita Thapar - Arth By Emcure \u00b7 0 posts/articles \u00b7 via linkedin-public-page (json-ld)"
+      "detail": "Namita Thapar - Arth By Emcure · 0 posts/articles · via linkedin-public-page (json-ld)"
     },
     {
       "t": 1790849336763,
-      "step": "\u2713 Identity check",
+      "step": "✓ Identity check",
       "detail": "LinkedIn and Instagram names match"
     },
     {
@@ -39,12 +39,27 @@
     {
       "t": 1790849398528,
       "step": "Profile analysis complete",
-      "detail": "Founder, health\u2011entrepreneur and Shark Tank India judge who blends science, storytelling and social advocacy."
+      "detail": "Founder, health‑entrepreneur and Shark Tank India judge who blends science, storytelling and social advocacy."
     },
     {
       "t": 1790850794625,
       "step": "Identified as a woman, looking for men",
       "detail": "The text contains the self-reference \"my Marathi mulgi mode activated\" where \"mulgi\" means girl in Marathi."
+    },
+    {
+      "t": 1790851172315,
+      "step": "Agent is reviewing the pool",
+      "detail": "20 other agents' clients"
+    },
+    {
+      "t": 1790851210365,
+      "step": "Asked out",
+      "detail": "Adam Grant, Alexis Ohanian Sr., Raj Shamani"
+    },
+    {
+      "t": 1790851328809,
+      "step": "All dates finished",
+      "detail": "rankings updated"
     }
   ],
   "linkedin": {
@@ -54,7 +69,7 @@
     "url": "https://www.linkedin.com/in/namita-thapar",
     "name": "Namita Thapar",
     "headline": "Namita Thapar - Arth By Emcure",
-    "about": "Founder - Arth by Emcure. CA, MBA from Duke University. Shark @ Shark Tank. Spreading\u2026",
+    "about": "Founder - Arth by Emcure. CA, MBA from Duke University. Shark @ Shark Tank. Spreading…",
     "location": "Pune Division, Maharashtra, India",
     "profilePic": "https://media.licdn.com/dms/image/v2/D4D03AQEsCjep9YkcAg/profile-displayphoto-shrink_200_200/B4DZY4Qlg.G8AY-/0/1744700595957?e=2147483647&v=beta&t=3f_GWPPG9qMFMBCAi91pW02TBc8Uh2J89RUIJHS7y38",
     "followers": 560646,
@@ -77,7 +92,7 @@
     ],
     "languages": [],
     "posts": [],
-    "activityText": " Namita Thapar Namita Thapar 1d Namita Thapar shared this Another rape case & we keep silent. Cyberbullying & we are told to let it pass. I don\u2019t want any girl to be a \u201c Dayi chokri\u201d anymore. It starts with staying silent over small things, then this pattern & habit continues for bigger things too !! Discard these labels & start speaking up. It\u2019s about time my girls \ud83d\ude4f 1, Namita Thapar Namita Thapar 1w Namita Thapar shared this So Jao continues 2, Namita Thapar Namita Thapar 1mo Namita Thapar shared this My Arth Travels series has been one of my most successful marketing campaigns ! Why ? As it shows me integrating every product with pride in my lifestyle. In an era of cluttered social media content, this series & the story telling in each episode of this series is authentic, fun & attention grabbing. This post is on Arth Travels to Mauritius & the focus is on my kesar/ saffron gummies which I truly love ! My mother is a Mauritian citizen & I have a very large family there, so visiting Mauritius feels like going to my second home. Deva dalpuri, gateau piment in Rose Hill & the incredible fruit stalls in Port Louis bring back memories from my younger days :) in fact I learned Creole just so I could understand the family gossip being spoken by them \ud83e\udd2a I had a blast in Mauritius & this trip I was obsessing over my Kesar/ Saffron gummies that are absolutely delicious & have worked wonders for my skin & mood ! It\u2019s become a regular part of my daily supplement routine :) try them at www.arthbyemcure.com 4, Namita Thapar Namita Thapar 1mo Namita Thapar shared this Most people have dealt with ICU visits & how traumatic this experience is for the patient & family. Most don\u2019t know what palliative care means & how that\u2019s an option for several ICU patients. There is a huge gap in this space (other than Kerala) Let\u2019s get educated. Watch the full episode on my podcast w Dr Mary Ann Muckaden who set this up at Tata & now consults for various hospitals ! I love how passionately she speaks about patient activism :) Watch it at https://lnkd.in/dzY24P6J Namita Thapar Namita Thapar 1mo Namita Thapar shared this Sometimes a founder has to resort to creative ways for brand recall. I got so tired of people typing \u2018 Earth \u2018instead of Arth for my brand that I had to make this one. Humour helps. After all laughter is the best supplement but my brand Arth is definitely the second best \ud83d\ude0e 2, Namita Thapar Namita Thapar 1mo Namita Thapar shared this We hide our imperfections with filters & reshoots all day ! But the real power is in self love which means, fully accepting & celebrating our imperfections. We need to show young girls that there is such incredible freedom in authenticity !!! I need 2 hours of super expensive hair & make up to be television ready, no one wakes up looking glamorous. If someone loves you, they will find everything about you beautiful & for gods sake if they are busy trashing u, dump them TODAY, you deserve better! Periods, pregnancy, perimenopause,"
+    "activityText": " Namita Thapar Namita Thapar 1d Namita Thapar shared this Another rape case & we keep silent. Cyberbullying & we are told to let it pass. I don’t want any girl to be a “ Dayi chokri” anymore. It starts with staying silent over small things, then this pattern & habit continues for bigger things too !! Discard these labels & start speaking up. It’s about time my girls 🙏 1, Namita Thapar Namita Thapar 1w Namita Thapar shared this So Jao continues 2, Namita Thapar Namita Thapar 1mo Namita Thapar shared this My Arth Travels series has been one of my most successful marketing campaigns ! Why ? As it shows me integrating every product with pride in my lifestyle. In an era of cluttered social media content, this series & the story telling in each episode of this series is authentic, fun & attention grabbing. This post is on Arth Travels to Mauritius & the focus is on my kesar/ saffron gummies which I truly love ! My mother is a Mauritian citizen & I have a very large family there, so visiting Mauritius feels like going to my second home. Deva dalpuri, gateau piment in Rose Hill & the incredible fruit stalls in Port Louis bring back memories from my younger days :) in fact I learned Creole just so I could understand the family gossip being spoken by them 🤪 I had a blast in Mauritius & this trip I was obsessing over my Kesar/ Saffron gummies that are absolutely delicious & have worked wonders for my skin & mood ! It’s become a regular part of my daily supplement routine :) try them at www.arthbyemcure.com 4, Namita Thapar Namita Thapar 1mo Namita Thapar shared this Most people have dealt with ICU visits & how traumatic this experience is for the patient & family. Most don’t know what palliative care means & how that’s an option for several ICU patients. There is a huge gap in this space (other than Kerala) Let’s get educated. Watch the full episode on my podcast w Dr Mary Ann Muckaden who set this up at Tata & now consults for various hospitals ! I love how passionately she speaks about patient activism :) Watch it at https://lnkd.in/dzY24P6J Namita Thapar Namita Thapar 1mo Namita Thapar shared this Sometimes a founder has to resort to creative ways for brand recall. I got so tired of people typing ‘ Earth ‘instead of Arth for my brand that I had to make this one. Humour helps. After all laughter is the best supplement but my brand Arth is definitely the second best 😎 2, Namita Thapar Namita Thapar 1mo Namita Thapar shared this We hide our imperfections with filters & reshoots all day ! But the real power is in self love which means, fully accepting & celebrating our imperfections. We need to show young girls that there is such incredible freedom in authenticity !!! I need 2 hours of super expensive hair & make up to be television ready, no one wakes up looking glamorous. If someone loves you, they will find everything about you beautiful & for gods sake if they are busy trashing u, dump them TODAY, you deserve better! Periods, pregnancy, perimenopause,"
   },
   "instagram": {
     "source": "instagram",
@@ -95,15 +110,15 @@
     "posts": [
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/825320531_18339964945260737_5769222472277717687_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=3uyV6wLgl3IQ7kNvwHnMkAQ&_nc_oc=AdrwDNYtArHWFpvfjJFVOKMXKyOgQxhniDazufo6WeaE-stjrRsIUs4wrxJXPQp9hZ7tcRRCWpG9UX7-XNAeDQ5z&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=2UncwIkSNYUgYUoAy-Am-w&_nc_ss=7f689&oh=00_AQN_Eov1uFZJ7GcjMRvQ9WvZPhbiOXdNnk0y0KbVfSyfJQ&oe=6AC41A09",
-        "caption": "Another rape case & we keep silent. Cyberbullying & we are told to let it pass. I don\u2019t want any girl to be a \u201c Dayi chokri\u201d anymore. It starts with staying silent over small things, then this pattern & habit continues for bigger things too !! Discard these labels & start speaking up. It\u2019s about time my girls \ud83d\ude4f"
+        "caption": "Another rape case & we keep silent. Cyberbullying & we are told to let it pass. I don’t want any girl to be a “ Dayi chokri” anymore. It starts with staying silent over small things, then this pattern & habit continues for bigger things too !! Discard these labels & start speaking up. It’s about time my girls 🙏"
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/825320508_18339755524260737_4732406336942310699_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=NS2YkRKnoSQQ7kNvwFRmB2s&_nc_oc=AdpObdVs8l0PLo4SXKeye7J-UcdOIv5JEt8YtN6ORSwSs4IlkhkCdrGsAzZlG1XhLDLM14e91E-rvvptJPKi5KlZ&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=2UncwIkSNYUgYUoAy-Am-w&_nc_ss=7f689&oh=00_AQOnRldDl2Gd_VXV7Pn53y6uLWAsAd8w9jmWVKEk3xRDdQ&oe=6AC400A6",
-        "caption": "Our campaign \u2018Fight Against Obesity\u2019 talks w Padma Shri Awardee, Dr Ramakant Deshpande about how preservatives not only increase weight but also increase the risk of cancer. So as @foodpharmer says, study ur food labels for preservatives. His words \u201c longer the expiry date, sooner ur expiry\u201d Ghar ka khana best hota hai !"
+        "caption": "Our campaign ‘Fight Against Obesity’ talks w Padma Shri Awardee, Dr Ramakant Deshpande about how preservatives not only increase weight but also increase the risk of cancer. So as @foodpharmer says, study ur food labels for preservatives. His words “ longer the expiry date, sooner ur expiry” Ghar ka khana best hota hai !"
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/825320205_18339480244260737_9084618381045976903_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=1zfdWTV6kJIQ7kNvwH0nFcd&_nc_oc=AdoI5uMtSAyP8jmUpwosKqWZACaY1OWD3M-NBwUN1YUFUq8IYxlTVID4bUYWLv3phi-ouCJY1vL4JB3a7QLcrQ0o&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=2UncwIkSNYUgYUoAy-Am-w&_nc_ss=7f689&oh=00_AQOopcFBh4FDPkl6QWmDlvUKjIKOPB7ZQP8xqo6_CXER3g&oe=6AC3F8FA",
-        "caption": "Arth Bitters drops (bloating & cravings control) is finally on Blinkit \ud83e\udd73"
+        "caption": "Arth Bitters drops (bloating & cravings control) is finally on Blinkit 🥳"
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/818563287_18339048595260737_1445283176423798743_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=ItWm0kGRDJgQ7kNvwELKV3q&_nc_oc=AdokwsD_UqFwbE-R0HzbuwzLMKhBLFBHk-GC23v3fGo2EXQ23dG4G8TZCtpniO5pgkub--CBzy8f9V4bUtHUtEL9&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=2UncwIkSNYUgYUoAy-Am-w&_nc_ss=7f689&oh=00_AQObaUGNuE8UCFgX-DiEC_epWuE4ELkei4ewA6EZJ7_F4g&oe=6AC41348",
@@ -123,7 +138,7 @@
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/805899561_18337446862260737_3575269126444048324_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=oN2Dq0bCVS8Q7kNvwFH_rlj&_nc_oc=AdpygnJ_Bfjrhs4UnGamYxNcpwDVlL8y5wbbBSSUbzmCZJxUNM0CRaHEs_Z4-5o2E6qomSKCh3IQpVfbTRORMePs&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=2UncwIkSNYUgYUoAy-Am-w&_nc_ss=7f689&oh=00_AQODzGAH-BuEI9-8urld1EjjYB5nW5OCj5tq2tHuwMTBtg&oe=6AC3E635",
-        "caption": "2 days to go for Ganeshotsav.. my Marathi mulgi mode activated \ud83d\ude0e thank you @barge_sneha_choreographer for helping me get over my awkwardness & biases around dancing, ur my OG teacher, the very best & I love you lots !!"
+        "caption": "2 days to go for Ganeshotsav.. my Marathi mulgi mode activated 😎 thank you @barge_sneha_choreographer for helping me get over my awkwardness & biases around dancing, ur my OG teacher, the very best & I love you lots !!"
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/799769768_18337009375260737_939566154413853583_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=cvJ7A9H3zjgQ7kNvwG0Buzl&_nc_oc=AdpVgq0TYEwqmm7KYPreFUFqEGS4yPQMYqv4qG7Kg89PveVllZ8DEa19c70Fhd6Ra9kaD0y22xyrcQ07ijvnwG9U&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=2UncwIkSNYUgYUoAy-Am-w&_nc_ss=7f689&oh=00_AQNDyFLv9ZHXpyU7LJHdw0p6xki7kzN52ZCXWLo6NQRQ0A&oe=6AC40BEF",
@@ -135,42 +150,42 @@
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/791560994_1725713698663121_7305767902214462767_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=ai5aTkcGsWgQ7kNvwH2RthD&_nc_oc=AdpJn8KxraeUz4FGQDvFJMLnB0oVluU6Ab8_eCX75dB8F6KuL0MVwySrjh2-pBUyOiiJQJogjNLSl03UdtCjibj6&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=2UncwIkSNYUgYUoAy-Am-w&_nc_ss=7f689&oh=00_AQN4HLGeNeOUjPTGTA6Ow6onT1aYc5pGon5mfIeHlivwPg&oe=6AC40F51",
-        "caption": "Arths SO JAO campaigns continues to educate on sleep. Though we sell melatonin gummies, our goal is to correct your sleep routine, so you don\u2019t need our gummies ! This one breaks the myth on multi tasking. Excessive multitasking is bad for your brain & sleep health so stop glorifying it !"
+        "caption": "Arths SO JAO campaigns continues to educate on sleep. Though we sell melatonin gummies, our goal is to correct your sleep routine, so you don’t need our gummies ! This one breaks the myth on multi tasking. Excessive multitasking is bad for your brain & sleep health so stop glorifying it !"
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/790024126_18335910568260737_8066273989880384428_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=d7H4Y8BKGiYQ7kNvwFFRePY&_nc_oc=Adoa3B8QxTlbfCZ9gZkUfKphaJTG8TNK_NnusdoXxKQ0AaWZ4eAxNldaSGa3NlzyTAA-LZg5WackxG5vfcRV21lS&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=2UncwIkSNYUgYUoAy-Am-w&_nc_ss=7f689&oh=00_AQNPKw1ga4xauVTd25dWDSY8qAF_bEmjCobWc5whENLaOQ&oe=6AC4017B",
-        "caption": "Obesity has many adverse effects that are known by many like diabetes, heart health but its link to Alzheimer\u2019s & ageing is not commonly known. Here Dr Joy Desai talks about it."
+        "caption": "Obesity has many adverse effects that are known by many like diabetes, heart health but its link to Alzheimer’s & ageing is not commonly known. Here Dr Joy Desai talks about it."
       }
     ]
   },
   "photo": "https://scontent.cdninstagram.com/v/t51.82787-19/573128896_18296651884260737_4046059527826154501_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=r0kTfE8t564Q7kNvwEH0FV7&_nc_oc=AdpOYYK90hK5v2xjT1ztpnvNwTFh3-hu0oH58BXt2g61bd8heUNtWE0VDNHE-ugcyT5YYTnoh5qS9rAI4hQ1xP56&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Om62x2L0lcZ1jqjajxEoWg&_nc_ss=7f689&oh=00_AQP_AWkhCJh9J6RmcjF0HX-ex0W6HX2uzyvR4Nz7MAduNw&oe=6AC40D27",
   "analysis": {
     "name": "Namita Thapar",
-    "oneLiner": "Founder, health\u2011entrepreneur and Shark Tank India judge who blends science, storytelling and social advocacy.",
-    "summary": "Namita is a high\u2011energy founder of Arth\u202fby\u202fEmcure, a wellness brand focused on supplements that improve sleep, mood and weight management. She holds a CA and an MBA from Duke, appears on Shark\u202fTank India and uses her massive social reach to champion women\u2019s safety, mental health and obesity awareness. Her Instagram shows a love for travel, nature hikes, cultural festivals and hands\u2011on product work, while her LinkedIn highlights strategic growth, podcasting on palliative care and global market expansion.",
+    "oneLiner": "Founder, health‑entrepreneur and Shark Tank India judge who blends science, storytelling and social advocacy.",
+    "summary": "Namita is a high‑energy founder of Arth by Emcure, a wellness brand focused on supplements that improve sleep, mood and weight management. She holds a CA and an MBA from Duke, appears on Shark Tank India and uses her massive social reach to champion women’s safety, mental health and obesity awareness. Her Instagram shows a love for travel, nature hikes, cultural festivals and hands‑on product work, while her LinkedIn highlights strategic growth, podcasting on palliative care and global market expansion.",
     "location": "Pune Division, Maharashtra, India",
     "ageRange": "unknown",
     "career": {
       "role": "Founder & CEO",
-      "stage": "Growth/Scale\u2011up",
-      "ambition": "Expand Arth\u202fby\u202fEmcure globally, influence public health policy and build a legacy of women\u2011focused advocacy."
+      "stage": "Growth/Scale‑up",
+      "ambition": "Expand Arth by Emcure globally, influence public health policy and build a legacy of women‑focused advocacy."
     },
     "needs": [
       {
-        "label": "Purpose\u2011aligned partnership",
-        "detail": "She constantly shares mission\u2011driven content (women\u2019s safety, obesity fight) on both LinkedIn and Instagram, indicating she wants a partner who shares a larger social purpose.",
+        "label": "Purpose‑aligned partnership",
+        "detail": "She constantly shares mission‑driven content (women’s safety, obesity fight) on both LinkedIn and Instagram, indicating she wants a partner who shares a larger social purpose.",
         "source": "both",
         "confidence": 0.92
       },
       {
-        "label": "Emotional support for high\u2011pressure life",
-        "detail": "Posts about ICU experiences, heavy rains hiking and marathon\u2011like work schedule suggest she needs someone who can provide calm grounding.",
+        "label": "Emotional support for high‑pressure life",
+        "detail": "Posts about ICU experiences, heavy rains hiking and marathon‑like work schedule suggest she needs someone who can provide calm grounding.",
         "source": "linkedin",
         "confidence": 0.85
       },
       {
         "label": "Adventure & nature companion",
-        "detail": "Instagram caption about spending 3 hours hiking in heavy rain and \u201cnature therapy\u201d shows she values an active, outdoorsy partner.",
+        "detail": "Instagram caption about spending 3 hours hiking in heavy rain and “nature therapy” shows she values an active, outdoorsy partner.",
         "source": "instagram",
         "confidence": 0.9
       },
@@ -184,7 +199,7 @@
     "hobbies": [
       {
         "label": "Hiking",
-        "detail": "Instagram post: \u201cI spent 3 hours in heavy rains hiking, try it. Nature therapy!!\u201d",
+        "detail": "Instagram post: “I spent 3 hours in heavy rains hiking, try it. Nature therapy!!”",
         "source": "instagram",
         "confidence": 0.95
       },
@@ -196,13 +211,13 @@
       },
       {
         "label": "Cooking & food exploration",
-        "detail": "Instagram caption mentions \u201cGhar ka khana best hota hai!\u201d and posts about local dishes in Mauritius.",
+        "detail": "Instagram caption mentions “Ghar ka khana best hota hai!” and posts about local dishes in Mauritius.",
         "source": "instagram",
         "confidence": 0.85
       },
       {
         "label": "Advocacy & public speaking",
-        "detail": "LinkedIn shares about rape case activism; Instagram posts about obesity, sleep, women\u2019s safety.",
+        "detail": "LinkedIn shares about rape case activism; Instagram posts about obesity, sleep, women’s safety.",
         "source": "both",
         "confidence": 0.93
       },
@@ -215,20 +230,20 @@
     ],
     "interests": [
       {
-        "label": "Women\u2019s empowerment",
+        "label": "Women’s empowerment",
         "detail": "Repeated posts condemning silence on rape cases and encouraging girls to speak up.",
         "source": "both",
         "confidence": 0.96
       },
       {
         "label": "Functional nutrition & supplements",
-        "detail": "Founder of Arth\u202fby\u202fEmcure, posts about saffron gummies, bitters drops, melatonin.",
+        "detail": "Founder of Arth by Emcure, posts about saffron gummies, bitters drops, melatonin.",
         "source": "both",
         "confidence": 0.98
       },
       {
         "label": "Sleep science",
-        "detail": "Multiple \u201cSo Jao\u201d campaigns educating on sleep health.",
+        "detail": "Multiple “So Jao” campaigns educating on sleep health.",
         "source": "instagram",
         "confidence": 0.94
       },
@@ -240,7 +255,7 @@
       },
       {
         "label": "Cultural festivals",
-        "detail": "Instagram post about Ganeshotsav and Marathi \u201cmulgi mode\u201d.",
+        "detail": "Instagram post about Ganeshotsav and Marathi “mulgi mode”.",
         "source": "instagram",
         "confidence": 0.88
       },
@@ -290,39 +305,39 @@
       {
         "trait": "Agreeableness",
         "score": 68,
-        "note": "Collaborative campaigns with doctors and gratitude posts show warmth, but she\u2019s also blunt on social issues."
+        "note": "Collaborative campaigns with doctors and gratitude posts show warmth, but she’s also blunt on social issues."
       },
       {
         "trait": "Emotional Stability",
         "score": 60,
-        "note": "High\u2011pressure entrepreneurship and advocacy can create stress; she channels it into activism rather than volatility."
+        "note": "High‑pressure entrepreneurship and advocacy can create stress; she channels it into activism rather than volatility."
       }
     ],
     "lifestyle": [
       {
         "label": "Pace",
-        "value": "Fast\u2011moving, multitasking entrepreneur"
+        "value": "Fast‑moving, multitasking entrepreneur"
       },
       {
         "label": "Social energy",
-        "value": "High \u2013 frequent public engagements, large follower base"
+        "value": "High – frequent public engagements, large follower base"
       },
       {
         "label": "Fitness",
-        "value": "Active \u2013 hiking, outdoor therapy"
+        "value": "Active – hiking, outdoor therapy"
       },
       {
         "label": "Travel",
-        "value": "Frequent \u2013 international trips (Mauritius, India heritage sites)"
+        "value": "Frequent – international trips (Mauritius, India heritage sites)"
       },
       {
-        "label": "Work\u2011life",
-        "value": "Blended \u2013 work often appears in personal posts, but she carves out nature/celebration time"
+        "label": "Work‑life",
+        "value": "Blended – work often appears in personal posts, but she carves out nature/celebration time"
       }
     ],
-    "communicationStyle": "Direct, data\u2011backed, and passionate; mixes professional insight with personal anecdotes.",
+    "communicationStyle": "Direct, data‑backed, and passionate; mixes professional insight with personal anecdotes.",
     "loveLanguage": "Acts of Service + Words of affirmation (frequent public thanks, sharing knowledge, supporting causes).",
-    "lookingFor": "A partner who shares her drive for impact, enjoys active outdoor experiences, and can hold deep, evidence\u2011based conversations.",
+    "lookingFor": "A partner who shares her drive for impact, enjoys active outdoor experiences, and can hold deep, evidence‑based conversations.",
     "greenFlags": [
       "Shows curiosity about health science",
       "Enjoys cultural festivals and family traditions",
@@ -330,26 +345,26 @@
     ],
     "watchOuts": [
       "May prioritize work/advocacy over downtime",
-      "Strong opinions on social issues could clash if partner is conflict\u2011avoidant"
+      "Strong opinions on social issues could clash if partner is conflict‑avoidant"
     ],
     "dealbreakers": [
-      "Disrespect for women\u2019s rights or health advocacy",
+      "Disrespect for women’s rights or health advocacy",
       "Lack of ambition or unwillingness to engage in active lifestyle"
     ],
-    "idealFirstDate": "A relaxed hike in a scenic spot followed by a cozy caf\u00e9 where you can discuss a recent health\u2011tech article or a cultural story.",
+    "idealFirstDate": "A relaxed hike in a scenic spot followed by a cozy café where you can discuss a recent health‑tech article or a cultural story.",
     "conversationHooks": [
       "Ask her about the most surprising thing she learned while learning Creole in Mauritius.",
       "Discuss the latest research on sleep hygiene and melatonin.",
-      "Share a favorite family\u2011recipe and ask for her take on nutrition tweaks.",
-      "Talk about a recent women\u2011empowerment campaign you admired."
+      "Share a favorite family‑recipe and ask for her take on nutrition tweaks.",
+      "Talk about a recent women‑empowerment campaign you admired."
     ],
-    "agentVoice": "Warm, confident, and slightly witty; I\u2019ll blend data\u2011driven insights with genuine curiosity, mirroring Namita\u2019s blend of professionalism and heartfelt advocacy.",
+    "agentVoice": "Warm, confident, and slightly witty; I’ll blend data‑driven insights with genuine curiosity, mirroring Namita’s blend of professionalism and heartfelt advocacy.",
     "readingNotes": [
-      "Her LinkedIn headline emphasizes the brand, not a title \u2013 purpose over position.",
+      "Her LinkedIn headline emphasizes the brand, not a title – purpose over position.",
       "Instagram bio repeats founder & Shark Tank roles, reinforcing brand identity.",
-      "Both platforms feature frequent advocacy on women\u2019s safety \u2013 a core driver.",
+      "Both platforms feature frequent advocacy on women’s safety – a core driver.",
       "Travel posts reveal she values cultural immersion (Mauritius, Falaknuma Palace).",
-      "Nature hikes are highlighted as \u2018therapy\u2019, indicating need for balance.",
+      "Nature hikes are highlighted as ‘therapy’, indicating need for balance.",
       "She frequently thanks collaborators publicly, showing gratitude as a value."
     ]
   },
@@ -357,5 +372,106 @@
   "seeking": "men",
   "genderSource": "inferred",
   "genderEvidence": "The text contains the self-reference \"my Marathi mulgi mode activated\" where \"mulgi\" means girl in Marathi.",
-  "shortlist": null
+  "shortlist": [
+    {
+      "id": "adamgrant",
+      "interest": 96,
+      "reason": "Adam's dedication to evidence-based reasoning, mental health advocacy, and intellectual curiosity makes him an ideal cerebral and mission-driven match for Namita."
+    },
+    {
+      "id": "alexisohanian",
+      "interest": 95,
+      "reason": "Alexis's high-octane entrepreneurial background combined with his fierce public advocacy for women's sports and family-first values align wonderfully with Namita's world."
+    },
+    {
+      "id": "rajshamani",
+      "interest": 92,
+      "reason": "Sharing the intersection of podcasting, health awareness, and startup scaling, Raj and Namita would have endless overlapping professional and personal talking points."
+    },
+    {
+      "id": "thesharkdaymond",
+      "interest": 91,
+      "reason": "As a fellow Shark Tank star deeply invested in health hacks and bio-hacking, Daymond would intimately understand her grueling media and founder schedule."
+    },
+    {
+      "id": "steven",
+      "interest": 90,
+      "reason": "Steven's deep dive into preventative health, psychology, and high-growth empire building mirrors Namita's daily intensity and quest for grounded connection."
+    },
+    {
+      "id": "sahilbloom",
+      "interest": 88,
+      "reason": "Sahil's intense discipline, marathon running, health focus, and growth mindset match Namita's high-energy lifestyle and commitment to personal wellness."
+    },
+    {
+      "id": "simonsinek",
+      "interest": 87,
+      "reason": "Simon's obsession with big-picture purpose, leadership, and mental wellbeing resonates deeply with Namita's mission-driven advocacy work."
+    },
+    {
+      "id": "ankurwarikoo",
+      "interest": 85,
+      "reason": "Ankur's focus on transparency, personal growth, and self-awareness provides a disciplined, intellectually rich environment that Namita would greatly respect."
+    },
+    {
+      "id": "riteshagar",
+      "interest": 84,
+      "reason": "As a fellow Indian serial entrepreneur redefining an industry with deep empathy and global ambitions, Ritesh shares her exact cultural and business wavelength."
+    },
+    {
+      "id": "lewishowes",
+      "interest": 83,
+      "reason": "Lewis's blend of podcast storytelling, athletic discipline, and personal development makes him a vibrant partner for an active outdoorsy date."
+    },
+    {
+      "id": "guykawasaki",
+      "interest": 80,
+      "reason": "Guy's infectious enthusiasm for innovation, longevity health, and lifelong learning would spark lively, optimistic debates over dinner."
+    },
+    {
+      "id": "neilpatel",
+      "interest": 79,
+      "reason": "Neil's data-driven marketing mind and relentless work ethic match her strategic corporate brain, though they'd need to remember to unplug."
+    },
+    {
+      "id": "nikhilkamathcio",
+      "interest": 78,
+      "reason": "Nikhil's love for philosophical discourse, Indian culture, and travel exploration fits well with her heritage-loving, fast-moving lifestyle."
+    },
+    {
+      "id": "danielpriestley",
+      "interest": 76,
+      "reason": "Daniel's expertise in scaling businesses and thought-leadership could lead to fascinating strategic brainstorming sessions."
+    },
+    {
+      "id": "richardbranson",
+      "interest": 75,
+      "reason": "Sir Richard's love for adventure sports and global philanthropy matches her thirst for thrill-seeking travel, though his pace is exceptionally wild."
+    },
+    {
+      "id": "thisisbillgates",
+      "interest": 74,
+      "reason": "Bill's massive global health and climate philanthropy aligns with her desire for public health impact, though his quiet demeanor is quite different from her Shark Tank vibrancy."
+    },
+    {
+      "id": "mkbhd",
+      "interest": 70,
+      "reason": "Marques brings incredible digital native energy and playful physical competitiveness, though their core industries are quite distinct."
+    },
+    {
+      "id": "garyvee",
+      "interest": 65,
+      "reason": "While Gary shares her intense media hustle and big heart, his unrelenting volume might clash with her need for calming nature therapy."
+    },
+    {
+      "id": "deepigoyal",
+      "interest": 62,
+      "reason": "Deepinder's focus on longevity and biohacking is a plus, but his penchant for deep silence might feel too low-energy for Namita's expressive extroversion."
+    },
+    {
+      "id": "thejustinwelsh",
+      "interest": 50,
+      "reason": "Justin's preference for quiet domestic peace and solo autonomy might feel a bit too isolated compared to Namita's bustling, highly social, public-facing life."
+    }
+  ]
 }

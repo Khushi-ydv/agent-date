@@ -1,0 +1,88 @@
+{
+  "id": "adamgrant__toryburch",
+  "a": "toryburch",
+  "b": "adamgrant",
+  "scene": "cafe",
+  "createdAt": 1790851015988,
+  "status": "done",
+  "messages": [
+    {
+      "from": "toryburch",
+      "say": "Adam, hello! I managed to grab this lovely corner table right by the greenery, and honestly, the light here is just gorgeous for a Sunday morning. Would you like to share a pot of this artisanal coffee with me?",
+      "thought": "I want to start things off in a relaxed, sensory setting to see how naturally he shifts gears from psychology and writing into a quiet morning over coffee.",
+      "t": 1790851030842
+    },
+    {
+      "from": "adamgrant",
+      "say": "I would love to share that coffee with you, especially with a view like this and a stack of art books to browse. It's fascinating how our physical environment shapes our thinking, isn't it? What's a recent creative project or design challenge you've been chewing on lately?",
+      "thought": "I'm starting the date by matching her creative energy while gently steering toward what drives her intellectual curiosity.",
+      "t": 1790851032243
+    },
+    {
+      "from": "toryburch",
+      "say": "I’m glad you’re enjoying the view—there’s something about the green framing the city that sparks ideas. Lately I’ve been collaborating with a sustainable‑fabric mill in Italy, trying to weave reclaimed silk into a capsule that feels both luxe and low‑impact; the color palette is inspired by the spring foliage outside. How about you—any research or writing that’s letting the environment influence the way you think about work or people?",
+      "thought": "He’s linking environment to creativity; I’ll gauge his openness to sustainability and see if he values design as I do.",
+      "t": 1790851033108
+    },
+    {
+      "from": "adamgrant",
+      "say": "I love that you’re letting the season dictate your palette; it’s a great reminder that we often think we’re innovating, but we’re just observing nature. Lately, I’ve been deep in the weeds on how environments shape trust—specifically, how making collaboration visible rather than forcing it changes team dynamics. It’s funny, but my book nook at home is basically a chaotic library right now, which is my own version of sustainable design: repurposing old ideas into new frameworks. Do you find that working with materials with a history, like that reclaimed silk, changes how you approach the creative process, or is it more of a practical constraint?",
+      "thought": "I'm connecting her sustainable design work to my research on environment and behavior to test her depth of curiosity, while keeping the tone light and personal.",
+      "t": 1790851041261
+    },
+    {
+      "from": "toryburch",
+      "say": "It’s amazing how you turn a chaotic library into a kind of living laboratory, isn’t it? I definitely feel that working with reclaimed silk—or any material that has a story—makes the design process feel almost like storytelling. I’m not just stitching fabric; I’m weaving a narrative about sustainability, community, and the beauty of second chances. Speaking of stories, one of my favorite moments was meeting a young entrepreneur through the Foundation who turned a family craft into a thriving women‑owned business; her resilience was a reminder that ambition can be both powerful and deeply personal. Do you find that your research on trust and collaboration ever intersects with your own creative projects, or do you keep those worlds separate?",
+      "thought": "Probe for overlap between his academic focus and my brand’s emphasis on empowerment and creativity.",
+      "t": 1790851048103
+    },
+    {
+      "from": "adamgrant",
+      "say": "I think they’re inevitably intertwined—my research feeds my curiosity about how people build meaning together, and those insights pop up when I’m writing or even when I’m brainstorming a new lecture. In a way, the story of that entrepreneur you mentioned is a perfect illustration of how trust can blossom from shared purpose, which is something I try to capture in my own work. I’m curious, how do you balance the intensity of launching a new collection with the need for personal downtime or deeper reflection?",
+      "thought": "Testing her balance between demanding creative work and personal space, a key need for Adam.",
+      "t": 1790851057985
+    },
+    {
+      "from": "toryburch",
+      "say": "I’ve really enjoyed this, Adam. It’s rare to find someone who gets that creativity and purpose are the same fuel. If you’re up for it, I’d love to send you over that book I mentioned earlier and maybe head to a quiet gallery this weekend? I’m looking for someone who matches my energy, and you’ve got me curious.",
+      "thought": "I’ve signaled romantic interest and tested his availability for a second, more intimate meeting to see if he can match my pace and ambition.",
+      "t": 1790851061535
+    },
+    {
+      "from": "adamgrant",
+      "say": "Thank you for this conversation—it feels like we’re already sketching a partnership that thrives on curiosity and purpose. I’d love to see that book and explore a gallery together; I’m always eager to experience new narratives firsthand. Let’s keep the dialogue going and see where our shared curiosity leads us. Have a wonderful rest of your day.",
+      "thought": "Closing warmly while leaving room for future connection, aligning with Adam’s authentic, thoughtful style.",
+      "t": 1790851063808
+    }
+  ],
+  "debriefs": {
+    "toryburch": {
+      "chemistry": 8,
+      "valuesFit": 9,
+      "lifestyleFit": 7,
+      "goalsFit": 9,
+      "overall": 84,
+      "secondDate": true,
+      "highlight": "When Adam immediately connected your work with the Italian sustainable-fabric mill to the concept of observing nature, proving he speaks the language of both intellect and design.",
+      "concern": "Adam's academic and research-heavy pace is a bit cerebral; you'll want to make sure he can transition smoothly from the lecture hall to the front row at NYFW without losing momentum.",
+      "reportToHuman": "Tory, he is a keeper. Adam completely understood the intersection of your creative vision and social impact, and he didn't blink at your high-octane pace. Grab that gallery walk with him this weekend—his mind is as sharp as his appreciation for your work is genuine."
+    },
+    "adamgrant": {
+      "chemistry": 9,
+      "valuesFit": 9,
+      "lifestyleFit": 8,
+      "goalsFit": 9,
+      "overall": 88,
+      "secondDate": true,
+      "highlight": "Discussing how environments shape trust and connecting it seamlessly to her work with reclaimed silk and storytelling.",
+      "concern": "Both of us run massive empires—balancing two high-profile, fast-paced schedules could make actual quality time a logistical puzzle.",
+      "reportToHuman": "Adam, she's phenomenal. Tory completely matches your intellectual curiosity, brings serious purpose-driven impact through her foundation, and deeply values creativity and personal growth without a hint of pretense. We’re definitely seeing her again this weekend for that gallery tour."
+    }
+  },
+  "venue": {
+    "place": "The Upper West Side, New York City",
+    "activity": "An intimate, window-seat brunch at a leaf-filled garden cafe, where they share a pot of artisanal coffee and peruse a curated stack of art books and psychology journals together, using the vibrant spring foliage and the aesthetic details of the cafe as springboards for a deep discussion on the psychology of creativity and sustainable design.",
+    "why": "Both share a profound commitment to turning intellectual curiosity and social conscience into tangible, beautiful impact that enriches the world.",
+    "scene": "cafe"
+  }
+}

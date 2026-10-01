@@ -4,7 +4,7 @@
   "linkedinUrl": "https://www.linkedin.com/in/melrobbins/",
   "instagramUrl": "https://www.instagram.com/melrobbins/",
   "status": "ready",
-  "datingStatus": "dating",
+  "datingStatus": "done",
   "log": [
     {
       "t": 1790849275197,
@@ -55,6 +55,11 @@
       "t": 1790850840235,
       "step": "Asked out",
       "detail": "Adam Grant, Guy Kawasaki, Alexis Ohanian Sr."
+    },
+    {
+      "t": 1790851172302,
+      "step": "All dates finished",
+      "detail": "rankings updated"
     }
   ],
   "linkedin": {

@@ -1,0 +1,88 @@
+{
+  "id": "alexisohanian__namitathapar",
+  "a": "namitathapar",
+  "b": "alexisohanian",
+  "scene": "mountain",
+  "createdAt": 1790851210367,
+  "status": "done",
+  "messages": [
+    {
+      "from": "namitathapar",
+      "say": "Good morning, Alexis! The sunrise here feels like a fresh start—perfect for a hike and a chat about our favorite ways to stay energized.",
+      "thought": "First impression: gauge enthusiasm for nature and openness to conversation.",
+      "t": 1790851211632
+    },
+    {
+      "from": "alexisohanian",
+      "say": "Good morning! I’m glad the sunrise feels like a fresh start—there’s something about early light that makes you feel ready to tackle anything, from a hike to a new venture. I’ve been whipping up a pancake stack for the kids that I call ‘Papa Pancake Sunday,’ and it’s the perfect way to mix family time with a little culinary adventure. How do you usually kick off your day?",
+      "thought": "Gave a friendly opener, highlighted family and pancakes, probing for their routine.",
+      "t": 1790851212362
+    },
+    {
+      "from": "namitathapar",
+      "say": "Papa Pancake Sunday sounds like the kind of ritual I love—there’s something grounding about making something from scratch for the people you care about. I usually start my morning with a short hike, even if it’s just around the neighborhood, followed by a deep dive into the day’s tasks. How do you balance the energy of building something new with the calm of family time?",
+      "thought": "Probing his ability to balance ambition with family presence, aligning with Namita's need for emotional grounding.",
+      "t": 1790851241442
+    },
+    {
+      "from": "alexisohanian",
+      "say": "It’s definitely a juggling act, but I look at myself as a 'Business Dad' first and foremost, so family sets the anchor for everything else I build. My schedule gets intense between Seven Seven Six and launching LA Orbit, but making those intentional, hands-on moments—like building things with the girls or stepping away to be fully present—is non-negotiable for me. Since you run a scaling health brand and have a massive schedule yourself, how do you protect your personal time and set boundaries when work wants to take over every waking hour?",
+      "thought": "Probed her directly on work-life balance and boundaries to test her compatibility with his demanding entrepreneurial schedule and family values.",
+      "t": 1790851247597
+    },
+    {
+      "from": "namitathapar",
+      "say": "I completely agree, protecting that downtime is a constant battle when you care deeply about your work. For me, nature therapy is the ultimate reset—I once spent three hours hiking through heavy rain just to clear my head and disconnect. How do you carve out that kind of pure, uninterrupted mental space for yourself when you're managing so many different ventures?",
+      "thought": "Testing his alignment with active outdoor adventures and checking if his personal boundaries match her need for real-world disconnection.",
+      "t": 1790851249530
+    },
+    {
+      "from": "alexisohanian",
+      "say": "Three hours in the heavy rain takes some serious dedication, I love that. For me, sports and community are my ultimate reset—whether I’m courtside watching women's volleyball or out exploring with the family, being fully immersed in a shared experience completely clears my head of emails and board meetings. Speaking of which, how do you make sure your downtime actually feels like downtime instead of just a change of scenery?",
+      "thought": "Shared how sports and community serve as his mental reset and followed up on how she truly disconnects.",
+      "t": 1790851251471
+    },
+    {
+      "from": "namitathapar",
+      "say": "That is so true, sports and live energy are such a great way to fully disconnect. I make sure my downtime involves things that deeply nourish me, like cooking a great meal from scratch or spending quality time with family, because 'ghar ka khana' and loved ones are the ultimate recharge. I've really enjoyed our walk and hearing about your family rituals today!",
+      "thought": "Wrapping up the date warmly while highlighting shared values around family and grounding routines.",
+      "t": 1790851253173
+    },
+    {
+      "from": "alexisohanian",
+      "say": "I completely agree, home-cooked food and family are the best recharge there is. I've really loved our hike and hearing about how you balance your massive drive with such grounding personal rituals. Let's definitely grab some of this picnic food we hauled up here, and I'd love to keep the conversation going soon.",
+      "thought": "Closed the date warmly, validating her focus on family and food, and proposed future connection.",
+      "t": 1790851254677
+    }
+  ],
+  "debriefs": {
+    "namitathapar": {
+      "chemistry": 8,
+      "valuesFit": 9,
+      "lifestyleFit": 8,
+      "goalsFit": 8,
+      "overall": 85,
+      "secondDate": true,
+      "highlight": "Bonding over balancing high-pressure scaling businesses with intentional family rituals and grounding downtime.",
+      "concern": "The bi-coastal/international logistics of Pune vs. his US-centric ventures could require some serious calendar wizardry.",
+      "reportToHuman": "Namita, this one is a keeper. Alexis completely gets the 'founder with a massive schedule' life, matches your dedication to family, and shares your passion for championing women's spaces. Definitely say yes to round two—the calendar coordination will be worth it."
+    },
+    "alexisohanian": {
+      "chemistry": 8,
+      "valuesFit": 9,
+      "lifestyleFit": 8,
+      "goalsFit": 9,
+      "overall": 86,
+      "secondDate": true,
+      "highlight": "Finding mutual alignment on how both juggle massive entrepreneurial schedules while fiercely protecting family grounding rituals like cooking from scratch.",
+      "concern": "Namita's primary base is in India (Shark Tank India/Emcure) while Alexis is anchored in Miami/LA, which would require an intense long-distance navigation.",
+      "reportToHuman": "Alexis, she's an absolute powerhouse—an Indian health-tech shark and founder who completely gets the intense founder life and high-stakes scaling. She matched your energy on family rituals, morning routines, and boundary-setting, while bringing her own deep drive for impact and wellness. Definitely worth a second date, even if the geography is a bit of a puzzle to solve."
+    }
+  },
+  "venue": {
+    "place": "Rocky Ridge Trailhead",
+    "activity": "Sunrise hike followed by a homemade picnic with locally sourced ingredients",
+    "why": "Both love hiking, healthy living, and sharing thoughtful meals",
+    "scene": "mountain"
+  }
+}

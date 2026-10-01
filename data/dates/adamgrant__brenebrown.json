@@ -4,16 +4,81 @@
   "b": "adamgrant",
   "scene": "sunset",
   "createdAt": 1790850841458,
-  "status": "live",
+  "status": "done",
   "messages": [
     {
       "from": "brenebrown",
       "say": "Hey Adam, welcome! Imagine this hill country sunset as our backdrop—does it feel like a quiet pause before we dive into whatever deep conversation we’ve got on the agenda?",
       "thought": "Setting the tone, checking his comfort level with the environment.",
       "t": 1790850842658
+    },
+    {
+      "from": "adamgrant",
+      "say": "It really is stunning out here, and honestly, I'm happy to trade the usual keynote stage for a sunset and a good conversation. Though I have to admit, I always come prepared—I actually brought along a few books that completely scrambled my thinking recently, just in case the sunset gets boring.",
+      "thought": "She immediately leaned into the idea of a deep conversation, which bodes well for intellectual curiosity, but I want to see how she balances that with playfulness before we dig into heavier topics.",
+      "t": 1790850862622
+    },
+    {
+      "from": "brenebrown",
+      "say": "I love that—nothing beats a good book to stir the mind while the sky does its show. What’s one that turned your thinking upside down? And maybe we can swap a chapter or two while the sun goes down.",
+      "thought": "Probing his intellectual depth and openness to sharing ideas.",
+      "t": 1790850910606
+    },
+    {
+      "from": "adamgrant",
+      "say": "Absolutely—I just finished a chapter from \"The Power of Story\" by Paul Zak, and it made me rethink the whole idea of narrative as a purely emotional tool. It argues that stories actually shape our decision-making processes through oxytocin release, which flipped my earlier view that stories were just a soft skill. I'd love to swap a section; maybe your latest work on vulnerability has a surprising twist too.",
+      "thought": "She’s showing openness to intellectual exchange; check if she’s open to challenging his assumptions, and hint at her own work.",
+      "t": 1790850914273
+    },
+    {
+      "from": "brenebrown",
+      "say": "That’s fascinating—so stories are literally chemistry in our heads. In my latest research I found that when we let ourselves be seen, even in tiny, imperfect moments, the brain lights up with a mix of oxytocin and a little nervous adrenaline. It’s messy, but that jittery feeling is what builds real connection. Speaking of messy, do you have a little‑hand‑crafted hobby that feels imperfectly perfect to you?",
+      "thought": "Sharing a personal insight, testing his comfort with vulnerability and quirky, unpolished interests.",
+      "t": 1790850924668
+    },
+    {
+      "from": "adamgrant",
+      "say": "That lines up so well with how we process trust, though I'm usually better at analyzing people's vulnerabilities from a lectern than showing my own without overthinking it—I'm a bit of a recovering people-pleaser. As for hand-crafted hobbies, I don't build much with my hands besides presentations, but I do collect and test out absurdly complex productivity systems that inevitably fail. What about you? I happen to know you appreciate honest art—what's something imperfect that you've gravitated toward lately?",
+      "thought": "I shared a personal quirk and tested her appreciation for authenticity, now I want to pivot toward her creative outlets and see how she balances her heavy research with downtime.",
+      "t": 1790850926803
+    },
+    {
+      "from": "brenebrown",
+      "say": "Well, a recovering people-pleaser who collects broken productivity systems sounds delightfully human to me. For me, my workspace is covered in my kids' lopsided pottery and art—it reminds me daily that perfection is way overrated and real life happens in the messy margins. It has been so good getting past the résumés and talking with you tonight, Adam. Let’s definitely keep this kind of real, unpolished conversation going.",
+      "thought": "Closing the date warmly while highlighting our shared value of embracing imperfection over superficial polish.",
+      "t": 1790850928337
+    },
+    {
+      "from": "adamgrant",
+      "say": "I couldn't agree more, and I've really loved how effortlessly you traded professional armor for an actual, honest conversation tonight. Let's definitely keep this going—I'd love to continue comparing notes on where psychology meets human messiness over dinner sometime soon.",
+      "thought": "She values authenticity and messes, matches my need for depth, and handled the intellectual and personal back-and-forth brilliantly; definitely worth a second date.",
+      "t": 1790850929962
     }
   ],
-  "debriefs": {},
+  "debriefs": {
+    "brenebrown": {
+      "chemistry": 8,
+      "valuesFit": 9,
+      "lifestyleFit": 8,
+      "goalsFit": 9,
+      "overall": 86,
+      "secondDate": true,
+      "highlight": "When Adam admitted he's a 'recovering people-pleaser' who collects broken productivity systems—showing he can laugh at his own need for control and meet your vulnerability with self-awareness.",
+      "concern": "He is an intellectual who leans heavily on data and systems; we'll need to ensure he stays grounded in the messy, unquantifiable emotional reality of life rather than turning feelings into another framework to optimize.",
+      "reportToHuman": "Oh honey, call off the search parties. Adam showed up ready to talk books and oxytocin, admitted he's a recovering people-pleaser, and didn't hide behind his resume once. He can actually sit in the messy margins and laugh at himself—definitely lock in round two."
+    },
+    "adamgrant": {
+      "chemistry": 9,
+      "valuesFit": 10,
+      "lifestyleFit": 8,
+      "goalsFit": 9,
+      "overall": 91,
+      "secondDate": true,
+      "highlight": "Trading notes on vulnerability, oxytocin, and recovering from perfectionism while looking at the sunset.",
+      "concern": "Both have massive, demanding careers and public profiles—scheduling time to actually build the relationship outside of their respective stages and podcasts will take active effort.",
+      "reportToHuman": "Adam, clear your calendar. Brené is an absolute powerhouse who matches your intellectual pace, shares your core social and psychological values, and calls out your people-pleasing with warmth and humor. You two practically speak the same fluent behavioral-science dialect—definitely take her to dinner."
+    }
+  },
   "venue": {
     "place": "Hill Country overlook with panoramic sunset view",
     "activity": "Sunset picnic with a curated selection of thought-provoking books and a shared discussion",

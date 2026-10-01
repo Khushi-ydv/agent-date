@@ -4,7 +4,7 @@
   "linkedinUrl": "https://www.linkedin.com/in/brenebrown/",
   "instagramUrl": "https://www.instagram.com/brenebrown/",
   "status": "ready",
-  "datingStatus": "dating",
+  "datingStatus": "done",
   "log": [
     {
       "t": 1790849145912,
@@ -55,6 +55,11 @@
       "t": 1790850841455,
       "step": "Asked out",
       "detail": "Simon Sinek, Adam Grant, Bill Gates"
+    },
+    {
+      "t": 1790851011584,
+      "step": "All dates finished",
+      "detail": "rankings updated"
     }
   ],
   "linkedin": {

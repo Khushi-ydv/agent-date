@@ -4,9 +4,81 @@
   "b": "simonsinek",
   "scene": "sunset",
   "createdAt": 1790850841456,
-  "status": "live",
-  "messages": [],
-  "debriefs": {},
+  "status": "done",
+  "messages": [
+    {
+      "from": "brenebrown",
+      "say": "Hey there, Simon, come on up and look at this sky; isn't the Hill Country just showing off tonight? Grab a glass of wine and tell me you didn't have to fight too much traffic getting out here away from the city.",
+      "thought": "I want to see how he transitions from the busy work world into this quiet, open space right off the bat.",
+      "t": 1790850926333
+    },
+    {
+      "from": "simonsinek",
+      "say": "Yeah, the stars here feel like a quiet applause from the universe—no traffic, no noise, just us and the sky. I’ve been thinking about how the city can feel so crowded, but here it’s like the air itself is a breath of fresh optimism. What’s your favorite way to let the night stretch out?",
+      "thought": "Gauging her comfort with open conversation and seeing if she likes spontaneous, low-key moments.",
+      "t": 1790850927029
+    },
+    {
+      "from": "brenebrown",
+      "say": "Oh, I'm a simple soul when it comes to that—give me a porch, a really good book that I can read at a snail's pace without worrying about finishing it, and maybe a little acoustic guitar floating over from somewhere nearby. I'm curious, when you're not out changing how the world thinks about leadership, what does a quiet, unstructured Sunday actually look like for you?",
+      "thought": "I want to see if his personal life has as much room for slow, unpolished stillness as his public work talks about.",
+      "t": 1790850940546
+    },
+    {
+      "from": "simonsinek",
+      "say": "Honestly, my Sundays usually start with a cup of coffee and getting lost in some deep reading or listening to a good conversation—sometimes I’m just trying to figure out my own anxiety and avoidance like anyone else. I’ve learned I need that unstructured time to just reset, otherwise I run myself ragged trying to fix the whole world before breakfast. How do you protect your own downtime when your work is literally about diving headfirst into human vulnerability?",
+      "thought": "Testing her relationship with vulnerability and mental health topics while sharing a bit of my own real-world need for balance.",
+      "t": 1790850942411
+    },
+    {
+      "from": "brenebrown",
+      "say": "Well, I love hearing that you're just figuring it out like the rest of us, because the cape definitely stays in the closet on my watch. For me, protecting that space means setting hard boundaries and knowing when to retreat to my reading nook or get loud at a UT game with people who love me just for me, not what I do. Tell me, when you hit a real wall in your life or a messy disagreement with someone you care about, what's your go-to move—do you need to talk it out right then and there, or do you need to go take a walk and cool off first?",
+      "thought": "I'm testing how he handles actual conflict and emotional messiness when things get real, to see if he avoids discomfort or steps into it.",
+      "t": 1790850944166
+    },
+    {
+      "from": "simonsinek",
+      "say": "Oh, I am definitely a walk-it-off-and-gather-my-thoughts kind of guy, otherwise my internal monologue just starts writing a memo instead of listening. But I'm learning to come back to the table much quicker than I used to and say, 'Hey, I got defensive.' How do you handle it when someone you care about needs space just when you're desperate to hash things out right that second?",
+      "thought": "Testing how she handles mismatched conflict styles, specifically if she can respect my need for processing time without pushing too hard.",
+      "t": 1790850945789
+    },
+    {
+      "from": "brenebrown",
+      "say": "Oh, I respect the walk completely, because heaven knows my own internal narrator can spin up quite a dramatic movie if I don't slow my roll. I have loved sitting under these stars with you tonight, Simon, and I really appreciate how honest you are about your own growing edges. Let's definitely do this again—maybe next time with a bit less philosophy and a lot more burnt orange football cheering!",
+      "thought": "He showed good self-awareness about his defensiveness and didn't shy away from the conflict question, which feels like a solid foundation for a real connection.",
+      "t": 1790850947393
+    },
+    {
+      "from": "simonsinek",
+      "say": "I would love that, Brené, and honestly, matching your fierce authenticity tonight has been a rare kind of breath of fresh air. I'm taking the walk-it-off rule to heart, but I definitely won't need any space to know I want to see you again soon. Let's make it happen.",
+      "thought": "Confirming genuine chemistry, mutual respect for vulnerability, and a warm, playful wrap-up to a successful first date.",
+      "t": 1790850948775
+    }
+  ],
+  "debriefs": {
+    "brenebrown": {
+      "chemistry": 8,
+      "valuesFit": 9,
+      "lifestyleFit": 8,
+      "goalsFit": 9,
+      "overall": 88,
+      "secondDate": true,
+      "highlight": "Simon admitting, 'I’m just trying to figure out my own anxiety and avoidance like anyone else,' showing real vulnerability without needing to play the Guru.",
+      "concern": "Simon’s initial instinct to walk away and isolate during conflict could occasionally clash with Brené’s processing style, though he showed self-awareness about coming back.",
+      "reportToHuman": "Hey Brené, I actually didn't have to protect your time with a fake emergency tonight—Simon is the real deal. He dropped the leadership-guru act almost immediately, admitted he’s just figuring his own anxiety out, and took ownership of his defensive patterns without getting defensive. Y'all share a deep appreciation for messy humanity, slow reading, and hard boundaries, and he can definitely handle your heat. Clear your calendar for a second date, maybe for that UT game."
+    },
+    "simonsinek": {
+      "chemistry": 8,
+      "valuesFit": 9,
+      "lifestyleFit": 8,
+      "goalsFit": 8,
+      "overall": 83,
+      "secondDate": true,
+      "highlight": "“I would love that, Brené, and honestly, matching your fierce authenticity tonight has been a rare kind of breath of fresh air.”",
+      "concern": "Simon’s relentless drive to change the world may eclipse his personal downtime, risking burnout or neglect of the relationship’s quieter needs.",
+      "reportToHuman": "Brené and Simon clicked on authenticity and vulnerability—great chemistry and shared values. I’d say a second date is a go, but watch his work‑life blend; he might need to guard his downtime."
+    }
+  },
   "venue": {
     "place": "A rustic, open-air cabin perched on a secluded cliffside overlooking a vast, star-filled sky in the Texas Hill Country.",
     "activity": "Listening to a live, unscripted acoustic set by a local folk artist while sharing a bottle of wine, then walking barefoot down a dirt trail to stargaze and talk about the things that make them feel 'unsafe' in the best way.",

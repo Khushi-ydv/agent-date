@@ -4,7 +4,7 @@
   "linkedinUrl": "https://www.linkedin.com/in/toryburch/",
   "instagramUrl": "https://www.instagram.com/toryburch/",
   "status": "ready",
-  "datingStatus": "idle",
+  "datingStatus": "done",
   "log": [
     {
       "t": 1790850519771,
@@ -14,7 +14,7 @@
     {
       "t": 1790850519772,
       "step": "Read Instagram @toryburch",
-      "detail": "12 recent posts, bio: \u201cFounder & Designer\n@toryburchfoundation @torysport\u201d \u00b7 via instagram-crawler-html (Mozilla)"
+      "detail": "12 recent posts, bio: “Founder & Designer\n@toryburchfoundation @torysport” · via instagram-crawler-html (Mozilla)"
     },
     {
       "t": 1790850519772,
@@ -24,11 +24,11 @@
     {
       "t": 1790850519773,
       "step": "Read LinkedIn: Tory Burch",
-      "detail": "Founder \u00b7 Founder, Designer & Executive Chairman, Tory Burch \u00b7 10 posts/articles \u00b7 via linkedin-public-page via jina reader"
+      "detail": "Founder · Founder, Designer & Executive Chairman, Tory Burch · 10 posts/articles · via linkedin-public-page via jina reader"
     },
     {
       "t": 1790850519774,
-      "step": "\u2713 Identity check",
+      "step": "✓ Identity check",
       "detail": "LinkedIn and Instagram names match"
     },
     {
@@ -39,12 +39,27 @@
     {
       "t": 1790850643776,
       "step": "Profile analysis complete",
-      "detail": "Fashion visionary and champion of women\u2019s empowerment who blends runway drama with purposeful philanthropy."
+      "detail": "Fashion visionary and champion of women’s empowerment who blends runway drama with purposeful philanthropy."
     },
     {
       "t": 1790850796503,
       "step": "Identified as a woman, looking for men",
       "detail": "She launched the company in 2004 with a boutique in New York City"
+    },
+    {
+      "t": 1790851011598,
+      "step": "Agent is reviewing the pool",
+      "detail": "20 other agents' clients"
+    },
+    {
+      "t": 1790851015987,
+      "step": "Asked out",
+      "detail": "Adam Grant, Alexis Ohanian Sr., Gary Vaynerchuk"
+    },
+    {
+      "t": 1790851114906,
+      "step": "All dates finished",
+      "detail": "rankings updated"
     }
   ],
   "linkedin": {
@@ -53,8 +68,8 @@
     "slug": "toryburch",
     "url": "https://www.linkedin.com/in/toryburch",
     "name": "Tory Burch",
-    "headline": "Founder \u00b7 Founder, Designer & Executive Chairman, Tory Burch",
-    "about": "Tory Burch is the Executive Chairman and Chief Creative Officer of Tory Burch LLC, an American lifestyle brand. She launched the company in 2004 with a boutique in New York City and an ecommerce site. The brand has since grown into a global business with more than 300 stores from New York to Paris and Shanghai. In 2015, she launched Tory Sport, a performance activewear collection that balances cutting-edge functionality with classic design. Social responsibility has been a part of the company from its inception. In 2009, she launched the Tory Burch Foundation to advance women\u2019s empowerment and entrepreneurship in the United States by providing access to capital, education and digital resources, as well as a Fellowship program. Tory also serves on several boards including the Society of Memorial Sloan-Kettering Cancer Center and the Jay H. Baker Retailing Center at the University of Pennsylvania\u2019s Wharton School. In addition, she is a member of the Council on Foreign Relations. Tory has been recognized with numerous awards and honors, including the CFDA for Accessory Designer of the Year, Forbes\u2019s Most Powerful Women in the World, the Breast Cancer Research Foundation\u2019s Sandra Taub Humanitarian Award and Glamour\u2019s Women of the Year. Her first book, Tory Burch In Color (Abrams, 2014), was a New York Times Best Seller. A graduate of the University of Pennsylvania, she lives in New York City with her husband and sons.",
+    "headline": "Founder · Founder, Designer & Executive Chairman, Tory Burch",
+    "about": "Tory Burch is the Executive Chairman and Chief Creative Officer of Tory Burch LLC, an American lifestyle brand. She launched the company in 2004 with a boutique in New York City and an ecommerce site. The brand has since grown into a global business with more than 300 stores from New York to Paris and Shanghai. In 2015, she launched Tory Sport, a performance activewear collection that balances cutting-edge functionality with classic design. Social responsibility has been a part of the company from its inception. In 2009, she launched the Tory Burch Foundation to advance women’s empowerment and entrepreneurship in the United States by providing access to capital, education and digital resources, as well as a Fellowship program. Tory also serves on several boards including the Society of Memorial Sloan-Kettering Cancer Center and the Jay H. Baker Retailing Center at the University of Pennsylvania’s Wharton School. In addition, she is a member of the Council on Foreign Relations. Tory has been recognized with numerous awards and honors, including the CFDA for Accessory Designer of the Year, Forbes’s Most Powerful Women in the World, the Breast Cancer Research Foundation’s Sandra Taub Humanitarian Award and Glamour’s Women of the Year. Her first book, Tory Burch In Color (Abrams, 2014), was a New York Times Best Seller. A graduate of the University of Pennsylvania, she lives in New York City with her husband and sons.",
     "location": "New York, New York, United States",
     "profilePic": "https://media.licdn.com/dms/image/v2/C4D03AQFFOKnwJf0png/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1613684596697?e=2147483647&v=beta&t=yLGu__4MrWwi2A7GjLKIDG0hMDOtmC5xjGFbx0SX77Y",
     "followers": 187064,
@@ -71,7 +86,7 @@
     "posts": [
       {
         "kind": "article",
-        "text": "Whatever your ambition\u2026 embrace it.",
+        "text": "Whatever your ambition… embrace it.",
         "date": "2019-03-04T16:24:21.000+00:00"
       },
       {
@@ -81,12 +96,12 @@
       },
       {
         "kind": "article",
-        "text": "The Role Sports Played in My Life \u2013 And Why We Need to Even the Playing Field",
+        "text": "The Role Sports Played in My Life – And Why We Need to Even the Playing Field",
         "date": "2017-09-26T14:23:36.000+00:00"
       },
       {
         "kind": "article",
-        "text": "I Learned to #EmbraceAmbition \u2013 and Want Women Everywhere to Do the Same",
+        "text": "I Learned to #EmbraceAmbition – and Want Women Everywhere to Do the Same",
         "date": "2017-03-08T12:58:18.000+00:00"
       },
       {
@@ -111,12 +126,12 @@
       },
       {
         "kind": "post",
-        "text": "Incredibly honored to receive the Fashion Trust U.S. Designer of the Year award last night. It is so meaningful to be recognized by my peers. Thank you\u00a0Fashion Trust, Tania Fares, and my dear friend\u00a0Pamela Anderson. ",
+        "text": "Incredibly honored to receive the Fashion Trust U.S. Designer of the Year award last night. It is so meaningful to be recognized by my peers. Thank you Fashion Trust, Tania Fares, and my dear friend Pamela Anderson. ",
         "date": "2026-04-08T18:58:32.104Z"
       },
       {
         "kind": "post",
-        "text": "Honored to receive the Anne Morgan Women of Courage Award. Anne was a true visionary \u2014 a champion of women\u2019s economic independence and a dedicated philanthropist. She spent her life opening doors for other women, and her work rebuilding post-WWI France changed how we think about humanitarian aid. \n\nThank you to The American Friends of Bl\u00e9rancourt and Dina Powell McCormick for this extraordinary recognition. ",
+        "text": "Honored to receive the Anne Morgan Women of Courage Award. Anne was a true visionary — a champion of women’s economic independence and a dedicated philanthropist. She spent her life opening doors for other women, and her work rebuilding post-WWI France changed how we think about humanitarian aid. \n\nThank you to The American Friends of Blérancourt and Dina Powell McCormick for this extraordinary recognition. ",
         "date": "2025-11-13T15:28:47.679Z"
       }
     ]
@@ -141,7 +156,7 @@
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/829909642_18638451508021526_4434135148137159089_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=52EowESLWlsQ7kNvwH1FZ3A&_nc_oc=AdrfqBjugyDkdOJdJf0Dj19oPdC5h0LxjA6goaQR-vBlNhqZdTb3kWUzJDcGU6AW92_3UH7dekkKvfeqZNo-v3iN&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=TT17hqjlLf6W0CExwSBSXg&_nc_ss=7f689&oh=00_AQPzz9CBldbJAOSrQ0VPd4KT2AyHyDlvVxl4kFpKYGPYkg&oe=6AC3F6CE",
-        "caption": "The Bunny Knot shoulder bag as seen on @alexconsani and @awarodhiang in our Fall \u201826 campaign. #ToryBurchFW26 #ToryBurch"
+        "caption": "The Bunny Knot shoulder bag as seen on @alexconsani and @awarodhiang in our Fall ‘26 campaign. #ToryBurchFW26 #ToryBurch"
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/825322978_18637388842021526_8771051913630023671_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=Z5jTPR5xiIQQ7kNvwHcu7aX&_nc_oc=AdoTW5zRCU7OQn5Gn_AMbLArA9VSh2Mic2maFWpVuZJS3fWkQ3IAHaHFWJLGK0hSGn6RbkAzcrPjEsCDBEhuEGYK&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=TT17hqjlLf6W0CExwSBSXg&_nc_ss=7f689&oh=00_AQO2pQRTbFdRZ_I_TEhZeeF2p5bdafYdZJbL8M7Jksf91g&oe=6AC4211C",
@@ -157,11 +172,11 @@
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/814908131_18634537717021526_7101085171301882570_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=7Zr1PEDp21UQ7kNvwFqHubz&_nc_oc=AdpQ2A18xlzp3OBl2Rg9S1-UD9hYqADF9-MUJKnRlsAQNNdPqJx3e4rPaVBaPJ1ItvYaqXMhA6Z1HsUWjRGuGzHr&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=TT17hqjlLf6W0CExwSBSXg&_nc_ss=7f689&oh=00_AQPDeBh9i3KFUBWQkOFd0tZpx-BaatReostK6e65rsIzkA&oe=6AC40C2B",
-        "caption": "The #ToryBurchFW26 collection is here. A meditation on what endures \u2014 brushed wool sweaters, wide-wale corduroys, sheer knits and artisanal details in a vibrant palette. The mix reflects how women dress now: by instinct, not rules. #ToryEditorials #ToryBurch"
+        "caption": "The #ToryBurchFW26 collection is here. A meditation on what endures — brushed wool sweaters, wide-wale corduroys, sheer knits and artisanal details in a vibrant palette. The mix reflects how women dress now: by instinct, not rules. #ToryEditorials #ToryBurch"
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/813785720_18634491916021526_5729134820898033799_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=hCgkdMoTzKAQ7kNvwEXs4u2&_nc_oc=Adpw9Ky4ZcGlmiTClVXu66fpYiy19Ftgey7lgsBmodAw-D7dbYyAHHw5C-8GlquDohzXDYNsQDTBrSU7rnMgFXqC&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=TT17hqjlLf6W0CExwSBSXg&_nc_ss=7f689&oh=00_AQMVDas8F8UMs3l3NcCB_5bsig5RUdml2uJegfcVbTFO5A&oe=6AC3FFAD",
-        "caption": "That\u2019s a wrap. Until next season, NYFW. #ToryBurch #NYFW"
+        "caption": "That’s a wrap. Until next season, NYFW. #ToryBurch #NYFW"
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/811102674_18633902380021526_4735250578519302298_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=27evOr-00f0Q7kNvwFSYLsW&_nc_oc=AdoBoGC3xZ2zwU4-lvdzoroC30xTT_03ozrQC71K9WfBWbFM9WfD8UWh_iqRWk5tH2m3HdYTPMux_qbrvxoPZvhC&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=TT17hqjlLf6W0CExwSBSXg&_nc_ss=7f689&oh=00_AQOKafaqmLWuUL4oYBkUL6WrsJrCKQCcSfKBot5TgA6e0g&oe=6AC41648",
@@ -188,14 +203,14 @@
   "photo": "https://scontent.cdninstagram.com/v/t51.2885-19/11881827_496433693878989_1013037259_a.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy40NzguQzMifQ%3D%3D&_nc_ohc=5oEYbEiEzNgQ7kNvwH399gP&_nc_oc=AdowTcdFki7t5Zb7a73lm_0UGwk-ckl6z5cS97g0FzSXdrku1bQwouX6gAm6mMxZXVbTyIePxdJzaKLu8QCOCNY9&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=7f689&oh=00_AQM6LrPHEvUA4IXblcYM9X70eyFJZAzc681nMPCys2aRjg&oe=6AC3F3F5",
   "analysis": {
     "name": "Tory Burch",
-    "oneLiner": "Fashion visionary and champion of women\u2019s empowerment who blends runway drama with purposeful philanthropy.",
-    "summary": "Tory is a founder, designer, and executive chair of a global lifestyle brand. She lives in New York, runs a thriving fashion empire, leads a foundation that funds women entrepreneurs, and sits on several high\u2011profile boards. Her Instagram is a runway diary of collections, street\u2011style, and industry events, showing a love for creativity, travel, and cultural moments. She seeks impact, authenticity, and partners who celebrate ambition and artistic expression.",
+    "oneLiner": "Fashion visionary and champion of women’s empowerment who blends runway drama with purposeful philanthropy.",
+    "summary": "Tory is a founder, designer, and executive chair of a global lifestyle brand. She lives in New York, runs a thriving fashion empire, leads a foundation that funds women entrepreneurs, and sits on several high‑profile boards. Her Instagram is a runway diary of collections, street‑style, and industry events, showing a love for creativity, travel, and cultural moments. She seeks impact, authenticity, and partners who celebrate ambition and artistic expression.",
     "location": "New York, New York, United States",
     "ageRange": "unknown",
     "career": {
       "role": "Founder, Designer & Executive Chairman",
       "stage": "Established entrepreneur / industry leader",
-      "ambition": "Scale her brand globally while expanding the Tory Burch Foundation\u2019s impact on women\u2019s entrepreneurship"
+      "ambition": "Scale her brand globally while expanding the Tory Burch Foundation’s impact on women’s entrepreneurship"
     },
     "needs": [
       {
@@ -206,7 +221,7 @@
       },
       {
         "label": "Appreciation of creativity",
-        "detail": "Instagram captions highlight \"self\u2011expression, dreaming, and escape, explored through color, craft, and texture\" (instagram).",
+        "detail": "Instagram captions highlight \"self‑expression, dreaming, and escape, explored through color, craft, and texture\" (instagram).",
         "source": "instagram",
         "confidence": 0.9
       },
@@ -232,21 +247,21 @@
       },
       {
         "label": "Curating brand collaborations",
-        "detail": "Shows behind\u2011the\u2011scenes moments with influencers and designers (instagram).",
+        "detail": "Shows behind‑the‑scenes moments with influencers and designers (instagram).",
         "source": "instagram",
         "confidence": 0.88
       },
       {
         "label": "Travel for inspiration",
-        "detail": "Mentions global reach of stores from New York to Paris and Shanghai (linkedin) and posts from New York street\u2011style season (instagram).",
+        "detail": "Mentions global reach of stores from New York to Paris and Shanghai (linkedin) and posts from New York street‑style season (instagram).",
         "source": "both",
         "confidence": 0.85
       }
     ],
     "interests": [
       {
-        "label": "Women\u2019s entrepreneurship",
-        "detail": "Runs the Tory Burch Foundation, writes about advancing women\u2019s economic independence (linkedin).",
+        "label": "Women’s entrepreneurship",
+        "detail": "Runs the Tory Burch Foundation, writes about advancing women’s economic independence (linkedin).",
         "source": "linkedin",
         "confidence": 0.96
       },
@@ -272,7 +287,7 @@
     "values": [
       {
         "label": "Empowerment",
-        "detail": "Foundation\u2019s mission to provide capital, education, and resources to women (linkedin).",
+        "detail": "Foundation’s mission to provide capital, education, and resources to women (linkedin).",
         "source": "linkedin",
         "confidence": 0.96
       },
@@ -313,29 +328,29 @@
       {
         "trait": "Emotional Stability",
         "score": 70,
-        "note": "Handles high\u2011profile awards and public scrutiny with poise, yet writes about personal ambition, indicating reflective resilience (linkedin)."
+        "note": "Handles high‑profile awards and public scrutiny with poise, yet writes about personal ambition, indicating reflective resilience (linkedin)."
       }
     ],
     "lifestyle": [
       {
         "label": "Pace",
-        "value": "Fast\u2011moving, high\u2011energy brand leadership"
+        "value": "Fast‑moving, high‑energy brand leadership"
       },
       {
         "label": "Social energy",
-        "value": "Highly social, network\u2011centric (NYFW, board meetings)"
+        "value": "Highly social, network‑centric (NYFW, board meetings)"
       },
       {
         "label": "Fitness",
-        "value": "Active \u2013 runs activewear line, likely practices sport"
+        "value": "Active – runs activewear line, likely practices sport"
       },
       {
         "label": "Travel",
-        "value": "International \u2013 stores in Paris, Shanghai; frequent fashion week travel"
+        "value": "International – stores in Paris, Shanghai; frequent fashion week travel"
       },
       {
-        "label": "Work\u2011life",
-        "value": "Integrated \u2013 family, philanthropy, and brand often overlap"
+        "label": "Work‑life",
+        "value": "Integrated – family, philanthropy, and brand often overlap"
       }
     ],
     "communicationStyle": "Direct, inspirational, and peppered with storytelling about purpose and design.",
@@ -348,22 +363,22 @@
     ],
     "watchOuts": [
       "May dominate conversations with brand topics",
-      "High\u2011profile schedule could limit spontaneous time together"
+      "High‑profile schedule could limit spontaneous time together"
     ],
     "dealbreakers": [
       "Disinterest in social responsibility",
       "Lack of respect for her professional achievements",
-      "Closed\u2011mindedness toward creativity"
+      "Closed‑mindedness toward creativity"
     ],
     "idealFirstDate": "A private gallery opening or design exhibit followed by a relaxed brunch where you can discuss art, ambition, and future projects.",
     "conversationHooks": [
-      "Ask about the most inspiring woman entrepreneur she\u2019s met through the foundation.",
-      "Discuss the role of color in mood and design \u2013 reference her book.",
+      "Ask about the most inspiring woman entrepreneur she’s met through the foundation.",
+      "Discuss the role of color in mood and design – reference her book.",
       "Talk about a recent runway show you loved and why the details mattered."
     ],
-    "agentVoice": "Warm, articulate, and slightly witty; I\u2019ll echo her passion for purpose while sprinkling in design metaphors and genuine curiosity.",
+    "agentVoice": "Warm, articulate, and slightly witty; I’ll echo her passion for purpose while sprinkling in design metaphors and genuine curiosity.",
     "readingNotes": [
-      "LinkedIn headline emphasizes founder identity over title \u2014 she defines herself by creation.",
+      "LinkedIn headline emphasizes founder identity over title — she defines herself by creation.",
       "Repeated calls to \"embrace ambition\" signal a core personal mantra.",
       "Instagram is a runway diary, showing she lives her brand daily.",
       "Mentions of Tory Sport reveal a personal interest in active living.",
@@ -374,5 +389,101 @@
   "seeking": "men",
   "genderSource": "inferred",
   "genderEvidence": "She launched the company in 2004 with a boutique in New York City",
-  "shortlist": null
+  "shortlist": [
+    {
+      "id": "adamgrant",
+      "interest": 96,
+      "reason": "Adam’s deep dedication to empowering people and fostering ethical leadership mirrors your core values and tireless support for ambition."
+    },
+    {
+      "id": "alexisohanian",
+      "interest": 94,
+      "reason": "Alexis brings an infectious entrepreneurial energy and a massive commitment to women's sports and empowerment that would make for an inspiring conversation."
+    },
+    {
+      "id": "garyvee",
+      "interest": 91,
+      "reason": "Gary shares your relentless ambition and fast-paced brand-building mindset while maintaining a deeply empathetic, old-school heart."
+    },
+    {
+      "id": "thesharkdaymond",
+      "interest": 90,
+      "reason": "Daymond’s love for fashion culture, brand building, and mentorship creates an immediate and natural professional and creative bridge."
+    },
+    {
+      "id": "guykawasaki",
+      "interest": 88,
+      "reason": "Guy’s mission to make people remarkable and his appreciation for design ecosystems like Canva align wonderfully with your creative worldview."
+    },
+    {
+      "id": "simonsinek",
+      "interest": 87,
+      "reason": "Simon’s dedication to big-picture purpose and human connection matches your inspirational approach to leadership and life."
+    },
+    {
+      "id": "richardbranson",
+      "interest": 85,
+      "reason": "Richard’s legendary appetite for adventure, philanthropy, and brand building matches your dynamic global footprint."
+    },
+    {
+      "id": "thisisbillgates",
+      "interest": 83,
+      "reason": "Bill’s profound global philanthropic commitment offers a powerful shared foundation for deep conversations about changing the world."
+    },
+    {
+      "id": "lewishowes",
+      "interest": 82,
+      "reason": "Lewis blends a high-energy media hustle with a dedication to personal growth and storytelling that fits your fast-moving lifestyle."
+    },
+    {
+      "id": "ankurwarikoo",
+      "interest": 80,
+      "reason": "Ankur’s disciplined, growth-minded approach to life and mentorship shows an admirable self-awareness and dedication."
+    },
+    {
+      "id": "danielpriestley",
+      "interest": 78,
+      "reason": "Daniel’s enthusiasm for turning big ideas into high-impact businesses aligns well with your entrepreneurial spirit."
+    },
+    {
+      "id": "steven",
+      "interest": 77,
+      "reason": "Steven navigates a high-growth executive career with a strong desire for genuine depth and psychological connection."
+    },
+    {
+      "id": "nikhilkamathcio",
+      "interest": 76,
+      "reason": "Nikhil’s appreciation for cultural exploration and thoughtful discourse provides a nice intellectual match for your curiosity."
+    },
+    {
+      "id": "rajshamani",
+      "interest": 75,
+      "reason": "Raj’s purpose-driven media journey and relentless curiosity about global economics would make for an engaging first date."
+    },
+    {
+      "id": "sahilbloom",
+      "interest": 74,
+      "reason": "Sahil shares a rigorous discipline and growth-oriented mindset, though his pace is heavily rooted in solo writing and routines."
+    },
+    {
+      "id": "mkbhd",
+      "interest": 72,
+      "reason": "Marques brings incredible design appreciation and creative consistency, though his world leans heavily into tech and digital content."
+    },
+    {
+      "id": "deepigoyal",
+      "interest": 70,
+      "reason": "Deepinder’s focus on quiet art and longevity is intriguing, though his desire for quiet silences might conflict with your high-energy social pace."
+    },
+    {
+      "id": "neilpatel",
+      "interest": 65,
+      "reason": "While Neil is a brilliant marketing visionary, his hyper-focus on data systems leaves less room for your vibrant world of art and color."
+    },
+    {
+      "id": "thejustinwelsh",
+      "interest": 60,
+      "reason": "Justin prefers a quiet domestic life built on autonomy, which might feel a bit too slow-paced compared to your global brand empire."
+    }
+  ]
 }

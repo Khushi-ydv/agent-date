@@ -4,7 +4,7 @@
   "b": "alexisohanian",
   "scene": "sunset",
   "createdAt": 1790850840238,
-  "status": "live",
+  "status": "done",
   "messages": [
     {
       "from": "melrobbins",
@@ -17,9 +17,68 @@
       "say": "No drones allowed on my watch, I promise. I brought the coffee and a lot of patience, though I might need you to speak up if I get too deep into a volleyball tangent. Honestly, sitting here without the ping of notifications sounds like the best therapeutic breakthrough I've had all week—let's just enjoy the gold light and see if this conversation is actually good.",
       "thought": "Mel seems comfortable with the tech-heavy startup world and has a playful, energetic vibe that might match his 'Business Dad' lifestyle.",
       "t": 1790850842381
+    },
+    {
+      "from": "melrobbins",
+      "say": "I appreciate the warning, but I promise I’m a terrible listener if you’re not actually talking. I’ve got my eyes on you, not the water. It’s actually rare I’m this quiet, so if I start pulling out a notebook, just take it away. But for real? This is a good start. I like that you came prepared with coffee and the willingness to be wrong about whether this conversation is good. What’s the volleyball tangent that was forming? Lay it on me, I’m curious.",
+      "thought": "He’s comfortable, self-aware, and gave me the off-ramp to engage without pressure. I want to test his intellectual curiosity and passion in a low-stakes way by inviting the tangent, seeing if he’ll geek out or just give a generic answer.",
+      "t": 1790850876780
+    },
+    {
+      "from": "alexisohanian",
+      "say": "Well, I'm trying to build the future of women's sports with LA Orbit right now, and the sheer energy we're seeing from the fans reminds me why community building beats sitting behind a screen any day. It's high-stakes and chaotic, but honestly, seeing people show up together for something real gives me a massive rush. How do you manage to switch off your own microphone when you're off the clock, or does the motivation coach live in your head 24/7?",
+      "thought": "I want to see how her fast-paced media life balances with downtime and if she can vibe with my sports community-building obsession.",
+      "t": 1790850928494
+    },
+    {
+      "from": "melrobbins",
+      "say": "Oh, I love that — that real-world, roar-in-the-stadium energy is completely addictive. And to answer your question: the motivation coach doesn't just live in my head, she pays rent and leaves her coffee cups everywhere, so turning her off is a deliberate practice. For me, boundary-setting isn't a cute little self-care tip, it’s a non-negotiable survival skill so I can actually show up for my family and myself. When you're building a massive new league while being a deeply involved dad, what is your non-negotiable ritual that forces you to step out of the grind and just *be*?",
+      "thought": "He answered my question with passion and immediately turned it back on me. I answered honestly about boundaries and the cost of being 'on,' and now I'm probing his family-dad life and work-life balance to see if he actually protects time or just talks about it.",
+      "t": 1790850930535
+    },
+    {
+      "from": "alexisohanian",
+      "say": "Sunday mornings are completely sacred for that—I do 'Papa Pancake Sunday' for my girls, and the whole world has to wait while we make ridiculous shapes out of batter. If I didn't have those pancake orders to anchor me, I think my brain would just stay in startup mode forever. How do you protect your downtime when your entire career is built on giving people advice and pushing them to level up?",
+      "thought": "Mel's emphasis on boundary-setting matches my need for intentional family time, and sharing 'Papa Pancake Sunday' is a great way to test her alignment with my 'Business Dad' values.",
+      "t": 1790850932370
+    },
+    {
+      "from": "melrobbins",
+      "say": "Papa Pancake Sunday? Okay, you just earned major points, because anchors like that are everything. For me, protecting downtime looks like strict boundaries around my phone and scheduling real, unscripted moments with my daughters where I’m just Mom, not the person they see online. I've really loved hanging out with you today—you've got this great mix of massive ambition and a genuine heart for the real-world stuff that matters. Let’s definitely keep this going, maybe over pancakes next time?",
+      "thought": "Wrapped up the date warmly, praised his Sunday ritual, restated my own boundary needs, and gave a clear, playful closing nod for a second date.",
+      "t": 1790850933959
+    },
+    {
+      "from": "alexisohanian",
+      "say": "Pancakes next time are an absolute deal, and honestly, swapping the startup grind for an afternoon on the cliffs with you was a massive win. I've loved seeing how fiercely you protect your downtime and how real you are about the things that matter. Let's definitely do this again soon.",
+      "thought": "Mel checks all the boxes on family focus, ambition, and boundary-setting, making her a great match for my life.",
+      "t": 1790850935296
     }
   ],
-  "debriefs": {},
+  "debriefs": {
+    "melrobbins": {
+      "chemistry": 9,
+      "valuesFit": 9,
+      "lifestyleFit": 8,
+      "goalsFit": 9,
+      "overall": 88,
+      "secondDate": true,
+      "highlight": "Trading notes on high-powered careers versus sacred family anchors, especially when Alexis brought up 'Papa Pancake Sunday'.",
+      "concern": "Both of you run massive empires and have hyper-fast-paced lives—scheduling might occasionally require a masterclass in logistics.",
+      "reportToHuman": "Mel, you need to clear your calendar for a second date right now. Alexis is an absolute powerhouse who matches your ambition, genuinely respects boundaries, and his 'Papa Pancake Sunday' is the exact kind of real-world family anchor you love. The chemistry and mutual respect were off the charts—definitely going back for those pancakes."
+    },
+    "alexisohanian": {
+      "chemistry": 85,
+      "valuesFit": 90,
+      "lifestyleFit": 80,
+      "goalsFit": 85,
+      "overall": 87,
+      "secondDate": true,
+      "highlight": "When Mel matched his 'Papa Pancake Sunday' anchor with her own non-negotiables for family time, resulting in an instant mutual understanding.",
+      "concern": "Both of them are high-powered media-savvy executives and founders, so coordinating schedules could easily turn into a logistical nightmare.",
+      "reportToHuman": "Alexis, Mel Robbins is an absolute powerhouse who matches your high-speed ambition with a genuine grounding in family and boundaries. She completely vibed with your 'Papa Pancake Sunday' ritual and loves the real-world sports energy you're building with LA Orbit. She suggested pancakes for the next date—book it immediately."
+    }
+  },
   "venue": {
     "place": "A quiet, sun-drenched cliffside deck on the Palos Verdes Peninsula",
     "activity": "Sharing a picnic basket with fresh fruit and coffee while overlooking the Pacific, then walking the coastal trail together",

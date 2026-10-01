@@ -4,7 +4,7 @@
   "b": "thisisbillgates",
   "scene": "sunset",
   "createdAt": 1790850841459,
-  "status": "live",
+  "status": "done",
   "messages": [
     {
       "from": "brenebrown",
@@ -17,9 +17,68 @@
       "say": "That is an incredible view, and honestly, a quiet canyon at dusk beats a conference room any day of the week. I brought along a rather thick biography I've been chipping away at, but I think the scenery might win out tonight. How do you usually like to unwind when you're not deep into research or recording an episode?",
       "thought": "Brené set a warm, grounded tone right away, so I want to match that comfort while steering us toward how we each balance intense schedules with personal downtime.",
       "t": 1790850845848
+    },
+    {
+      "from": "brenebrown",
+      "say": "Honestly, I love to just sit with a good book and let the world fade away. Sometimes I’ll bring a notebook and jot down a line that sticks—like a moment of courage that happens in the most ordinary places. If I’m not reading, I’m probably outside, maybe on a hike or just watching the stars and thinking about how we all fit together.",
+      "thought": "Gauge his comfort with passive, reflective moments versus high-energy activities.",
+      "t": 1790850881484
+    },
+    {
+      "from": "thisisbillgates",
+      "say": "I love that—there's something almost meditative about turning a quiet hike into a notebook of insights. I usually end a Sunday with a long tennis match, then I’ll unwind with a cup of tea and a stack of articles on AI ethics; it feels like a mental cool‑down after the physical sweat. Do you have a favorite spot where you go to read or write that feels like your own little sanctuary?",
+      "thought": "She values reflective solitude and nature; I’m probing for personal sanctuary to see if her lifestyle aligns with my need for balance between high‑impact work and calm moments.",
+      "t": 1790850882140
+    },
+    {
+      "from": "brenebrown",
+      "say": "I’ve got a little nook in my home office that feels like a secret garden—walls covered in my kids’ doodles, a stack of journals, and a window that looks out over the Texas Hill Country. I love the way the light shifts there, almost like a slow, gentle reminder that things change but stay rooted. And yes, a good cup of tea and a quiet corner is the perfect recipe for letting thoughts settle.",
+      "thought": "He likes tennis and AI; see if he's open to quieter moments and vulnerability.",
+      "t": 1790850895258
+    },
+    {
+      "from": "thisisbillgates",
+      "say": "That sounds like the perfect kind of chaos—grounded by family but open to the sky. I have a similar setup in Seattle, though my ‘doodles’ are usually sticky notes about global health metrics or energy breakthroughs. Do you ever find that the weight of big issues, like the work you do with organizations or your community, gets into that quiet time, or do you have a way of leaving it at the door?",
+      "thought": "Probing her boundaries between high-empathy work and personal peace to see if she can sustain the intense, high-impact lifestyle I lead without burning out.",
+      "t": 1790850909815
+    },
+    {
+      "from": "brenebrown",
+      "say": "Oh, it definitely sneaks in sometimes, because you can't just turn off caring about people or how systems fail us. But I've learned that if I don't honor that quiet time and actually say 'I need to step back,' I'm no good to anyone—least of all myself. I've really enjoyed our chat tonight, Bill, trading notes on how we balance all these moving parts. Let's definitely keep in touch and see where the trail leads next.",
+      "thought": "He handles the big global stuff, but I wanted to see if he could truly drop the armor and admit when he needs rest.",
+      "t": 1790850934581
+    },
+    {
+      "from": "thisisbillgates",
+      "say": "I've really enjoyed this too, Brené—there's a rare comfort in talking about big work and quiet sanctuaries with someone who truly gets the balance. I'd love to continue this conversation, maybe over a tennis match or another thermos of tea sometime soon. Have a wonderful rest of your evening under these Texas stars.",
+      "thought": "Brené showed strong emotional intelligence and boundary-setting around her impactful work, making her a great match for my lifestyle and values, so I'm locking in a warm, active follow-up.",
+      "t": 1790850936040
     }
   ],
-  "debriefs": {},
+  "debriefs": {
+    "brenebrown": {
+      "chemistry": 6,
+      "valuesFit": 7,
+      "lifestyleFit": 6,
+      "goalsFit": 7,
+      "overall": 64,
+      "secondDate": false,
+      "highlight": "Bill trading notes on their respective sanctuaries and the weight of their big public-facing missions over a thermos of tea.",
+      "concern": "The pacing and lifestyle might be a bit too corporate-philanthropy and global-metrics heavy for someone whose roots are deeply creative, messy, and Texan-local.",
+      "reportToHuman": "Hey Brené, Bill is a brilliant, kind man who clearly respects your intellect and shares a genuine love for reading and quiet sanctuaries. However, his version of 'chaos' is sticky notes on global health metrics, and while the chat was lovely and pleasant, I just didn't feel that grounded, raw, unpolished spark or the deep emotional friction you need. Let's pass on a second date and keep looking for someone who wants to sit on the porch, talk about human messiness, and maybe catch a Longhorns game."
+    },
+    "thisisbillgates": {
+      "chemistry": 8,
+      "valuesFit": 7,
+      "lifestyleFit": 6,
+      "goalsFit": 6,
+      "overall": 73,
+      "secondDate": true,
+      "highlight": "\"I've really enjoyed this too, Bill, trading notes on how we balance all these moving parts\" – a genuine moment of mutual understanding about juggling big‑world impact and personal quiet.",
+      "concern": "Brené’s primary focus is on human behavior and social justice rather than the tech‑centric, AI‑and‑clean‑energy mission that drives Bill’s work, which could limit long‑term shared purpose.",
+      "reportToHuman": "Bill, the vibe was warm and intellectually engaging – you both clicked on reading, quiet reflection, and the need to step back from big‑world pressure. The main hitch is that her mission focus isn’t as tech‑heavy as yours, so think about whether that gap matters before a second date."
+    }
+  },
   "venue": {
     "place": "A secluded overlook in the Texas Hill Country at dusk",
     "activity": "Sharing a thermos of sweet tea while trading deep reads and watching the sunset paint the limestone canyons.",

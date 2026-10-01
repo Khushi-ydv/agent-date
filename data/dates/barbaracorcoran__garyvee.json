@@ -1,0 +1,65 @@
+{
+  "id": "barbaracorcoran__garyvee",
+  "a": "barbaracorcoran",
+  "b": "garyvee",
+  "scene": "beach",
+  "createdAt": 1790851333916,
+  "status": "debrief",
+  "messages": [
+    {
+      "from": "barbaracorcoran",
+      "say": "You made it! I was starting to think I’d have to explain to the pier attendant why a woman with two podcasts and a bottle of Rosé was standing next to a seagull. Grab a seat, Gary — I promised myself this would be spontaneous, no notes, so consider us officially live for whatever comes out of our mouths between sips.",
+      "thought": "Setting a playful, low-pressure tone that mirrors my own blunt/transparent brand and lowers the stakes for a spontaneous start.",
+      "t": 1790851342564
+    },
+    {
+      "from": "garyvee",
+      "say": "Hey, thanks for the warm welcome—this is exactly what I need, a little chaos and a lot of real talk. I’m all about that analog vibe right now, so let’s just sip, talk, and maybe throw in a quick blind tasting. What’s your favorite way to unwind after a day of podcasting?",
+      "thought": "Gauge how she relaxes outside work—look for analog preference.",
+      "t": 1790851355395
+    },
+    {
+      "from": "barbaracorcoran",
+      "say": "I like that you’re here for the seagulls and no-script chaos, that’s rare. Honestly, my unwind is usually a chaotic blend of scribbling notes for my next *Business Unusual* episode and then just demanding the best possible burger in Brooklyn with zero interruptions. How do you recharge when the content engine actually stops? Do you have an analog escape hatch, or is it all screen glow and spreadsheets for you?",
+      "thought": "He mentioned wine but I need to probe his actual work-life balance and 'quiet, analog moments' to see if he can match my high-energy but need for unplugging.",
+      "t": 1790851362131
+    },
+    {
+      "from": "garyvee",
+      "say": "First, props for the burger hustle—those are the best fuel. When the engine slows, I’m all about the old‑school escape: a walk on a pier, a good glass of wine, maybe a quick sketch on a napkin—no screen, just the sea and my thoughts. What about you—do you ever just drop the mic and let the city’s noise be the soundtrack?",
+      "thought": "Learning her analog habits and how she disconnects; probing her willingness to share quiet moments.",
+      "t": 1790851364371
+    },
+    {
+      "from": "barbaracorcoran",
+      "say": "Napkin sketches and a view of the water? Okay, you are speaking my love language, Gary. I actually love just zoning out on a long ferry ride with no destination in mind—just letting New York’s grit wash over me while I pretend I don’t have eighty businesses texting me. Tell me honestly, when you're moving at this crazy speed, how do you make sure you're saving enough gas in the tank to actually show up for the person you're with?",
+      "thought": "I'm testing whether his high-octane hustle leaves real emotional space for a partner, because I need someone who actually shows up, not just someone talking about empathy.",
+      "t": 1790851400207
+    },
+    {
+      "from": "garyvee",
+      "say": "Look, that ferry ride image is massive—you have to create those bubbles of space on purpose or the world will just eat your calendar alive. For me, I’m obsessed with radical accountability and choosing optimism every single day, so I make a deliberate choice to drop the business chatter and be fully present with my person. When you're in a relationship, what's your absolute bottom-line non-negotiable for keeping that spark alive when life gets nuts?",
+      "thought": "Testing her need for accountability and communication under high-pressure lifestyles to spot any potential cynicisms or complaints.",
+      "t": 1790851421953
+    },
+    {
+      "from": "barbaracorcoran",
+      "say": "You know, I usually spend the last ten minutes of an interview trying to sell someone on their own vision, but for the first time in ages, I just want to buy you another glass. I honestly don’t know what I like better—your take on wine or the fact that you don’t measure the world by how fast you can hustle it. That quiet, analog energy is rare, and I’ve realized I’m starving for exactly that kind of space. I’d love to see if that napkin-sketch version of you exists in the real world, not just on a screen. Let’s do the date, Gary—no podcasts, no seagulls, just you and me figuring out if this works.",
+      "thought": "",
+      "t": 1790851433473
+    },
+    {
+      "from": "garyvee",
+      "say": "This is exactly what I was looking for—no scripts, just the moment. I’m glad we’re both willing to step off the grind and just be, you know, real. Let’s keep this energy going—after all, the best stories happen when you’re not chasing the next headline. Thanks for the honesty, Barbara; here’s to more unplugged conversations and maybe a few more glasses of wine along the way.🥂",
+      "thought": "Wrap up warmly, emphasize mutual authenticity and future connection.",
+      "t": 1790851446170
+    }
+  ],
+  "debriefs": {},
+  "venue": {
+    "place": "Coney Island Pier",
+    "activity": "Sipping local craft wine while recording a spontaneous podcast episode about entrepreneurship",
+    "why": "Both love podcasting, entrepreneurship, and savoring local flavors",
+    "scene": "beach"
+  }
+}

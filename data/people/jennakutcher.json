@@ -4,7 +4,7 @@
   "linkedinUrl": "https://www.linkedin.com/in/jennakutcher/",
   "instagramUrl": "https://www.instagram.com/jennakutcher/",
   "status": "ready",
-  "datingStatus": "dating",
+  "datingStatus": "done",
   "log": [
     {
       "t": 1790850084377,
@@ -55,6 +55,11 @@
       "t": 1790850843964,
       "step": "Asked out",
       "detail": "Alexis Ohanian Sr., Justin Welsh, Sahil Bloom"
+    },
+    {
+      "t": 1790851190329,
+      "step": "All dates finished",
+      "detail": "rankings updated"
     }
   ],
   "linkedin": {

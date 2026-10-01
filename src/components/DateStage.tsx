@@ -32,53 +32,163 @@ function AgentTwin({ who, speaking, side }: { who: Who; speaking: boolean; side:
   );
 }
 
-function pickVoice(gender?: string) {
-  if (typeof window === "undefined" || !window.speechSynthesis) return undefined;
-  const voices = window.speechSynthesis.getVoices().filter((v) => v.lang.startsWith("en"));
-  const fem = /samantha|victoria|karen|moira|tessa|fiona|female|zira|susan|serena|allison|ava/i;
-  const male = /daniel|alex|fred|male|david|mark|tom|oliver|aaron|arthur|rishi/i;
-  return voices.find((v) => (gender === "woman" ? fem : male).test(v.name)) ?? voices[0];
+// ---------- speech (browser text-to-speech) ----------
+const FEM = /samantha|victoria|karen|moira|tessa|fiona|female|zira|susan|serena|allison|ava|jenny|aria|sonia|libby|natasha|google uk english female|google us english/i;
+const MALE = /daniel|alex|fred|\bmale|david|mark|tom|oliver|aaron|arthur|rishi|guy|ryan|thomas|google uk english male/i;
+
+function useVoices() {
+  const [voices, setVoices] = useState<SpeechSynthesisVoice[]>([]);
+  useEffect(() => {
+    const synth = typeof window !== "undefined" ? window.speechSynthesis : undefined;
+    if (!synth) return;
+    const load = () => setVoices(synth.getVoices().filter((v) => v.lang.toLowerCase().startsWith("en")));
+    load();
+    synth.addEventListener("voiceschanged", load);
+    return () => synth.removeEventListener("voiceschanged", load);
+  }, []);
+  return voices;
 }
+
+/** Pick distinct voices for the two agents, matching gender where the browser offers it. */
+// Most natural-sounding voices first (Chrome's Google voices, macOS/iOS Samantha & Daniel, Edge's neural voices).
+const BEST = /google|samantha|daniel|natural|neural|aria|jenny|guy|serena|oliver/i;
+
+function voiceFor(voices: SpeechSynthesisVoice[], gender: string | undefined, avoid?: SpeechSynthesisVoice) {
+  const pref = voices
+    .filter((v) => (gender === "woman" ? FEM : MALE).test(v.name))
+    .sort((x, y) => Number(BEST.test(y.name)) - Number(BEST.test(x.name)));
+  return pref.find((v) => v !== avoid) ?? pref[0] ?? voices.find((v) => v !== avoid) ?? voices[0];
+}
+
+/** Split long text into sentence chunks: Chrome silently stops utterances longer than ~15s. */
+function chunks(text: string) {
+  const parts = text.match(/[^.!?…]+[.!?…]*\s*/g) ?? [text];
+  const out: string[] = [];
+  for (const p of parts) {
+    if (out.length && (out[out.length - 1] + p).length < 180) out[out.length - 1] += p;
+    else out.push(p);
+  }
+  return out.map((c) => c.trim()).filter(Boolean);
+}
+
+const keepAlive: SpeechSynthesisUtterance[] = []; // Chrome can GC utterances mid-speech, dropping onend
 
 export function DateStage({ scene, venue, a, b, messages, live }: { scene?: SceneKey; venue?: { place: string; activity: string }; a: Who; b: Who; messages: DateMessage[]; live: boolean }) {
   const meta = SCENE_META[scene ?? "cafe"] ?? SCENE_META.cafe;
   const [playIdx, setPlayIdx] = useState<number | null>(null); // replay mode for finished dates
   const [voice, setVoice] = useState(false);
-  const spoken = useRef(-1);
+  const [speaking, setSpeaking] = useState(false);
+  const voices = useVoices();
+  const spokenIdx = useRef(-1);
+  const gen = useRef(0); // bumps on every new line / stop, so stale speech callbacks are ignored
+  const supported = typeof window !== "undefined" && "speechSynthesis" in window;
 
   const shown = playIdx === null ? messages : messages.slice(0, playIdx + 1);
   const last = shown.at(-1);
   const speakerIsA = last ? last.from === a.id : true;
 
-  // Replay: advance after the line is spoken (voice) or after a reading delay.
+  const stopSpeech = () => {
+    gen.current++;
+    if (supported) window.speechSynthesis.cancel();
+    setSpeaking(false);
+  };
+
+  /** Speak one line; calls onDone when finished (or after a watchdog timeout if the browser never reports it). */
+  const speakLine = (m: DateMessage, idx: number, onDone?: () => void) => {
+    if (!supported) return onDone?.();
+    const synth = window.speechSynthesis;
+    const my = ++gen.current;
+    spokenIdx.current = idx;
+    synth.cancel();
+    synth.resume(); // Chrome sometimes leaves the queue paused
+    const who = m.from === a.id ? a : b;
+    const va = voiceFor(voices, a.gender);
+    const v = who === a ? va : voiceFor(voices, b.gender, va);
+    const sameVoice = va && v === va && who === b;
+    const parts = chunks(m.say);
+    let finished = false;
+    const done = () => {
+      if (finished || my !== gen.current) return;
+      finished = true;
+      setSpeaking(false);
+      onDone?.();
+    };
+    // Watchdog: ~70ms per character + slack.
+    setTimeout(done, m.say.length * 70 + 2500);
+    setSpeaking(true);
+    // Small delay after cancel(): Chrome drops a speak() issued in the same tick.
+    setTimeout(() => {
+      if (my !== gen.current) return;
+      keepAlive.length = 0;
+      parts.forEach((text, i) => {
+        const u = new SpeechSynthesisUtterance(text);
+        if (v) u.voice = v;
+        u.lang = v?.lang ?? "en-US";
+        u.volume = 1;
+        u.rate = 1.02;
+        u.pitch = sameVoice ? 1.35 : who.gender === "woman" ? 1.1 : 0.95;
+        if (i === parts.length - 1) {
+          u.onend = done;
+          u.onerror = (e) => {
+            if (e.error !== "interrupted" && e.error !== "canceled") done();
+          };
+        }
+        keepAlive.push(u);
+        synth.speak(u);
+      });
+    }, 80);
+  };
+
+  // Replay without voice: advance on a reading timer.
   useEffect(() => {
     if (playIdx === null) return;
-    if (playIdx >= messages.length - 1) {
+    if (playIdx >= messages.length - 1 && !(voice && speaking)) {
       const t = setTimeout(() => setPlayIdx(null), 4000);
       return () => clearTimeout(t);
     }
-    if (voice) return; // speech end handler advances
+    if (voice) return; // with voice, speech completion advances the replay
     const t = setTimeout(() => setPlayIdx((i) => (i === null ? null : i + 1)), Math.min(7000, 1800 + (messages[playIdx]?.say.length ?? 0) * 35));
     return () => clearTimeout(t);
-  }, [playIdx, voice, messages]);
+  }, [playIdx, voice, speaking, messages]);
 
-  // Voice: read each new line aloud with a voice matching the speaker.
+  // Voice on: speak each newly shown line (live dates and replays).
+  const lastIdx = shown.length - 1;
   useEffect(() => {
-    if (!voice || !last || typeof window === "undefined" || !window.speechSynthesis) return;
-    const idx = shown.length - 1;
-    if (spoken.current === idx) return;
-    spoken.current = idx;
-    window.speechSynthesis.cancel();
-    const u = new SpeechSynthesisUtterance(last.say);
-    const who = last.from === a.id ? a : b;
-    u.voice = pickVoice(who.gender) ?? null;
-    u.rate = 1.03;
-    u.pitch = who.gender === "woman" ? 1.15 : 0.9;
-    u.onend = () => setPlayIdx((i) => (i === null ? null : i + 1));
-    window.speechSynthesis.speak(u);
-  }, [voice, last, shown.length, a, b]);
+    if (!voice || !last || spokenIdx.current === lastIdx) return;
+    speakLine(last, lastIdx, () => {
+      if (playIdx !== null) setPlayIdx((i) => (i === null ? null : Math.min(i + 1, messages.length - 1)));
+    });
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [voice, lastIdx]);
 
-  useEffect(() => () => window.speechSynthesis?.cancel(), []);
+  useEffect(() => () => { gen.current++; if (typeof window !== "undefined") window.speechSynthesis?.cancel(); }, []);
+
+  const toggleVoice = () => {
+    if (voice) {
+      stopSpeech();
+      setVoice(false);
+      return;
+    }
+    setVoice(true);
+    // Start speaking inside the click (browsers require a user gesture). On a finished date, play it from the top.
+    if (!live && messages.length && playIdx === null) {
+      setPlayIdx(0);
+      speakLine(messages[0], 0, () => setPlayIdx((i) => (i === null ? null : Math.min(i + 1, messages.length - 1))));
+    } else if (last) {
+      speakLine(last, lastIdx, () => playIdx !== null && setPlayIdx((i) => (i === null ? null : Math.min(i + 1, messages.length - 1))));
+    }
+  };
+
+  const togglePlay = () => {
+    if (playIdx !== null) {
+      stopSpeech();
+      setPlayIdx(null);
+      return;
+    }
+    setPlayIdx(0);
+    if (voice) speakLine(messages[0], 0, () => setPlayIdx((i) => (i === null ? null : Math.min(i + 1, messages.length - 1))));
+    else spokenIdx.current = -1;
+  };
 
   return (
     <section className="relative aspect-[16/10] w-full overflow-hidden rounded-[2rem] border border-white/10 md:aspect-[16/9]">
@@ -96,9 +206,13 @@ export function DateStage({ scene, venue, a, b, messages, live }: { scene?: Scen
         </div>
         <div className="flex gap-2">
           {!live && messages.length > 0 && (
-            <button className="btn-ghost bg-black/40" onClick={() => { spoken.current = -1; setPlayIdx(playIdx === null ? 0 : null); }}>{playIdx === null ? "▶ Play the date" : "■ Stop"}</button>
+            <button className="btn-ghost bg-black/40" onClick={togglePlay}>{playIdx === null ? "▶ Play the date" : "■ Stop"}</button>
           )}
-          <button className={`btn-ghost bg-black/40 ${voice ? "border-pink-400 text-pink-200" : ""}`} onClick={() => { if (voice) window.speechSynthesis?.cancel(); spoken.current = voice ? -1 : shown.length - 1; setVoice(!voice); }}>{voice ? "🔊 Voices on" : "🔇 Voices off"}</button>
+          {supported && (
+            <button className={`btn-ghost bg-black/40 ${voice ? "border-pink-400 text-pink-200" : ""}`} onClick={toggleVoice} title="Hear the agents (uses your browser's voices)">
+              {voice ? (speaking ? "🔊 Speaking…" : "🔊 Voices on") : "🔈 Hear the agents"}
+            </button>
+          )}
         </div>
       </div>
 

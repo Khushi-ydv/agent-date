@@ -1,0 +1,162 @@
+{
+  "id": "ydvv.khushii",
+  "createdAt": 1790855271022,
+  "linkedinUrl": "https://www.linkedin.com/in/khushiiiyadav/",
+  "instagramUrl": "https://www.instagram.com/ydvv.khushii",
+  "status": "error",
+  "datingStatus": "idle",
+  "log": [
+    {
+      "t": 1790855271025,
+      "step": "Opening Instagram",
+      "detail": "https://www.instagram.com/ydvv.khushii"
+    },
+    {
+      "t": 1790855272109,
+      "step": "Read Instagram @ydvv.khushii",
+      "detail": "10 recent posts, bio: “👩‍💻 | AI Developer\n✨ | 23K+ on LinkedIn\n💬 | Tech x Code” · via instagram-crawler-html (Mozilla)"
+    },
+    {
+      "t": 1790855272109,
+      "step": "Opening LinkedIn",
+      "detail": "https://www.linkedin.com/in/khushiiiyadav/"
+    },
+    {
+      "t": 1790855312561,
+      "step": "Read LinkedIn: Khushi Yadav",
+      "detail": " · 10 posts/articles · via brightdata/linkedin-profiles"
+    },
+    {
+      "t": 1790855312562,
+      "step": "✓ Identity check",
+      "detail": "LinkedIn and Instagram names match"
+    },
+    {
+      "t": 1790855312562,
+      "step": "Agent is reading both profiles",
+      "detail": "cross-referencing career, captions and photos"
+    },
+    {
+      "t": 1790855312657,
+      "step": "Failed",
+      "detail": "Our AI agents are out of free capacity right now (LLM rate limit). Please try again in a few minutes."
+    }
+  ],
+  "gender": "woman",
+  "seeking": "men",
+  "genderSource": "stated",
+  "instagram": {
+    "source": "instagram",
+    "method": "instagram-crawler-html (Mozilla)",
+    "username": "ydvv.khushii",
+    "url": "https://www.instagram.com/ydvv.khushii/",
+    "fullName": "Khushi Yadav",
+    "bio": "👩‍💻 | AI Developer\n✨ | 23K+ on LinkedIn\n💬 | Tech x Code",
+    "followers": 509,
+    "following": 312,
+    "postsCount": 10,
+    "isVerified": false,
+    "isPrivate": false,
+    "profilePic": "https://scontent.cdninstagram.com/v/t51.82787-19/670103866_17874634821581736_1654568716415558619_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=101&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=IpLC0l7HW54Q7kNvwEMg8Iw&_nc_oc=Adq3oaRYkUsHxn1nCyB0jKo40fnO5NogXbAxJGK4QRI1F2qGN1BQXDHj471ZhOiq04YAUhg-ZfiN9GAst8Bn2uGk&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=BxM96x_NvL1GkvL8FVyG_A&_nc_ss=7f689&oh=00_AQPZ_v31inM6xFTK95wXxIk3nC9xxvc8LrPHCSSHdQf0lQ&oe=6AC41FE3",
+    "posts": [
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/829319689_17905216896581736_6656438354323824816_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=a4Xont9NDhQQ7kNvwH7yR_a&_nc_oc=AdqJDPyaGNUvpGiuII6ywyXvRHwbUkcxyKV2KUyqDqQoI7T1HQH-pl7pk4sKliqggkHmQajZNA5aP6mMfky-IRW3&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=vkJ--awa4_ZOY3fZEQ-L5w&_nc_ss=7f689&oh=00_AQNy0_zJmeeLY3_VSf7m4VwpPsBYtqJonQWBHQIrPI2FrQ&oe=6AC41E02",
+        "caption": "Fest ‘ 26 ? ✨#krmu"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/818813378_17903456265581736_5584621504596960657_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=dyLVRMhxjUwQ7kNvwHMQ0cb&_nc_oc=AdqcahvrP2scKLFGYHUihB-CXfd1J_ZpGUqvTdfZ66TRvpZnSHKRS1hF1LqlzcbjUOhMx07N1I1NvJtaXElOaH0G&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=vkJ--awa4_ZOY3fZEQ-L5w&_nc_ss=7f689&oh=00_AQMIrYHpyOoeVCoASFVShRwM5PJHMiaO5-VAX7EhEh0X3w&oe=6AC42399",
+        "caption": "Delhi NCR’s Biggest Creator Meetup 🫶🏻♥️\n\n#creator #unjobs #delhi #meetup"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/763847453_17894978295581736_4847678861068223104_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=wftCCUjIznAQ7kNvwHtUN67&_nc_oc=Adr-1yulJ2pCD_PnSiuFiK9WfHlFt6h37668814MAqZPkWzhEtamfGXun6AEsIyfT69lKM3dsVQtiAj3Cg68mg9T&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=vkJ--awa4_ZOY3fZEQ-L5w&_nc_ss=7f689&oh=00_AQO0XP0gdZY0j1KaJE6W1rPd8MO6QtFWAt2FZjheuHBJuQ&oe=6AC40404",
+        "caption": "Speaking at @physicswallah IOI definitely wasn’t something I expected in 2026, but I’m incredibly grateful for the opportunity. ✨\n\nHad an amazing time delivering a session on Building AI Agents & Observability, where we built AI agents from scratch, explored LangGraph (Graphs & State), Tool Calling, Agent Workflows, and learned how to trace and debug agents using LangSmith.\n\nAlways grateful for opportunities to share what I’m learning with such an enthusiastic audience. Here’s to more building, more learning, and many more stages ahead. \n\n[AI Agents | Agentic AI | LangGraph | LangSmith | AI Observability | LLMs | Generative AI | AI Engineering | AI Engineer | Agent Workflows , Tech ]\n\n#physicswallah #pw #aiagents #tech"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/755386061_17893476456581736_5630600447838695049_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=E0J4-4rRHbEQ7kNvwGV0kDw&_nc_oc=Adp-EDk01HFfalMLUvQ9gSce35AnVIyItE9WEg14E69XytYoSASl4rrCO55daVrZvq7-0dDvnRWn68dtjnfYzBKj&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=vkJ--awa4_ZOY3fZEQ-L5w&_nc_ss=7f689&oh=00_AQOHNzKT3x7V-6o2w4ZrmScCxe6ypleq3HDEuAozU16tkA&oe=6AC408B8",
+        "caption": "No wayy I got invited to @paytm office to speak on AI Agents 👀💙\n\nIt was amazing interacting with such an engaged audience and discussing how AI agents are evolving from demos to production systems through tracing, evaluation, and observability.\n\nGrateful for the opportunity, the conversations, and everyone who joined the session. Looking forward to many more!\n\n#aiagent #events #tech #paytm #coding"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/731423227_17888051079581736_6502962366818654571_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=_mXbjWDH5nwQ7kNvwERey02&_nc_oc=AdqLAOmWIC770ibtTq_cSMoxeCjCUnsxrsFQwxKaHHvLJVWF4wu3p-bRH34mUxXUyHdpXjFpAlCK5Xl0jAgfa7kL&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=vkJ--awa4_ZOY3fZEQ-L5w&_nc_ss=7f689&oh=00_AQN-bcSCdgotfLeckPSAzFO64HsxUrFg5ZjBdKrslxFoPQ&oe=6AC436BF",
+        "caption": "Last winter 🫢🤍"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/683922753_2398013973945050_6629707279239161779_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=fS2D0Iqlpg0Q7kNvwEYxtOD&_nc_oc=AdobGFgmv4-6wvPbvZVeBL8y94OrDtyagRJqWoe4OtO1AY1KV0FT3epcHi1g9j79jbAATvfKLdo908Hzpc8aN_st&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=vkJ--awa4_ZOY3fZEQ-L5w&_nc_ss=7f689&oh=00_AQMyfnf63m6gW8EVx1wB0ttp3GNzlgmrmKvcLOTvoYimYw&oe=6AC40AE8",
+        "caption": "Got invited to mentor at HackIndia Spark 6 !!♥️\n\nIndia’s biggest AI & Web3 hackathon.\n\nMy first time mentoring at a large-scale hackathon and honestly, a very insightful experience.\n\nGot to interact with teams building across AI, ML, Web3 and more.\n\nGrateful for the experience ✨\n\n[ NIT Delhi , HackIndia , AI/ML , Tech ]\n\n#hackindia #nit #hackathon #mentor #agenticai"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/670432208_17874624129581736_2349277594537822820_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=J65i8KGMgdoQ7kNvwFuaboP&_nc_oc=AdrtbLGjEqJQGBGQESrYfalZZJtZfjU3Nn9UMbb2JbxPCxN2XVYITAWOfMcG65jHOELWK82RrZCShEzsRAxZE57W&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=vkJ--awa4_ZOY3fZEQ-L5w&_nc_ss=7f689&oh=00_AQOjO6DoObvtxm42fXB2NNT_zAbLXcgY3kCiEqf-Skad-g&oe=6AC412AA",
+        "caption": "~"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/645577024_17867671281581736_2686766361624668575_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=vuOwjF6zXOYQ7kNvwGdV-06&_nc_oc=AdrmVjoz05Ozy1TsEYb8QJKM9fUgsSt1XswAqqvDAenlEh-BizzTaKMeTl5H4Htk2AOPJmBfWFdwc3iY29uoDBg4&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=vkJ--awa4_ZOY3fZEQ-L5w&_nc_ss=7f689&oh=00_AQNYfe1C9dJsFUaUWLyw8pZHKV1JeMqDU1PXelbk1Ki80w&oe=6AC431BB",
+        "caption": "21st Birthday ♥️🥰 \n- - - -\n\nPretty awesome day ♥️\n\n#birthday #fyp"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/606978584_1275491807673192_3839735064681485088_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=RjWvytt2nOEQ7kNvwHNnS1e&_nc_oc=Adqhgyon61bftRukKpGafGf_TvkLa425r3uS0ma8pgRpabfUENA1Wd5yaannw1eVxFd4_Y3m-jo1acTGyJ8VlNLM&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=vkJ--awa4_ZOY3fZEQ-L5w&_nc_ss=7f689&oh=00_AQNyi1EaqD5r3s-XJw5A6A5pLnu_vzfdBBGBFSpIwPy_Qw&oe=6AC40EFA",
+        "caption": "Here 2025 comes to an end …\nPretty amazing year ❄️\n- - - - \n\n#2025recap #recap"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/600329381_18553145944044444_7235634387017090351_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Brd-CxWmqGcQ7kNvwGbt3Mr&_nc_oc=AdrT9xhMIFwrPjGn_kkEEZ6QViccIovsXLouG8OkHZTmdJD2Vhg_QH2ePrW4ZcKHOYjzGwFvqmF8oB_jG4Wyq0W4&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=vkJ--awa4_ZOY3fZEQ-L5w&_nc_ss=7f689&oh=00_AQMG4GR7I0tMeycp7gsHqiX821DGAvHhCwZVihiZknPEAw&oe=6AC42ABD",
+        "caption": "From Curiosity to Confidence!\n\nKRMU gave Khushi Yadav the space to explore beyond the syllabus.\n\nMentorship, freedom to build, and real exposure helped her turn AI into a career before graduation.\nAt 20, financially independent with AI, clients & confidence.\n\nHer success proves that one bold choice can change everything. 🚀\nThis is where skills find direction. 🚀\n\n#KRMU #KRMangalam #KRMangalamUniversity #SkillsOverDegree #CareerBeyondBooks #AIJourney #StudentSuccess #Genzsuccess  #FutureReady #BoldChoices #TechCreators #AIStudents #Sohna"
+      }
+    ]
+  },
+  "photo": "https://scontent.cdninstagram.com/v/t51.82787-19/670103866_17874634821581736_1654568716415558619_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=101&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=IpLC0l7HW54Q7kNvwEMg8Iw&_nc_oc=Adq3oaRYkUsHxn1nCyB0jKo40fnO5NogXbAxJGK4QRI1F2qGN1BQXDHj471ZhOiq04YAUhg-ZfiN9GAst8Bn2uGk&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=BxM96x_NvL1GkvL8FVyG_A&_nc_ss=7f689&oh=00_AQPZ_v31inM6xFTK95wXxIk3nC9xxvc8LrPHCSSHdQf0lQ&oe=6AC41FE3",
+  "linkedin": {
+    "source": "linkedin",
+    "method": "brightdata/linkedin-profiles",
+    "slug": "khushiiiyadav",
+    "url": "https://www.linkedin.com/in/khushiiiyadav",
+    "name": "Khushi Yadav",
+    "about": "I’m an AI Engineer focused on building Agentic AI systems and production-grade AI…",
+    "location": "Gurugram, Haryana, India",
+    "profilePic": "https://media.licdn.com/dms/image/v2/D5603AQFdIQG8J6DfgA/profile-displayphoto-shrink_200_200/B56ZaGVC7nGkAc-/0/1746010387981?e=2147483647&v=beta&t=bSNeZPEA45luiChlq5L43LgHPCEvNorHkDtA-Kg2C3U",
+    "followers": 23077,
+    "experience": [],
+    "education": [],
+    "languages": [],
+    "posts": [
+      {
+        "kind": "post",
+        "text": "A lot of you have been asking me, “How were your AI/ML interviews?” So I thought, why not drop a couple of questions that might actually be useful for you : 1. Your ML model is performing well, but GPU utilization is only 30%. How would you approach optimizing it? Small hint: Don’t immediately blame the GPU. First identify where the bottleneck is. Look at data loading, CPU → GPU transfers, batch size, memory utilization, and the inference/training pipeline. 2. Your ML model gives the right predictions, but inference takes 2 seconds per request. You need to bring it down to under 200ms without "
+      },
+      {
+        "kind": "post",
+        "text": "Khushi Yadav started her AI career with an internship that paid ₹0. Today, she's an AI Engineer at TruGen AI, and this Saturday she's teaching Generative AI at AI Connect India, live and free. Khushi builds AI agents and voice AI for a living. One of her own projects is an app that clones a voice from just 30 seconds of audio and runs entirely on her laptop. She has also spoken and mentored at 11 tech events, including Paytm , PW (PhysicsWallah) and GDG. On Saturday, she'll explain how Generative AI works inside real products, not just in a chat window, and she'll take your questions live. Sat"
+      },
+      {
+        "kind": "post",
+        "text": "Honored to be invited to the Data Streaming World Tour by Confluent, an IBM Company ! It was an incredible opportunity to be in a room with technology leaders, engineers, and builders shaping modern data infrastructure. A few highlights from the day: ✅ Won 1st prize in Wonzo ✅ Got insights into engineering architectures shared by leading companies like Zomato, District, and others ✅ Explored how Apache Kafka, real-time data streaming, and modern data architectures are powering today’s AI and data workloads A day full of great conversations, technical insights, and perspectives on where data en"
+      },
+      {
+        "kind": "post",
+        "text": "I kick-started my career as an AI Automation Intern at the end of my 2nd year of engineering, with a stipend of ₹0 !! And honestly, that ₹0 opportunity became the starting point for everything that followed. From AI Automation → GenAI → AI Agents → Agentic AI, my focus kept evolving, but one thing stayed constant: going deeper. If I could tell students one thing: Don’t try to learn everything at once. Pick one skill. Go deep into it. Build crazy projects. Solve challenging problems. Keep sharpening your craft. Most importantly , work on your communication skills ! You don’t need the perfect op"
+      },
+      {
+        "kind": "post",
+        "text": "Excited to be at the Confluent Data Streaming World Tour 2026 - Delhi . GenAI and real-time data streaming are redefining how businesses operate. Looking forward to learning from real customer stories, gaining expert insights, and connecting with peers driving this transformation. #DataStreaming #ApacheKafka #GenAI #DelhiEvents #Confluent #DSWT2026 ...more"
+      },
+      {
+        "kind": "post",
+        "text": "ChatGPT identified 🇳🇪 Niger as 🇮🇳 India.. And somehow, it even discovered an Ashoka Chakra that wasn’t there .. AI engineers, what would you call this? ➡️ Classification error? ➡️ Visual grounding failure? ➡️ Multimodal hallucination? ➡️ Overconfident model prediction? Meanwhile, OpenAI seems pretty busy with the Astra release… Maybe give the foundational models a little attention too 👀 ...more"
+      },
+      {
+        "kind": "post",
+        "text": "The skill I’ve found most useful in AI engineering? No , it isn’t a specific framework. It’s thinking in systems !! ✅ A RAG system can return a completely valid answer from completely wrong context. ✅ An agent can choose the wrong tool even when the tool itself works perfectly. ✅ A voice pipeline can produce clean audio while quietly losing speaker identity. ✅ A vision agent can correctly identify what it sees and still make the wrong decision about what to do next. ✅ A model can look incredible on benchmarks and still behave differently on your actual workload. That’s when AI engineering gets"
+      },
+      {
+        "kind": "post",
+        "text": "Happy Fridayyyyy! 🎉 Thank God I’m not finished.(TGIF) Thank God YOU are not finished too. 😂 Today, I’m celebrating YOU ALL. Honestly, I think I have one of the best communities on LinkedIn. ❤️ Thank you for constantly supporting ME. IMAGINE Just yesterday … a lot of you have literally carried eMBBS on your head oo. 😂 Fact check: I’m not running School of eMBBS Alone. My community is running it with me. And guys, help me celebrate one of the smartest friends I know, all the way from India. 🇮🇳 Khushi Yadav She has been amazing and incredibly supportive. ❤️ Thank you all❤️ Do have an amazing"
+      },
+      {
+        "kind": "post",
+        "text": "𝗢𝘂𝗿 𝗿𝗲𝘀𝗲𝗮𝗿𝗰𝗵 𝗽𝗮𝗽𝗲𝗿 𝗴𝗼𝘁 𝗽𝘂𝗯𝗹𝗶𝘀𝗵𝗲𝗱 𝗮𝘁 𝘁𝗵𝗲 6𝘁𝗵 𝗜𝗻𝘁𝗲𝗿𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗖𝗼𝗻𝗳𝗲𝗿𝗲𝗻𝗰𝗲 𝗼𝗻 𝗠𝗥𝗖𝗡 2025 , Springer ! Our paper titled , “Defakeit: AI-powered Deepfake Media Detection Model and Anti-Spoofing System,” is finally published! 🥹📄 🔗 https://lnkd.in/dYi96Ax3 I worked on the core technical implementation, focusing on deepfake detection and anti-spoofing across images, audio, and video, exploring different approaches to identify manipulated media. But getting the implementation into a proper research paper was a whole different journey. We re"
+      },
+      {
+        "kind": "post",
+        "text": "Yash Yadav Sure !!"
+      }
+    ]
+  },
+  "error": "Our AI agents are out of free capacity right now (LLM rate limit). Please try again in a few minutes."
+}

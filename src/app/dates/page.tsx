@@ -1,11 +1,12 @@
 import Link from "next/link";
 import { Avatar } from "@/components/Avatar";
-import { getPerson, listDates } from "@/lib/store";
+import { listDates, listPeople } from "@/lib/store";
 
 export const dynamic = "force-dynamic";
 
-export default function Dates() {
-  const dates = listDates().reverse();
+export default async function Dates() {
+  const dates = (await listDates()).filter((d) => d.status !== "error").reverse();
+  const byId = new Map((await listPeople()).map((p) => [p.id, p]));
   return (
     <div className="space-y-6">
       <div>
@@ -14,8 +15,8 @@ export default function Dates() {
       </div>
       <div className="grid gap-3 md:grid-cols-2">
         {dates.map((d) => {
-          const A = getPerson(d.a);
-          const B = getPerson(d.b);
+          const A = byId.get(d.a);
+          const B = byId.get(d.b);
           const an = A?.analysis?.name ?? d.a;
           const bn = B?.analysis?.name ?? d.b;
           const da = d.debriefs[d.a];

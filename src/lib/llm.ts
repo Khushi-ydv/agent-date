@@ -22,6 +22,7 @@ export interface ChatOptions {
 interface Target {
   provider: Provider;
   model: string;
+  key: string;
   tiers: Tier[];
   vision: boolean;
   cooldownUntil: number;
@@ -33,17 +34,19 @@ const list = (v: string | undefined, d: string) => (v || d).split(",").map((s) =
 
 function buildTargets(): Target[] {
   const t: Target[] = [];
-  if (process.env.GEMINI_API_KEY) {
+  // Comma-separated keys are allowed: each Google Cloud project / Groq account has its own free quota.
+  const keys = (v?: string) => (v ?? "").split(",").map((k) => k.trim()).filter(Boolean);
+  for (const key of keys(process.env.GEMINI_API_KEY)) {
     for (const model of list(process.env.GEMINI_SMART_MODELS, "gemini-3.5-flash,gemini-2.5-flash,gemini-3.5-flash-lite"))
-      t.push({ provider: "gemini", model, tiers: ["smart", "fast"], vision: true, cooldownUntil: 0, active: 0, max: 2 });
+      t.push({ provider: "gemini", model, key, tiers: ["smart", "fast"], vision: true, cooldownUntil: 0, active: 0, max: 2 });
     for (const model of list(process.env.GEMINI_FAST_MODELS, "gemini-2.5-flash-lite"))
-      t.push({ provider: "gemini", model, tiers: ["fast"], vision: true, cooldownUntil: 0, active: 0, max: 3 });
+      t.push({ provider: "gemini", model, key, tiers: ["fast"], vision: true, cooldownUntil: 0, active: 0, max: 3 });
   }
-  if (process.env.GROQ_API_KEY) {
+  for (const key of keys(process.env.GROQ_API_KEY)) {
     for (const model of list(process.env.GROQ_SMART_MODELS, "openai/gpt-oss-120b"))
-      t.push({ provider: "groq", model, tiers: ["smart", "fast"], vision: false, cooldownUntil: 0, active: 0, max: 2 });
+      t.push({ provider: "groq", model, key, tiers: ["smart", "fast"], vision: false, cooldownUntil: 0, active: 0, max: 2 });
     for (const model of list(process.env.GROQ_FAST_MODELS, "openai/gpt-oss-20b,qwen/qwen3.8-27b"))
-      t.push({ provider: "groq", model, tiers: ["fast"], vision: false, cooldownUntil: 0, active: 0, max: 2 });
+      t.push({ provider: "groq", model, key, tiers: ["fast"], vision: false, cooldownUntil: 0, active: 0, max: 2 });
   }
   if (!t.length) throw new Error("No LLM key configured. Set GEMINI_API_KEY and/or GROQ_API_KEY.");
   return t;
@@ -69,7 +72,7 @@ async function callGemini(t: Target, o: ChatOptions): Promise<string> {
   }));
   const res = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/${t.model}:generateContent`, {
     method: "POST",
-    headers: { "Content-Type": "application/json", "x-goog-api-key": process.env.GEMINI_API_KEY! },
+    headers: { "Content-Type": "application/json", "x-goog-api-key": t.key },
     body: JSON.stringify({
       systemInstruction: { parts: [{ text: o.system }] },
       contents,
@@ -82,7 +85,11 @@ async function callGemini(t: Target, o: ChatOptions): Promise<string> {
     }),
     signal: AbortSignal.timeout(90_000),
   });
-  if (res.status === 429) throw new RetryableError(60_000, `${t.model} 429`);
+  if (res.status === 429) {
+    // Daily quota exhausted -> park this target for an hour; per-minute limit -> one minute.
+    const daily = /exceeded your current quota|PerDay/i.test(await res.text());
+    throw new RetryableError(daily ? 3_600_000 : 60_000, `${t.model} 429${daily ? " (daily quota)" : ""}`);
+  }
   if (res.status >= 500) throw new RetryableError(15_000, `${t.model} ${res.status}`);
   if (!res.ok) throw new Error(`${t.model} ${res.status}: ${(await res.text()).slice(0, 300)}`);
   const body = await res.json();
@@ -94,15 +101,20 @@ async function callGemini(t: Target, o: ChatOptions): Promise<string> {
   return text;
 }
 
+const GROQ_TPM = Number(process.env.GROQ_TPM || 8000);
+const estTokens = (o: ChatOptions) => Math.ceil((o.system.length + o.messages.reduce((n, m) => n + m.content.length, 0)) / 3.6);
+
 async function callGroq(t: Target, o: ChatOptions): Promise<string> {
   const res = await fetch("https://api.groq.com/openai/v1/chat/completions", {
     method: "POST",
-    headers: { "Content-Type": "application/json", Authorization: `Bearer ${process.env.GROQ_API_KEY}` },
+    headers: { "Content-Type": "application/json", Authorization: `Bearer ${t.key}` },
     body: JSON.stringify({
       model: t.model,
       messages: [{ role: "system", content: o.system }, ...o.messages],
       temperature: o.temperature ?? 0.8,
-      max_completion_tokens: o.maxTokens ?? 4096,
+      // Groq counts requested max tokens against its tokens-per-minute budget (8k on free tier), so size
+      // the output allowance to what's left after the (estimated) prompt.
+      max_completion_tokens: Math.max(400, Math.min(o.maxTokens ?? 4096, GROQ_TPM - estTokens(o) - 300)),
       ...(t.model.includes("gpt-oss") ? { reasoning_effort: "low" } : {}),
       ...(t.model.includes("qwen") ? { reasoning_effort: "none" } : {}),
       ...(o.json ? { response_format: { type: "json_object" } } : {}),
@@ -110,8 +122,11 @@ async function callGroq(t: Target, o: ChatOptions): Promise<string> {
     signal: AbortSignal.timeout(90_000),
   });
   if (res.status === 429) {
+    const body = await res.text();
     const ra = Number(res.headers.get("retry-after")) || 20;
-    throw new RetryableError(ra * 1000, `${t.model} 429`);
+    // Per-day token/request caps (TPD/RPD) won't clear in seconds: park the model for an hour.
+    const daily = /per day|TPD|RPD/i.test(body);
+    throw new RetryableError(daily ? 3_600_000 : ra * 1000, `${t.model} 429${daily ? " (daily quota)" : ""}: ${body.slice(0, 160)}`);
   }
   if (res.status >= 500) throw new RetryableError(15_000, `${t.model} ${res.status}`);
   if (!res.ok) throw new Error(`${t.model} ${res.status}: ${(await res.text()).slice(0, 300)}`);
@@ -137,12 +152,17 @@ function pick(o: ChatOptions, tried: Set<Target>): Target | null {
 }
 
 export async function chat(o: ChatOptions): Promise<string> {
-  const deadline = Date.now() + 240_000;
+  // Web requests must answer quickly (serverless limits); scripts can raise this via LLM_DEADLINE_MS.
+  const deadline = Date.now() + Number(process.env.LLM_DEADLINE_MS || 55_000);
   let lastErr: unknown = new Error("no LLM target available");
   let tried = new Set<Target>();
   while (Date.now() < deadline) {
     const t = pick(o, tried);
     if (!t) {
+      // Fail fast if nothing can recover before the deadline (e.g. every model's daily quota is used up).
+      const tierTargets = targets!.filter((x) => x.tiers.includes(o.tier ?? "smart"));
+      const soonest = Math.min(...tierTargets.map((x) => (x.active < x.max ? x.cooldownUntil : Date.now())));
+      if (soonest > deadline) throw new Error(`no LLM target available: rate limited (${lastErr instanceof Error ? lastErr.message.slice(0, 80) : ""})`);
       // All targets busy, cooling down, or already failed this round: wait and start a fresh round.
       await sleep(1500);
       if (targets!.filter((x) => x.tiers.includes(o.tier ?? "smart")).every((x) => tried.has(x))) tried = new Set();

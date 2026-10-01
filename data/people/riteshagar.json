@@ -4,7 +4,7 @@
   "linkedinUrl": "https://www.linkedin.com/in/riteshagar/",
   "instagramUrl": "https://www.instagram.com/riteshagar/",
   "status": "ready",
-  "datingStatus": "idle",
+  "datingStatus": "done",
   "log": [
     {
       "t": 1790849584232,
@@ -45,6 +45,21 @@
       "t": 1790850794707,
       "step": "Identified as a man, looking for women",
       "detail": "The name Ritesh Agarwal is a male name, and the text contains no female pronouns or self-descriptions."
+    },
+    {
+      "t": 1790852286276,
+      "step": "Agent is reviewing the pool",
+      "detail": "12 other agents' clients"
+    },
+    {
+      "t": 1790852291236,
+      "step": "Asked out",
+      "detail": "Marie Forleo, Alexa von Tobel, Namita Thapar"
+    },
+    {
+      "t": 1790852544579,
+      "step": "All dates finished",
+      "detail": "rankings updated"
     }
   ],
   "linkedin": {
@@ -116,30 +131,30 @@
     "postsCount": 716,
     "isVerified": true,
     "isPrivate": false,
-    "profilePic": "https://scontent.cdninstagram.com/v/t51.2885-19/135634910_1583120695206561_9137902025974480375_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy40ODAuQzMifQ%3D%3D&_nc_ohc=TcMA9HluvpwQ7kNvwEH3dS7&_nc_oc=AdojMXXG6eFgKc4r0VI54ZidHfupyo1kW2R3y0WR-oSRRI1rR3XL5lfMKNUmN3N3xQbkKvBjbeWUspAKbCIhHf4z&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=7f689&oh=00_AQMpHpqwJb7pLCVRO1ssIZ0JiUH_xVP1ZBUoTStNfEZxgA&oe=6AC41314",
+    "profilePic": "/people/riteshagar/avatar.jpg",
     "posts": [
       {
-        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/825323397_18637629895011901_7083328257790719978_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=tx8jDhqfhPcQ7kNvwFFhIOU&_nc_oc=AdoXKg-BNKNwcbZCprKxi3S_Z7AoHrKDCFyGEKCYUpr2F-mUZV-fIqyy47jhnNDiWBy_KENFWzI7XswFAI5bSSzE&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=4EIhMcguNrZ2ZFee3DZtYw&_nc_ss=7f689&oh=00_AQNh1WRNTqQnXgNMydGdlx-Sl0LhcIA0auQUuipvtF9WrQ&oe=6AC41B0E",
+        "imageUrl": "/people/riteshagar/p0.jpg",
         "caption": "As companies grow, the founder cannot be the source of every good idea. And probably should not be.\n\nYou need simple systems that allow curiosity to travel across teams, functions, and geographies.\n\nFor us, sometimes that is as basic as an open document, a few minutes every week, and one important rule: don\u2019t judge an idea too quickly.\n\nInnovation does not always need a complicated process.\n\nSometimes it just needs fewer barriers."
       },
       {
-        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/820265881_18636945964011901_5705720193031120324_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=G4zuyfJCi7AQ7kNvwHJJw3p&_nc_oc=AdoGq96Kt369cgjk_Y_7MnN5IdFqtSuF62Z4QQ8R_OyELbkl-Qhv7LPRT6TOtXxv2gCeMJNU70kgRIwjE8PjUONL&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=4EIhMcguNrZ2ZFee3DZtYw&_nc_ss=7f689&oh=00_AQM3IDIOGPj8Kt5V11Z8KhqbHpwqPO33OnhkZT61vt0BMg&oe=6AC40D20",
+        "imageUrl": "/people/riteshagar/p1.jpg",
         "caption": "Ambition is rarely limited by the size of the goal. More often, it\u2019s the small habits around it.\n\nA little less discipline, a little more comparison, a little impatience, and even the biggest goal can remain just that: a goal.\n\nMost ambitious goals don\u2019t fail because they were too ambitious. They fail because the everyday habits needed to support them never quite show up.\n\nSometimes the best advice makes more sense when you read it backwards."
       },
       {
-        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/799525572_18636224680011901_2454426477618605381_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=Po0uAhKl9C4Q7kNvwGR2SDb&_nc_oc=AdrrPlsxut1iUmS19lNjbDx_cQTG0yWBOlagV1uvbxhTh8qteUGr_jed25j0_eVM6xfPYvAcWdvAfviA0oSlZbuM&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=4EIhMcguNrZ2ZFee3DZtYw&_nc_ss=7f689&oh=00_AQMKGWQn-zrVotxM9w_o2v6voUrhG0IhdSdSy-6qLTTvQg&oe=6AC3F718",
+        "imageUrl": "/people/riteshagar/p2.jpg",
         "caption": "If you had asked me a few years ago how to win in life, I would have said work harder.\n\nBut my journey taught me something different.\n\nWinning is not about being harsh, loud or ruthless. It\u2019s about being clear, consistent and kind even when it\u2019s hard.\n\nIt\u2019s about understanding that no one is going to want your growth as much as you do. You have to show up for yourself every single day.\n\nIt\u2019s about realizing that your title doesn\u2019t define you, your work does. And if you make something with heart, it will always find its way to the right people.\n\nI am still learning, still figuring it out. But these 5 things changed how I look at growth and life.\n\nSharing it here because I know someone out there needs to hear this today."
       },
       {
-        "imageUrl": "https://scontent.cdninstagram.com/v/t15.5256-10/813420797_984069971391070_2651189115900933445_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=vabrw_YHwTIQ7kNvwEcDwQP&_nc_oc=Ado4ra26NwFer1ezpPMTa6PJxjmToYkgjPZotzIuiCwmNmv8XSwnhBwRR9aW4bp8i8LMatbh6hTJD2Gdg4bTMLbr&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=4EIhMcguNrZ2ZFee3DZtYw&_nc_ss=7f689&oh=00_AQOfLGIoXJNU_5yyQjzbfCOR9BhdYL8K31gD3Y0pVBffEQ&oe=6AC3FE6E",
+        "imageUrl": "/people/riteshagar/p3.jpg",
         "caption": "Burnout is rarely announced. It usually appears gradually in the form of silence, detachment, and a team that no longer feels connected to the outcome.\n\nAs a founder, I believe it is my responsibility to notice that shift before exhaustion becomes the accepted way of working. A team cannot do its best work when it is only trying to get through the week."
       },
       {
-        "imageUrl": "https://scontent.cdninstagram.com/v/t15.5256-10/809183836_915878604587040_6044762904925048041_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=4boalvMPbOYQ7kNvwHThJDm&_nc_oc=AdpVZZ022GwCEJn3D9HwWEChwEt2byP5aVymd6GksaVvV6Hrch2FZQLEWDnilEGybmPct-4lWmZq3KHNoojwE4Ut&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=4EIhMcguNrZ2ZFee3DZtYw&_nc_ss=7f689&oh=00_AQPeKCf8E_AAxtLcS6Yu9HsrvmJeUwnu48jozUP_ELfBTg&oe=6AC4092D",
+        "imageUrl": "/people/riteshagar/p4.jpg",
         "caption": "It\u2019s not just me; before investing, most investors want to understand whether the business becomes stronger as it grows or simply more expensive to operate.\n\nThe right numbers help them see beyond the headline growth. They reveal the quality of the business, the discipline of the founder, and whether the company has the foundations to build something enduring"
       },
       {
-        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/809910099_18623621488061119_800906249182067840_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=IWs3w1QPF74Q7kNvwHQP_us&_nc_oc=AdqsQduv6cG2HLgq_PU24ntjkc6hp-tLMuUemrhQLuKAG8M48XS7afUWz7t-wr8CQQiz9nTIDW16yTI-_vxUU2Rc&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=4EIhMcguNrZ2ZFee3DZtYw&_nc_ss=7f689&oh=00_AQPSuNyddemskMsjbx-LWdcHtokFuSeD0zA_W5G9NVHmEQ&oe=6AC3EBF0",
+        "imageUrl": "/people/riteshagar/p5.jpg",
         "caption": "Today, I\u2019m very proud to share an exciting next chapter for @sirclecollection \n\nFrom my first conversations with @riteshagar there was an immediate connection. Ritesh is a special human and an incredible entrepreneur, and we quickly discovered a shared mindset and ambition.\n\nToday, we\u2019re announcing our partnership with Sunday PropTech, backed by PRISM, to accelerate the international growth of Sircle Collection.\n\nWhat excites me most is how naturally our strengths complement each other. Sircle brings brands, creativity and hospitality expertise; Sunday PropTech, backed by PRISM, brings technology, infrastructure, scale and international reach.\n\nI\u2019m incredibly proud of what our teams have built and very excited about what comes next; bringing Sircle and our brands to more hotels, cities and communities around the world.\n\nRitesh, looking forward to building this next chapter together! @sirhotels @maxbrownhotels @aterre"
       },
       {
@@ -168,7 +183,7 @@
       }
     ]
   },
-  "photo": "https://scontent.cdninstagram.com/v/t51.2885-19/135634910_1583120695206561_9137902025974480375_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy40ODAuQzMifQ%3D%3D&_nc_ohc=TcMA9HluvpwQ7kNvwEH3dS7&_nc_oc=AdojMXXG6eFgKc4r0VI54ZidHfupyo1kW2R3y0WR-oSRRI1rR3XL5lfMKNUmN3N3xQbkKvBjbeWUspAKbCIhHf4z&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=7f689&oh=00_AQMpHpqwJb7pLCVRO1ssIZ0JiUH_xVP1ZBUoTStNfEZxgA&oe=6AC41314",
+  "photo": "/people/riteshagar/avatar.jpg",
   "analysis": {
     "name": "Ritesh Agarwal",
     "oneLiner": "Serial hospitality founder on a mission to make travel effortless and meaningful.",
@@ -363,5 +378,66 @@
   "seeking": "women",
   "genderSource": "inferred",
   "genderEvidence": "The name Ritesh Agarwal is a male name, and the text contains no female pronouns or self-descriptions.",
-  "shortlist": null
+  "shortlist": [
+    {
+      "id": "marieforleo",
+      "interest": 96,
+      "reason": "She beautifully mirrors Ritesh's unique blend of high-octane startup ambition, deep personal development, and a shared dedication to intentional habit design."
+    },
+    {
+      "id": "alexavontobel",
+      "interest": 94,
+      "reason": "As a fellow high-velocity founder and venture leader, she completely understands the balancing act of scaling businesses while prioritizing family adventures and travel."
+    },
+    {
+      "id": "namitathapar",
+      "interest": 92,
+      "reason": "They share a powerful cultural context within the Indian entrepreneurial ecosystem, paired with a mutual drive for impact, health, and scaling meaningful enterprises."
+    },
+    {
+      "id": "vineetasng",
+      "interest": 90,
+      "reason": "Her powerhouse background as a serial founder combined with a deep appreciation for Indian roots and resilience makes her a phenomenal conversational match for Ritesh."
+    },
+    {
+      "id": "jennakutcher",
+      "interest": 88,
+      "reason": "Her grounded approach to digital entrepreneurship, paired with a love for personal growth and family-centered living, aligns wonderfully with Ritesh's reflective side."
+    },
+    {
+      "id": "melrobbins",
+      "interest": 86,
+      "reason": "Her relentless focus on behavioral science, personal reinvention, and mental frameworks would spark endless late-night conversations about human habits."
+    },
+    {
+      "id": "barbaracorcoran",
+      "interest": 84,
+      "reason": "Her legendary entrepreneurial grit and infectious enthusiasm for cheering on bold dreamers would instantly unlock Ritesh's favorite topics on startup building."
+    },
+    {
+      "id": "katiecouric",
+      "interest": 82,
+      "reason": "Her journalist's innate curiosity, love for cultural exploration, and appreciation for the hospitality industry would make for an effortlessly engaging first date."
+    },
+    {
+      "id": "randizuckerberg",
+      "interest": 80,
+      "reason": "Her high-energy integration of tech, endurance, and family life matches Ritesh's fast-paced operational tempo and passion for innovation."
+    },
+    {
+      "id": "toryburch",
+      "interest": 78,
+      "reason": "Her dedication to empowering others through global enterprise and design offers a sophisticated parallel to Ritesh's mission-driven hospitality work."
+    },
+    {
+      "id": "brenebrown",
+      "interest": 75,
+      "reason": "Her profound work on vulnerability, leadership clarity, and emotional courage directly speaks to Ritesh's LinkedIn reflections on authentic, kind leadership."
+    },
+    {
+      "id": "ariannahuff",
+      "interest": 72,
+      "reason": "Her passionate advocacy for combating burnout and prioritizing well-being deeply resonates with Ritesh's conscious efforts around sustainable leadership."
+    }
+  ]
 }

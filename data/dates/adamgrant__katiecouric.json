@@ -1,0 +1,88 @@
+{
+  "id": "adamgrant__katiecouric",
+  "a": "adamgrant",
+  "b": "katiecouric",
+  "scene": "cafe",
+  "createdAt": 1790852046043,
+  "status": "done",
+  "messages": [
+    {
+      "from": "adamgrant",
+      "say": "Hey Katie, it's so great to finally meet you in person outside of a screen. This coffee tasting setup here at The Bluebird is incredible—I figured it was a safe bet since we both seem to appreciate a good brew before diving into chaotic schedules.",
+      "thought": "I want to start things off by keeping it relaxed and grounded in our shared love for great coffee, seeing how she handles the transition from our fast-paced public lives to a normal, intimate conversation.",
+      "t": 1790852048160
+    },
+    {
+      "from": "katiecouric",
+      "say": "Hey Adam—so glad we finally get to trade the newsroom buzz for a quiet coffee in Nashville! I’m all about that first sip, especially when it’s a craft roast from a place that’s got a story as rich as its flavor. Speaking of stories, what’s the most surprising thing you’ve uncovered in your research on workplace culture?",
+      "thought": "Need to gauge his interest in deep dives and see if he can talk about surprising findings.",
+      "t": 1790852048556
+    },
+    {
+      "from": "adamgrant",
+      "say": "Well, one of the most counterintuitive things I've found is that the best ideas often come from 'givers' who are strategic about their boundaries, otherwise they just burn out trying to please everyone. I'm actually a recovering people-pleaser myself, so learning to say no gracefully has been a whole ongoing research project for my own life. How about you—in building your media company and navigating such a high-stakes career, where do you draw the line so your ambition doesn't crowd out your actual life?",
+      "thought": "I'm testing how she handles boundaries and self-awareness, which is crucial since we both juggle demanding, high-impact careers.",
+      "t": 1790852050327
+    },
+    {
+      "from": "katiecouric",
+      "say": "That’s a fascinating insight—sounds like you’ve turned the give‑and‑take dance into a strategic choreography. I can relate; I’ve learned that the line between ambition and burnout is a moving target, so I set a rule: every week I carve out at least one hour just for me—no calls, no emails, just a walk or a good book. What’s one boundary you’ve set that’s made the biggest difference for you?",
+      "thought": "Checking if he has practical boundaries and how they impact his work.",
+      "t": 1790852060813
+    },
+    {
+      "from": "adamgrant",
+      "say": "I’m glad you have a concrete ritual—my own biggest shift was setting a rule that I only write in the first two hours of the day, then I let the rest of the day be for teaching, speaking, and family. That way I reserve my most creative, quiet energy for the work that matters, and the rest of the day is more fluid. It’s funny how that little schedule change has made me feel less like a perpetual 'on-call' machine and more like a person with a life outside the lab. Do you find that your one‑hour “me” time ever overlaps with the demands of your media ventures, or does it stay separate?",
+      "thought": "I'm probing her boundary management and how it aligns with my own need for focused time.",
+      "t": 1790852079997
+    },
+    {
+      "from": "katiecouric",
+      "say": "I love that structure—protecting your creative peak is just smart. For me, the overlap is constant; I’ll be walking the dog in the park and suddenly find myself outlining a podcast segment or mentally rehearsing a documentary pitch. I can’t really decouple the two, so my 'me' time is less about silence and more about being physically present in a hobby—like when I’m hitting a pickleball ball and my brain finally shuts up. Do you have a hobby that actually lets your mind go completely offline, or is it a constant hum?",
+      "thought": "Checking if he has a true offline hobby or if his mind is always 'on' like she is.",
+      "t": 1790852080526
+    },
+    {
+      "from": "adamgrant",
+      "say": "Pickleball is a fantastic circuit-breaker—though I usually just end up analyzing the mechanics of my opponent's swing instead of resting. For me, diving into a really immersive fiction book or reading up on something totally unrelated to psychology usually forces my brain to finally change channels. I've really enjoyed talking with you today, Katie; you've got this great mix of sharp journalistic curiosity and genuine warmth that makes the time fly by. Let's definitely keep this conversation going soon.",
+      "thought": "She values activity and presence over total silence to unwind, which is a great balance to my focus-heavy reading habits, and I'm leaving the door open for a second date because the intellectual and personal connection felt really strong.",
+      "t": 1790852128700
+    },
+    {
+      "from": "katiecouric",
+      "say": "I’ve had such a wonderful time trading notes with you today, Adam, and you definitely passed the test on loving a good coffee. Let's absolutely keep the conversation going—I'd love to hear more about those fiction books you dive into next time we grab a bite!",
+      "thought": "Wrap up the date warmly, highlighting shared interests and setting up a clear next step.",
+      "t": 1790852130162
+    }
+  ],
+  "debriefs": {
+    "adamgrant": {
+      "chemistry": 8,
+      "valuesFit": 9,
+      "lifestyleFit": 8,
+      "goalsFit": 9,
+      "overall": 86,
+      "secondDate": true,
+      "highlight": "Discussing the mechanics of recovering from people-pleasing and setting boundaries around creative energy, finding immediate common ground.",
+      "concern": "Both lead intense, high-profile public lives with overlapping media and podcasting projects, which could make scheduling tricky if not intentional.",
+      "reportToHuman": "Adam, Katie is fantastic. She matches your intellectual curiosity toe-to-toe, shares your commitment to impact and authenticity, and even relates directly to your work on people-pleasing and burnout boundaries. Definitely lock in a second date."
+    },
+    "katiecouric": {
+      "chemistry": 8,
+      "valuesFit": 9,
+      "lifestyleFit": 8,
+      "goalsFit": 9,
+      "overall": 86,
+      "secondDate": true,
+      "highlight": "Trading notes on how you both manage high-powered careers and protect your sanity (pickleball vs. immersive fiction).",
+      "concern": "Both of you have massive schedules and public-facing profiles, so coordinating quality time might require military-grade precision.",
+      "reportToHuman": "Katie, honey, call off the search party because Adam Grant is an absolute home run. The intellectual chemistry was off the charts—he totally matches your pace, brings the exact right mix of deep curiosity and self-awareness, and appreciates the chaos of a media career. Clear your calendar for a second date over dinner!"
+    }
+  },
+  "venue": {
+    "place": "The Bluebird Café, a historic jazz venue turned cozy book‑filled café in Nashville",
+    "activity": "Enjoy a private coffee tasting followed by a spontaneous, live‑acoustic podcast recording about social justice and media",
+    "why": "Both are passionate about podcasting, reading, and social impact, making this intimate, intellectual setting a natural fit",
+    "scene": "cafe"
+  }
+}

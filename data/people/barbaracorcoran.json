@@ -4,7 +4,7 @@
   "linkedinUrl": "https://www.linkedin.com/in/barbaracorcoran/",
   "instagramUrl": "https://www.instagram.com/barbaracorcoran/",
   "status": "ready",
-  "datingStatus": "dating",
+  "datingStatus": "done",
   "log": [
     {
       "t": 1790849116133,
@@ -14,7 +14,7 @@
     {
       "t": 1790849116134,
       "step": "Read Instagram @barbaracorcoran",
-      "detail": "12 recent posts, bio: “Shark on #SharkTank 🦈\nQueen of New York Real Estate 👑” · via instagram-crawler-html (Mozilla)"
+      "detail": "12 recent posts, bio: \u201cShark on #SharkTank \ud83e\udd88\nQueen of New York Real Estate \ud83d\udc51\u201d \u00b7 via instagram-crawler-html (Mozilla)"
     },
     {
       "t": 1790849116134,
@@ -24,11 +24,11 @@
     {
       "t": 1790849116135,
       "step": "Read LinkedIn: Barbara Corcoran",
-      "detail": "Public Speaker · CEO · Host of 888-Barbara Podcast · 10 posts/articles · via linkedin-public-page via jina reader"
+      "detail": "Public Speaker \u00b7 CEO \u00b7 Host of 888-Barbara Podcast \u00b7 10 posts/articles \u00b7 via linkedin-public-page via jina reader"
     },
     {
       "t": 1790849116136,
-      "step": "✓ Identity check",
+      "step": "\u2713 Identity check",
       "detail": "LinkedIn and Instagram names match"
     },
     {
@@ -39,7 +39,7 @@
     {
       "t": 1790849187938,
       "step": "Profile analysis complete",
-      "detail": "NYC real‑estate queen, Shark Tank investor, and podcast host who loves cheering on bold dreamers."
+      "detail": "NYC real\u2011estate queen, Shark Tank investor, and podcast host who loves cheering on bold dreamers."
     },
     {
       "t": 1790850791708,
@@ -55,6 +55,11 @@
       "t": 1790851333915,
       "step": "Asked out",
       "detail": "Daymond John, Gary Vaynerchuk, Alexis Ohanian Sr."
+    },
+    {
+      "t": 1790851686261,
+      "step": "All dates finished",
+      "detail": "rankings updated"
     }
   ],
   "linkedin": {
@@ -63,14 +68,14 @@
     "slug": "barbaracorcoran",
     "url": "https://www.linkedin.com/in/barbaracorcoran",
     "name": "Barbara Corcoran",
-    "headline": "Public Speaker · CEO · Host of 888-Barbara Podcast",
-    "about": "Barbara Corcoran’s credits include straight D’s in high school and college and 20 jobs by the time she turned 23. It was her next job that would make her one of the most successful entrepreneurs in the country: She borrowed $1,000 and quit her job as a waitress to start a tiny real estate company in New York City. Over the next 25 years Barbara would parlay that $1,000 loan into a $5 billion real estate business, building the largest and best-known brand in the business. Corcoran is the author of the best seller “Shark Tales: How I Turned $1,000 into a Billion Dollar Business!” and host of top business podcast “Business Unusual with Barbara Corcoran” and lifestyle podcast “888-Barbara.” Corcoran is a motivational and inspirational speaker. She is a frequent small business and real estate contributor on every major network. Corcoran has been an investor/Shark for the past ten seasons on ABC's four-time Emmy award wining show, Shark Tank, investing in over 80 businesses to date. Follow Barbara on Twitter and Instagram @BarbaraCorcoran.",
+    "headline": "Public Speaker \u00b7 CEO \u00b7 Host of 888-Barbara Podcast",
+    "about": "Barbara Corcoran\u2019s credits include straight D\u2019s in high school and college and 20 jobs by the time she turned 23. It was her next job that would make her one of the most successful entrepreneurs in the country: She borrowed $1,000 and quit her job as a waitress to start a tiny real estate company in New York City. Over the next 25 years Barbara would parlay that $1,000 loan into a $5 billion real estate business, building the largest and best-known brand in the business. Corcoran is the author of the best seller \u201cShark Tales: How I Turned $1,000 into a Billion Dollar Business!\u201d and host of top business podcast \u201cBusiness Unusual with Barbara Corcoran\u201d and lifestyle podcast \u201c888-Barbara.\u201d Corcoran is a motivational and inspirational speaker. She is a frequent small business and real estate contributor on every major network. Corcoran has been an investor/Shark for the past ten seasons on ABC's four-time Emmy award wining show, Shark Tank, investing in over 80 businesses to date. Follow Barbara on Twitter and Instagram @BarbaraCorcoran.",
     "location": "New York, New York, United States",
     "profilePic": "https://media.licdn.com/dms/image/v2/C5603AQEw2sxjHFLW5w/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1600788895731?e=2147483647&v=beta&t=LPHO4Mq4OP9kQirpDcsIlHJyqoxVooo2-_Aqs0tbQUM",
     "followers": 1668258,
     "experience": [
       {
-        "title": "Host of 888-Barbara Podcast 888-Barbara Nov 2019 - Present 7 years Get the advice you need to live a better life! From the boardroom to the bedroom, nothing’s off limits. Utterly candid and totally un"
+        "title": "Host of 888-Barbara Podcast 888-Barbara Nov 2019 - Present 7 years Get the advice you need to live a better life! From the boardroom to the bedroom, nothing\u2019s off limits. Utterly candid and totally un"
       },
       {
         "title": "Shark on ABC Shark Tank ABC Television Jan 2009 - Present 17 years 10 months \"Shark Tank\" is a business reality television series by acclaimed TV producer Mark Burnett that airs on ABC Network Fridays"
@@ -116,7 +121,7 @@
       },
       {
         "kind": "article",
-        "text": "Small and unexpected processes I’ve uncovered to help make the lives of fellow entrepreneurs even better",
+        "text": "Small and unexpected processes I\u2019ve uncovered to help make the lives of fellow entrepreneurs even better",
         "date": "2015-11-25T16:28:57.000+00:00"
       },
       {
@@ -126,7 +131,7 @@
       },
       {
         "kind": "article",
-        "text": "‘Top 10 Check List’ for Small Businesses",
+        "text": "\u2018Top 10 Check List\u2019 for Small Businesses",
         "date": "2015-10-15T14:43:15.000+00:00"
       },
       {
@@ -145,7 +150,7 @@
         "date": "2014-10-15T11:50:54.000+00:00"
       }
     ],
-    "activityText": " Barbara Corcoran Barbara Corcoran 6d Barbara Corcoran shared this When I turned 35, I made my first real profit at The Corcoran Group. There was more than $40,000 left in the account at the end of the year, and I could hardly believe it. Until then, I’d put every penny we made right back into the business. That afternoon, I was riding down the West Side Highway when I spotted a car dealership and told the taxi driver to pull over. I walked into the showroom and pointed to the smallest car, figuring it would be the cheapest. “What’s that cute brown car in the corner?” “A 911 Carrera.” “That’s the brand?” “No, ma’am. It’s a Porsche.” “How much?” “About $40,000.” “I’ll take it!” The salesman looked stunned. He told me I’d have to pay before I could drive it out, so I came back that afternoon and drove home in my brand-new Porsche. I figured I’d find somewhere to park it later. I spent the next month grinding the gears before I noticed people looking at me as I drove by. That’s when I decided I needed an outfit to match. Here I am in my first real leather jacket and my first real cashmere headband. I figured my usual pants would do. 8, Barbara Corcoran Barbara Corcoran 1w Barbara Corcoran shared this So excited! Shark Tank ABC Shark Tank ABC 1w Barbara Corcoran shared this It's time to ignite a spark for a new season of entrepreneurs stepping into the Tank! 🦈⚡️ Don't miss the 2-hour #SharkTank premiere, Wednesday, September 30 on ABC and stream on Hulu. It's time to ignite a spark for a new season of entrepreneurs stepping into the Tank! 🦈⚡️ Don't miss the 2-hour Shark Tank premiere, Wednesday, September 30 on ABC and stream on Hulu. It's time to ignite a spark for a new season of entrepreneurs stepping into the Tank! 🦈⚡️ Don't miss the 2-hour Shark Tank premiere, Wednesday, September 30 on ABC and stream on Hulu. Barbara Corcoran Barbara Corcoran 1mo Barbara Corcoran shared this I always make sure I have something to look forward to, and that’s one of the ways I always stayed ahead in business. Whether it was some place new and exotic or a subway ride to Jones Beach, it made it a whole lot easier to give work everything I had. Barbara Corcoran Barbara Corcoran 1mo Barbara Corcoran shared this I used to have a tape in my head telling me I wasn’t good enough. “Barbara, you don’t deserve to be here.” “It’s all luck.” “You can’t do it.” It took me years, but I finally replaced those tapes into something better. “Barbara, you’re amazing!” “You deserve to be there.” And a crazy thing happened. I started believing myself. 3, Barbara Corcoran Barbara Corcoran 1mo Barbara Corcoran shared this That idea box drove some of the best years of my company. If you want better ideas, make it safe to have bad ones. Barbara Corcoran Barbara Corcoran 1mo Barbara Corcoran shared this The people who get ahead aren’t the ones who avoid problems. They’re the ones who get really good at solving them. 2, Barbara Corcoran Barbara Corcoran 1mo Barbara Corcoran shared this 1"
+    "activityText": " Barbara Corcoran Barbara Corcoran 6d Barbara Corcoran shared this When I turned 35, I made my first real profit at The Corcoran Group. There was more than $40,000 left in the account at the end of the year, and I could hardly believe it. Until then, I\u2019d put every penny we made right back into the business. That afternoon, I was riding down the West Side Highway when I spotted a car dealership and told the taxi driver to pull over. I walked into the showroom and pointed to the smallest car, figuring it would be the cheapest. \u201cWhat\u2019s that cute brown car in the corner?\u201d \u201cA 911 Carrera.\u201d \u201cThat\u2019s the brand?\u201d \u201cNo, ma\u2019am. It\u2019s a Porsche.\u201d \u201cHow much?\u201d \u201cAbout $40,000.\u201d \u201cI\u2019ll take it!\u201d The salesman looked stunned. He told me I\u2019d have to pay before I could drive it out, so I came back that afternoon and drove home in my brand-new Porsche. I figured I\u2019d find somewhere to park it later. I spent the next month grinding the gears before I noticed people looking at me as I drove by. That\u2019s when I decided I needed an outfit to match. Here I am in my first real leather jacket and my first real cashmere headband. I figured my usual pants would do. 8, Barbara Corcoran Barbara Corcoran 1w Barbara Corcoran shared this So excited! Shark Tank ABC Shark Tank ABC 1w Barbara Corcoran shared this It's time to ignite a spark for a new season of entrepreneurs stepping into the Tank! \ud83e\udd88\u26a1\ufe0f Don't miss the 2-hour #SharkTank premiere, Wednesday, September 30 on ABC and stream on Hulu. It's time to ignite a spark for a new season of entrepreneurs stepping into the Tank! \ud83e\udd88\u26a1\ufe0f Don't miss the 2-hour Shark Tank premiere, Wednesday, September 30 on ABC and stream on Hulu. It's time to ignite a spark for a new season of entrepreneurs stepping into the Tank! \ud83e\udd88\u26a1\ufe0f Don't miss the 2-hour Shark Tank premiere, Wednesday, September 30 on ABC and stream on Hulu. Barbara Corcoran Barbara Corcoran 1mo Barbara Corcoran shared this I always make sure I have something to look forward to, and that\u2019s one of the ways I always stayed ahead in business. Whether it was some place new and exotic or a subway ride to Jones Beach, it made it a whole lot easier to give work everything I had. Barbara Corcoran Barbara Corcoran 1mo Barbara Corcoran shared this I used to have a tape in my head telling me I wasn\u2019t good enough. \u201cBarbara, you don\u2019t deserve to be here.\u201d \u201cIt\u2019s all luck.\u201d \u201cYou can\u2019t do it.\u201d It took me years, but I finally replaced those tapes into something better. \u201cBarbara, you\u2019re amazing!\u201d \u201cYou deserve to be there.\u201d And a crazy thing happened. I started believing myself. 3, Barbara Corcoran Barbara Corcoran 1mo Barbara Corcoran shared this That idea box drove some of the best years of my company. If you want better ideas, make it safe to have bad ones. Barbara Corcoran Barbara Corcoran 1mo Barbara Corcoran shared this The people who get ahead aren\u2019t the ones who avoid problems. They\u2019re the ones who get really good at solving them. 2, Barbara Corcoran Barbara Corcoran 1mo Barbara Corcoran shared this 1"
   },
   "instagram": {
     "source": "instagram",
@@ -153,49 +158,49 @@
     "username": "barbaracorcoran",
     "url": "https://www.instagram.com/barbaracorcoran/",
     "fullName": "Barbara Corcoran",
-    "bio": "Shark on #SharkTank 🦈\nQueen of New York Real Estate 👑",
+    "bio": "Shark on #SharkTank \ud83e\udd88\nQueen of New York Real Estate \ud83d\udc51",
     "followers": 1360732,
     "following": 542,
     "postsCount": 3702,
     "isVerified": true,
     "isPrivate": false,
-    "profilePic": "https://scontent.cdninstagram.com/v/t51.2885-19/332774363_877121543519237_158617833034716577_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy40NDUuQzMifQ%3D%3D&_nc_ohc=rR8jh-JTmzAQ7kNvwEkFxe9&_nc_oc=AdoFvZpgRYK8Dv-SDv-uXL7hwp64X0cOuTB_mElmn6mWq6y9R4ktZU3ImTPP2ON9M5-ez0-k_orbeHsR-_dLPxkD&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=7f689&oh=00_AQOII01ynQbUAkbk1NJcaiwBdCVastgeF-6OoPsPwWGyLA&oe=6AC408EA",
+    "profilePic": "/people/barbaracorcoran/avatar.jpg",
     "posts": [
       {
-        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/828201578_18633814513056014_7990881391105018341_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=dBpdU4M1LdsQ7kNvwEQ5TM3&_nc_oc=AdpXKxdIu-b4WW-Ui-D6OBK4KGVO-1BzQHjP0o7S8_skxRETHptam617w0rE8BBXjJTkus7oqGGFKPq6Gy_hi0Rf&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=jFUvFHTuxCSRB_Qox-Cd7A&_nc_ss=7f689&oh=00_AQPiQpiXiEmHOFYKqC1Q48tJYffdKP-aFogxWUXVORB9EA&oe=6AC3E97C",
-        "caption": "Say goodbye to undie lines with @skimpiesbrand, the original leggings liner! 👋 Will they line up a deal with the Sharks? Find out TONIGHT on the 2-hour season premiere of #SharkTank!"
+        "imageUrl": "/people/barbaracorcoran/p0.jpg",
+        "caption": "Say goodbye to undie lines with @skimpiesbrand, the original leggings liner! \ud83d\udc4b Will they line up a deal with the Sharks? Find out TONIGHT on the 2-hour season premiere of #SharkTank!"
       },
       {
-        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/825323644_18632708872036126_6509981651284523912_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=WPfMhR1jk8sQ7kNvwHywJdL&_nc_oc=Adpj2YacrzsurrpFrOzp8_GPg5H8E3eW4BYjX9yTD6HsBradoZn3pygmND7A5tbpgA0PGad2RvowKVumFfw3IaGg&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=jFUvFHTuxCSRB_Qox-Cd7A&_nc_ss=7f689&oh=00_AQPqE6QY2sleqVPDcjMz_i7FmdLRRl66dyhoJGPeGxwAvQ&oe=6AC411A0",
-        "caption": "Season 18 of @sharktankabc premieres tonight! After all these years (and maybe a couple of facelifts! 😉), watching someone walk into the Tank with a dream still gets me. I know what it feels like to need just one person to believe in you, and getting to be someone’s fairy godmother is the best part of this job. Here’s to more big dreams, life-changing deals, and entrepreneurs who refuse to give up. Who’s watching the two-hour premiere with me tonight? 💙🦈"
+        "imageUrl": "/people/barbaracorcoran/p1.jpg",
+        "caption": "Season 18 of @sharktankabc premieres tonight! After all these years (and maybe a couple of facelifts! \ud83d\ude09), watching someone walk into the Tank with a dream still gets me. I know what it feels like to need just one person to believe in you, and getting to be someone\u2019s fairy godmother is the best part of this job. Here\u2019s to more big dreams, life-changing deals, and entrepreneurs who refuse to give up. Who\u2019s watching the two-hour premiere with me tonight? \ud83d\udc99\ud83e\udd88"
       },
       {
-        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/828859197_18633448330056014_5975029328555490583_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=QDK8M85xCS8Q7kNvwF-7RT7&_nc_oc=Adr-IGUlot64Cx5ulORw1gnap-ODevwmax4JBoqN0UALpl2xo_NGfQ4kbETC8mAaLDzha-p16fUMJ263c-y0yzjp&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=jFUvFHTuxCSRB_Qox-Cd7A&_nc_ss=7f689&oh=00_AQNme9L3BejHtilBauIk6WzGFXKKJ4rGxtTQ5pg_C-zuGA&oe=6AC40925",
-        "caption": "We're excited to welcome @rashaun_williams to the Tank full-time! 🎉 Catch him on the 2-hour #SharkTank premiere, Wednesday at 9/8c on ABC and stream on Hulu."
+        "imageUrl": "/people/barbaracorcoran/p2.jpg",
+        "caption": "We're excited to welcome @rashaun_williams to the Tank full-time! \ud83c\udf89 Catch him on the 2-hour #SharkTank premiere, Wednesday at 9/8c on ABC and stream on Hulu."
       },
       {
-        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/825323082_18632002825036126_1779000405667111915_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=NoWBjJojdZ8Q7kNvwFP0XDv&_nc_oc=AdqULq1-UTw6-2UdTIW5MK1aMp6hPzNN7LcSBPpuSISBg1I2j_PyQzqU7u_dUmceQpGs0KotrK7mFKFrnB7C1v06&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=jFUvFHTuxCSRB_Qox-Cd7A&_nc_ss=7f689&oh=00_AQNg6gLpjL00QMpxzltruSy_sTSpvbOGJhaNFEVC5q-XhQ&oe=6AC3F8C1",
-        "caption": "Happy birthday to the KINDest Shark in the Tank! Daniel, the best thing you bring to the Tank is your big heart. Love ya! ❤️🦈"
+        "imageUrl": "/people/barbaracorcoran/p3.jpg",
+        "caption": "Happy birthday to the KINDest Shark in the Tank! Daniel, the best thing you bring to the Tank is your big heart. Love ya! \u2764\ufe0f\ud83e\udd88"
       },
       {
-        "imageUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/825469274_1333010363228338_2346174214498716219_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=tN9XfGncQicQ7kNvwHIgl4_&_nc_oc=AdrMY4BxBZ7ZJjBH9dWU6D5Hf7bhP5ITl4Xb-wq7cra5p1mPsWYCdEmbR0fdhnxcX7uvY8JiY3KOdIhq-BLHeaYM&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=jFUvFHTuxCSRB_Qox-Cd7A&_nc_ss=7f689&oh=00_AQN6wK_kBDvC0XtesEYGNWWJVrh69xJeuPRicQDEfWiM0A&oe=6AC3FEEC",
+        "imageUrl": "/people/barbaracorcoran/p4.jpg",
         "caption": "I sold my business for $66 million. He went out of business about three years later."
       },
       {
-        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/818654697_18630650293036126_4282797948218536365_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=9_H5_9GXw3wQ7kNvwGFN-fn&_nc_oc=AdprgwphpAdSN2pe5yFVXwsi_CjedCK3kHKNqRzF6Aief66iXXMtrhLiW4_UGawKQzFM_BPNnUL9oNhxq3qknOtX&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=jFUvFHTuxCSRB_Qox-Cd7A&_nc_ss=7f689&oh=00_AQOtJM2v9Dzyjaz-sigbQ-Sba5iEk3Cyp5JjsNZ8jQaMdw&oe=6AC41AB7",
-        "caption": "When I turned 35, I made my first real profit at The Corcoran Group. There was more than $40,000 left in the account at the end of the year, and I could hardly believe it. Until then, I’d put every penny we made right back into the business.\n\nThat afternoon, I was riding down the West Side Highway when I spotted a car dealership and told the taxi driver to pull over. I walked into the showroom and pointed to the smallest car, figuring it would be the cheapest.\n\n“What’s that cute brown car in the corner?”\n\n“A 911 Carrera.”\n\n“That’s the brand?”\n\n“No, ma’am. It’s a Porsche.”\n\n“How much?”\n\n“About $40,000.”\n\n“I’ll take it!”\n\nThe salesman looked stunned. He told me I’d have to pay before I could drive it out, so I came back that afternoon and drove home in my brand-new Porsche. \n\nI figured I’d find somewhere to park it later.\n\nI spent the next month grinding the gears before I noticed people looking at me as I drove by. That’s when I decided I needed an outfit to match. \n\nHere I am in my first real leather jacket and my first real cashmere headband. I figured my usual pants would do."
+        "imageUrl": "/people/barbaracorcoran/p5.jpg",
+        "caption": "When I turned 35, I made my first real profit at The Corcoran Group. There was more than $40,000 left in the account at the end of the year, and I could hardly believe it. Until then, I\u2019d put every penny we made right back into the business.\n\nThat afternoon, I was riding down the West Side Highway when I spotted a car dealership and told the taxi driver to pull over. I walked into the showroom and pointed to the smallest car, figuring it would be the cheapest.\n\n\u201cWhat\u2019s that cute brown car in the corner?\u201d\n\n\u201cA 911 Carrera.\u201d\n\n\u201cThat\u2019s the brand?\u201d\n\n\u201cNo, ma\u2019am. It\u2019s a Porsche.\u201d\n\n\u201cHow much?\u201d\n\n\u201cAbout $40,000.\u201d\n\n\u201cI\u2019ll take it!\u201d\n\nThe salesman looked stunned. He told me I\u2019d have to pay before I could drive it out, so I came back that afternoon and drove home in my brand-new Porsche. \n\nI figured I\u2019d find somewhere to park it later.\n\nI spent the next month grinding the gears before I noticed people looking at me as I drove by. That\u2019s when I decided I needed an outfit to match. \n\nHere I am in my first real leather jacket and my first real cashmere headband. I figured my usual pants would do."
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/796324641_18630319720036126_5931609964979347085_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=uoIECUnWkjQQ7kNvwG3Tv_h&_nc_oc=AdrHO-CE_G9E84zRZYCKj8iSQUuR4aIZCUg9aVRGrjvkjAg_rnoIFr8SbeGEIEWKezpWgM-DZ1zvtHjoeH0YNI8-&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=jFUvFHTuxCSRB_Qox-Cd7A&_nc_ss=7f689&oh=00_AQMQUqIP0D5oSha9I3qVTjzVj2gkBSnlCzOV_91TrPUknw&oe=6AC3FAAA",
-        "caption": "It’s time to ignite a spark for a new season of entrepreneurs stepping into the Tank! 🦈⚡️ \nDon’t miss the 2-hour #SharkTank premiere, Wednesday, September 30 on ABC and stream on Hulu."
+        "caption": "It\u2019s time to ignite a spark for a new season of entrepreneurs stepping into the Tank! \ud83e\udd88\u26a1\ufe0f \nDon\u2019t miss the 2-hour #SharkTank premiere, Wednesday, September 30 on ABC and stream on Hulu."
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/818714100_18627736969028617_3599488611624931499_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Xw1awXnvSiwQ7kNvwHZr7Lt&_nc_oc=AdoVzzbJDVL3zPpaP6DHYb4EDO5C0_KQN17sm1ITVnf3T_RSeendqtkS8wwCwe3hnemxbsGjzPXwaPUBrwXQjL6B&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=jFUvFHTuxCSRB_Qox-Cd7A&_nc_ss=7f689&oh=00_AQMIN2lw51pYvKcWaC9NNKGcofp1LzrAn4OVMsBBSiQRBg&oe=6AC40782",
-        "caption": "A VERY special copy of Life and Lobster is up for grabs!🦞📖\n\nTo celebrate the official release of Life and Lobster, we’re giving one lucky winner a copy signed by Jim, Sabin & @barbaracorcoran! \n\nTo enter: ❤️ Like this post 📖 Comment what part of Jim & Sabin’s story are you most excited to read? 👯 Tag 3 friends in your book club 📲 Follow us @cousinsmainelobster\n\nMust be 18 or older and a U.S. resident. Winner will be randomly selected on 9/25/26 and contacted via DM from this verified account."
+        "caption": "A VERY special copy of Life and Lobster is up for grabs!\ud83e\udd9e\ud83d\udcd6\n\nTo celebrate the official release of Life and Lobster, we\u2019re giving one lucky winner a copy signed by Jim, Sabin & @barbaracorcoran! \n\nTo enter:\u2028\u2764\ufe0f Like this post\u2028\ud83d\udcd6 Comment what part of Jim & Sabin\u2019s story are you most excited to read?\u2028\ud83d\udc6f Tag 3 friends in your book club\u2028\ud83d\udcf2 Follow us @cousinsmainelobster\n\nMust be 18 or older and a U.S. resident. Winner will be randomly selected on 9/25/26 and contacted via DM from this verified account."
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/814022006_18628598359036126_1571733859095540675_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=S1ac5PClBoQQ7kNvwEMKafa&_nc_oc=Adoav2AguYIn1w26fWL7bTa2pZiqgMnHaxL-rYmOlASkDPKiL4GnoQJ1VoYXJrepqcU_U_zA4gHMkvFNx4cHOsRe&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=jFUvFHTuxCSRB_Qox-Cd7A&_nc_ss=7f689&oh=00_AQP52_iFTEwyYTuVVSNnyw9AVRQKtFVHqmXKStSOUpj-Lg&oe=6AC3FEDC",
-        "caption": "School was horrible for me. I was labeled “dumb,” and after hearing it enough, I started to believe it. Thank God I had a mother who always believed in me and helped me see that I simply learned differently. \n\nThat’s why I’m so grateful to work with @r1se_education_recreation, where every child is believed in and shown how they learn best."
+        "caption": "School was horrible for me. I was labeled \u201cdumb,\u201d and after hearing it enough, I started to believe it. Thank God I had a mother who always believed in me and helped me see that I simply learned differently. \n\nThat\u2019s why I\u2019m so grateful to work with @r1se_education_recreation, where every child is believed in and shown how they learn best."
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/799767431_18627996328036126_7927435443328362999_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=ZxOnGXl-PQsQ7kNvwH8cOU1&_nc_oc=Adqs_7KgyJlVLapCz8xlunfz6GmxggtYdZ4LNMGo4Al9AxlEehbywjGHAoLzNpXzrZ9nJs8v6jSR_eG__-Wve3L4&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=jFUvFHTuxCSRB_Qox-Cd7A&_nc_ss=7f689&oh=00_AQP77bGxJ32pagL3O7dGa8bf7Ti-mgKptr66zdLJ4Mc3nw&oe=6AC3FCD3",
@@ -203,19 +208,19 @@
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/811935369_17955943236232256_3960855063496661252_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=5GdSOz2QS_oQ7kNvwFKhsr5&_nc_oc=AdrBAE5Hj3H4UzB4fBsD9B-qkWLnxRwjQ_cbcMCEcd_e6gojLocvWq_FUMgFoHHBvlqtscnb_hGKQYzgQlMDepZQ&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=jFUvFHTuxCSRB_Qox-Cd7A&_nc_ss=7f689&oh=00_AQPsZPzhNIDQpVkbeoWmi_cXFGWHKoScshbr1JrLbOtLZw&oe=6AC3FFE1",
-        "caption": "As seen on ABC’s Shark Tank in collaboration with the brilliant @barbaracorcoran. We present R1SE: The best student support facility in America. Where academic excellence meets unrivaled recreation. r1seup.com"
+        "caption": "As seen on ABC\u2019s Shark Tank in collaboration with the brilliant @barbaracorcoran. We present R1SE: The best student support facility in America. Where academic excellence meets unrivaled recreation. r1seup.com"
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/811203238_18627463057036126_6201571602441142593_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=-gJDoANKqq8Q7kNvwF_uZ6f&_nc_oc=AdpXLUe5YIDeSPHvbFNSpG-ESZaA01FiBHSaFxXPzkbx-zyAddwIIbiIH25upHRON6ZtROJx8Qase0Hn26f_rPms&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=jFUvFHTuxCSRB_Qox-Cd7A&_nc_ss=7f689&oh=00_AQNMJmFRESGwLPU4ixnKVB7fWzEsJfedwpHeMpQUd5Wgzw&oe=6AC41E3E",
-        "caption": "Girl on a show. 🙋‍♀️ \n\nGot a good laugh from the @therealmariskahargitay, @taylorswift @televisionacad sketch tonight!"
+        "caption": "Girl on a show. \ud83d\ude4b\u200d\u2640\ufe0f \n\nGot a good laugh from the @therealmariskahargitay, @taylorswift @televisionacad sketch tonight!"
       }
     ]
   },
-  "photo": "https://scontent.cdninstagram.com/v/t51.2885-19/332774363_877121543519237_158617833034716577_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy40NDUuQzMifQ%3D%3D&_nc_ohc=rR8jh-JTmzAQ7kNvwEkFxe9&_nc_oc=AdoFvZpgRYK8Dv-SDv-uXL7hwp64X0cOuTB_mElmn6mWq6y9R4ktZU3ImTPP2ON9M5-ez0-k_orbeHsR-_dLPxkD&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=7f689&oh=00_AQOII01ynQbUAkbk1NJcaiwBdCVastgeF-6OoPsPwWGyLA&oe=6AC408EA",
+  "photo": "/people/barbaracorcoran/avatar.jpg",
   "analysis": {
     "name": "Barbara Corcoran",
-    "oneLiner": "NYC real‑estate queen, Shark Tank investor, and podcast host who loves cheering on bold dreamers.",
-    "summary": "Barbara is a serial entrepreneur turned media personality. She built a $5 B real‑estate empire from a $1 K loan, now spends her days investing on Shark Tank, hosting two podcasts, and speaking publicly. Her Instagram shows she’s proud of her Shark persona, celebrates mentorship, and enjoys quirky humor. She values belief in others, resilience, and having fun while working hard.",
+    "oneLiner": "NYC real\u2011estate queen, Shark Tank investor, and podcast host who loves cheering on bold dreamers.",
+    "summary": "Barbara is a serial entrepreneur turned media personality. She built a $5\u202fB real\u2011estate empire from a $1\u202fK loan, now spends her days investing on Shark\u202fTank, hosting two podcasts, and speaking publicly. Her Instagram shows she\u2019s proud of her Shark persona, celebrates mentorship, and enjoys quirky humor. She values belief in others, resilience, and having fun while working hard.",
     "location": "New York, New York, United States",
     "ageRange": "unknown",
     "career": {
@@ -226,19 +231,19 @@
     "needs": [
       {
         "label": "Belief and encouragement",
-        "detail": "She says she loves being \"someone’s fairy godmother\" and helping entrepreneurs who need one person to believe in them (Instagram post 2).",
+        "detail": "She says she loves being \"someone\u2019s fairy godmother\" and helping entrepreneurs who need one person to believe in them (Instagram post 2).",
         "source": "instagram",
         "confidence": 0.95
       },
       {
         "label": "Intellectual curiosity",
-        "detail": "Writes articles on economics, real‑estate trends, and small‑business survival (LinkedIn recent articles).",
+        "detail": "Writes articles on economics, real\u2011estate trends, and small\u2011business survival (LinkedIn recent articles).",
         "source": "linkedin",
         "confidence": 0.9
       },
       {
         "label": "Playful banter",
-        "detail": "Her captions include jokes about facelifts, “undie lines,” and pop‑culture references (Instagram posts 1,2,12).",
+        "detail": "Her captions include jokes about facelifts, \u201cundie lines,\u201d and pop\u2011culture references (Instagram posts 1,2,12).",
         "source": "instagram",
         "confidence": 0.9
       },
@@ -252,7 +257,7 @@
     "hobbies": [
       {
         "label": "Podcasting",
-        "detail": "Hosts \"Business Unusual\" and \"888‑Barbara\" (LinkedIn experience).",
+        "detail": "Hosts \"Business Unusual\" and \"888\u2011Barbara\" (LinkedIn experience).",
         "source": "linkedin",
         "confidence": 0.98
       },
@@ -283,13 +288,13 @@
         "confidence": 0.99
       },
       {
-        "label": "Real‑estate market trends",
-        "detail": "Writes pieces on real‑estate outlook (LinkedIn article list).",
+        "label": "Real\u2011estate market trends",
+        "detail": "Writes pieces on real\u2011estate outlook (LinkedIn article list).",
         "source": "linkedin",
         "confidence": 0.95
       },
       {
-        "label": "Pop‑culture & humor",
+        "label": "Pop\u2011culture & humor",
         "detail": "References Taylor Swift, Mariska Hargitay, and comedic sketches (Instagram post 12).",
         "source": "instagram",
         "confidence": 0.9
@@ -310,19 +315,19 @@
     "values": [
       {
         "label": "Resilience",
-        "detail": "Highlights 20 jobs by age 23 and turning a $1 K loan into a $5 B business (LinkedIn About).",
+        "detail": "Highlights 20 jobs by age 23 and turning a $1\u202fK loan into a $5\u202fB business (LinkedIn About).",
         "source": "linkedin",
         "confidence": 0.98
       },
       {
         "label": "Belief in others",
-        "detail": "Calls herself a “fairy godmother” for entrepreneurs (Instagram post 2).",
+        "detail": "Calls herself a \u201cfairy godmother\u201d for entrepreneurs (Instagram post 2).",
         "source": "instagram",
         "confidence": 0.95
       },
       {
         "label": "Authenticity",
-        "detail": "Podcast tagline: \"From the boardroom to the bedroom, nothing’s off limits\" (LinkedIn host description).",
+        "detail": "Podcast tagline: \"From the boardroom to the bedroom, nothing\u2019s off limits\" (LinkedIn host description).",
         "source": "linkedin",
         "confidence": 0.9
       },
@@ -342,7 +347,7 @@
       {
         "trait": "Conscientiousness",
         "score": 78,
-        "note": "Built a billion‑dollar company, maintains a prolific content schedule."
+        "note": "Built a billion\u2011dollar company, maintains a prolific content schedule."
       },
       {
         "trait": "Extraversion",
@@ -363,11 +368,11 @@
     "lifestyle": [
       {
         "label": "Pace",
-        "value": "Fast‑moving, high‑energy media and investment schedule"
+        "value": "Fast\u2011moving, high\u2011energy media and investment schedule"
       },
       {
         "label": "Social energy",
-        "value": "Highly social – TV appearances, conferences, large Instagram following"
+        "value": "Highly social \u2013 TV appearances, conferences, large Instagram following"
       },
       {
         "label": "Fitness",
@@ -378,12 +383,12 @@
         "value": "Frequent (NYC base, national TV shoots, conference trips)"
       },
       {
-        "label": "Work‑life",
-        "value": "Blended – she openly mixes personal anecdotes with business content"
+        "label": "Work\u2011life",
+        "value": "Blended \u2013 she openly mixes personal anecdotes with business content"
       }
     ],
-    "communicationStyle": "Direct, witty, and story‑driven; she loves anecdotes that illustrate a point.",
-    "loveLanguage": "Words of affirmation – she celebrates others publicly and values verbal encouragement.",
+    "communicationStyle": "Direct, witty, and story\u2011driven; she loves anecdotes that illustrate a point.",
+    "loveLanguage": "Words of affirmation \u2013 she celebrates others publicly and values verbal encouragement.",
     "lookingFor": "A partner who can match her drive, cheer her entrepreneurial spirit, and keep the conversation lively with humor and curiosity.",
     "greenFlags": [
       "Shares a growth mindset",
@@ -398,20 +403,20 @@
       "Lack of ambition or drive",
       "Dismissive of her entrepreneurial journey"
     ],
-    "idealFirstDate": "A relaxed brunch at a trendy NYC spot followed by a walk along the Hudson, ending with a quick pitch‑style game where each shares a crazy business idea.",
+    "idealFirstDate": "A relaxed brunch at a trendy NYC spot followed by a walk along the Hudson, ending with a quick pitch\u2011style game where each shares a crazy business idea.",
     "conversationHooks": [
-      "Ask her about the most memorable pitch she’s ever heard on Shark Tank.",
+      "Ask her about the most memorable pitch she\u2019s ever heard on Shark Tank.",
       "Discuss a book that changed her view on entrepreneurship.",
-      "Talk about her favorite NYC hidden‑gem restaurant.",
-      "Share a funny ‘first‑job’ story and ask for her reaction."
+      "Talk about her favorite NYC hidden\u2011gem restaurant.",
+      "Share a funny \u2018first\u2011job\u2019 story and ask for her reaction."
     ],
-    "agentVoice": "Confident yet warm, peppered with quick humor and vivid anecdotes—think a seasoned mentor who can switch from boardroom insight to playful banter in a heartbeat.",
+    "agentVoice": "Confident yet warm, peppered with quick humor and vivid anecdotes\u2014think a seasoned mentor who can switch from boardroom insight to playful banter in a heartbeat.",
     "readingNotes": [
-      "LinkedIn headline leads with \"Public Speaker · CEO · Host\" – purpose and visibility matter to her.",
-      "Her About section emphasizes starting from $1 K and turning it into a $5 B empire – resilience is core.",
+      "LinkedIn headline leads with \"Public Speaker \u00b7 CEO \u00b7 Host\" \u2013 purpose and visibility matter to her.",
+      "Her About section emphasizes starting from $1\u202fK and turning it into a $5\u202fB empire \u2013 resilience is core.",
       "Instagram bio repeats Shark Tank identity, reinforcing brand consistency.",
-      "Captions blend business promotion with jokes about facelifts and leggings liners – she loves humor.",
-      "Multiple posts celebrate other Sharks and mentorship programs – community is a priority."
+      "Captions blend business promotion with jokes about facelifts and leggings liners \u2013 she loves humor.",
+      "Multiple posts celebrate other Sharks and mentorship programs \u2013 community is a priority."
     ]
   },
   "gender": "woman",

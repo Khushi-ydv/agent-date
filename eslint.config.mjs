@@ -5,6 +5,8 @@ import nextTs from "eslint-config-next/typescript";
 const eslintConfig = defineConfig([
   ...nextVitals,
   ...nextTs,
+  // Scraper adapters map loosely-typed third-party JSON into our typed profiles.
+  { files: ["src/lib/scrape/**", "src/lib/llm.ts"], rules: { "@typescript-eslint/no-explicit-any": "off" } },
   // Override default ignores of eslint-config-next.
   globalIgnores([
     // Default ignores of eslint-config-next:

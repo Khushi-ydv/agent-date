@@ -4,9 +4,10 @@ import { ScrapeError } from "@/lib/scrape";
 import { listPeople } from "@/lib/store";
 
 export const dynamic = "force-dynamic";
+export const maxDuration = 300;
 
 export async function GET() {
-  const people = listPeople().map((p) => ({
+  const people = (await listPeople()).map((p) => ({
     id: p.id,
     name: p.analysis?.name ?? p.linkedin?.name ?? p.instagram?.fullName ?? p.id,
     photo: p.photo,
@@ -24,7 +25,7 @@ export async function POST(req: Request) {
   try {
     const g = ["man", "woman"].includes(gender) ? gender : undefined;
     const sk = ["men", "women", "everyone"].includes(seeking) ? seeking : undefined;
-    const p = createPerson(String(linkedin), String(instagram), g, sk);
+    const p = await createPerson(String(linkedin), String(instagram), g, sk);
     if (p.status !== "ready") after(() => ingest(p.id));
     return NextResponse.json({ id: p.id, status: p.status });
   } catch (e) {

@@ -7,9 +7,9 @@ import { listDates, listPeople } from "@/lib/store";
 
 export const dynamic = "force-dynamic";
 
-export default function Home() {
-  const people = listPeople();
-  const dates = listDates().filter((d) => d.status === "done");
+export default async function Home() {
+  const people = await listPeople();
+  const dates = (await listDates()).filter((d) => d.status === "done");
   const ready = people.filter((p) => p.status === "ready");
   const mutual = dates.filter((d) => Object.values(d.debriefs).every((x) => x.secondDate)).length;
   return (

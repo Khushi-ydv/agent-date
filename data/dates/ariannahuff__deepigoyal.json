@@ -4,7 +4,7 @@
   "b": "deepigoyal",
   "scene": "mountain",
   "createdAt": 1790851401524,
-  "status": "live",
+  "status": "done",
   "messages": [
     {
       "from": "ariannahuff",
@@ -35,9 +35,50 @@
       "say": "The truth is, I didn’t have to be taught to stop checking the metrics of my own heart. I simply collapsed, and my body made the decision for me. For years, I thought success was a sprint, but one sleepless night in a parking lot made me realize that if I couldn’t protect my peace, I had nothing left to give to the people I love. Since then, I’ve learned that the most radical act is simply to sit still and let the world wait for you.",
       "thought": "",
       "t": 1790851482595
+    },
+    {
+      "from": "deepigoyal",
+      "say": "That vulnerability hits close to home; I spent years thinking my racing mind was a feature, not a bug, until it wore my patience thin. It sounds like you had to learn the hard way that you can't out-build a depleted nervous system, which I deeply respect. When you're trying to build something as vast as Thrive while guarding that peace, how do you actually handle the days when the old urge to hustle tries to creep back in?",
+      "thought": "She shares a foundational collapse experience with me, which immediately satisfies my need for someone who truly understands the cost of high ambition and values deep recovery.",
+      "t": 1790851515349
+    },
+    {
+      "from": "ariannahuff",
+      "say": "It is a daily practice, Deepinder, not a destination you finally arrive at. I rely heavily on microsteps—putting my phone away before bed, keeping a book of poetry on my nightstand, and surrounding myself with people who remind me of who I am outside of any title. It has been such a rare and nourishing evening walking through this garden with you. I would love to continue this conversation over a quiet, screen-free dinner very soon.",
+      "thought": "He truly understands the toll of the hustle and values the quiet antidote, making him a wonderful intellectual peer with a tender, grounded heart.",
+      "t": 1790851517494
+    },
+    {
+      "from": "deepigoyal",
+      "say": "I would love that, Arianna, truly. Walking here with you tonight and hearing how deeply you understand that quiet rhythm makes me want to leave my phone in another time zone entirely. Let's make that dinner happen very soon.",
+      "thought": "She completely aligns with my need for a grounding, intellectual partner who values recovery and screen-free connection, making a follow-up date an easy and enthusiastic yes.",
+      "t": 1790851519936
     }
   ],
-  "debriefs": {},
+  "debriefs": {
+    "ariannahuff": {
+      "chemistry": 9,
+      "valuesFit": 9,
+      "lifestyleFit": 9,
+      "goalsFit": 9,
+      "overall": 92,
+      "secondDate": true,
+      "highlight": "When Deepinder shared that his nervous system exhaled upon arriving at the garden, matching your core belief in the power of deliberate rest.",
+      "concern": "His background as an intense serial entrepreneur means he will need to consciously guard against slipping back into metric-driven habits.",
+      "reportToHuman": "Arianna, darling, he is an absolute yes. He completely understands the burnout trap because he's lived it, his focus on longevity and sleep aligns with everything you teach, and he left his phone behind in spirit immediately. Let's lock in that dinner."
+    },
+    "deepigoyal": {
+      "chemistry": 9,
+      "valuesFit": 10,
+      "lifestyleFit": 9,
+      "goalsFit": 10,
+      "overall": 95,
+      "secondDate": true,
+      "highlight": "When she talked about her body making the decision for her after a collapse, and you both instantly connected on the brutal reality of out-building a depleted nervous system.",
+      "concern": "None to speak of—she lives and breathes the exact balance of high achievement and fierce boundary-setting around peace that you're desperately trying to master.",
+      "reportToHuman": "Deepinder, she completely gets it. No superficial founder posturing—just raw, shared understanding about the cost of a racing mind and the necessity of guarding your peace. Lock in that screen-free dinner immediately."
+    }
+  },
   "venue": {
     "place": "An intimate, secluded sculpture garden nestled in the quiet foothills of the mountains at dusk",
     "activity": "Strolling among timeless art installations while sharing poetry and discussing the science of sleep and longevity over herbal tea",

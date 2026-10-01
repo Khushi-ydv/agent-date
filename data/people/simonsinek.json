@@ -4,7 +4,7 @@
   "linkedinUrl": "https://www.linkedin.com/in/simonsinek/",
   "instagramUrl": "https://www.instagram.com/simonsinek/",
   "status": "ready",
-  "datingStatus": "idle",
+  "datingStatus": "done",
   "log": [
     {
       "t": 1790849644626,
@@ -45,6 +45,21 @@
       "t": 1790850794853,
       "step": "Identified as a man, looking for women",
       "detail": "The name Simon Sinek is traditionally male, and the text contains no female pronouns or self-descriptions indicating otherwise."
+    },
+    {
+      "t": 1790852035090,
+      "step": "Agent is reviewing the pool",
+      "detail": "12 other agents' clients"
+    },
+    {
+      "t": 1790852038584,
+      "step": "Asked out",
+      "detail": "Bren\u00e9 Brown, Arianna Huffington, Katie Couric"
+    },
+    {
+      "t": 1790852286258,
+      "step": "All dates finished",
+      "detail": "rankings updated"
     }
   ],
   "linkedin": {
@@ -134,30 +149,30 @@
     "postsCount": 3179,
     "isVerified": true,
     "isPrivate": false,
-    "profilePic": "https://scontent.cdninstagram.com/v/t51.2885-19/243195290_571186213930949_7363173219155955326_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=w5AKlaAt6OMQ7kNvwHEF36Q&_nc_oc=AdrUd8XFCHR1nIxvJk5s0gdQ9UciglQc66NseAXDkjGSRp6dkSuR-vZcMd5Ymt19JQD2DiGAUd6s_8oi0MbJD_KZ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=7f689&oh=00_AQO5ls9D6UhLAaWXFrgZNQ_aXHoQ2SKnZtWdcbfcEzU55g&oe=6AC402AA",
+    "profilePic": "/people/simonsinek/avatar.jpg",
     "posts": [
       {
-        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/832777454_18632860987043690_9095734862934757964_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=TsM_MFrVMpEQ7kNvwHBXyMw&_nc_oc=AdpyNpOawOuqROh6k32hNOY1dZxxVAI3HM18sEXh-TxBvmQC87TC39hMfwgAnL4h4ZvvEfP1TDro-BhmxVP_sL8f&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=YuyhqRR2DyzjgIu7o7_TEw&_nc_ss=7f689&oh=00_AQPUdGOA953TjTPIOl5P4-iolkHK37HHuAcdW0P0Y_Ll5Q&oe=6AC3F1EF",
+        "imageUrl": "/people/simonsinek/p0.jpg",
         "caption": ""
       },
       {
-        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/830594414_18632480230043690_3211529164900882722_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=c6n1Zgb1ecoQ7kNvwFdpsMD&_nc_oc=AdpDvChoEsanpqX8aZjCGcT5HTD40Q042SYZRBpo1bua39KaX_wdxOSp0bTLGPQIjIbHay41q83l0lTlg2kbpKdE&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=YuyhqRR2DyzjgIu7o7_TEw&_nc_ss=7f689&oh=00_AQNc5kyrZkj9voOMU4UOQ06p2UgOrNvKoLeQmZY42io9Ow&oe=6AC4025C",
+        "imageUrl": "/people/simonsinek/p1.jpg",
         "caption": "Say \"cheese\" and you get a smile. Say \"prune\" and you get cheekbones.\n\nA Bit of Optimism is taking a brief hiatus, and we'll be back with brand-new episodes in a few weeks. Until then, we're revisiting some of our favorite conversations, starting with one of the most fun we've ever had: @roblowe.\n\nWhat I love about Rob is that he plays the game with a wink, and reminds us all to take the work seriously\u2014just never too seriously.\n\n\ud83c\udfa7 Listen to the full episode of A Bit of Optimism wherever you get your podcasts."
       },
       {
-        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/828532200_18632172664043690_1356931429121453413_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=RiTKg_yNFLoQ7kNvwHNvpXH&_nc_oc=AdoBy98PspW1jOSLA9ulZ2qniXKTOFcQQNKOsnsTl6WTAhIi2OHNA74AUl_pQpEv2sl4UlM5Dn2mFsozRyTTFX85&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=YuyhqRR2DyzjgIu7o7_TEw&_nc_ss=7f689&oh=00_AQO5dcIsV1ydgucnJ3AwYGGeCVBOTmTF2XtdYg3S2l8Krg&oe=6AC3E736",
+        "imageUrl": "/people/simonsinek/p2.jpg",
         "caption": "\"You don't hire for skills, you hire for attitude. You can always teach skills.\" \u2014Herb Kelleher \n\nVideo from SHRM26 (June 2026) in conversation with BambooHR CEO Bradley Rencher"
       },
       {
-        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/825322523_18631363606043690_3558746532363333320_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=G6fWaFzjXnwQ7kNvwEVxgqu&_nc_oc=AdpVUL4hSZ4fxEBm_1VHtlGLoBM2j_owMb2pkfPwZApIcSnbQ9VKtbeX5wZBsU_IewMGM-7Rrn3DdHbwZbO3PyE2&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=YuyhqRR2DyzjgIu7o7_TEw&_nc_ss=7f689&oh=00_AQMEGUaMFKXU-EQAJtwX6tuM2qVh9RNpT8e8zvwfdXe97w&oe=6AC4062E",
+        "imageUrl": "/people/simonsinek/p3.jpg",
         "caption": "Swipe for more optimism. \ud83d\udca1"
       },
       {
-        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/810996438_18631012489043690_1397507223156443717_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=gxV1aX542tgQ7kNvwHsQGou&_nc_oc=AdoKbz99LNpMj7TPyS-ORA9GswPB8Dt7klErNmjS3dwt4vOtitm8IVyv7QWlVKY4ZhbO-giiPa3JR70DmeHeVyq9&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=YuyhqRR2DyzjgIu7o7_TEw&_nc_ss=7f689&oh=00_AQNZVokc4npMgSCGS7-oDkKuGo2zuLY0jrZP3KdufnE_AA&oe=6AC3EC20",
+        "imageUrl": "/people/simonsinek/p4.jpg",
         "caption": "If you don't understand people, you don't understand business. \n\nWe don\u2019t do business with companies. We do business with people. Business is always human. \n\nVideo from Globo (November 2025) in conversation with journalist Rodrigo Carvalho"
       },
       {
-        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/823540206_18630620464043690_698233536787924086_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=_BHDhmREyOkQ7kNvwEpiOsS&_nc_oc=Adqs-3W8DifnlUQJophhQAmN3nvGONSsRXsJY9LJJV4_TVZJ4futAr55eQ6mEjsgJZyebMEDP8DcWNKzwh9uk1tf&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=YuyhqRR2DyzjgIu7o7_TEw&_nc_ss=7f689&oh=00_AQN-o1h8HX6ddbFiMj8uqIWwXgzIESCBKK8FX3lxvI1Y0A&oe=6AC3FE7C",
+        "imageUrl": "/people/simonsinek/p5.jpg",
         "caption": "\"I'm an anxious person.\" \"I'm an avoidant.\" \"I'm just bad at this.\"\n \nListen to how you describe yourself for a day. Then count how many of those start with \"I am.\"\n \nAs a psychotherapist, Amy Morin (@amymorinauthor) tells clients to try trading the being verb for a habit\u2014\u201cI have a tendency to,\u201d \u201cI do this sometimes.\u201d\n \nIt sounds like a technicality, but it isn't. A tendency is something you can change next time. An identity is something you live up to.\n \nWhat's one \"I am\" you'd swap?\n \nThis episode of A Bit of Optimism is brought to you by @sap \ud83c\udfa7 Check out the full episode wherever you get your podcasts!"
       },
       {
@@ -186,7 +201,7 @@
       }
     ]
   },
-  "photo": "https://scontent.cdninstagram.com/v/t51.2885-19/243195290_571186213930949_7363173219155955326_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=w5AKlaAt6OMQ7kNvwHEF36Q&_nc_oc=AdrUd8XFCHR1nIxvJk5s0gdQ9UciglQc66NseAXDkjGSRp6dkSuR-vZcMd5Ymt19JQD2DiGAUd6s_8oi0MbJD_KZ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=7f689&oh=00_AQO5ls9D6UhLAaWXFrgZNQ_aXHoQ2SKnZtWdcbfcEzU55g&oe=6AC402AA",
+  "photo": "/people/simonsinek/avatar.jpg",
   "analysis": {
     "name": "Simon Sinek",
     "oneLiner": "Optimist, leader\u2011coach, and podcast host who blends big\u2011picture purpose with daily human connection.",
@@ -378,7 +393,68 @@
       "He shares mental\u2011strength exercises, showing a commitment to personal development."
     ]
   },
-  "shortlist": null,
+  "shortlist": [
+    {
+      "id": "brenebrown",
+      "interest": 98,
+      "reason": "She is the ultimate partner for a thought leader who wants to unpack the psychology of anxiety and build a fortress of true, vulnerable connection."
+    },
+    {
+      "id": "ariannahuff",
+      "interest": 92,
+      "reason": "Her focus on wisdom, well-being, and screen-free salons provides the exact sanctuary and intellectual depth Simon needs away from the hustle."
+    },
+    {
+      "id": "katiecouric",
+      "interest": 88,
+      "reason": "Her masterful interviewing background and blend of serious advocacy with playful curiosity make for an effortlessly engaging, idea-rich date."
+    },
+    {
+      "id": "marieforleo",
+      "interest": 85,
+      "reason": "She masterfully bridges high-level purpose-driven entrepreneurship with a vibrant, playful energy that matches Simon's desire for joy."
+    },
+    {
+      "id": "melrobbins",
+      "interest": 84,
+      "reason": "Her expertise in behavioral science and self-improvement frameworks aligns directly with Simon's fascination with mental strength and growth."
+    },
+    {
+      "id": "barbaracorcoran",
+      "interest": 75,
+      "reason": "Her sharp NYC wit and infectious support for dreamers would certainly keep him smiling, though she leans a bit more pragmatic than idealistic."
+    },
+    {
+      "id": "jennakutcher",
+      "interest": 72,
+      "reason": "Her grounded, nature-focused life in Minnesota offers a peaceful contrast to his fast-paced media world, though their operational paces differ."
+    },
+    {
+      "id": "namitathapar",
+      "interest": 70,
+      "reason": "She shares a strong drive for social impact and health advocacy, though her intense focus on scale might feel a bit heavily corporate."
+    },
+    {
+      "id": "alexavontobel",
+      "interest": 68,
+      "reason": "While deeply intellectually curious and family-oriented, her high-octane fintech background might occasionally outpace his preferred rhythm."
+    },
+    {
+      "id": "toryburch",
+      "interest": 65,
+      "reason": "Her commitment to women's empowerment aligns with his values, but the high-fashion world operates on a different wavelength than his optimism platform."
+    },
+    {
+      "id": "randizuckerberg",
+      "interest": 60,
+      "reason": "Her endurance running and tech-speaker energy are impressive, but the relentless hustle could clash with his need for reflective downtime."
+    },
+    {
+      "id": "vineetasng",
+      "interest": 58,
+      "reason": "She brings incredible resilience and fitness dedication, though her world is heavily rooted in metrics and competitive scaling rather than pure storytelling."
+    }
+  ],
   "gender": "man",
   "seeking": "women",
   "genderSource": "inferred",

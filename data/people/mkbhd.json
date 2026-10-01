@@ -4,7 +4,7 @@
   "linkedinUrl": "https://www.linkedin.com/in/mkbhd/",
   "instagramUrl": "https://www.instagram.com/mkbhd/",
   "status": "ready",
-  "datingStatus": "idle",
+  "datingStatus": "done",
   "log": [
     {
       "t": 1790849291388,
@@ -45,6 +45,21 @@
       "t": 1790850793307,
       "step": "Identified as a man, looking for women",
       "detail": "The text refers to the person as \"he\" in the LinkedIn activity caption: \"he has released videos during his finals week, graduated college and started his own business\"."
+    },
+    {
+      "t": 1790853121328,
+      "step": "Agent is reviewing the pool",
+      "detail": "12 other agents' clients"
+    },
+    {
+      "t": 1790853124527,
+      "step": "Asked out",
+      "detail": "Randi Zuckerberg, Alexa von Tobel, Barbara Corcoran"
+    },
+    {
+      "t": 1790853552765,
+      "step": "All dates finished",
+      "detail": "rankings updated"
     }
   ],
   "linkedin": {
@@ -76,30 +91,30 @@
     "postsCount": 2117,
     "isVerified": true,
     "isPrivate": false,
-    "profilePic": "https://scontent.cdninstagram.com/v/t51.82787-19/587817368_18545874469015447_3745195562993032801_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YOAQUIwwVwgQ7kNvwFr1nKR&_nc_oc=AdpL73sUgfofqdKDE_eigdiKvZMPfj6I7NcDnvB90rkV8uTGo8eQehrT6R9QAv0eF6l2UdD3fIIVqMw4T4GYZhtq&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=oLNvqdmH8mJqBi5nXobKbQ&_nc_ss=7f689&oh=00_AQMXwnCmI7BkLvbdd0GdItMtu_aN09LeHobCK4CCxdrGVA&oe=6AC41227",
+    "profilePic": "/people/mkbhd/avatar.jpg",
     "posts": [
       {
-        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/809209371_18629877718015447_7052620111081774864_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=_KqDc_jIzr0Q7kNvwFdwpPj&_nc_oc=AdqNjg_7gsQBFAeQmqiScjxOpcyidWjl9Dnlt8g9GpMecnbJlb63mO78pG4cNE-Zk19Kq9YVnJWIbJGIUD6yU2iw&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=ox-2Fcw5PWxn7XnFYBQtow&_nc_ss=7f689&oh=00_AQMhwCeeXfVS8xvt-FiqLUY6Y6WFmU7FCLqBdt60AE-EhA&oe=6AC41D98",
+        "imageUrl": "/people/mkbhd/p0.jpg",
         "caption": "The greatest ruler/caliper I\u2019ve ever seen, sorry for getting so excited"
       },
       {
-        "imageUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/802119890_918765177974092_9153122750521233822_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=kqL_AyfqxmgQ7kNvwGOl3Ec&_nc_oc=Ado-khHT34zEJ0M4g0s3qgxtuUrW3QjMxv1c06x1zguVkDVqnCOe20PksBNQVG7ukKQiI9JfsiUwVQQp92Tor236&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=ox-2Fcw5PWxn7XnFYBQtow&_nc_ss=7f689&oh=00_AQMzZC8xB1uby3ElikryKJYOXlKHlLMP_NbdOfswzZ5faw&oe=6AC40FB7",
+        "imageUrl": "/people/mkbhd/p1.jpg",
         "caption": "This iPhone Duo animation"
       },
       {
-        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/802244481_18628126534015447_5187785863855368626_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=rfZqxq5ySJcQ7kNvwEqeesI&_nc_oc=AdogJ21fp6hfvOGcGyhPT8AVGadmi99KwucBrNBYly3raXL3pDOgw0bXuYnQttviHFOkt4GH1gPhH6KcGCmty4eG&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=ox-2Fcw5PWxn7XnFYBQtow&_nc_ss=7f689&oh=00_AQOMttIGogO8xXyL6BoZMunl8a0hbtFXD71qssxfImmUFw&oe=6AC3F2DB",
+        "imageUrl": "/people/mkbhd/p2.jpg",
         "caption": "Shot one OnePlus 15"
       },
       {
-        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/786121610_18623329324015447_4437483294252731793_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=cq4bnEwtayIQ7kNvwGJn-72&_nc_oc=AdqbMM5k8MbS7qCfSfuBbYqoRkBQLbSThC03eryPYiIIsI61fSQ5xL46pURWB8U9x8nDtIPJSoL51GKlk43hmD5J&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=ox-2Fcw5PWxn7XnFYBQtow&_nc_ss=7f689&oh=00_AQOQOki3tGD60O7Y3YGmyBnAtqWlQfmDt1bV2Wol6n1XWA&oe=6AC3EC26",
+        "imageUrl": "/people/mkbhd/p3.jpg",
         "caption": "Do a flip"
       },
       {
-        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/777982156_18642475966003783_1710864528637765322_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=Th3nkXG9bDMQ7kNvwEPlMq3&_nc_oc=Adq7unRVXY3qt9QcNQxPg7bAwi1e0OBXk0Y7AxEnp7ohqFjspCI_s0xtnijjiZq1ePbvmQE9lD3ZYsKQ91sCtsd7&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=ox-2Fcw5PWxn7XnFYBQtow&_nc_ss=7f689&oh=00_AQNvmt-jIqEPocmELNphncPHiT3gMxnu0KXgI13muRnlXA&oe=6AC40532",
+        "imageUrl": "/people/mkbhd/p4.jpg",
         "caption": "Fun fact: Marques Brownlee is the only player in league history to throw and catch a buzzer beater at Championship Weekend.\n\nCan Brownlee and New York win a fourth title in 2026?"
       },
       {
-        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/762846910_18631166470037874_6281191613520396990_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=NeBvaCka-DIQ7kNvwG2B0BT&_nc_oc=AdokyFUJXN1wURwmeqQuNXrPQAB1lTKEpTKiI_4IufOJ5o9kyoFQdgkKGxnfUXaf_GyhNJe2-lJWbgp7LksTEtmz&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=ox-2Fcw5PWxn7XnFYBQtow&_nc_ss=7f689&oh=00_AQMDDGabIEM4FyHhm3zRcB5E2GbR_56GQ5O0_BG2K11tCA&oe=6AC3FD9D",
+        "imageUrl": "/people/mkbhd/p5.jpg",
         "caption": "IMPOSSIBLE FRISBEE SHOT (Feat. @mkbhd)"
       },
       {
@@ -128,7 +143,7 @@
       }
     ]
   },
-  "photo": "https://scontent.cdninstagram.com/v/t51.82787-19/587817368_18545874469015447_3745195562993032801_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YOAQUIwwVwgQ7kNvwFr1nKR&_nc_oc=AdpL73sUgfofqdKDE_eigdiKvZMPfj6I7NcDnvB90rkV8uTGo8eQehrT6R9QAv0eF6l2UdD3fIIVqMw4T4GYZhtq&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=oLNvqdmH8mJqBi5nXobKbQ&_nc_ss=7f689&oh=00_AQMXwnCmI7BkLvbdd0GdItMtu_aN09LeHobCK4CCxdrGVA&oe=6AC41227",
+  "photo": "/people/mkbhd/avatar.jpg",
   "analysis": {
     "name": "Marques Brownlee",
     "oneLiner": "Tech\u2011savvy creator who blends relentless curiosity with a love for competition and community.",
@@ -328,5 +343,66 @@
   "seeking": "women",
   "genderSource": "inferred",
   "genderEvidence": "The text refers to the person as \"he\" in the LinkedIn activity caption: \"he has released videos during his finals week, graduated college and started his own business\".",
-  "shortlist": null
+  "shortlist": [
+    {
+      "id": "randizuckerberg",
+      "interest": 95,
+      "reason": "She combines tech-savviness, entrepreneurial drive, and an ultra-marathoner's athletic endurance that matches his high-energy, active lifestyle."
+    },
+    {
+      "id": "alexavontobel",
+      "interest": 90,
+      "reason": "Her deep immersion in early-stage tech trends and high-octane venture ambition make for incredible intellectual stimulation and shared pacing."
+    },
+    {
+      "id": "barbaracorcoran",
+      "interest": 82,
+      "reason": "Her sharp entrepreneurial humor and fierce support for bold creators align wonderfully with his playful, high-energy competitive spirit."
+    },
+    {
+      "id": "marieforleo",
+      "interest": 80,
+      "reason": "She brilliantly balances massive creative ambition with daily playfulness and a genuine growth mindset that he'll love."
+    },
+    {
+      "id": "vineetasng",
+      "interest": 78,
+      "reason": "As a fitness-crushing CEO who loves building brands, she has the exact physical stamina and business hustle to keep up with him."
+    },
+    {
+      "id": "jennakutcher",
+      "interest": 75,
+      "reason": "Her digital creativity and interest in tech trends combined with an outdoor, grounded life offer a refreshing balance to his fast-moving pace."
+    },
+    {
+      "id": "katiecouric",
+      "interest": 72,
+      "reason": "Her legendary interviewing background and playful curiosity about the media world would spark some incredible, deep conversations."
+    },
+    {
+      "id": "namitathapar",
+      "interest": 70,
+      "reason": "Her active outdoor lifestyle and sharp business scaling mindset provide a solid foundation for mutual respect and engaging dialogue."
+    },
+    {
+      "id": "melrobbins",
+      "interest": 65,
+      "reason": "Her high-energy motivational media background matches his platform-building drive, though it leans more psychology than tech."
+    },
+    {
+      "id": "toryburch",
+      "interest": 60,
+      "reason": "She brings immense design vision and creative entrepreneurship, though her world is more fashion runway than consumer tech gadgets."
+    },
+    {
+      "id": "brenebrown",
+      "interest": 55,
+      "reason": "While her focus on authenticity and honest storytelling is admirable, her academic pacing is a bit more reflective than his fast-moving tech drops."
+    },
+    {
+      "id": "ariannahuff",
+      "interest": 40,
+      "reason": "Her ultimate call for screen-free connection and slowing down directly clashes with his hyper-connected, gadget-testing lifestyle."
+    }
+  ]
 }

@@ -3,13 +3,17 @@ import { Avatar } from "@/components/Avatar";
 import { Heart } from "@/components/FloatingHearts";
 import { HeartFrame, Icon3D } from "@/components/Love3D";
 import { rankingsFor } from "@/lib/pipeline";
-import { getPerson, listDates, listPeople } from "@/lib/store";
+import { listDates, listPeople } from "@/lib/store";
 
 export const dynamic = "force-dynamic";
 
-export default function Rankings() {
-  const people = listPeople().filter((p) => p.status === "ready");
-  const couples = listDates()
+export default async function Rankings() {
+  const all = await listPeople();
+  const allDates = await listDates();
+  const byId = new Map(all.map((p) => [p.id, p]));
+  const people = all.filter((p) => p.status === "ready");
+  const tops = new Map(await Promise.all(people.map(async (p) => [p.id, (await rankingsFor(p.id, { people: all, dates: allDates })).slice(0, 3)] as const)));
+  const couples = allDates
     .filter((d) => d.status === "done" && d.debriefs[d.a] && d.debriefs[d.b])
     .map((d) => ({ d, score: Math.round((d.debriefs[d.a].overall + d.debriefs[d.b].overall) / 2), mutual: d.debriefs[d.a].secondDate && d.debriefs[d.b].secondDate }))
     .sort((x, y) => Number(y.mutual) - Number(x.mutual) || y.score - x.score)
@@ -28,8 +32,8 @@ export default function Rankings() {
           <h2 className="mb-5 text-center font-display text-3xl italic text-love">💞 Top couples</h2>
           <div className="grid gap-6 md:grid-cols-3">
             {couples.map(({ d, score, mutual }, i) => {
-              const A = getPerson(d.a)!;
-              const B = getPerson(d.b)!;
+              const A = byId.get(d.a)!;
+              const B = byId.get(d.b)!;
               return (
                 <Link key={d.id} href={`/date/${d.id}`} className="glass lift pop flex flex-col items-center gap-3 p-6 text-center" style={{ animationDelay: `${i * 120}ms` }}>
                   <div className="flex items-center -space-x-6">
@@ -51,7 +55,7 @@ export default function Rankings() {
         <h2 className="mb-5 font-display text-3xl italic">Everyone&apos;s top 3</h2>
         <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
           {people.map((p, idx) => {
-            const top = rankingsFor(p.id).slice(0, 3);
+            const top = tops.get(p.id) ?? [];
             return (
               <div key={p.id} className="glass pop p-4" style={{ animationDelay: `${(idx % 9) * 50}ms` }}>
                 <Link href={`/p/${p.id}`} className="mb-3 flex items-center gap-3">

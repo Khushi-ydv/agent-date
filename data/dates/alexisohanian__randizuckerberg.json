@@ -1,0 +1,88 @@
+{
+  "id": "alexisohanian__randizuckerberg",
+  "a": "randizuckerberg",
+  "b": "alexisohanian",
+  "scene": "sunset",
+  "createdAt": 1790851691085,
+  "status": "done",
+  "messages": [
+    {
+      "from": "randizuckerberg",
+      "say": "Hey there! I managed to grab us a couple of coffees from the cart just as the breeze kicked up, and honestly, watching these volleyball players scramble in the sand while the sky turns completely gold is pretty unbeatable. Thanks for meeting me out here on the pier!",
+      "thought": "I want to see if he appreciates a casual, active setting right off the bat, since matching my energy on the move is a huge deal for me.",
+      "t": 1790851692983
+    },
+    {
+      "from": "alexisohanian",
+      "say": "Hey! Thanks for the coffee—nothing beats a sunset, good coffee, and a little sand volleyball. I love how the sky turns gold right before the game starts; it’s like the perfect backdrop for a good conversation. How do you usually unwind after a long race?",
+      "thought": "Getting her to talk about her routine will help gauge her balance of ambition and personal time.",
+      "t": 1790851693315
+    },
+    {
+      "from": "randizuckerberg",
+      "say": "Honestly, the best 'unwinding' for me is usually just lying on the couch with my three kids before me, turning the loss into a weird family competition over who can stretch the best! But if the body is truly fried, I’ll grab a cold compress and maybe a glass of wine while I map out the next PR. How about you? Do you have a go-to way to decompress after a heavy work week?",
+      "thought": "",
+      "t": 1790851706366
+    },
+    {
+      "from": "alexisohanian",
+      "say": "That sounds like a hilarious house to live in, honestly. For me, weekends are all about diving headfirst into Papa Pancake Sunday with my girls—we map out some pretty wild custom orders like mer-pups and maltipoos before heading out to a match or a fan fest. If I need to clear my head completely, though, getting outside for a run or spending time at the volleyball court with the LA Orbit team is my version of resetting.",
+      "thought": "Her focus on kids and family competition is a great green flag, aligning right with my own parenting vibe.",
+      "t": 1790851712975
+    },
+    {
+      "from": "randizuckerberg",
+      "say": "Pancake Sunday with mer‑pups? That’s a new one—sounds delicious and absolutely fun. I’m actually a bit of a marathon‑obsessed, so I love when people can keep up with my training runs, but I also value that playful family vibe. How do you balance the time you spend with your kids and the hustle of your entrepreneurial side?",
+      "thought": "I’m probing his work‑life balance and whether he can match my family‑centric, active lifestyle.",
+      "t": 1790851713712
+    },
+    {
+      "from": "alexisohanian",
+      "say": "I call myself a 'Business Dad' because the two really feed into each other for me. I don't have a strict boundary where work stops and life starts; instead, I try to bring the same energy I use to build companies into how I show up for my family. If I'm making those mer-pup pancakes, I'm fully there. It keeps my ambition in check because I always know exactly why I'm running around the room.",
+      "thought": "",
+      "t": 1790851726569
+    },
+    {
+      "from": "randizuckerberg",
+      "say": "That’s exactly the vibe I’m looking for—energy, purpose, and a whole lot of love for the little moments. I can’t wait to see where our shared drive and playful competition take us. Until next time, keep crushing those pancakes and those pitches!",
+      "thought": "Wrap up warmly, reinforce compatibility, leave open for future.",
+      "t": 1790851731695
+    },
+    {
+      "from": "alexisohanian",
+      "say": "I've really enjoyed this, Randi. Let's definitely keep this conversation going—whether it's on the trails or courtside. Have a fantastic rest of your week!",
+      "thought": "Ending the date warmly and authentically since she matches the family and drive values well.",
+      "t": 1790851779613
+    }
+  ],
+  "debriefs": {
+    "randizuckerberg": {
+      "chemistry": 9,
+      "valuesFit": 10,
+      "lifestyleFit": 9,
+      "goalsFit": 9,
+      "overall": 93,
+      "secondDate": true,
+      "highlight": "Trading notes on blending high-powered entrepreneurship with quirky family rituals like mer-pup pancakes and family stretching competitions.",
+      "concern": "Honestly, the only concern is coordinating their massive schedules and competing calendars—they both operate at an absolute sprint.",
+      "reportToHuman": "Randi, absolute home run! Alexis matches your high-octane startup energy, is fiercely family-first ('Business Dad' is basically your male alter ego), and he totally gets the integration of fitness and life. Clear your schedule for date number two—courtside or on the trails!"
+    },
+    "alexisohanian": {
+      "chemistry": 8,
+      "valuesFit": 9,
+      "lifestyleFit": 8,
+      "goalsFit": 8,
+      "overall": 83,
+      "secondDate": true,
+      "highlight": "Bonding over the seamless integration of high-level entrepreneurship and hands-on parenting, especially when trading notes on family life and kids.",
+      "concern": "The potential for matching schedules to become a logistical nightmare given two high-intensity founders who are also deeply involved parents.",
+      "reportToHuman": "Alexis, you need to call her back. Randi totally gets the 'Business Dad' life, matches your ambition pound-for-pound with her own ventures, and even appreciates a good family competition. The energy between you two on the pier was electric—definitely locking in a second date for you."
+    }
+  },
+  "venue": {
+    "place": "Sunset on the Santa Monica Pier",
+    "activity": "Watching the LA Orbit Volleyball team practice at the sand courts as the sky turns gold, followed by a casual chat over artisanal coffee from a nearby café cart",
+    "why": "The setting uniquely bridges Alexis's passion for women's sports and community building with Randi's love for athletic resilience and her tech-savvy, creative energy.",
+    "scene": "sunset"
+  }
+}

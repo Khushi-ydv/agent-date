@@ -4,7 +4,7 @@
   "linkedinUrl": "https://www.linkedin.com/in/daymondjohn/",
   "instagramUrl": "https://www.instagram.com/thesharkdaymond/",
   "status": "ready",
-  "datingStatus": "idle",
+  "datingStatus": "done",
   "log": [
     {
       "t": 1790850397342,
@@ -45,6 +45,21 @@
       "t": 1790850796256,
       "step": "Identified as a man, looking for women",
       "detail": "He continues to set standards of excellence while expanding his interests..."
+    },
+    {
+      "t": 1790852674524,
+      "step": "Agent is reviewing the pool",
+      "detail": "12 other agents' clients"
+    },
+    {
+      "t": 1790852678071,
+      "step": "Asked out",
+      "detail": "Namita Thapar, Jenna Kutcher, Vineeta Singh"
+    },
+    {
+      "t": 1790852935359,
+      "step": "All dates finished",
+      "detail": "rankings updated"
     }
   ],
   "linkedin": {
@@ -126,30 +141,30 @@
     "postsCount": 8406,
     "isVerified": true,
     "isPrivate": false,
-    "profilePic": "https://scontent.cdninstagram.com/v/t51.2885-19/74666961_2379079692347010_5840095558991085568_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=103&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=L7Plm7mMG9QQ7kNvwHWaSzz&_nc_oc=AdrehveiDLtbXVSixPsw9gBexQsflTN4Bkp16-DhqpsNIqjENVKdAIFXbUox0SQSk6RJODq8ofJ-4GRWvahEg5DL&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=7f689&oh=00_AQMlCvkdmXP3NYdkgx_BBtX5-rmDWe2aP42n7bfZJVbPpA&oe=6AC3E9A8",
+    "profilePic": "/people/thesharkdaymond/avatar.jpg",
     "posts": [
       {
-        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/830834251_18634506361009286_2641047620490258310_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=5wYsHpTcdGAQ7kNvwGHA_Jc&_nc_oc=AdrRQDLL-sJpjGrXLzmIY79B2HID0GJOCyqrjBCo7HaaPCza3s2aa4pmoi2mIyYLTMCLIqcxDYGDcpzPLUSChbtt&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=vgTGXQdZdk1mOu2g6GetVg&_nc_ss=7f689&oh=00_AQM5qBkN6TFXgaA66G5Oac3sEXwIUFJ8ZLjgI-u5twGytg&oe=6AC3FBD3",
+        "imageUrl": "/people/thesharkdaymond/p0.jpg",
         "caption": "MEET MY TEAM\n\nYou see me everywhere. Making all these investments, I could not do it without my team at The Shark Group.\n\nThis is what I mean when I talk about maximizing and triangulating our divisions. Seven divisions, seven ways to work with us:\n\nShark Investors \u2014 where the deals get done\nShark Speakers \u2014 where the stages get rocked\nBrand Partners \u2014 where the infuse brands into the conversation \n@theshark_art \u2014 where artists get seen\nCEO Access \u2014 where leaders connect\n@sharkgevity \u2014 where we invest in longevity\nShark Licensing \u2014 where brands grow\nYou can have the vision, but you need the right people around you to bring it to life. \n\nMuch love to my team @thesharkgroup  I appreciate every one of you! \ud83d\udc4a\ud83c\udffe"
       },
       {
-        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/829473567_18634345162009286_3214082364075197129_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=-YQifEt4MFMQ7kNvwHoAkZN&_nc_oc=AdoiwsdL1KVA64aXmGHOtKw89Ko-NlBxQbFfLKBpDD6VOv4kVkgbAHnkXiWn9EO5vQnRgvHT2cUg6738bXHd7nbZ&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=vgTGXQdZdk1mOu2g6GetVg&_nc_ss=7f689&oh=00_AQPWUeeRBf8LoNzxPkxio0qIVSIyh0fDREzP2epb_gVhyw&oe=6AC3FB3A",
+        "imageUrl": "/people/thesharkdaymond/p1.jpg",
         "caption": "IS MARK BACK ON @sharktankabc?!?!\n\nHe might be back to take his seat\u2026 Or he might not. \n\nFind out TONIGHT during the 2-hour #SharkTank season premiere at 9/8c on ABC and stream on Hulu."
       },
       {
-        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/825352113_18392565709206484_2440432392644268562_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=t_2FzzWfQ4wQ7kNvwEqI-XE&_nc_oc=AdoVgPoB5_8pXDLPtigEpgfWK2ANvUA10sZ2Bdaz5BuMOiOJYOef0aj40QwOuN9rZpV__xJJPhVUYPMabbxCPMCv&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=vgTGXQdZdk1mOu2g6GetVg&_nc_ss=7f689&oh=00_AQOtUvNWpvrP0ZZ3mgHK6cXra8j-XWLJ3glX1WdCDEU9ZA&oe=6AC3FD88",
+        "imageUrl": "/people/thesharkdaymond/p2.jpg",
         "caption": "Christmas came early to TimTokSherry, thanks to the LEGEND @thesharkdaymond and @thesharkworld \n#timtoksherry #oldschool \n@onceuponacoconut @protocol4health @preppartnersgroup @truistacoffee @punchdenergy @murphydoor @chillygoattubs @nightcapit @socialyogut @shubugco @wickedcutzjerky @essentiaorganicmattress @heather__john"
       },
       {
-        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/825320650_18633946126009286_3907508370470449465_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=N09Rb6cUmP0Q7kNvwGNoPJu&_nc_oc=AdoRw13S3C13-FtuMx6HTZOE8VylVNcp9l3vgQLDVhPLbp0O59uzogha7ADtpA5dOOs-f_OyhSlO2ZCwscz10q9p&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=vgTGXQdZdk1mOu2g6GetVg&_nc_ss=7f689&oh=00_AQPsRzR8kmzKNq9obPKgiGcgGK0FeBJpmBeTlq55kefexQ&oe=6AC405AD",
+        "imageUrl": "/people/thesharkdaymond/p3.jpg",
         "caption": "Stop doing these things with your pitches until you hear this."
       },
       {
-        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/825320720_18633810697009286_2801596006515735637_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=4iRoG4D6760Q7kNvwFit3F8&_nc_oc=AdojyVJtOMiioA2KryV5ueaA0BmWpZjIdExLzt5CfhBBF9TWi0Kb8gCVrtN8CiJWeDnwNVoOn3Fn0F7RB9P6JfSv&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=vgTGXQdZdk1mOu2g6GetVg&_nc_ss=7f689&oh=00_AQPG-1EmgEfFHmiXkSusVBhP_NBm78bkzYQ2d85556NAEw&oe=6AC3F452",
+        "imageUrl": "/people/thesharkdaymond/p4.jpg",
         "caption": "If you (or your boss) has built a company doing $100M+ a year, this might just be for you. Because once you reach that level, more information usually isn\u2019t what moves the needle.\n\nAccess does. Access to the right opportunities, the right relationships, the right rooms and the right positioning, so people know your value before you ever walk through the door. That\u2019s why I created CEO Access. I work directly with a hand-selected group of CEOs who have already proven they know how to build and scale. They don\u2019t need me to teach them how to run their business.\n\nMy job is to help them expand what\u2019s possible through new business opportunities, strategic introductions, personal branding, thought leadership, and access to relationships and rooms that could change the trajectory of what they\u2019re building. This is not a mastermind.\nIt\u2019s not a networking group and it\u2019s definitely not for everybody.\n\nBut if you\u2019ve built a company doing $100M+ a year and believe your next level could come from stronger positioning, better access, and bigger opportunities, I want to hear from you.\n\nApply for CEO Access at CEOAccess.com or through the link in my bio.\n\nI personally work with a limited number of CEOs, and every application is reviewed.\nThis might just be for you."
       },
       {
-        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/825320821_18633656203009286_5214817124240736962_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=YS4yDSQ056wQ7kNvwH8s3di&_nc_oc=AdrjjilJEc3HnkfvGx6h2XmHmxlTOQWLDVCIlzJAmKdMuq828GisdAeahlDREXx0-8_08Pfeq6ZT5sH4PPl6FuQa&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=vgTGXQdZdk1mOu2g6GetVg&_nc_ss=7f689&oh=00_AQOBWL2Pf4cbbCHBeY2OMx5NQ9mfdfsVG7jRoeW3DkdL0g&oe=6AC4133C",
+        "imageUrl": "/people/thesharkdaymond/p5.jpg",
         "caption": "Comparison will rob you faster than any thief.\n\nI've seen billionaires cry on private jets and I've seen people build empires out of nothing.. I was one of them.\n\nIt's not what you have. It's what you MAKE out of it. The day you stop looking sideways is the day you start moving forward.\n\nThis is your reminder to  be grateful for what you got, and make the MOST out of it."
       },
       {
@@ -178,7 +193,7 @@
       }
     ]
   },
-  "photo": "https://scontent.cdninstagram.com/v/t51.2885-19/74666961_2379079692347010_5840095558991085568_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=103&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=L7Plm7mMG9QQ7kNvwHWaSzz&_nc_oc=AdrehveiDLtbXVSixPsw9gBexQsflTN4Bkp16-DhqpsNIqjENVKdAIFXbUox0SQSk6RJODq8ofJ-4GRWvahEg5DL&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=7f689&oh=00_AQMlCvkdmXP3NYdkgx_BBtX5-rmDWe2aP42n7bfZJVbPpA&oe=6AC3E9A8",
+  "photo": "/people/thesharkdaymond/avatar.jpg",
   "analysis": {
     "name": "Daymond John",
     "oneLiner": "Serial entrepreneur, Shark Tank shark, and bio\u2011hacker who loves high\u2011impact teams, health hacks, and a good hat.",
@@ -385,5 +400,66 @@
   "seeking": "women",
   "genderSource": "inferred",
   "genderEvidence": "He continues to set standards of excellence while expanding his interests...",
-  "shortlist": null
+  "shortlist": [
+    {
+      "id": "namitathapar",
+      "interest": 96,
+      "reason": "As a fellow Shark Tank judge and health entrepreneur, she perfectly matches Daymond's obsession with scaling businesses and bio-hacking longevity science."
+    },
+    {
+      "id": "jennakutcher",
+      "interest": 92,
+      "reason": "Her hands-on business coaching and active research into biohacking tools and productivity hacks make her an ideal intellectual and lifestyle match."
+    },
+    {
+      "id": "vineetasng",
+      "interest": 90,
+      "reason": "Her background building a massive beauty brand combined with her fierce dedication to competitive fitness aligns seamlessly with Daymond's entrepreneurial and health-first lifestyle."
+    },
+    {
+      "id": "randizuckerberg",
+      "interest": 88,
+      "reason": "She brings high-octane tech energy, a relentless endurance-running mindset, and a deep appreciation for family and media creation."
+    },
+    {
+      "id": "toryburch",
+      "interest": 85,
+      "reason": "Her iconic fashion empire and commitment to brand culture and women's entrepreneurship would provide an endless source of high-level creative synergy."
+    },
+    {
+      "id": "alexavontobel",
+      "interest": 84,
+      "reason": "Her venture capital acumen, high-octane ambition, and dedication to family-first adventures hit all of Daymond's core values."
+    },
+    {
+      "id": "melrobbins",
+      "interest": 82,
+      "reason": "Her powerhouse media presence and deep focus on personal reinvention and behavioral science match Daymond's relentless drive for self-improvement."
+    },
+    {
+      "id": "marieforleo",
+      "interest": 80,
+      "reason": "She blends big-picture entrepreneurial purpose with a playful, high-energy approach to life that would keep Daymond smiling."
+    },
+    {
+      "id": "barbaracorcoran",
+      "interest": 78,
+      "reason": "While they share an incredible Shark Tank camaraderie, her fast-paced NYC real estate energy leans more friendly peer than romantic puzzle piece."
+    },
+    {
+      "id": "katiecouric",
+      "interest": 75,
+      "reason": "Her media legacy and love for food and playful curiosity offer great conversation, though her public health focus is more journalistic than bio-hacking."
+    },
+    {
+      "id": "brenebrown",
+      "interest": 68,
+      "reason": "While Daymond values authenticity, her intensely academic and psychological approach to vulnerability might feel a bit too heavy for his fast-paced, action-oriented hustle."
+    },
+    {
+      "id": "ariannahuff",
+      "interest": 62,
+      "reason": "Though she champions sleep and wellbeing, her current phase of hosting screen-free salons and poetry readings is a bit too slow-paced for Daymond's high-speed media empire."
+    }
+  ]
 }

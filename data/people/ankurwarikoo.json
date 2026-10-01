@@ -4,7 +4,7 @@
   "linkedinUrl": "https://www.linkedin.com/in/warikoo/",
   "instagramUrl": "https://www.instagram.com/ankurwarikoo/",
   "status": "ready",
-  "datingStatus": "idle",
+  "datingStatus": "done",
   "log": [
     {
       "t": 1790849085876,
@@ -45,6 +45,21 @@
       "t": 1790850791189,
       "step": "Identified as a man, looking for women",
       "detail": "The profile name is \"Ankur Warikoo\", a name that is publicly recognized as male."
+    },
+    {
+      "t": 1790851955194,
+      "step": "Agent is reviewing the pool",
+      "detail": "12 other agents' clients"
+    },
+    {
+      "t": 1790851958492,
+      "step": "Asked out",
+      "detail": "Mel Robbins, Alexa von Tobel, Jenna Kutcher"
+    },
+    {
+      "t": 1790852042676,
+      "step": "All dates finished",
+      "detail": "rankings updated"
     }
   ],
   "linkedin": {
@@ -208,30 +223,30 @@
     "postsCount": 6594,
     "isVerified": true,
     "isPrivate": false,
-    "profilePic": "https://scontent.cdninstagram.com/v/t51.75761-19/502391989_18363247591150226_2569829003856402432_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=exYZZgEYq20Q7kNvwHoZDrK&_nc_oc=AdrIdaKWds7i4DCfgMi6ySM4RVDogFXiXTwwXR4y5SgeKMKK0IdOvub0crEqY55ejVlU4gr9HP8u7m_oL1U-fEMm&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=yrf_Y6GqUxMyqcMXt13OGw&_nc_ss=7f689&oh=00_AQN54zcG06ZFpoNMVdpIz8VeJMbMR67n-y-E0WbCgSyv8Q&oe=6AC40309",
+    "profilePic": "/people/ankurwarikoo/avatar.jpg",
     "posts": [
       {
-        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/822499801_18428951677150226_2681265016251029329_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=kRfKKKbq5roQ7kNvwFIK0LN&_nc_oc=AdrcxXMSKxZlMyEiDM9eEUHLC-bj08pHn4LW0FQS0WXelFyD8VeLlZytBFM_YAlcgVGdPD8sTb5p6OBxTNgoPse_&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=llVNZRrzpnRi8h4La0aqYA&_nc_ss=7f689&oh=00_AQPZQVkseQQc28CS1RGoRMEGifbAVE9XoCdOiAQtmpjN5g&oe=6AC3E610",
+        "imageUrl": "/people/ankurwarikoo/p0.jpg",
         "caption": "Suppose you have \u20b9100 and \u20b910 of it goes missing.\n\nWould you spend the remaining \u20b990 trying to find that \u20b910?\n\nNo, right?\n\nSo when someone at the age of 24, 25, or 27 asks this question - \u201cI\u2019m not enjoying my career. But it\u2019s too late. I won\u2019t be able to change your career now.\u201d \n\nThen is it the right question or not?\n\nI remember I started my career as a scientist at the age of 24.\n\nAt 25, I was building corporate training programs.\nAt 26, I was a consultant.\nAt 29, I became an entrepreneur.\nAt 31, I joined an MNC.\nAt 35, I started my own startup.\nAt 40, I started content creation.\n\nToday, again, I am running my own startup.\n\nIn a 20-year career, I have changed my career multiple times.\n\nBecause I know that 10 years have passed - that\u2019s not important. \nThe 30 years ahead matter more."
       },
       {
-        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/830632346_18430132984150226_3183134537491557008_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=qH_XR1zWLJcQ7kNvwEioFm1&_nc_oc=Adoy5ZDEr2yBmqkRvtnJm_BBgFL7TT3a5Li6c9o1cChQT8uLC8akM0nDE4weRGwGwyZNcV5CcoLp25ZWFndrimkJ&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=llVNZRrzpnRi8h4La0aqYA&_nc_ss=7f689&oh=00_AQPiO9E0wJqAMhauDJqY6Ywnf0dA-OTqc85S98m00uwbAg&oe=6AC3F138",
+        "imageUrl": "/people/ankurwarikoo/p1.jpg",
         "caption": "We think interesting people are living some thrilling, unpredictable lives.\n\nThe truth is the opposite.\n\nThe person you find fascinating reads every day. \nTrains every day. \nFollows the same routine everyday. \nShows up for the same unglamorous work long after the excitement wears off.\n\nThe boring, repetitive things nobody claps for.\n\nThat\u2019s exactly what makes them interesting. \nThe depth, the skill, the range you admire was built in all those dull, repeated hours.\n\nEveryone wants the interesting life.\nAlmost no one wants the boring days that build it."
       },
       {
-        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/818743086_18428813755150226_4749886770487385317_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=6D2WVSkdiAMQ7kNvwF0scVy&_nc_oc=Adr0j6PAhhtWKjRBFApbrcR4MF7SC8iKgZDYTSiEGntbJNcZVs1igsSg4HIptkkde5gU6n2as0o1St1Rrqe9nVx2&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=llVNZRrzpnRi8h4La0aqYA&_nc_ss=7f689&oh=00_AQP8Sjjkhb3m7sTcZ4bvbrScgb8SLYoIou3q84exrCo1fw&oe=6AC3F781",
+        "imageUrl": "/people/ankurwarikoo/p2.jpg",
         "caption": "3 settings on your phone that can save you money.\n\n1/ Your bank apps have transaction controls.\n\nYou can set how much the limit is for domestic online transactions, domestic ATM transactions, international transactions, and international ATM transactions.\n\n2/ Never let your OTPs appear on your lock screen.\n\nIn both Android and iOS, you can change your notification settings.\n\n3/ Go to the AutoPay or Mandate section of your UPI app.\n\nThere you will find countless recurring mandates that you may have forgotten, but they keep getting deducted every month.\n\n3 simple things that can save your money."
       },
       {
-        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/828887338_18429983851150226_5332165905398321435_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=SkMZ0uq-sLYQ7kNvwHp5jpj&_nc_oc=AdrlWzUy20V-EfkVbEac7knraX0XxY7EianOHU5GECLW7IiZWTTKtoXHTxUnh9Ex2IXXlDT1Ibkbrv1SeS0PWo42&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=llVNZRrzpnRi8h4La0aqYA&_nc_ss=7f689&oh=00_AQPGGP5YXl8FZ0eLc6lCE0uv0vByVXbKYTZ_pOEGpNeEWQ&oe=6AC3F790",
+        "imageUrl": "/people/ankurwarikoo/p3.jpg",
         "caption": "19th @waricrew offsite - this time at Kabini :)) \n\nA jungle safari, boat safari, nature walk and 3 days of fun and exciting conversations!"
       },
       {
-        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/817679269_18428672566150226_3600259994401794085_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=geJycl1JN3wQ7kNvwFNZ-zl&_nc_oc=Adp3lKnl6hscATQY7b3tV3F0OpDCeiid8hcLn75mRLJ9mi-RpWgvT-inhSWsITZNDFaj12njjM5oa8oWpXDeGVca&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=llVNZRrzpnRi8h4La0aqYA&_nc_ss=7f689&oh=00_AQNyvrvWvxhSA1tW3s_4PUfu5JX7bxZPeT_Fin_C2HKywQ&oe=6AC3FA94",
+        "imageUrl": "/people/ankurwarikoo/p4.jpg",
         "caption": "Clear any interview with this 5-day challenge.\n\nOn Day 1 - prepare your 90-second introduction.\n\nYou have to focus on 4 things:\nWhat are you doing right now?\nWhat relevant experience do you have?\nWhat are the things you are really good at?\nAnd what do you want to do next?\n\nDay 2 - design your proof.\n\nThis is all the evidence you can show a recruiter if they need any proof - proof of your work, internships, experience, and knowledge too.\n\nDay 3 - practice stress interviews.\n\nPick your most powerful, strongest story or strength. Put it into ChatGPT and tell it to ask you follow-up stress questions. Answer them without preparing.\n\nDay 4 - learn to answer a question whose answer you don\u2019t know.\n\nUpload your resume to ChatGPT and ask it to pose 30 questions that are not obvious, very difficult, and almost out of syllabus, and try to answer all of them.\n\nDay 5 - do a 20-minute mock interview.\n\nActivate ChatGPT voice and tell it your full context, and then say, \u201cTake an interview in English.\u201d\n\nThis 5-day training and preparation can help you prepare for every interview."
       },
       {
-        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/828018253_18429841567150226_8624544748485697805_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=pG4pJZo7vqEQ7kNvwEe5LPj&_nc_oc=AdrAkbq8HCzH6dlVfzYYSo1t8OzCcSWFuA1BgaW6QA0eQvdy2tDWaFlR-Osb9HwZdjaP1WJ21iZ4sMD33cfnAtM0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=llVNZRrzpnRi8h4La0aqYA&_nc_ss=7f689&oh=00_AQO7Z-MkHeDllev2kpnBSvQ8Hk_L8JqJ22xS8B7dA9SVSg&oe=6AC418FB",
+        "imageUrl": "/people/ankurwarikoo/p5.jpg",
         "caption": "We grow up believing our parents are meant to have all the answers.\n\nSo when they get something wrong, we hold it against them for years.\n\nBut they were figuring out life for the first time too. \nWith their own fears, their own wounds, their own parents they were still healing from.\n\nThey were never perfect beings.\n\nThey were just people, doing their best with what they knew at the time.\n\nThe day you start seeing your parents as humans first, a lot of your anger quietly turns into understanding."
       },
       {
@@ -260,7 +275,7 @@
       }
     ]
   },
-  "photo": "https://scontent.cdninstagram.com/v/t51.75761-19/502391989_18363247591150226_2569829003856402432_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=exYZZgEYq20Q7kNvwHoZDrK&_nc_oc=AdrIdaKWds7i4DCfgMi6ySM4RVDogFXiXTwwXR4y5SgeKMKK0IdOvub0crEqY55ejVlU4gr9HP8u7m_oL1U-fEMm&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=yrf_Y6GqUxMyqcMXt13OGw&_nc_ss=7f689&oh=00_AQN54zcG06ZFpoNMVdpIz8VeJMbMR67n-y-E0WbCgSyv8Q&oe=6AC40309",
+  "photo": "/people/ankurwarikoo/avatar.jpg",
   "analysis": {
     "name": "Ankur Warikoo",
     "oneLiner": "An epic life isn't built on overnight thrills; it's designed through daily, unglamorous routines and conscious choices.",
@@ -464,5 +479,66 @@
   "seeking": "women",
   "genderSource": "inferred",
   "genderEvidence": "The profile name is \"Ankur Warikoo\", a name that is publicly recognized as male.",
-  "shortlist": null
+  "shortlist": [
+    {
+      "id": "melrobbins",
+      "interest": 98,
+      "reason": "An exceptional match of shared frameworks, deep focus on human psychology, and a mutual obsession with the power of unglamorous daily habits."
+    },
+    {
+      "id": "alexavontobel",
+      "interest": 92,
+      "reason": "Brings a wonderful blend of high-octane fintech entrepreneurship, financial education advocacy, and a grounded, family-first approach to life."
+    },
+    {
+      "id": "jennakutcher",
+      "interest": 90,
+      "reason": "Shares a love for online education, personal growth, and finding deep grounding in nature and simple, family-centered daily routines."
+    },
+    {
+      "id": "vineetasng",
+      "interest": 88,
+      "reason": "A fellow Indian serial entrepreneur who matches his intense dedication to daily fitness, resilience, and building impactful businesses."
+    },
+    {
+      "id": "brenebrown",
+      "interest": 86,
+      "reason": "Aligns deeply with his core values of emotional maturity, vulnerability, human psychology, and the courage to lean into self-awareness."
+    },
+    {
+      "id": "ariannahuff",
+      "interest": 82,
+      "reason": "Resonates strongly with his evolution toward well-being, mindfulness, and the intentional shift from endless hustle to wisdom and presence."
+    },
+    {
+      "id": "marieforleo",
+      "interest": 80,
+      "reason": "Blends high-level entrepreneurial drive with a structured approach to habit design and personal development that he will deeply respect."
+    },
+    {
+      "id": "barbaracorcoran",
+      "interest": 78,
+      "reason": "Provides a lively, highly energetic conversational dynamic and a shared foundational passion for empowering and mentoring founders."
+    },
+    {
+      "id": "katiecouric",
+      "interest": 75,
+      "reason": "Offers sharp journalistic curiosity, a love for lifelong learning, and a great balance of public ambition with simple comforts."
+    },
+    {
+      "id": "namitathapar",
+      "interest": 74,
+      "reason": "Shares the unique ecosystem of Indian business leadership and health advocacy, though her active outdoor style leans more toward hiking than quiet nature walks."
+    },
+    {
+      "id": "randizuckerberg",
+      "interest": 65,
+      "reason": "While deeply ambitious in tech, her ultra-marathon intensity and constant event-driven pace might clash slightly with his need for quiet routines."
+    },
+    {
+      "id": "toryburch",
+      "interest": 60,
+      "reason": "Shares immense entrepreneurial success and purpose, but the high-fashion industry focus is distant from his core interests in mindset, tech, and finance."
+    }
+  ]
 }

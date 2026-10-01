@@ -4,7 +4,7 @@
   "linkedinUrl": "https://www.linkedin.com/in/neilkpatel/",
   "instagramUrl": "https://www.instagram.com/neilpatel/",
   "status": "ready",
-  "datingStatus": "idle",
+  "datingStatus": "done",
   "log": [
     {
       "t": 1790849395445,
@@ -45,6 +45,21 @@
       "t": 1790850793707,
       "step": "Identified as a man, looking for women",
       "detail": "The name Neil Patel is a male name, and the text contains no female pronouns or self-descriptions indicating a different gender."
+    },
+    {
+      "t": 1790852373294,
+      "step": "Agent is reviewing the pool",
+      "detail": "12 other agents' clients"
+    },
+    {
+      "t": 1790852378805,
+      "step": "Asked out",
+      "detail": "Jenna Kutcher, Randi Zuckerberg, Alexa von Tobel"
+    },
+    {
+      "t": 1790852700656,
+      "step": "All dates finished",
+      "detail": "rankings updated"
     }
   ],
   "linkedin": {
@@ -137,30 +152,30 @@
     "postsCount": 3167,
     "isVerified": true,
     "isPrivate": false,
-    "profilePic": "https://scontent.cdninstagram.com/v/t51.2885-19/275584649_261525982832819_4647575332436781063_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44NzguQzMifQ%3D%3D&_nc_ohc=WrXKUu6WDpwQ7kNvwH9HIMg&_nc_oc=AdrmLwS9e5yia0ygHAO2tsLL8ZlXytj4TtuIGD-k1Rxe2VHWNKyi0kSY6TnoOV3bQwF7NskU6xJS3smL6cVdzEK2&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=7f689&oh=00_AQPcj4WxyAXqDAzhlt5xsZT10Yu1Q7TVBeno_-RP5wUDRg&oe=6AC4060D",
+    "profilePic": "/people/neilpatel/avatar.jpg",
     "posts": [
       {
-        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/830563130_18350168569254210_8150926094403676088_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=y8IbjD9BhCgQ7kNvwH0IUAU&_nc_oc=AdoZGVp8kq93KTP5WRf1El7k_f3b4bQoSmxWHDdBNV9wm-tux0i_WfJ8iVOC0BA4n12l05-S_svYppvXWYXJEIk6&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=2XrD3mwEdchsgRrOqb8Xhg&_nc_ss=7f689&oh=00_AQMk9wQ_xGXW_AfjVabfLzij67B91VKza4xa23JBcgCPhA&oe=6AC4126F",
+        "imageUrl": "/people/neilpatel/p0.jpg",
         "caption": "If you want a global brand, your marketing needs to be flexible.\n\nYou can't just set global rules and expect them to work.\n\nCheck out how you should balance local and global in marketing."
       },
       {
-        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/833298113_18350145082254210_2455625230685236378_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=w4OTaOoqyykQ7kNvwGmS5xE&_nc_oc=Adrci2b18XXDadvVAQmPhyHoMP1eFKg-DZ86LIkchC9OVASr9o6mstRR5VRFMS0ztgJxlH3CqwTlsge4YkUb5-Lm&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=2XrD3mwEdchsgRrOqb8Xhg&_nc_ss=7f689&oh=00_AQOLdZYO0xaEmuZdZGBb5Ei29VzJBHiNCkU-S1HVT3yvAA&oe=6AC3E8CB",
+        "imageUrl": "/people/neilpatel/p1.jpg",
         "caption": "The prompt didn't exist three years ago. Now hundreds of millions of people use ChatGPT every week. Keywords still matter. Questions still matter. But if you're not looking at prompts, you're missing where search is going. Comment \"ANSWER\" and I'll send you the tool.\n\n#FutureOfSEO #AISearch #DigitalMarketing #NeilPatel"
       },
       {
-        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/831726087_18350124361254210_4472624981285551020_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=NMSjIEHl9gkQ7kNvwGqoItE&_nc_oc=Adqb8mxrj3cp7jMMvAxjg0fAw0_XuKsiy17jnLtEOjkOdD9E8vjU368D8ob9FeEneBSxOWIPzs1p4iIs2k6aU26T&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=2XrD3mwEdchsgRrOqb8Xhg&_nc_ss=7f689&oh=00_AQOAuvSUWwHd-yXj0L7bXPUklXpOhn6EZ3PL_JD0S6ijnA&oe=6AC40AFA",
+        "imageUrl": "/people/neilpatel/p2.jpg",
         "caption": "If I were starting a business today, I'd start with the local businesses you drive past every day. The owners know how to do the work, but getting customers is a whole other job, and they'll pay for help with it.\n\nThe platform I use to build the websites, AI assistants, and follow-up for clients is my partners at HighLevel. Link in bio.\n\nSo I walked through the whole thing using a heating and air conditioning company as the example. I checked demand in Ubersuggest, built a demo website and AI assistant, played the homeowner requesting an estimate, and showed exactly what the owner sees on their end. Then I break down how to find prospects, pitch through a screen share, and price the service. One agency that focused only on churches reached $2.5 million in revenue in 2024, according to HighLevel."
       },
       {
-        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/831423587_18350099980254210_5750974042409424880_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=g7Yz2PNEG3sQ7kNvwEK2f3J&_nc_oc=AdpVeSlCKIksbBHgxe9y5sINqDFiWKcJYJM_i4heUoo87C-CwEv_ilhaBke1taITF-rfLxyFib-36x3q9XCIywlQ&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=2XrD3mwEdchsgRrOqb8Xhg&_nc_ss=7f689&oh=00_AQPwcM_m21K9oopEzMLQ9p4pkL8SnC5HTsJd0XROxX0vQg&oe=6AC400B3",
+        "imageUrl": "/people/neilpatel/p3.jpg",
         "caption": "The second you make franchisees ask permission for every post, you've lost the feed. Approvals kill momentum. And momentum is the entire game on social. So stop policing and start supplying. Pre-approved sounds. Plug-and-play captions. B-roll they can post today. You're not loosening the reins. You're making the on-brand move the easy move.\n\n#FranchiseMarketing #SocialMediaMarketing #BrandStrategy #MarketingTips"
       },
       {
-        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/831103087_18350034013254210_2621584191020635789_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=YVlZKbBjqJwQ7kNvwFfgF9Z&_nc_oc=AdodOYKdUT0nMKBh99eSYX6yNVvVwxlFYSMz6HW03DZE6IJ2LaLeZI5K7eMIhcoTVaMGdc0m6EnuOF91u7T1IYA7&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=2XrD3mwEdchsgRrOqb8Xhg&_nc_ss=7f689&oh=00_AQPOjud4htbSDjQoCXGmdrcoUQfloRpyFNKVbsNjAac-uw&oe=6AC3FB29",
+        "imageUrl": "/people/neilpatel/p4.jpg",
         "caption": "If you want more love from ChatGPT, don't focus on digital PR or even listicles.\n\nDon't get me wrong, those tactics can be effective, but it's the wrong place to start.\n\nChances are, you already have content on your site. And chances are, it isn't optimized for GEO.\n\nSo before you do anything else, optimize what you already have."
       },
       {
-        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/830882899_18350012440254210_7319572060240863918_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=KZJqBsUGAa0Q7kNvwF2xdRm&_nc_oc=AdoQYFd69XtSfebneis4rxK-TIpNKh7x4mgR-aELggHzXhCEEUiXBZF1srrZcYiuoFuXFLD-Oh10QemoRuzsJfRn&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=2XrD3mwEdchsgRrOqb8Xhg&_nc_ss=7f689&oh=00_AQOauCx9zE-xOy2ZLIGCP0dFAfOFHDaKLniaeV6T00nUyg&oe=6AC3FCBF",
+        "imageUrl": "/people/neilpatel/p5.jpg",
         "caption": "Searching your own name won't tell you if AI knows your brand. The AI Visibility Report in Ubersuggest will. See where you show up on each LLM, how you stack up against competitors, and whether the sentiment leans your way or theirs.\n\nComment \"GEO\" and I'll send you what you need to get started.\n\n#AISearch #GEO #Ubersuggest #ContentMarketing"
       },
       {
@@ -189,7 +204,7 @@
       }
     ]
   },
-  "photo": "https://scontent.cdninstagram.com/v/t51.2885-19/275584649_261525982832819_4647575332436781063_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44NzguQzMifQ%3D%3D&_nc_ohc=WrXKUu6WDpwQ7kNvwH9HIMg&_nc_oc=AdrmLwS9e5yia0ygHAO2tsLL8ZlXytj4TtuIGD-k1Rxe2VHWNKyi0kSY6TnoOV3bQwF7NskU6xJS3smL6cVdzEK2&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=7f689&oh=00_AQPcj4WxyAXqDAzhlt5xsZT10Yu1Q7TVBeno_-RP5wUDRg&oe=6AC4060D",
+  "photo": "/people/neilpatel/avatar.jpg",
   "analysis": {
     "name": "Neil Patel",
     "oneLiner": "Digital marketing visionary who blends data\u2011driven strategy with a relentless drive to help local businesses thrive.",
@@ -389,5 +404,66 @@
   "seeking": "women",
   "genderSource": "inferred",
   "genderEvidence": "The name Neil Patel is a male name, and the text contains no female pronouns or self-descriptions indicating a different gender.",
-  "shortlist": null
+  "shortlist": [
+    {
+      "id": "jennakutcher",
+      "interest": 95,
+      "reason": "She uniquely bridges digital marketing, online business coaching, and small-business support with tech and biohacking trends, making her an absolute powerhouse match for Neil's exact wheelhouse."
+    },
+    {
+      "id": "randizuckerberg",
+      "interest": 90,
+      "reason": "As a tech-savvy speaker deeply embedded in AI creativity and high-velocity entrepreneurship, she completely matches Neil's fast-paced rhythm and enthusiasm for emerging tech."
+    },
+    {
+      "id": "alexavontobel",
+      "interest": 88,
+      "reason": "Her background as a fintech founder focused on early-stage technology trends and AI means she can effortlessly match Neil's intellectual curiosity and high-octane business ambition."
+    },
+    {
+      "id": "barbaracorcoran",
+      "interest": 82,
+      "reason": "Her sharp entrepreneurial hustle and love for rapid deal-making resonate strongly with Neil's passion for speed, responsiveness, and practical business results."
+    },
+    {
+      "id": "marieforleo",
+      "interest": 80,
+      "reason": "She combines creative digital entrepreneurship, productivity design, and a growth mindset in a way that aligns wonderfully with Neil's high-velocity iterating lifestyle."
+    },
+    {
+      "id": "melrobbins",
+      "interest": 75,
+      "reason": "Her focus on self-improvement frameworks, motivational scaling, and practical behavioral science offers a great conversational overlap for Neil's data-backed mindset."
+    },
+    {
+      "id": "vineetasng",
+      "interest": 72,
+      "reason": "Her strong metrics-driven brand building and resilience match Neil's respect for hard work and momentum, though her heavy fitness focus requires a bit more physical pacing."
+    },
+    {
+      "id": "namitathapar",
+      "interest": 68,
+      "reason": "As a Shark Tank judge and health entrepreneur, she brings incredible scale-up ambition and evidence-based dialogue, though her domain leans more heavily clinical than pure marketing tech."
+    },
+    {
+      "id": "katiecouric",
+      "interest": 65,
+      "reason": "Her media entrepreneurship and insatiable curiosity provide great intellectual stimulation, though her world is firmly rooted in journalism rather than Neil's daily AI and SEO trenches."
+    },
+    {
+      "id": "toryburch",
+      "interest": 55,
+      "reason": "While she shares a massive dedication to scalable brand building and empowerment, her primary universe is fashion design rather than the tech and marketing automation Neil lives in."
+    },
+    {
+      "id": "brenebrown",
+      "interest": 50,
+      "reason": "She offers incredible emotional depth and insights into human behavior, but her academic research focus might not fully scratch Neil's itch for fast-paced digital marketing talk."
+    },
+    {
+      "id": "ariannahuff",
+      "interest": 40,
+      "reason": "While she champions well-being and space to unwind, her current mission urging a step away from hustle culture directly clashes with Neil's always-on marketing pace."
+    }
+  ]
 }

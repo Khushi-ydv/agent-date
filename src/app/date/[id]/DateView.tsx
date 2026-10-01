@@ -7,6 +7,7 @@ import { Icon3D } from "@/components/Love3D";
 import { DateStage } from "@/components/DateStage";
 import { MatchBurst, ScoreRing } from "@/components/MatchBurst";
 import type { SceneKey } from "@/components/ScenePicker";
+import { useDateDriver } from "@/components/useDateDriver";
 import type { DateRecord, Debrief } from "@/lib/types";
 
 type Who = { id: string; name: string; photo?: string; oneLiner?: string; gender?: string };
@@ -17,6 +18,7 @@ export function DateView({ id }: { id: string }) {
   const [showThoughts, setShowThoughts] = useState(true);
   const [celebrated, setCelebrated] = useState(false);
   const [burst, setBurst] = useState(false);
+  const [resumed, setResumed] = useState(false);
   const wasLive = useRef(false);
   const bottom = useRef<HTMLDivElement>(null);
 
@@ -55,6 +57,10 @@ export function DateView({ id }: { id: string }) {
     }
   }, [mutual, celebrated]);
 
+  // Watching a date keeps it moving: the browser advances it one step at a time (resumable, serverless-safe).
+  const shouldDrive = !!date && (["planning", "live", "debrief"].includes(date.status) || (date.status === "error" && resumed));
+  const notice = useDateDriver(shouldDrive ? [id] : [], load);
+
   if (!date || !people[date.a]) return <div className="flex justify-center py-32"><Heart size={48} className="beat text-pink-500" /></div>;
   const A = people[date.a];
   const B = people[date.b];
@@ -72,10 +78,12 @@ export function DateView({ id }: { id: string }) {
       </div>
       <DateStage scene={(date.scene ?? date.venue?.scene) as SceneKey | undefined} venue={date.venue} a={A} b={B} messages={date.messages} live={live} />
 
+      {notice && <div className="glass px-4 py-2 text-center text-sm text-pink-200">💗 {notice}</div>}
       <div className="flex items-center justify-between text-sm">
         <span className={live ? "flex items-center gap-2 text-pink-300" : "text-white/50"}>
           {live && <span className="h-2 w-2 animate-ping rounded-full bg-pink-500" />}
-          {live ? `LIVE — ${date.status === "debrief" ? "agents are reflecting" : date.status}` : date.status === "error" ? `Date failed: ${date.error}` : "The date is over"}
+          {live ? `LIVE — ${date.status === "debrief" ? "agents are reflecting" : date.status}` : date.status === "error" ? "The agents paused this date (AI capacity)." : "The date is over"}
+          {date.status === "error" && !resumed && <button className="btn-ghost ml-2" onClick={() => setResumed(true)}>↻ Resume date</button>}
         </span>
         <label className="flex cursor-pointer items-center gap-2 text-white/60">
           <input type="checkbox" className="accent-pink-500" checked={showThoughts} onChange={(e) => setShowThoughts(e.target.checked)} /> 🤫 agents&apos; private notes

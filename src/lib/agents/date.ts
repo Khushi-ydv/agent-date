@@ -42,6 +42,7 @@ export async function chooseDates(me: Person, pool: Person[], k: number) {
   const res = await chatJson<{ picks: { id: string; interest: number; reason: string }[] }>({
     tier: "smart",
     temperature: 0.4,
+    maxTokens: 2500,
     system: `You are ${me.analysis!.name}'s personal dating agent. You know your client deeply. Review every candidate and score how promising a first date would be for YOUR client (0-100), judging needs, values, lifestyle and goals fit — not fame or status. Return JSON: {"picks":[{"id": string, "interest": number, "reason": string (one specific sentence)}]} with an entry for EVERY candidate, sorted best first.`,
     messages: [
       {
@@ -131,6 +132,7 @@ async function debrief(me: Person, other: Person, rec: DateRecord): Promise<Debr
   return chatJson<Debrief>({
     tier: "smart",
     temperature: 0.3,
+    maxTokens: 900,
     system: `You are ${me.analysis!.name}'s dating agent. You just went on a first date on their behalf. Debrief honestly for YOUR client — you are protecting their time, not being polite. Judge against their needs, values, lifestyle and dealbreakers, using what was actually said.
 Calibrate like a discerning matchmaker: a pleasant but ordinary first date is 45-65; good chemistry with real shared values is 66-79; 80+ is rare and needs specific evidence of fit on needs AND lifestyle. Pleasant conversation alone is not compatibility — penalise clashes in lifestyle, pace, location, life stage or dealbreakers even if the talk was friendly. Only say secondDate: true if overall >= 70.
 Return JSON: {"chemistry": 0-10, "valuesFit": 0-10, "lifestyleFit": 0-10, "goalsFit": 0-10, "overall": 0-100, "secondDate": boolean, "highlight": string (best moment, quote-specific), "concern": string (the biggest risk), "reportToHuman": string (2-3 sentences you'd text your client, first person, candid)}`,
@@ -138,33 +140,49 @@ Return JSON: {"chemistry": 0-10, "valuesFit": 0-10, "lifestyleFit": 0-10, "goals
   });
 }
 
-/** Run one full date between a (initiator) and b, persisting after every step so the UI can watch it live. */
-export async function runDate(rec: DateRecord): Promise<DateRecord> {
-  const a = getPerson(rec.a)!;
-  const b = getPerson(rec.b)!;
-  try {
-    rec.status = "planning";
-    saveDate(rec);
+/**
+ * Advance a date by exactly ONE step (plan venue → one conversation turn → debriefs) and persist it.
+ * Each step is a single short LLM call, so it fits comfortably in a serverless request; the browser
+ * (or the seed script) calls this repeatedly until the date is done. Failures leave the date resumable.
+ */
+export async function stepDate(rec: DateRecord): Promise<DateRecord> {
+  if (rec.status === "done") return rec;
+  const a = (await getPerson(rec.a))!;
+  const b = (await getPerson(rec.b))!;
+  if (rec.status === "error") rec.status = rec.venue ? (rec.messages.length >= TURNS ? "debrief" : "live") : "planning";
+  rec.error = undefined;
+  if (rec.status === "planning" || !rec.venue) {
     rec.venue = await planVenue(a, b, rec.scene);
     rec.scene = rec.venue.scene;
     rec.status = "live";
-    saveDate(rec);
-    while (rec.messages.length < TURNS) {
-      const me = rec.messages.length % 2 === 0 ? a : b;
-      const other = me === a ? b : a;
-      const { say, thought } = await speak(me, other, rec);
-      rec.messages.push({ from: me.id, say, thought, t: Date.now() } satisfies DateMessage);
-      saveDate(rec);
-    }
+  } else if (rec.messages.length < TURNS) {
+    const me = rec.messages.length % 2 === 0 ? a : b;
+    const other = me === a ? b : a;
+    const { say, thought } = await speak(me, other, rec);
+    rec.messages.push({ from: me.id, say, thought, t: Date.now() } satisfies DateMessage);
+    rec.status = rec.messages.length >= TURNS ? "debrief" : "live";
+  } else {
     rec.status = "debrief";
-    saveDate(rec);
     const [da, db] = await Promise.all([debrief(a, b, rec), debrief(b, a, rec)]);
     rec.debriefs = { [a.id]: da, [b.id]: db };
     rec.status = "done";
-  } catch (e) {
-    rec.status = "error";
-    rec.error = (e as Error).message;
   }
-  saveDate(rec);
-  return getDate(rec.id) ?? rec;
+  await saveDate(rec);
+  return rec;
+}
+
+/** Run a whole date to completion (used by scripts). Marks the date as errored if a step keeps failing. */
+export async function runDate(rec: DateRecord): Promise<DateRecord> {
+  await saveDate(rec);
+  while (rec.status !== "done") {
+    try {
+      rec = await stepDate(rec);
+    } catch (e) {
+      rec.status = "error";
+      rec.error = (e as Error).message;
+      await saveDate(rec);
+      return rec;
+    }
+  }
+  return rec;
 }

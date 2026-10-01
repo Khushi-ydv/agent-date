@@ -4,7 +4,7 @@
   "linkedinUrl": "https://www.linkedin.com/in/williamhgates/",
   "instagramUrl": "https://www.instagram.com/thisisbillgates/",
   "status": "ready",
-  "datingStatus": "idle",
+  "datingStatus": "done",
   "log": [
     {
       "t": 1790850514511,
@@ -45,6 +45,21 @@
       "t": 1790850797137,
       "step": "Identified as a man, looking for women",
       "detail": "The text refers to him as 'Bill Gates' and includes an opinion piece titled 'Bill Gates\u2019s Blunt Warning on A.I.'"
+    },
+    {
+      "t": 1790852062332,
+      "step": "Agent is reviewing the pool",
+      "detail": "12 other agents' clients"
+    },
+    {
+      "t": 1790852123150,
+      "step": "Asked out",
+      "detail": "Katie Couric, Arianna Huffington, Alexa von Tobel"
+    },
+    {
+      "t": 1790852373278,
+      "step": "All dates finished",
+      "detail": "rankings updated"
     }
   ],
   "linkedin": {
@@ -143,30 +158,30 @@
     "postsCount": 630,
     "isVerified": true,
     "isPrivate": false,
-    "profilePic": "https://scontent.cdninstagram.com/v/t51.2885-19/473716533_1775393106650451_1071002921276479463_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=ionAChDNdXQQ7kNvwFXB6Af&_nc_oc=AdrDKEqzLixU1eMH690rBisUqoQrJaIfreQLxq84Jvoz0FzOblhbGUbLYEAPhAWmhZZIiIspQCI2mVD1XiOOr3WX&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=7f689&oh=00_AQPagSlFrsbt79T9sk-U5qREFijuBjkDHwf2gp0MtMRa6Q&oe=6AC3EDC2",
+    "profilePic": "/people/thisisbillgates/avatar.jpg",
     "posts": [
       {
-        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/829710996_18469707472187733_1625410345309666664_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=EkjfN-R-w2YQ7kNvwHx8qfi&_nc_oc=AdqrE60eJPY_afsuhpUp8tfeL_FrBcNp7LNZJH4WRdoLgqnr1-HIy7bNeDOisKRYLMIQ7rxVcjC5Ei3Z6QLDc_X9&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=gbRUFzJZU_Qu7RxjrZPtqA&_nc_ss=7f689&oh=00_AQPJwphgy0KHbdFg3zKkUGbHE7-ExnHijDHHzQiqFsrMXA&oe=6AC41556",
+        "imageUrl": "/people/thisisbillgates/p0.jpg",
         "caption": "The week I spend in New York for #Goalkeepers2030 and the UN General Assembly is always a highlight of my year. Last week was no exception."
       },
       {
-        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/830253257_18469496956187733_8673337219642160875_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=gYPPL9DEL7EQ7kNvwG963NS&_nc_oc=Adr3zDOqz0-xEP8dzi_Jz1finSyi2GINUYVVplIJVBNPCPufP9KEhomaXvKjjFb2NDse_xaMqY9LNe0syDA7uTRg&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=gbRUFzJZU_Qu7RxjrZPtqA&_nc_ss=7f689&oh=00_AQNDKrDvpbGvpKMSZgiJbVd9EBGJk-OpH3SxcylfBi2BmQ&oe=6AC40D4F",
+        "imageUrl": "/people/thisisbillgates/p1.jpg",
         "caption": "At #Goalkeepers2030, I spoke with Archbishop Vicenzo Paglia about how people and relationships must remain at the center of how we use AI."
       },
       {
-        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/819636919_18468156319187733_332088314657888906_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=1iX8cPwNe4EQ7kNvwEYsf79&_nc_oc=AdrYTWQtXKGEKfA5uAHuLqSnKqksWExdJVhjUJhL3ZFZJj3r3eYavxUgmTQO2Szw__GvuuvdsWK7K6BcQd4QUuXG&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=gbRUFzJZU_Qu7RxjrZPtqA&_nc_ss=7f689&oh=00_AQNLjZRp0_X-1onuFYZVUj79_mlp2g03W-s2ssunRUHckw&oe=6AC41AD6",
+        "imageUrl": "/people/thisisbillgates/p2.jpg",
         "caption": "We have an opportunity\u2014and an obligation\u2014to ensure that AI tools are designed to improve lives and reach the people who stand to benefit most, including farmers, teachers, and health workers. \u00a0\n\nProgress doesn\u2019t happen on its own. It happens because the world invests in and prioritizes it. If we can combine increased generosity with the smart use of AI, there\u2019s no limit to the progress we can make."
       },
       {
-        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/808431088_18468000580187733_8310929110269961170_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=_WceB_BDKkwQ7kNvwGzeLbg&_nc_oc=Adqy_tKgJIR3qlzrgoEJkEWW5KWh36tWuq8s6w_DZxvniMN0Dxs3EBvX2GspFKn3fPoKI6cwAZBY1rJX0LIr1mmH&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=gbRUFzJZU_Qu7RxjrZPtqA&_nc_ss=7f689&oh=00_AQOC1t-UJy2CGSN31EW9r5MMFsgEOWqe5lYpVLwV8d5zjA&oe=6AC40B27",
+        "imageUrl": "/people/thisisbillgates/p3.jpg",
         "caption": "There are around 7,000 languages spoken worldwide, yet most AI tools are still built primarily in English. The Gates Foundation is joining a coalition of organizations to help nearly 3.4 billion people whose languages are underrepresented in AI. Over the next five years, these services will provide access to them in their own language and voice. #goalkeepers2030"
       },
       {
-        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/818424522_18467970868187733_3902186346256107981_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=yfapg7WOPO8Q7kNvwEu9WcC&_nc_oc=AdoqCjXo8h7re5xmY1trQ7Cupb9jmCLQzb6M5MZ16d_Mj7RJ7L9w7PowYS-JRpS1VwRPD7jKpWm_gTIGo-Yu0MgD&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=gbRUFzJZU_Qu7RxjrZPtqA&_nc_ss=7f689&oh=00_AQNiZP8GFYeJY0_NfClkTZX3cQLqYtQjj22QzKdFc3eN6g&oe=6AC40554",
+        "imageUrl": "/people/thisisbillgates/p4.jpg",
         "caption": "I\u2019m excited to be in New York this week to keep the conversation around AI moving forward and to build on the incredible progress we\u2019re making. #Goalkeepers2030"
       },
       {
-        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/809039625_18467791333187733_2574557220459192256_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=UMGQtIl4NkMQ7kNvwFtk7tg&_nc_oc=AdqHhAoakGa-TgJRQX_1NO4MqcZX91LktlhyElSYq3vzn7niQEIwqsrQaHzEwLjopSpdjjGPqcn5Y1gEvnQQZnzb&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=gbRUFzJZU_Qu7RxjrZPtqA&_nc_ss=7f689&oh=00_AQN1Gi_eSHB9vwuXUN3pEfa84rM__yKtdZomMQQOFrODEw&oe=6AC3FE57",
+        "imageUrl": "/people/thisisbillgates/p5.jpg",
         "caption": "Seth Rogen and Lauren Miller Rogen founded Hilarity for Charity to make sure no one has to care for a loved one with Alzheimer\u2019s alone."
       },
       {
@@ -195,7 +210,7 @@
       }
     ]
   },
-  "photo": "https://scontent.cdninstagram.com/v/t51.2885-19/473716533_1775393106650451_1071002921276479463_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=ionAChDNdXQQ7kNvwFXB6Af&_nc_oc=AdrDKEqzLixU1eMH690rBisUqoQrJaIfreQLxq84Jvoz0FzOblhbGUbLYEAPhAWmhZZIiIspQCI2mVD1XiOOr3WX&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=7f689&oh=00_AQPagSlFrsbt79T9sk-U5qREFijuBjkDHwf2gp0MtMRa6Q&oe=6AC3EDC2",
+  "photo": "/people/thisisbillgates/avatar.jpg",
   "analysis": {
     "name": "Bill Gates",
     "oneLiner": "Philanthropic tech visionary who blends global impact with a love for reading, travel, and tennis.",
@@ -410,5 +425,66 @@
   "seeking": "women",
   "genderSource": "inferred",
   "genderEvidence": "The text refers to him as 'Bill Gates' and includes an opinion piece titled 'Bill Gates\u2019s Blunt Warning on A.I.'",
-  "shortlist": null
+  "shortlist": [
+    {
+      "id": "katiecouric",
+      "interest": 95,
+      "reason": "Katie shares your deep passion for global health advocacy, journalistic curiosity, and serious public-interest topics paired with a playful, down-to-earth love for conversation."
+    },
+    {
+      "id": "ariannahuff",
+      "interest": 88,
+      "reason": "Arianna matches your intellectual horsepower and transition toward purpose-driven well-being, though she might prefer quiet poetry over your fast-paced tennis matches."
+    },
+    {
+      "id": "alexavontobel",
+      "interest": 85,
+      "reason": "Alexa brings high-octane venture ambition and a love for frontier tech like AI, blending intellectual alignment with energetic family-first adventures."
+    },
+    {
+      "id": "namitathapar",
+      "interest": 82,
+      "reason": "Namita\u2019s extensive health-entrepreneurship background and love for active travel would give you plenty of data-backed, high-impact topics to unpack over dinner."
+    },
+    {
+      "id": "brenebrown",
+      "interest": 79,
+      "reason": "Bren\u00e9 offers unmatched emotional depth and rigorous research into human behavior, though her Texan football roots are a slight pivot from your tennis court."
+    },
+    {
+      "id": "toryburch",
+      "interest": 76,
+      "reason": "Tory pairs global business scale with dedicated philanthropic empowerment, giving you a shared appreciation for large-scale institutional impact and creative design."
+    },
+    {
+      "id": "randizuckerberg",
+      "interest": 74,
+      "reason": "Randi shares your deep immersion in tech and AI trends alongside an intense endurance-fitness routine, though her ultra-marathons are a bit more grueling than a casual tennis match."
+    },
+    {
+      "id": "vineetasng",
+      "interest": 71,
+      "reason": "Vineeta\u2019s competitive fitness drive and women's empowerment initiatives mirror your high-energy output, though her primary focus is consumer cosmetics rather than global health foundations."
+    },
+    {
+      "id": "melrobbins",
+      "interest": 68,
+      "reason": "Mel\u2019s expertise in behavioral science and personal reinvention is fascinating, though her media style leans more toward motivational broadcasting than complex tech policy."
+    },
+    {
+      "id": "marieforleo",
+      "interest": 65,
+      "reason": "Marie balances digital entrepreneurship with creative play, but her focus on small-business coaching lacks the macro-scale global health and AI policy focus you need."
+    },
+    {
+      "id": "jennakutcher",
+      "interest": 62,
+      "reason": "Jenna offers a grounded, nature-focused life with biohacking interests, but her online coaching world is a bit removed from the global scale of Breakthrough Energy."
+    },
+    {
+      "id": "barbaracorcoran",
+      "interest": 55,
+      "reason": "Barbara is brilliantly sharp and funny, but her real estate and pitch-show world is vastly different from your quiet, data-driven philanthropic ecosystem."
+    }
+  ]
 }

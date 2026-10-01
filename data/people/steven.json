@@ -4,7 +4,7 @@
   "linkedinUrl": "https://www.linkedin.com/in/stevenbartlett-123/",
   "instagramUrl": "https://www.instagram.com/steven/",
   "status": "ready",
-  "datingStatus": "idle",
+  "datingStatus": "done",
   "log": [
     {
       "t": 1790850773642,
@@ -45,6 +45,21 @@
       "t": 1790850783446,
       "step": "Profile analysis complete",
       "detail": "Founder, investor, and podcaster building empires by day and seeking deep, grounded connection by night."
+    },
+    {
+      "t": 1790851790770,
+      "step": "Agent is reviewing the pool",
+      "detail": "12 other agents' clients"
+    },
+    {
+      "t": 1790851794496,
+      "step": "Asked out",
+      "detail": "Arianna Huffington, Alexa von Tobel, Bren\u00e9 Brown"
+    },
+    {
+      "t": 1790852062318,
+      "step": "All dates finished",
+      "detail": "rankings updated"
     }
   ],
   "linkedin": {
@@ -178,30 +193,30 @@
     "postsCount": 2895,
     "isVerified": true,
     "isPrivate": false,
-    "profilePic": "https://scontent.cdninstagram.com/v/t51.82787-19/704932889_18588343681053811_3936447042547925360_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42NTAuQzMifQ%3D%3D&_nc_ohc=9iN_ZhNtVEoQ7kNvwG3QHtw&_nc_oc=Adq6CG8EfW0szhFrbAZoKucvF-j6oMTmf7polSmUFsulg7ar_K18AAenv9XxGsx7vBy5f_x-xT92YuXKZa8Qy6Lc&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=kodVz2HXmfJoviKcyhfvkQ&_nc_ss=7f689&oh=00_AQMvB8Ao7Y0Imeq6YJNaMGSfpVjItqDevdPQofh7ZMW5dA&oe=6AC41176",
+    "profilePic": "/people/steven/avatar.jpg",
     "posts": [
       {
-        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/819335807_18158669239503284_8475835335533926738_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=VG1PqFLONyAQ7kNvwF4VKGe&_nc_oc=Adq20LdBD_fkBGmxYYjynavhsSg90GSAg-WJpfwY50FBKkk1E06ENdiUhsAp3mjolfEGMYALMvxhca2CaonRm6Ug&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=PueQf4DC8_h9TAZ9zm5eJQ&_nc_ss=7f689&oh=00_AQO8zkS4Yj9bP4ejshsCFmqb1iINWHEXde4wpTf_-zzrQQ&oe=6AC3F6F0",
+        "imageUrl": "/people/steven/p0.jpg",
         "caption": "A side of @druski that the world has never seen...\n\nTomorrow, 9.24.26 \ud83d\udc40 \n\nComment \u2018Druski\u2019 and we\u2019ll DM you the episode when it\u2019s live."
       },
       {
-        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/811501500_18625874611053811_6889093138852313852_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=h2VMQDV0eBkQ7kNvwFAobbI&_nc_oc=Adom_c2IKSTlhI2e3WVxCbXEyv3GJhIC0UAWAkLwgv4LrROrYaEzBK7LFC0Q3cC8_IJOage1b8y5gCkuN4MB_FpR&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=PueQf4DC8_h9TAZ9zm5eJQ&_nc_ss=7f689&oh=00_AQOIuNn-tRKWZoh2IIVUYaJv_InZ75U90sUxJEw7BicAgw&oe=6AC3EA93",
+        "imageUrl": "/people/steven/p1.jpg",
         "caption": "i have no words to describe how crazy it is to me that this all started with a $100 microphone and a decision to hit \u201cpublish\u201d, thank you so much for all your support DOAC fam \u2764\ufe0f\ud83d\udc4a\ud83c\udffe"
       },
       {
-        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/798786339_18623172196053811_8761712172650214194_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=Zo-4XVrk_QMQ7kNvwEhFFeG&_nc_oc=AdqdHOPd8Rz2ngD_mC89BpEWAoBAoxvjfIqVlb2lr-6UaNbmGXtAqySvR4QZfD7wt39eW4s96s4kbFMGZ-LsXFEe&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=PueQf4DC8_h9TAZ9zm5eJQ&_nc_ss=7f689&oh=00_AQMR_HndXVQ2gMENHbPxSiFqj0tICf7LPjsFq5PNA6KoPg&oe=6AC40FEE",
+        "imageUrl": "/people/steven/p2.jpg",
         "caption": "I AM 34 \ud83c\udf82 \ud83c\udf81 \u264d\ufe0f thank you to the universe, to all of you and to whatever god there is for everything \u2764\ufe0f grateful"
       },
       {
-        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/777916394_18616851841053811_6416125307999278825_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=6-0dVvdRSdoQ7kNvwE9Ztsf&_nc_oc=AdrzjPm50GAALKuoCPD0rnRBn5toLR5SBreAw5y9NTzNWixhw0q2_TFK8g9O0wLHcV1bcQPQ3VCB4izGhIEOta5L&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=PueQf4DC8_h9TAZ9zm5eJQ&_nc_ss=7f689&oh=00_AQPSObNNiM0yjIcoRW7ZdKl6D1eOF6NORyGh0t9J4Cybnw&oe=6AC408D5",
+        "imageUrl": "/people/steven/p3.jpg",
         "caption": "\u201clittle by little, day by day, what is meant for you will find its way\u201d \u2764\ufe0f - unknown"
       },
       {
-        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/743387287_18604470958053811_6315631076874173673_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=1Oi38ygs8lEQ7kNvwGYGIpa&_nc_oc=AdrPYP-ZJGlKTgkNNQwB6nqzMzm-pYd0oixCYluTZB9K1A8pPvB6qCeE9PiJGQrPpPUlWdvq6kvMzQAnb8ye_YOc&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=PueQf4DC8_h9TAZ9zm5eJQ&_nc_ss=7f689&oh=00_AQNFuJ7YqVN-yhEABLPuwpPUyPHbvwqMoLXfgKHtUU54zg&oe=6AC4014B",
+        "imageUrl": "/people/steven/p4.jpg",
         "caption": "SOME NEWS \ud83d\udea8 this year I\u2019m joining @sharktankabc !!! \ud83d\udcfa \ud83c\uddfa\ud83c\uddf8 this was a dream of mine AND my mums...let me explain\ud83d\udc47\ud83c\udffe\n\nMy nigerian mum raised 4 of us without being able to read or write herself, having left school when she was a child in Nigeria.\n\nI struggled with school too - I wasn\u2019t a smart kid and couldn\u2019t pay attention, so I quickly realised the \u201ctraditional path\u201d wasn\u2019t going to work for someone like me\n\nThen, when I was 12 years old, I discovered Dragons\u2019 Den! \ud83d\udc09\n\nMe and my mum both fell in love with the show. Looking back, I think entrepreneurship offered us both hope - a path to a better life for people like us, who couldn\u2019t pass tests in a classroom but were willing to work hard.\n\nAt 12 I would pause the TV and give my verdict, as if I was the 6th Dragon\n\nBy 16 I\u2019d discovered Shark Tank and was starting my first (terrible) businesses\n\nBy 18 I was a university dropout with a start-up\n\nAnd somehow, 9 years later, I ended up sitting in one of those Dragons\u2019 Den chairs I used to shout at from our sofa\n\nMy mum has never fully gotten over it. \n\nWhen I call her today, 6 years later, the conversation is still 80% Dragons\u2019 Den - her opinion on what I said, the businesses, what SHE would have done...\n\nBtw, i\u2019m genuinely not sure if she knows I have a podcast \ud83d\ude02 i don\u2019t think she\u2019s ever mentioned it \ud83d\ude05\n\nBut she knows Dragons\u2019 Den, and that\u2019s more than enough for her.\n\nI know she\u2019s always wanted me to do Shark Tank, so this phone call - telling her that day had come absolutely made my day, and hopefully her\u2019s too!\n\nI very much hope to do her proud + all of you that have supported me for the longest time... wish me luck!! \ud83d\udc4a\ud83c\udffe\u2764\ufe0f\n\nP.S who would win in a fight, a shark \ud83e\udd88 or a dragon \ud83d\udc09 ???\n\n#sharktank #stevenbartlett"
       },
       {
-        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/730837357_18600862435053811_1317502217156646806_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=tCJAgl2Zp_oQ7kNvwFyw_se&_nc_oc=AdpH_kJcHPTwCBWkzLkTpgoDC8YJKCTsyDv54yKnen-jx_mjZHypxzsRMl97V66tZjJD1bFi-9UVW4Wb-i3vSdsy&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=PueQf4DC8_h9TAZ9zm5eJQ&_nc_ss=7f689&oh=00_AQMVX654v-lijElNOuDEJesjEaPC__Vlk_Ps0y0OC4e2aw&oe=6AC3F668",
+        "imageUrl": "/people/steven/p5.jpg",
         "caption": "If your entire strategy for growth is to \u201cput your head down and crush it alone,\u201d you might be setting yourself up for an incredibly difficult journey....\n\nComment WATCH below and I\u2019ll personally DM you this full conversation \ud83d\udc4a\ud83c\udffe"
       },
       {
@@ -230,7 +245,7 @@
       }
     ]
   },
-  "photo": "https://scontent.cdninstagram.com/v/t51.82787-19/704932889_18588343681053811_3936447042547925360_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42NTAuQzMifQ%3D%3D&_nc_ohc=9iN_ZhNtVEoQ7kNvwG3QHtw&_nc_oc=Adq6CG8EfW0szhFrbAZoKucvF-j6oMTmf7polSmUFsulg7ar_K18AAenv9XxGsx7vBy5f_x-xT92YuXKZa8Qy6Lc&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=kodVz2HXmfJoviKcyhfvkQ&_nc_ss=7f689&oh=00_AQMvB8Ao7Y0Imeq6YJNaMGSfpVjItqDevdPQofh7ZMW5dA&oe=6AC41176",
+  "photo": "/people/steven/avatar.jpg",
   "gender": "man",
   "seeking": "women",
   "genderSource": "inferred",
@@ -427,5 +442,66 @@
       "He's deeply invested in health, longevity, and self-optimization, treating his mind and body as high-performance assets."
     ]
   },
-  "shortlist": null
+  "shortlist": [
+    {
+      "id": "ariannahuff",
+      "interest": 92,
+      "reason": "Arianna's relentless advocacy for well-being, wisdom over hustle, and deep appreciation for screen-free presence make her the ultimate oasis of calm for Steven's high-speed life."
+    },
+    {
+      "id": "alexavontobel",
+      "interest": 89,
+      "reason": "As a fellow high-octane venture partner, Alexa completely understands the heavy mental load of scaling companies while prioritizing family-first adventures and sharp intellectual curiosity."
+    },
+    {
+      "id": "brenebrown",
+      "interest": 88,
+      "reason": "Bren\u00e9's profound psychological insights, obsession with human behavior, and commitment to raw authenticity directly mirror Steven's own fascination with trauma, vulnerability, and mental resilience."
+    },
+    {
+      "id": "melrobbins",
+      "interest": 85,
+      "reason": "Mel's mastery of behavioral science, personal reinvention, and self-improvement frameworks provides an instant intellectual and psychological match for Steven's daily deep-dives into human wiring."
+    },
+    {
+      "id": "katiecouric",
+      "interest": 83,
+      "reason": "Katie's master-level storytelling, public-health curiosity, and seasoned media background would spark endless, high-caliber late-night conversations away from the boardroom cameras."
+    },
+    {
+      "id": "namitathapar",
+      "interest": 81,
+      "reason": "Namita's sharp entrepreneurial drive, background in health supplements, and strong family roots align beautifully with Steven's love for preventative longevity and honoring his mother's sacrifices."
+    },
+    {
+      "id": "vineetasng",
+      "interest": 79,
+      "reason": "Vineeta's intense commitment to competitive fitness, massive entrepreneurial ambition, and deep cultural values offer a high-energy parallel lifestyle that Steven would deeply respect."
+    },
+    {
+      "id": "randizuckerberg",
+      "interest": 78,
+      "reason": "Randi's blend of tech savvy, media creation, and endurance running matches Steven's high-performance mindset, though her non-stop pace might occasionally compete with his need for quiet calm."
+    },
+    {
+      "id": "jennakutcher",
+      "interest": 75,
+      "reason": "Jenna's grounded garden life in Minnesota offers a peaceful, nature-filled escape, though her digital marketing focus might feel a bit too operational compared to Steven's macro-investing world."
+    },
+    {
+      "id": "marieforleo",
+      "interest": 74,
+      "reason": "Marie balances high-level creative entrepreneurship with playfulness, but her daily hustle might cross paths with Steven's strict need for a partner who brings total undivided mental rest."
+    },
+    {
+      "id": "toryburch",
+      "interest": 70,
+      "reason": "While Tory's fashion empire and philanthropic focus are admirable, her world is heavily anchored in physical design and retail rather than Steven's core passions of tech, podcasting, and behavioral psychology."
+    },
+    {
+      "id": "barbaracorcoran",
+      "interest": 65,
+      "reason": "Barbara's incredible humor and Shark Tank bravado are legendary, but her high-velocity NYC real estate energy leans more toward playful banter than the philosophical, psychological depth Steven craves."
+    }
+  ]
 }

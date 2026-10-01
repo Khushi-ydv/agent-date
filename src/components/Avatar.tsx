@@ -1,5 +1,6 @@
 "use client";
 import { useState } from "react";
+import { imgSrc } from "@/lib/img";
 
 export function Avatar({ src, name, size = 48 }: { src?: string; name: string; size?: number }) {
   const [broken, setBroken] = useState(false);
@@ -13,6 +14,6 @@ export function Avatar({ src, name, size = 48 }: { src?: string; name: string; s
     );
   return (
     // eslint-disable-next-line @next/next/no-img-element
-    <img src={`/api/img?u=${encodeURIComponent(src)}`} alt={name} width={size} height={size} onError={() => setBroken(true)} className="shrink-0 rounded-full object-cover ring-2 ring-white/10" style={{ width: size, height: size }} />
+    <img src={imgSrc(src)} alt={name} width={size} height={size} onError={() => setBroken(true)} className="shrink-0 rounded-full object-cover ring-2 ring-white/10" style={{ width: size, height: size }} />
   );
 }

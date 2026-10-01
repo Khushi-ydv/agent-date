@@ -2,6 +2,7 @@
 import Link from "next/link";
 import { useState } from "react";
 import { Heart } from "./FloatingHearts";
+import { imgSrc } from "@/lib/img";
 
 export function PersonCard({ id, name, photo, oneLiner, gender, tags, status, delay = 0 }: { id: string; name: string; photo?: string; oneLiner?: string; gender?: string; tags?: string[]; status: string; delay?: number }) {
   const [broken, setBroken] = useState(false);
@@ -10,7 +11,7 @@ export function PersonCard({ id, name, photo, oneLiner, gender, tags, status, de
     <Link href={`/p/${id}`} className="pop lift group relative block aspect-[3/4] overflow-hidden rounded-3xl border border-white/10" style={{ animationDelay: `${delay}ms` }}>
       {photo && !broken ? (
         // eslint-disable-next-line @next/next/no-img-element
-        <img src={`/api/img?u=${encodeURIComponent(photo)}`} alt={name} onError={() => setBroken(true)} className="absolute inset-0 h-full w-full object-cover transition duration-700 group-hover:scale-110" />
+        <img src={imgSrc(photo)} alt={name} onError={() => setBroken(true)} className="absolute inset-0 h-full w-full object-cover transition duration-700 group-hover:scale-110" />
       ) : (
         <div className="absolute inset-0 flex items-center justify-center text-6xl font-bold" style={{ background: `linear-gradient(160deg, hsl(${hue} 60% 45%), hsl(${(hue + 60) % 360} 60% 25%))` }}>{name.split(" ").map((w) => w[0]).slice(0, 2).join("")}</div>
       )}

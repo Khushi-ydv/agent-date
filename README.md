@@ -51,6 +51,13 @@ Gemini 3.5 Flash / 2.5 Flash (analysis, vision on 4 Instagram photos, judgement)
 
 Next.js 16 (App Router, route handlers + `after()` background jobs) · TypeScript · Tailwind v4 · JSON file store (`data/`) · deploy: Render (long-running Node server).
 
+## Deploy (Vercel)
+
+1. Import the GitHub repo at vercel.com/new (framework: Next.js, no extra settings).
+2. Project → Storage → add **Upstash Redis** (free) and connect it — this injects `KV_REST_API_URL` / `KV_REST_API_TOKEN`. The bundled demo pool is read from `data/`; new profiles and dates are written to Redis.
+3. Add env vars: `GEMINI_API_KEY`, `GROQ_API_KEY` (comma-separate several keys to pool free quotas), optionally `BRIGHTDATA_API_KEY` / `APIFY_TOKEN`.
+4. Deploy. Dates advance one short LLM step per request (`/api/dates/[id]/step`), driven by the open page — no long-running background jobs, so it fits serverless limits and is resumable.
+
 ## Run locally
 
 ```bash

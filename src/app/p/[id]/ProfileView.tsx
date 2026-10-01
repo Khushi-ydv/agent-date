@@ -6,7 +6,9 @@ import { Heart } from "@/components/FloatingHearts";
 import { HeartFrame, Icon3D } from "@/components/Love3D";
 import { ScoreRing } from "@/components/MatchBurst";
 import { SCENE_META, ScenePicker, type SceneKey } from "@/components/ScenePicker";
+import { useDateDriver } from "@/components/useDateDriver";
 import type { Analysis, Debrief, Evidenced, LogEntry, RankingRow } from "@/lib/types";
+import { imgSrc } from "@/lib/img";
 
 interface Data {
   person: {
@@ -63,6 +65,8 @@ export function ProfileView({ id }: { id: string }) {
   const [notFound, setNotFound] = useState(false);
   const [sending, setSending] = useState(false);
   const [picking, setPicking] = useState(false);
+  const [error, setError] = useState<string | null>(null);
+  const [resume, setResume] = useState<string[]>([]);
 
   const load = useCallback(async () => {
     const res = await fetch(`/api/people/${id}`, { cache: "no-store" });
@@ -81,6 +85,10 @@ export function ProfileView({ id }: { id: string }) {
     return () => clearInterval(t);
   }, [busy, load]);
 
+  // Drive this person's unfinished dates from the browser (one short step per request — serverless-safe).
+  const driveIds = [...(data?.dates.filter((d) => ["planning", "live", "debrief"].includes(d.status)).map((d) => d.id) ?? []), ...resume];
+  const notice = useDateDriver([...new Set(driveIds)], load);
+
   if (notFound) return <div className="glass p-8">No such person. <Link className="text-pink-300 underline" href="/">Back to the pool</Link></div>;
   if (!data) return <div className="flex justify-center py-32"><Heart size={48} className="beat text-pink-500" /></div>;
 
@@ -92,8 +100,15 @@ export function ProfileView({ id }: { id: string }) {
 
   async function act(body: object) {
     setSending(true);
-    await fetch(`/api/people/${id}/date`, { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify(body) });
-    setTimeout(() => setSending(false), 1500);
+    setError(null);
+    try {
+      const res = await fetch(`/api/people/${id}/date`, { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify(body) });
+      const out = await res.json().catch(() => ({}));
+      if (!res.ok) setError(out.error ?? "Something went wrong — please try again.");
+    } catch {
+      setError("Connection problem — please try again.");
+    }
+    setSending(false);
     load();
   }
 
@@ -131,6 +146,14 @@ export function ProfileView({ id }: { id: string }) {
         </div>
       </section>
 
+      {(error || notice) && (
+        <div className="pop glass flex items-center gap-3 border-pink-400/30 px-5 py-3 text-sm">
+          <Heart size={18} className="beat shrink-0 text-pink-400" />
+          <span className="flex-1 text-white/80">{error ?? notice}</span>
+          {error && <button className="btn-ghost" onClick={() => setError(null)}>OK</button>}
+        </div>
+      )}
+
       {/* Reading */}
       <section className="grid gap-5 md:grid-cols-[1fr_1.4fr]">
         <div className="glass p-6">
@@ -143,6 +166,9 @@ export function ProfileView({ id }: { id: string }) {
                 {l.detail && <div className="line-clamp-2 text-xs text-white/45">{l.detail}</div>}
               </li>
             ))}
+            {reading && Date.now() - (p.log.at(-1)?.t ?? 0) > 240_000 && (
+              <li className="relative text-sm text-white/70">This is taking unusually long. <button className="btn-ghost ml-1" onClick={() => act({ retry: true })} disabled={sending}>↻ Retry</button></li>
+            )}
             {reading && <li className="relative text-sm text-pink-300"><span className="absolute -left-[27px] top-1 h-3 w-3 animate-ping rounded-full bg-pink-500" />reading… <span className="dot">●</span><span className="dot" style={{ animationDelay: ".2s" }}>●</span><span className="dot" style={{ animationDelay: ".4s" }}>●</span></li>}
           </ol>
           {p.status === "error" && (
@@ -170,7 +196,7 @@ export function ProfileView({ id }: { id: string }) {
             <div className="mt-4 grid grid-cols-6 gap-1.5">
               {p.sources.instagram.images.map((src, i) => (
                 // eslint-disable-next-line @next/next/no-img-element
-                <img key={i} src={`/api/img?u=${encodeURIComponent(src)}`} alt="" className="pop aspect-square w-full rounded-xl object-cover" style={{ animationDelay: `${i * 80}ms` }} />
+                <img key={i} src={imgSrc(src)} alt="" className="pop aspect-square w-full rounded-xl object-cover" style={{ animationDelay: `${i * 80}ms` }} />
               ))}
             </div>
           )}
@@ -257,7 +283,13 @@ export function ProfileView({ id }: { id: string }) {
                         <div className="font-display text-lg">{first} <Heart size={12} className="inline text-pink-400" /> {d.withName ?? d.with}</div>
                         <div className="truncate text-xs text-white/50">📍 {d.venue?.place ?? "planning the date…"}</div>
                       </div>
-                      {done ? <ScoreRing value={Math.round((d.myDebrief!.overall + d.theirDebrief!.overall) / 2)} size={56} /> : <span className="animate-pulse rounded-full bg-pink-500/20 px-3 py-1 text-xs text-pink-200">{d.status === "live" ? `● live · ${d.messages}` : d.status}</span>}
+                      {done ? (
+                        <ScoreRing value={Math.round((d.myDebrief!.overall + d.theirDebrief!.overall) / 2)} size={56} />
+                      ) : d.status === "error" ? (
+                        <button className="btn-ghost relative z-10" onClick={(e) => { e.preventDefault(); setResume((r) => [...r, d.id]); }}>↻ Resume</button>
+                      ) : (
+                        <span className="animate-pulse rounded-full bg-pink-500/20 px-3 py-1 text-xs text-pink-200">{d.status === "live" ? `● live · ${d.messages}` : d.status}</span>
+                      )}
                     </div>
                     {mutual && <div className="relative mt-3 inline-flex items-center gap-1 rounded-full bg-gradient-to-r from-pink-500/30 to-orange-400/30 px-3 py-1 text-xs">💞 Both agents want a second date</div>}
                     {d.myDebrief && <p className="relative mt-3 line-clamp-2 text-sm italic text-white/70">📱 “{d.myDebrief.reportToHuman}”</p>}

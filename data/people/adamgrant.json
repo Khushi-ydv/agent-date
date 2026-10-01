@@ -4,7 +4,7 @@
   "linkedinUrl": "https://www.linkedin.com/in/adammgrant/",
   "instagramUrl": "https://www.instagram.com/adamgrant/",
   "status": "ready",
-  "datingStatus": "idle",
+  "datingStatus": "done",
   "log": [
     {
       "t": 1790849085852,
@@ -45,6 +45,21 @@
       "t": 1790850791509,
       "step": "Identified as a man, looking for women",
       "detail": "The profile lists the name \"Adam Grant\", a traditionally male name."
+    },
+    {
+      "t": 1790852042683,
+      "step": "Agent is reviewing the pool",
+      "detail": "12 other agents' clients"
+    },
+    {
+      "t": 1790852046041,
+      "step": "Asked out",
+      "detail": "Bren\u00e9 Brown, Katie Couric, Arianna Huffington"
+    },
+    {
+      "t": 1790852302075,
+      "step": "All dates finished",
+      "detail": "rankings updated"
     }
   ],
   "linkedin": {
@@ -172,30 +187,30 @@
     "postsCount": 1998,
     "isVerified": true,
     "isPrivate": false,
-    "profilePic": "https://scontent.cdninstagram.com/v/t51.2885-19/237482787_2873181819587799_4339487857512017479_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42NzcuQzMifQ%3D%3D&_nc_ohc=KFYiT5dDy9gQ7kNvwEP02DV&_nc_oc=AdpCCbeK2cyf_v9PGjhC0cc8P5ZrMQUHGaEJx93CtZqVVafQ2fNL-EWif1lbS_BuU0fNqYV_NgKr_VAgoxdX8qYx&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=7f689&oh=00_AQOIE06d0wiCwJVL7A9GsFcMKL2EybwZiRGKCpYPyCFb3w&oe=6AC3E678",
+    "profilePic": "/people/adamgrant/avatar.jpg",
     "posts": [
       {
-        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/828939005_18348088243264856_6966131848095839179_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=tmzgabaGr7wQ7kNvwGKy2MN&_nc_oc=AdqqJtMe39tnUydC5_EJQ5FsDSD0qwy-wAXPndfqizzOt9JkXUEP784Brz9MfiLTUYyn2jfaI8dCh4TzKC555bLw&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=N95sMDhe7SW88a2uvmIeYQ&_nc_ss=7f689&oh=00_AQPN1qcB0Iza04bvejCVodI6cYmM-DY-vign54hzJKrFlw&oe=6AC3F945",
+        "imageUrl": "/people/adamgrant/p0.jpg",
         "caption": "The reports about the events at Cornell\u2014and the lack of accountability for the perpetrators\u2014are sickening. Also disgusting is the victim blaming in response. The right place to focus is not on teaching girls and women to avoid harm; it\u2019s on raising boys and men who don\u2019t commit it."
       },
       {
-        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/826395554_18347989186264856_6677971547696527684_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=pTXamBE9T5EQ7kNvwHxa0w7&_nc_oc=AdqiwrKherz_XcKxj-0zEnRqYnV7y-3ZfCE35nuH5KhfpLOZioUbBGH1RISnc5YBiD-jzjRDU9eFqIClL30lo1Ig&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=N95sMDhe7SW88a2uvmIeYQ&_nc_ss=7f689&oh=00_AQOKvKH8PVhBIx6DVOyZDXQqSdymYDiFG767NndjqWn8PA&oe=6AC3E4CC",
+        "imageUrl": "/people/adamgrant/p1.jpg",
         "caption": "For more on building and sustaining strong bonds, check out my new book VIBE\u2014it comes out Oct 13! It\u2019s available for preorder now, and I hope to see some of you live on my tour with Jennifer Garner, Malcolm Gladwell, M. Night Shyamalan, Bren\u00e9 Brown, Mark Rober, Malala, Daymond John, Ann Patchett, Matthew McConaughey and more! Swipe for details"
       },
       {
-        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/821175908_18347075464264856_913127174651026225_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=dZNN0fsBxXkQ7kNvwFDOKb-&_nc_oc=Ado0KajqSYkyqzm-Cp9wBHySdlrFnjT8rYiOrPoMqhSZt6-fMQ7d4JLuArDvOAmZ0at_uAYAHc9OKRmwuKNBgo2m&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=N95sMDhe7SW88a2uvmIeYQ&_nc_ss=7f689&oh=00_AQNU8QbAESIqFEBSLUNe9zcvC4vtsheW9Vx9uUCkKoARlg&oe=6AC3E8B8",
+        "imageUrl": "/people/adamgrant/p2.jpg",
         "caption": "The evidence: \u201cDaddy\u2019s girl: Daughters, managerial decisions, and gender inequality\u201d\n(Ronchi & Smith)\nThe economists who conducted the study add: \u201cBecause these effects emerge rapidly and persist over time, we can rule out the need for prolonged exposure to gender issues or for personal incentives tied to improving conditions for their own daughters as prerequisites for managers to promote gender equality within their firms.\u201d"
       },
       {
-        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/795767261_18346801786264856_1562871978198714379_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=qgNTD9y0pmwQ7kNvwFVeUvP&_nc_oc=Adr7FaTZ6VKeLq_gRFX94h0wZNhV2ZCNwv5MAAdRHmx-rTwOtS1LGgOwlRIujKvZ7pJ6Id35Y5nrUGqiS0OozCNk&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=N95sMDhe7SW88a2uvmIeYQ&_nc_ss=7f689&oh=00_AQMxVLFYAFwU-6iD68Q1NLQzsamD6bJJBqHtmfok984Y1Q&oe=6AC3EB27",
+        "imageUrl": "/people/adamgrant/p3.jpg",
         "caption": "What have you learned about overcoming the pressure to please others? If you haven\u2019t read Defy by Sunita Sah, it\u2019s spot on"
       },
       {
-        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/796641204_18344567899264856_9072885358567739116_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=_9HtCrHXqSsQ7kNvwEakfbY&_nc_oc=Adp_FUQ5U_xc0ij9anADzjRH1Pg9y_BKFORTrElB8bp0N_dpmLgXzcK1Y8Iwd2bStoK9t0raiyMR91MNvLS3yulC&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=N95sMDhe7SW88a2uvmIeYQ&_nc_ss=7f689&oh=00_AQN8qdb8U01SlyoLc8ING3oFh2ZBL_iiNDfOc81Ucd8K5A&oe=6AC3F7A9",
+        "imageUrl": "/people/adamgrant/p4.jpg",
         "caption": "Illustrations @researchdoodles @lizandmollie \nA little kindness goes a long way. Between yes and no is \u201cI can\u2019t do that, but I can offer this\u201d\u2014and people are grateful for it.\nResearch: \u201cHalfway to my request is not halfway to my heart: Underestimating appreciation for partial help\u201d (Wang & Xie)\n\u201cUndervaluing the positive impact of kindness starts early\u201d (Echelbarger & Epley)\n\u201cExploring the effects of prosocial and self-kindness interventions on mental health outcomes\u201d (Naclerio et al)"
       },
       {
-        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/786778410_18343533703264856_8281884356318261656_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=wIuURpzDiWkQ7kNvwEwe7VJ&_nc_oc=Adq1_qPFvbhRjy4gQwLTlK5YmVRZOE7x3KaOKGedDespD9xZDdBwKuLhtilwHAay12U0f2tn7ED30KFXVXJtUCOx&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=N95sMDhe7SW88a2uvmIeYQ&_nc_ss=7f689&oh=00_AQOPXeV1iqaaDeJHI7_7h6_x7OR6_sdsxYAjz1SrROXPnA&oe=6AC3E7A6",
+        "imageUrl": "/people/adamgrant/p5.jpg",
         "caption": "This genius kid sent me on a roller coaster of emotion. Excited to announce my VIBE tour for this fall\u2014hope some of you will join me along with @jennifer.garner @malcolmgladwell @markrober @officiallymcconaughey @mnight @brenebrown @danielpink Ann Patchett, Tim Harford, and more to come!"
       },
       {
@@ -224,7 +239,7 @@
       }
     ]
   },
-  "photo": "https://scontent.cdninstagram.com/v/t51.2885-19/237482787_2873181819587799_4339487857512017479_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42NzcuQzMifQ%3D%3D&_nc_ohc=KFYiT5dDy9gQ7kNvwEP02DV&_nc_oc=AdpCCbeK2cyf_v9PGjhC0cc8P5ZrMQUHGaEJx93CtZqVVafQ2fNL-EWif1lbS_BuU0fNqYV_NgKr_VAgoxdX8qYx&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=7f689&oh=00_AQOIE06d0wiCwJVL7A9GsFcMKL2EybwZiRGKCpYPyCFb3w&oe=6AC3E678",
+  "photo": "/people/adamgrant/avatar.jpg",
   "analysis": {
     "name": "Adam Grant",
     "oneLiner": "A leading organizational psychologist, bestselling author, and professor dedicated to making work and life more meaningful.",
@@ -452,5 +467,66 @@
   "seeking": "women",
   "genderSource": "inferred",
   "genderEvidence": "The profile lists the name \"Adam Grant\", a traditionally male name.",
-  "shortlist": null
+  "shortlist": [
+    {
+      "id": "brenebrown",
+      "interest": 99,
+      "reason": "An absolute powerhouse match of organizational psychology, rigorous research, deep emotional honesty, and shared intellectual passions."
+    },
+    {
+      "id": "katiecouric",
+      "interest": 92,
+      "reason": "Combines high-level media influence, profound social advocacy, and a delightfully playful curiosity that matches Adam's conversational style."
+    },
+    {
+      "id": "ariannahuff",
+      "interest": 88,
+      "reason": "A fellow thought leader deeply invested in well-being, behavioral science, and meaningful, screen-free intellectual discourse."
+    },
+    {
+      "id": "alexavontobel",
+      "interest": 85,
+      "reason": "Brings sharp leadership psychology insights, relentless intellectual curiosity, and a mutual appreciation for high-impact entrepreneurship."
+    },
+    {
+      "id": "namitathapar",
+      "interest": 82,
+      "reason": "Shares a fierce dedication to women's empowerment, social advocacy, and evidence-based conversations on human potential."
+    },
+    {
+      "id": "melrobbins",
+      "interest": 80,
+      "reason": "A fellow behavioral science enthusiast and podcaster dedicated to helping people reinvent themselves and embrace growth through failure."
+    },
+    {
+      "id": "vineetasng",
+      "interest": 78,
+      "reason": "Deeply aligned on championing gender equality and women's empowerment with a formidable entrepreneurial drive."
+    },
+    {
+      "id": "toryburch",
+      "interest": 75,
+      "reason": "Unites massive business success with a foundational commitment to philanthropy and women's entrepreneurship."
+    },
+    {
+      "id": "marieforleo",
+      "interest": 73,
+      "reason": "Blends personal development, growth mindset, and creative entrepreneurship with a playful, energetic approach to life."
+    },
+    {
+      "id": "barbaracorcoran",
+      "interest": 70,
+      "reason": "Brings sharp business instincts, infectious humor, and a lifelong dedication to mentoring and empowering dreamers."
+    },
+    {
+      "id": "jennakutcher",
+      "interest": 68,
+      "reason": "Shares a passion for digital coaching, personal growth, and authentic community building."
+    },
+    {
+      "id": "randizuckerberg",
+      "interest": 65,
+      "reason": "Combines tech innovation, media hosting, and relentless ambition with a strong drive for community and impact."
+    }
+  ]
 }

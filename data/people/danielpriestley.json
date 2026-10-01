@@ -4,7 +4,7 @@
   "linkedinUrl": "https://www.linkedin.com/in/danielpriestley/",
   "instagramUrl": "https://www.instagram.com/danielpriestley/",
   "status": "ready",
-  "datingStatus": "idle",
+  "datingStatus": "done",
   "log": [
     {
       "t": 1790849178530,
@@ -45,6 +45,21 @@
       "t": 1790850792226,
       "step": "Identified as a man, looking for women",
       "detail": "The profile lists the name \"Daniel Priestley\", a traditionally male name."
+    },
+    {
+      "t": 1790852544598,
+      "step": "Agent is reviewing the pool",
+      "detail": "12 other agents' clients"
+    },
+    {
+      "t": 1790852547751,
+      "step": "Asked out",
+      "detail": "Alexa von Tobel, Barbara Corcoran, Mel Robbins"
+    },
+    {
+      "t": 1790852813512,
+      "step": "All dates finished",
+      "detail": "rankings updated"
     }
   ],
   "linkedin": {
@@ -160,30 +175,30 @@
     "postsCount": 6138,
     "isVerified": true,
     "isPrivate": false,
-    "profilePic": "https://scontent.cdninstagram.com/v/t51.2885-19/87575514_140535770501698_4469484208217128960_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41NjUuQzMifQ%3D%3D&_nc_ohc=_dOqqRn_F0YQ7kNvwGVki7g&_nc_oc=Ado3Wv6p5rIt-ZElJzvkgPI7CYBWThB1RkxD_y9rP4HXapDlJeLTxxaf-mv8kENy7UDYAE7TevhONXrBC_2MEZjf&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=7f689&oh=00_AQNi8I3vjt3DS0Gsx2hVZdGEMqKK6eKkDa7nsiio669rtw&oe=6AC40814",
+    "profilePic": "/people/danielpriestley/avatar.jpg",
     "posts": [
       {
-        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/830417761_18636697705049971_931289185120517701_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=p5DmdKfV0awQ7kNvwHeGvbn&_nc_oc=Adp0cbTzepmVM3XZGYLOC45BdYwtKOSbkQo9pvu36WIjoDsVfBUwyj0WXU8BTcrCduEEEc0hqNYl7wlEzcm0jcoT&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=icNjN8QRsS4x1CJoQ2a73Q&_nc_ss=7f289&oh=00_AQNhbWn_sDebBS2AVFbgxmXGzQsKdsrUbx6zE0ma5jlF1w&oe=6AC3F8F6",
+        "imageUrl": "/people/danielpriestley/p0.jpg",
         "caption": "Here's what to ask AI to turn your assessment data into an actionable plan."
       },
       {
-        "imageUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/831399860_1315941507182370_1231613572236419572_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=efjDR0TtpDUQ7kNvwEFktz5&_nc_oc=AdqF9QUAyHPqi91hdPZNgK4GcoTGvYsHHwnZlu6GQ90ZGBkUZwA31awSGe7CCpuKuTtYKfkQqk7pjBdNlkttKKG2&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=icNjN8QRsS4x1CJoQ2a73Q&_nc_ss=7f289&oh=00_AQMV-NREGDTuuqaTBGVFdgqtfMTPNg7IQZwjtBxcCTIJGQ&oe=6AC3EE06",
+        "imageUrl": "/people/danielpriestley/p1.jpg",
         "caption": "Simplify your finances with Revolut Business and get a \u00a3200 welcome bonus when you open an account.\n\nComment\u00a0REVOLUT\u00a0below and we\u2019ll send you the link.\n\nThink you\u2019ve got what it takes to impress Daniel Priestley? Apply for a chance to pitch your business in our next series via the link in our Instagram bio.\n\nSign up and add money to your new account by 31/10/2026. Fees, promotion terms and T&Cs apply. #ad"
       },
       {
-        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/825320863_18636461653049971_7483281732670226188_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=9jAwSv9kTI4Q7kNvwH-7_KI&_nc_oc=Ado8psL9X1z_fm3AhRmlR70VZzIcWCwolgwXKy4gdzBGjD61x-qxF5NEBHLygfMG6vj-BMF4jXI4mw2r0qtfkTFT&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=icNjN8QRsS4x1CJoQ2a73Q&_nc_ss=7f289&oh=00_AQP2rhMk0zDedZ5Taa6_eznHU6Oma-VudQlAO7FFYiATFQ&oe=6AC3FAEA",
+        "imageUrl": "/people/danielpriestley/p2.jpg",
         "caption": "I keep a one-page document for all my businesses. It describes the company we haven't become yet."
       },
       {
-        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/828305589_18636439096049971_6072654851810643523_n.heic?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=Voy392gQAJMQ7kNvwHu3NV1&_nc_oc=AdoJljT1u-5lFBnRD2oB5bmio0YWcYgGXnZlgiDZxVhdbNzkaGPm1-8lMg10BS7JUHzxtO4nCAYO4xqfhloiKmB5&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=icNjN8QRsS4x1CJoQ2a73Q&_nc_ss=7f289&oh=00_AQNJAXOZqG7MdhMg6UD4vRt4vSn-2Qn28L6ysgqUpIdijg&oe=6AC3FD39",
+        "imageUrl": "/people/danielpriestley/p3.jpg",
         "caption": "Looking forward to speaking at Atomicon next year. \n\nFantastic line up and great new location at Manchester Central. \n\nSuper Earlybird tickets available for the next two days only. \n\nThanks for having me back @andrewandpete"
       },
       {
-        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/825350331_18636409939049971_1066949030361983450_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=E1v3QLnzIJwQ7kNvwHHSHp2&_nc_oc=AdoRPkDrLGQKMREiXDsP2jZ-jc4G-4YX1Y4sJyphLjGRhiX8KVwhrIv07904UhH_Gg_7-M6OwK4jkLpxXPv1RqiQ&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=icNjN8QRsS4x1CJoQ2a73Q&_nc_ss=7f289&oh=00_AQNACCMCzz4wx8-ACAZJMTCaBLj8BWDeZLor6pXHCEgONA&oe=6AC403DE",
+        "imageUrl": "/people/danielpriestley/p4.jpg",
         "caption": "Here\u2019s how to go from 5 leads to 15, with just 15 extra minutes of work\u2026\n\n---\n\nComment BLUEPRINT for the link to my 20-minute Masterclass - the $1M Lead Gen System Blueprint I use to generate high-quality leads."
       },
       {
-        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/825320694_18637684636034739_3239542002265402370_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=7fegbY7-mPAQ7kNvwGrXjRi&_nc_oc=AdqxK8jqo85mBaOk8SsQQR7uAyNx5SXni_Akw5NHlyWI5tMrRCSkq983Xfq0VX8oTtJHKqry4qPtuKrpgh4nqWnw&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=icNjN8QRsS4x1CJoQ2a73Q&_nc_ss=7f289&oh=00_AQOMPgwlWjL-iw7PZpCZERGq07t6ZAhdAx4GCwN2HXav2g&oe=6AC3F9C3",
+        "imageUrl": "/people/danielpriestley/p5.jpg",
         "caption": "SPEAKER ANNOUNCEMENT! \ud83d\udd25\n\nDaniel Priestley is speaking at Expert Empires this November!\n\nYou'll know his books \u2014 Key Person of Influence, Oversubscribed, 24 Assets, Entrepreneur Revolution. They've shaped how a generation of experts think about building a business.\n\n\u2705 Co-founder of Dent Global and ScoreApp\n\u2705 Started with nothing and built and sold multiple multi-million pound businesses\n\u2705 Helped over 5,000 business owners grow their revenue\n\u2705 The most returned guest in the history of Diary of a CEO\n\nDaniel is one of very few people who can talk about positioning, demand and scale in the same breath and make all three practical.\n\nIf you've ever felt like the best-kept secret in your market, this is your session.\n\n\ud83d\udccd Hilton London Wembley\n\ud83d\udcc5 13\u201314 November 2026\n\nComment \"TICKETS\" below and we'll send you the link! \ud83d\udc47"
       },
       {
@@ -212,7 +227,7 @@
       }
     ]
   },
-  "photo": "https://scontent.cdninstagram.com/v/t51.2885-19/87575514_140535770501698_4469484208217128960_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41NjUuQzMifQ%3D%3D&_nc_ohc=_dOqqRn_F0YQ7kNvwGVki7g&_nc_oc=Ado3Wv6p5rIt-ZElJzvkgPI7CYBWThB1RkxD_y9rP4HXapDlJeLTxxaf-mv8kENy7UDYAE7TevhONXrBC_2MEZjf&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=7f689&oh=00_AQNi8I3vjt3DS0Gsx2hVZdGEMqKK6eKkDa7nsiio669rtw&oe=6AC40814",
+  "photo": "/people/danielpriestley/avatar.jpg",
   "analysis": {
     "name": "Daniel Priestley",
     "oneLiner": "Serial entrepreneur, bestselling author and mentor who loves turning ideas into high\u2011impact businesses.",
@@ -401,5 +416,66 @@
   "seeking": "women",
   "genderSource": "inferred",
   "genderEvidence": "The profile lists the name \"Daniel Priestley\", a traditionally male name.",
-  "shortlist": null
+  "shortlist": [
+    {
+      "id": "alexavontobel",
+      "interest": 96,
+      "reason": "She brings high-octane venture capital ambition and a deep tech focus that matches his relentless startup hustle."
+    },
+    {
+      "id": "barbaracorcoran",
+      "interest": 94,
+      "reason": "Her sharp entrepreneurial drive, love for bold dreamers, and Shark Tank background make her an absolute powerhouse match for his world."
+    },
+    {
+      "id": "melrobbins",
+      "interest": 92,
+      "reason": "Her relentless focus on personal reinvention and growth frameworks mirrors his own dedication to scaling founders and self-improvement."
+    },
+    {
+      "id": "randizuckerberg",
+      "interest": 90,
+      "reason": "She shares his intense pace, media-savvy background, and deep passion for tech and AI innovation."
+    },
+    {
+      "id": "jennakutcher",
+      "interest": 88,
+      "reason": "Her focus on online business coaching, digital marketing, and continuous growth aligns wonderfully with his ecosystem."
+    },
+    {
+      "id": "marieforleo",
+      "interest": 86,
+      "reason": "She blends big-picture entrepreneurial purpose with actionable strategies, perfectly complementing his philosophy."
+    },
+    {
+      "id": "vineetasng",
+      "interest": 84,
+      "reason": "Her fierce serial entrepreneurship and competitive drive match his fast-paced, high-achievement lifestyle."
+    },
+    {
+      "id": "katiecouric",
+      "interest": 75,
+      "reason": "Her media background and endless curiosity provide great intellectual engagement, though slightly outside the pure startup hustle space."
+    },
+    {
+      "id": "namitathapar",
+      "interest": 72,
+      "reason": "She shares a strong scaling and shark-tank mindset, though her primary focus leans toward health rather than general tech entrepreneurship."
+    },
+    {
+      "id": "toryburch",
+      "interest": 65,
+      "reason": "While she is a massive entrepreneurial success, her world is heavily rooted in design and fashion rather than tech and AI."
+    },
+    {
+      "id": "brenebrown",
+      "interest": 55,
+      "reason": "She offers incredible emotional depth and leadership insights, but her slow-down, vulnerability-focused pace might clash with his fast hustle."
+    },
+    {
+      "id": "ariannahuff",
+      "interest": 40,
+      "reason": "Her push for screen-free connection and slowing down directly contradicts his high-speed, AI-driven digital hustle."
+    }
+  ]
 }

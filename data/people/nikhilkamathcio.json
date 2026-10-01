@@ -4,7 +4,7 @@
   "linkedinUrl": "https://www.linkedin.com/in/nikhilkamathcio/",
   "instagramUrl": "https://www.instagram.com/nikhilkamathcio/",
   "status": "ready",
-  "datingStatus": "idle",
+  "datingStatus": "done",
   "log": [
     {
       "t": 1790849398533,
@@ -45,6 +45,21 @@
       "t": 1790850794725,
       "step": "Identified as a man, looking for women",
       "detail": "The profile refers to the individual as Nikhil Kamath and mentions 'Diyaan', but no female self-descriptions or pronouns are provided in the text; however, 'Nikhil' is traditionally a male name, and the text uses neutral descriptors."
+    },
+    {
+      "t": 1790852813530,
+      "step": "Agent is reviewing the pool",
+      "detail": "12 other agents' clients"
+    },
+    {
+      "t": 1790852843869,
+      "step": "Asked out",
+      "detail": "Alexa von Tobel, Vineeta Singh, Namita Thapar"
+    },
+    {
+      "t": 1790853121312,
+      "step": "All dates finished",
+      "detail": "rankings updated"
     }
   ],
   "linkedin": {
@@ -116,30 +131,30 @@
     "postsCount": 753,
     "isVerified": true,
     "isPrivate": false,
-    "profilePic": "https://scontent.cdninstagram.com/v/t51.2885-19/482845378_658621966726814_7077522562019605003_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41NjYuQzMifQ%3D%3D&_nc_ohc=mxUoeWw-Vv0Q7kNvwF89uH8&_nc_oc=Adrm8Q-G0jLJBS388lizL-uZvhKLokzcEEJ3T5o5fs06RRsqupznCyeWOoMlmiTpux0c8k4otL0dMIyhtBjKxz4u&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=7f689&oh=00_AQOYP18RGh-kBW6KOW4Ulh2ZM0UxChqTmeE1f741Ixhfiw&oe=6AC410A3",
+    "profilePic": "/people/nikhilkamathcio/avatar.jpg",
     "posts": [
       {
-        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/825320739_18638854801043283_8002448020386370351_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=GWUNMNr9FU4Q7kNvwFcv-H-&_nc_oc=AdoOaNjto6Lg_gfQJamNT4-qshnozUe3zke5K4o7zyDUlysQBXrjRIAKQRC2p5AihycvJ8uU3Rn6E-aLgqu0O5Ay&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=NkvJhrS-IjOKJL3uSD-vDg&_nc_ss=7f689&oh=00_AQPblSFMLsuxyKJvdkpHcceV-jzHe-9JpLzh_ADDN2DNUg&oe=6AC40D9F",
+        "imageUrl": "/people/nikhilkamathcio/p0.jpg",
         "caption": "Korea exported culture. \nThen the world bought Korean\u2026\n\nIndia has Bollywood, music, food, fashion, yoga and Ayurveda, a cultural moat very few countries can replicate..\nMaybe we need to stop thinking only about exporting products and start deliberately exporting India. \nConsumer brands could follow."
       },
       {
-        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/792089532_18635851306043283_6498994360516557538_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=ZASO1-p_Y9gQ7kNvwF_0y1C&_nc_oc=AdpJGcwL9CLaICnMW3iLZcHio9gGUC1CAJ-_VKHZD9M7vETZ1JCfTwWTAhUsmCdHawWqK5KobSXkE9jyyvOcQnAL&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=NkvJhrS-IjOKJL3uSD-vDg&_nc_ss=7f689&oh=00_AQN5WPmQZJq_M9Y_1P94pVz8P6IewqqZA9FWoiP42MaDOQ&oe=6AC40B88",
+        "imageUrl": "/people/nikhilkamathcio/p1.jpg",
         "caption": "The test of a first-rate intelligence is the ability to hold two opposed ideas in the mind at the same time, and still retain the ability to function.\u201d \u2014 F. Scott Fitzgerald\n\nThe internet increasingly rewards the angrier, louder side, the more certain-sounding side, often the stupider side.\n\nMaybe intelligence is being able to understand why the other side believes what it believes.\n\nIntroducing WTF: Discourse.\n\nTwo opposing ideas. Two people who actually believe them. No winner. Just the strongest version of both arguments.\n\nYou decide what you believe."
       },
       {
-        "imageUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/805486024_901740269425968_2927076960322327272_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=3gxYF1kibFkQ7kNvwEU8SBM&_nc_oc=AdoYuY0qRZs7OHmY0n6EIzg5jxJaqi5zcXbwRWliV9MLnKSMDiMP1vxng6zgR8B5TxbEvNaXtA-B1AOiwAZyqH5b&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=NkvJhrS-IjOKJL3uSD-vDg&_nc_ss=7f689&oh=00_AQOjooXvkuRuTYbW7_Nd23xcjRtR__Cu8ToL-jbMxrMTcw&oe=6AC41A01",
+        "imageUrl": "/people/nikhilkamathcio/p2.jpg",
         "caption": "Did a travel episode, lots of insights and opportunities in this, basic premise was how to get the no of foreign visitors in India to go up from 10 million, but also what to build, live now"
       },
       {
-        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/801354659_18631906171043283_2638347891478610434_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=vlOr--gkNWAQ7kNvwFVzx1d&_nc_oc=AdqV042bBv8aHgtfOUSE-3T5bMfQnLykE8Kcy2xEg_EuxsEgr_u64RMh8NtBRLlqQO_8pNgCMMrQYrW9LHf6G9CR&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=NkvJhrS-IjOKJL3uSD-vDg&_nc_ss=7f689&oh=00_AQP2L_HvO9YBVP07BUklLUte8EZeCA6J8-4lG_FnsA72Bw&oe=6AC412BC",
+        "imageUrl": "/people/nikhilkamathcio/p3.jpg",
         "caption": "India gets about 10 million foreign tourists a year.\n\nDubai gets 18 million.\n\nDubai is basically one long road. We are 1.4 billion people with the Himalayas, Goa, Rajasthan, Kerala, the Andamans, 5,000 years of history and arguably the best food in the world :)\n\nSomething doesn\u2019t add up.\n\nTwo men who built India\u2019s biggest travel and hotel businesses agree on one thing: the country is easy to leave, hard to visit.\n\nIndia has transformed dramatically over the last decade, better roads, airports, digital infrastructure and connectivity. Maybe tourism is the next big opportunity.\n\nIn this episode, the CEOs of MakeMyTrip and IHCL (Taj Hotels) tell us 5 things that could get a lot more of the world to come visit India, and where the opportunities for entrepreneurs might lie along the way.\n\nEpisode out now.."
       },
       {
-        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/793580702_18630145375043283_6182327841286136546_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=U6WdrNUf2qQQ7kNvwHnYgYk&_nc_oc=Adpw9gIbA-14lnLswjtJZePTPPlHVeY8_D4I38Ms2rQmH1GNa_FwiDEp_DBwd8aRX6c3nYiPICJfpyx-YCrDtJh1&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=NkvJhrS-IjOKJL3uSD-vDg&_nc_ss=7f689&oh=00_AQMN8TiZi66zZ5b4o5lCWEGpiQc2Dtb7n0JEBv6xV6yIwQ&oe=6AC3E796",
+        "imageUrl": "/people/nikhilkamathcio/p4.jpg",
         "caption": "WTF Offline.\n\n1 stadium. 10 hours. 150 people\n\nNo cameras, no press, no phones.\n\nNo audience either. Just friends and people I have had on the podcast over the years.\n\nA safe space for conversations to happen differently when there\u2019s no camera to perform for.\n\nPS: We capped it at 150 people, partly to keep it intimate and partly because 151 onwards it starts to sound like the beginning of a cult :)"
       },
       {
-        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/792224120_18629623825043283_7596782848993192138_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=9sNDLo1Gn_wQ7kNvwE999pR&_nc_oc=AdrYI2y1xU5U8rloznnRXJp06Mchxf6IC15tFOpGI2yT4ri9l7wtUxZMV6F-4R0uugJI9AaOMcsddMZCwDhAKtoL&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=NkvJhrS-IjOKJL3uSD-vDg&_nc_ss=7f689&oh=00_AQM1fSYz3BrGCCeuK__sOTj1dO5uHmP9lrpAYTUNtde6hQ&oe=6AC417F5",
+        "imageUrl": "/people/nikhilkamathcio/p5.jpg",
         "caption": "Travel inwards can bring in forex, jobs, and a lot of growth: a little more budget allocation, a slight tweak in attitude, a realisation that atithi devo bhava is better practiced than recited, like most other things in life. We all touch MakeMyTrip and Taj Hotels as Indians at some point. The two of them break down business opportunities and 5 things that need to change structurally.\n\nComing soon.."
       },
       {
@@ -168,7 +183,7 @@
       }
     ]
   },
-  "photo": "https://scontent.cdninstagram.com/v/t51.2885-19/482845378_658621966726814_7077522562019605003_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41NjYuQzMifQ%3D%3D&_nc_ohc=mxUoeWw-Vv0Q7kNvwF89uH8&_nc_oc=Adrm8Q-G0jLJBS388lizL-uZvhKLokzcEEJ3T5o5fs06RRsqupznCyeWOoMlmiTpux0c8k4otL0dMIyhtBjKxz4u&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=7f689&oh=00_AQOYP18RGh-kBW6KOW4Ulh2ZM0UxChqTmeE1f741Ixhfiw&oe=6AC410A3",
+  "photo": "/people/nikhilkamathcio/avatar.jpg",
   "analysis": {
     "name": "Nikhil Kamath",
     "oneLiner": "Investor\u2011entrepreneur building India\u2019s next\u2011gen financial and travel ecosystems.",
@@ -369,5 +384,66 @@
   "seeking": "women",
   "genderSource": "inferred",
   "genderEvidence": "The profile refers to the individual as Nikhil Kamath and mentions 'Diyaan', but no female self-descriptions or pronouns are provided in the text; however, 'Nikhil' is traditionally a male name, and the text uses neutral descriptors.",
-  "shortlist": null
+  "shortlist": [
+    {
+      "id": "alexavontobel",
+      "interest": 95,
+      "reason": "As a fintech founder turned VC, her high-octane ambition, tech-forward mindset, and shared appreciation for family-centric adventure make her an elite intellectual and lifestyle match for Nikhil."
+    },
+    {
+      "id": "vineetasng",
+      "interest": 92,
+      "reason": "Her deep Indian roots, serial entrepreneur hustle, and dedication to competitive fitness align seamlessly with Nikhil's fast-moving Bengaluru lifestyle and passion for building national brands."
+    },
+    {
+      "id": "namitathapar",
+      "interest": 88,
+      "reason": "Bridging corporate scaling, health innovation, and Indian cultural contexts, she offers the sharp, evidence-based discourse and impact-driven mindset Nikhil thrives on."
+    },
+    {
+      "id": "katiecouric",
+      "interest": 85,
+      "reason": "Her stellar background in investigative journalism and media entrepreneurship guarantees endless, deeply curious conversations about culture, policy, and the media landscape."
+    },
+    {
+      "id": "ariannahuff",
+      "interest": 82,
+      "reason": "Her focus on well-being and wisdom over sheer hustle provides a grounding, philosophically rich counterpart to Nikhil's high-stress startup ecosystem."
+    },
+    {
+      "id": "brenebrown",
+      "interest": 80,
+      "reason": "Her mastery of vulnerability, emotional safety, and deep human behavioral research directly answers Nikhil's need for profound emotional resonance and intellectual depth."
+    },
+    {
+      "id": "marieforleo",
+      "interest": 78,
+      "reason": "Her blend of creative entrepreneurship, personal development, and playful energy would effortlessly match his pace while keeping discussions intellectually stimulating."
+    },
+    {
+      "id": "jennakutcher",
+      "interest": 75,
+      "reason": "Her digital marketing savvy and grounded, nature-focused life offer a refreshing blend of online business scaling and offline simplicity."
+    },
+    {
+      "id": "melrobbins",
+      "interest": 72,
+      "reason": "Her expertise in behavioral science and personal reinvention provides a dynamic foundation for goal-oriented chats and mutual growth."
+    },
+    {
+      "id": "randizuckerberg",
+      "interest": 70,
+      "reason": "Her tech-savvy background and sheer endurance athlete discipline match his appreciation for high-energy fitness and creative tech ecosystems."
+    },
+    {
+      "id": "barbaracorcoran",
+      "interest": 65,
+      "reason": "While her startup and Shark Tank acumen align with his world, her fast-paced NYC real estate energy leans more brassy than his preferred reflective discourse."
+    },
+    {
+      "id": "toryburch",
+      "interest": 62,
+      "reason": "Her massive global footprint in design and women's empowerment is impressive, though her aesthetic-driven world diverges somewhat from his core tech and macro-economic focus."
+    }
+  ]
 }

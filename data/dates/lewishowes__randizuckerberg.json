@@ -1,0 +1,88 @@
+{
+  "id": "lewishowes__randizuckerberg",
+  "a": "randizuckerberg",
+  "b": "lewishowes",
+  "scene": "mountain",
+  "createdAt": 1790851691084,
+  "status": "done",
+  "messages": [
+    {
+      "from": "randizuckerberg",
+      "say": "You made it to the summit in time for the magic hour, which honestly sounds like your brand in a nutshell. I’m Randi — great to finally meet you. This view is definitely worth the burn in my calves this morning, but tell me, are you a sunrise person by nature, or did the coffee promise drag you out of bed?",
+      "thought": "Getting a read on his immediate energy and whether his 'greatness' persona is just marketing or if he's actually a morning person who can handle the physical side of this date.",
+      "t": 1790851692572
+    },
+    {
+      "from": "lewishowes",
+      "say": "Hey Randi, great to meet you too—morning hikes and sunrise chats are my kind of coffee break, no doubt about it. I’m all about waking up before the sun so I can catch that magic hour and keep the day energized. How about you—does the sunrise vibe kick off your day, or is it more of a post‑run high?",
+      "thought": "Gauge if she’s naturally a sunrise person and see if her early energy aligns with my fast‑paced mornings.",
+      "t": 1790851693279
+    },
+    {
+      "from": "randizuckerberg",
+      "say": "It’s definitely a mix of both, but for me, it’s the ritual that keeps me from spinning out. I’m usually up at 4:30 AM doing a workout or in the kitchen raiding the pantry, so starting the day with movement sets the tone for everything else, even the chaos of three kids. Do you use that early quiet time to plan out your day, or do you just drift into it and let the energy carry you?",
+      "thought": "Checking if his morning routine is structured like mine to see if he can handle the intensity of my daily rhythm, rather than just being a passive observer.",
+      "t": 1790851693763
+    },
+    {
+      "from": "lewishowes",
+      "say": "That’s the secret sauce, isn’t it? I’m a big fan of that quiet pre‑sunrise window—think of it as a mental sprint before the marathon of the day. I sketch out the big beats: podcast call, handball practice, a quick gratitude journal, then let the day’s rhythm take over. It’s like setting a GPS before you hit the road. How do you juggle the kids’ schedules with your training—any tricks to keep that balance smooth?",
+      "thought": "Want to explore her time management and see if her discipline fits my fast‑paced, multitasking lifestyle.",
+      "t": 1790851694323
+    },
+    {
+      "from": "randizuckerberg",
+      "say": "I love that you use the GPS metaphor because honestly, life is just us constantly recalibrating the route when someone's shoe is untied or a race plan changes at the last minute. I don't really have 'tricks' so much as total transparency; my husband and I run together, so he's built into my training block, and my kids join the 5Ks when they're up for it. It’s messy, but we make it a competition to keep the energy high. What does your ideal Saturday look like when you’re not on a panel or in handball practice—where do you plug in the 'recovery' mode?",
+      "thought": "Checking if he has an active support system (like a partner) and how he handles 'recovery' to see if he can handle the high-volume, high-energy lifestyle without burning out.",
+      "t": 1790851694996
+    },
+    {
+      "from": "lewishowes",
+      "say": "That sounds like a fun kind of chaos, and bringing the family into the training is such a brilliant way to stay connected. On my ideal Saturday, I love trading the megaphone for a good book on behavioral science, spending time with family, and maybe catching a beach volleyball game to keep the competitive itch scratched. But recovery for me really means a deep conversation over a great meal where we can totally decompress. When things get crazy busy, how do you two make sure you still get that quality time together without talking shop?",
+      "thought": "Testing how she handles recovery and intentional downtime, ensuring she values deep connection outside of pure high performance.",
+      "t": 1790851703458
+    },
+    {
+      "from": "randizuckerberg",
+      "say": "Honestly, our version of decompression is usually running a few silent miles together or yelling at each other across a board game, but we make sure the phone goes away when we sit down to eat. It's been so much fun swapping notes with you on everything from early mornings to chasing high performance without losing our minds. Good luck with the handball training, and let’s definitely keep the conversation going!",
+      "thought": "Wrapping up with a warm, authentic closing that highlights my need for shared movement and quiet connection, while leaving the door open to see if he can actually match my pace long-term.",
+      "t": 1790851705704
+    },
+    {
+      "from": "lewishowes",
+      "say": "That silent run sounds like the ultimate cheat code for tuning out the noise, and I love that rule about phones at the dinner table. It’s been incredible trading notes with you up here, and I'm cheering you on for every mile and big venture ahead. Let's definitely keep this conversation going—have an amazing rest of your day!",
+      "thought": "Wrap up the date warmly, acknowledging her shared discipline while closing on a high, positive note.",
+      "t": 1790851707854
+    }
+  ],
+  "debriefs": {
+    "randizuckerberg": {
+      "chemistry": 9,
+      "valuesFit": 9,
+      "lifestyleFit": 9,
+      "goalsFit": 9,
+      "overall": 92,
+      "secondDate": true,
+      "highlight": "Lewis totally matched your sunrise energy and dropped a great mental sprint metaphor about the pre-dawn quiet time.",
+      "concern": "Since you both run massive media empires and high-energy brands, scheduling logistics might require an act of Congress.",
+      "reportToHuman": "Randi, Lewis is an absolute 10/10 match for your pace. He gets the 4:30 AM grind, matches your sports metaphors, and completely vibes with your high-achievement, family-integrated lifestyle. Definitely book round two—this one's a keeper."
+    },
+    "lewishowes": {
+      "chemistry": 75,
+      "valuesFit": 60,
+      "lifestyleFit": 50,
+      "goalsFit": 40,
+      "overall": 56,
+      "secondDate": false,
+      "highlight": "Trading notes on early morning routines and high-performance discipline while taking in the sunrise.",
+      "concern": "Randi is married ('my husband and I run together') and has three kids, making a long-term match with your lifestyle and family goals a total non-starter.",
+      "reportToHuman": "Hey Lewis, the date started with great sunrise energy and a strong rapport on morning routines, but there's a massive plot twist: she's married with three kids. While the high-performance mindset match was fun, she's completely off the table for your relationship goals."
+    }
+  },
+  "venue": {
+    "place": "Sunrise peak on a scenic mountain trail",
+    "activity": "A joint sunrise hike to the summit followed by a reflective coffee break",
+    "why": "Both enjoy high-energy outdoor sport and engaging in deep conversations about personal growth",
+    "scene": "mountain"
+  }
+}

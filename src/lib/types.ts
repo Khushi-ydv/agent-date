@@ -40,8 +40,15 @@ export interface LogEntry {
   detail?: string;
 }
 
+export type Gender = "man" | "woman" | "unknown";
+export type Seeking = "men" | "women" | "everyone";
+
 export interface Person {
   id: string;
+  gender?: Gender;
+  seeking?: Seeking;
+  genderSource?: "stated" | "inferred"; // stated = chosen on the form; inferred = agent read it from the two sources
+  genderEvidence?: string;
   createdAt: number;
   linkedinUrl: string;
   instagramUrl: string;
@@ -75,14 +82,18 @@ export interface Debrief {
   reportToHuman: string; // what the agent tells its person afterwards
 }
 
+export const SCENES = ["cafe", "beach", "mountain", "sunset"] as const;
+export type Scene = (typeof SCENES)[number];
+
 export interface DateRecord {
   id: string;
+  scene?: Scene;
   a: string; // initiator
   b: string;
   createdAt: number;
   status: "planning" | "live" | "debrief" | "done" | "error";
   error?: string;
-  venue?: { place: string; activity: string; why: string };
+  venue?: { place: string; activity: string; why: string; scene?: Scene };
   messages: DateMessage[];
   debriefs: Record<string, Debrief>;
 }

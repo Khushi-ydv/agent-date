@@ -1,0 +1,389 @@
+{
+  "id": "thesharkdaymond",
+  "createdAt": 1790850397341,
+  "linkedinUrl": "https://www.linkedin.com/in/daymondjohn/",
+  "instagramUrl": "https://www.instagram.com/thesharkdaymond/",
+  "status": "ready",
+  "datingStatus": "idle",
+  "log": [
+    {
+      "t": 1790850397342,
+      "step": "Opening Instagram",
+      "detail": "https://www.instagram.com/thesharkdaymond/"
+    },
+    {
+      "t": 1790850397343,
+      "step": "Read Instagram @thesharkdaymond",
+      "detail": "12 recent posts, bio: \u201c@sharktankabc | @fubu CEO | Manages Elite CEOs | Emmy Winner | 3X NYT Bestsellin\u201d \u00b7 via instagram-crawler-html (Mozilla)"
+    },
+    {
+      "t": 1790850397344,
+      "step": "Opening LinkedIn",
+      "detail": "https://www.linkedin.com/in/daymondjohn/"
+    },
+    {
+      "t": 1790850397345,
+      "step": "Read LinkedIn: Daymond John",
+      "detail": "TV Personality on \"Shark Tank\" \u00b7 CEO | Branding Expert \u00b7 CEO & Founder \u00b7 6 posts/articles \u00b7 via linkedin-public-page via jina reader"
+    },
+    {
+      "t": 1790850397346,
+      "step": "\u2713 Identity check",
+      "detail": "LinkedIn and Instagram names match"
+    },
+    {
+      "t": 1790850397347,
+      "step": "Agent is reading both profiles",
+      "detail": "cross-referencing career, captions and photos"
+    },
+    {
+      "t": 1790850519769,
+      "step": "Profile analysis complete",
+      "detail": "Serial entrepreneur, Shark Tank shark, and bio\u2011hacker who loves high\u2011impact teams, health hacks, and a good hat."
+    },
+    {
+      "t": 1790850796256,
+      "step": "Identified as a man, looking for women",
+      "detail": "He continues to set standards of excellence while expanding his interests..."
+    }
+  ],
+  "linkedin": {
+    "source": "linkedin",
+    "method": "linkedin-public-page via jina reader",
+    "slug": "daymondjohn",
+    "url": "https://www.linkedin.com/in/daymondjohn",
+    "name": "Daymond John",
+    "headline": "TV Personality on \"Shark Tank\" \u00b7 CEO | Branding Expert \u00b7 CEO & Founder",
+    "about": "From humble beginnings to a self-made multimillionaire with over $6 billion to date in global product sales and a starring role on ABC\u2019s newest business reality TV show, Shark Tank, Daymond John is the personification of the American Dream. He continues to set standards of excellence while expanding his interests in fashion, branding, marketing, consulting, entertainment, and beyond. This industry leader, best-selling author, and ground breaking entrepreneurial expert has evolved into a highly sought after business and motivational speaker. As a dynamic business speaker with over twenty years of hands-on proven business experience, Daymond shares the strategies that continue to bring him financial success. As Founder and CEO, Daymond steered FUBU from a mere concept to a global fashion powerhouse with annual retail sales exceeding $350 million at its peak. Utilizing many of the same tactics commonly used today, Daymond John pioneered the art of integrating fashion, culture, and music nearly twenty years ago. From his then unprecedented guerrilla marketing and branding techniques to the continuously innovative ways in which he uses social media, brand integration, and his expertise on pop culture, Daymond remains a cutting edge business strategist. Daymond teaches audience members how to apply his successful methods to a wide range of businesses today. He shares winning tips for negotiating and negotiating for women, boosting sales, improving employee morale, increasing productivity, and optimizing staff talents. As a motivational speaker, Daymond\u2019s quintessential rags-to-riches success story of sacrifice, hard work, and perseverance as well as the unique and charismatic way he communicates it, will inspire any audience. Specialties: \u2022 Business Strategy \u2022 International Business Branding \u2022 Branding Expert \u2022 Celebrity Alignment \u2022 Brand Development \u2022 Brand Management \u2022 National & International C-Suite Consulting \u2022 Designer \u2022 Marketing \u2022 Motivational Speaker \u2022 Author",
+    "location": "New York, New York, United States",
+    "profilePic": "https://media.licdn.com/dms/image/v2/C4D03AQGgN_joXLRMGw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1571944749987?e=2147483647&v=beta&t=ezjJ3CIlRKm24tzccHEKwUSor64NWYr8C8uLM-GShTY",
+    "followers": 2720728,
+    "experience": [
+      {
+        "title": "TV Personality on \"Shark Tank\" ABC Television 2009 - Present 17 years \"Shark Tank\" is a business reality television series by acclaimed TV producer Mark Burnett (Survivor, The Apprentice) that airs on"
+      },
+      {
+        "title": "CEO | Branding Expert The Shark Group 2009 - Present 17 years New York, United States In a world saturated with marketing and advertising companies, The Shark Group distinguishes itself through non-tr"
+      },
+      {
+        "title": "CEO & Founder FUBU 1992 - Present 34 years The company was founded in 1992 by Daymond John with a line of hats made in his house in Hollis, Queens, New York. According to the company website, John mor"
+      },
+      {
+        "title": "Branding Expert | Business Strategist | Venture Capitalist | Investor Daymond John Jan 1992 - Jan 2011 19 years 1 month"
+      }
+    ],
+    "education": [
+      {
+        "org": "Daymond John",
+        "start": "1992-01",
+        "end": "2011-01"
+      }
+    ],
+    "languages": [],
+    "posts": [
+      {
+        "kind": "article",
+        "text": "Entrepreneurs: Apply for the Grant You Think You Don't Need",
+        "date": "2026-05-22T16:26:21.000+00:00"
+      },
+      {
+        "kind": "article",
+        "text": "Entrepreneurship is a Team Sport ",
+        "date": "2020-10-22T15:17:49.000+00:00"
+      },
+      {
+        "kind": "article",
+        "text": "What is Daymond John's Power of Broke? ",
+        "date": "2015-12-18T20:20:05.000+00:00"
+      },
+      {
+        "kind": "article",
+        "text": "What Every Entrepreneur Must Know To Succeed In Business",
+        "date": "2015-12-03T15:39:57.000+00:00"
+      },
+      {
+        "kind": "article",
+        "text": "What I Have Learned In My Seven Years As A Shark",
+        "date": "2015-11-24T14:07:48.000+00:00"
+      },
+      {
+        "kind": "article",
+        "text": "Here\u2019s What I Plan to Do With My Presidential Appointment ",
+        "date": "2015-06-25T13:53:56.000+00:00"
+      }
+    ],
+    "activityText": " Daymond John Daymond John 18h Daymond John shared this IS Mark Cuban BACK ON Shark Tank ABC ?!?! He might be back to take his seat next week.. Or he might not. Find out TONIGHT during the 2-hour #SharkTank season premiere at 9/8c on ABC and stream on Hulu. Daymond John Daymond John 1d Daymond John shared this I had a chance to catch up with a long time friend and extended The Shark Group family, Aaron Bare alongside his co-host Forbes Shannon One of the things we discussed was how I've been working with incredible CEOs for the past few years. CEO Access is something I\u2019ve been passionate about. Because of the incredible impact I\u2019ve seen these past few years working closely with a select few trailblazing leaders, my team and I are ready to work with more leaders and CEOs beyond our circle. If you\u2019re interested in learning more for yourself or for a successful CEO you know or work for, go to www.ceoaccess.com and learn more. Daymond John Daymond John 1d Daymond John shared this Stop doing these things with your pitches until you hear this. Daymond John Daymond John 2d Daymond John shared this If you (or your boss) has built a company doing $100M+ a year, this might just be for you. Because once you reach that level, more information usually isn\u2019t what moves the needle. Access does. Access to the right opportunities, the right relationships, the right rooms and the right positioning, so people know your value before you ever walk through the door. That\u2019s why I created CEO Access. I work directly with a hand-selected group of CEOs who have already proven they know how to build and scale. They don\u2019t need me to teach them how to run their business. My job is to help them expand what\u2019s possible through new business opportunities, strategic introductions, personal branding, thought leadership, and access to relationships and rooms that could change the trajectory of what they\u2019re building. This is not a mastermind. It\u2019s not a networking group and it\u2019s definitely not for everybody. But if you\u2019ve built a company doing $100M+ a year and believe your next level could come from stronger positioning, better access, and bigger opportunities, I want to hear from you. Apply for CEO Access at CEOAccess.com or through the link in my bio. I personally work with a limited number of CEOs, and every application is reviewed. This might just be for you. Daymond John Daymond John 2d Daymond John shared this Comparison will rob you faster than any thief. I've seen billionaires cry on private jets and I've seen people build empires out of nothing.. I was one of them. It's not what you have. It's what you MAKE out of it. The day you stop looking sideways is the day you start moving forward. This is your reminder to be grateful for what you got, and make the MOST out of it. Daymond John Daymond John 3d Daymond John shared this Nothing like waking up to find out that @jalenbrunson1 and @nbcsnl nailed my 3 obsessions perfectly! 1. My Top Hat, 2. My \"I'm out\" 3. My love for a wom"
+  },
+  "instagram": {
+    "source": "instagram",
+    "method": "instagram-crawler-html (Mozilla)",
+    "username": "thesharkdaymond",
+    "url": "https://www.instagram.com/thesharkdaymond/",
+    "fullName": "Daymond John",
+    "bio": "@sharktankabc | @fubu CEO | Manages Elite CEOs | Emmy Winner | 3X NYT Bestselling Author | The Voice of Top Brands |Founder @TheSharkGroup | BioHacker",
+    "followers": 1478415,
+    "following": 2558,
+    "postsCount": 8406,
+    "isVerified": true,
+    "isPrivate": false,
+    "profilePic": "https://scontent.cdninstagram.com/v/t51.2885-19/74666961_2379079692347010_5840095558991085568_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=103&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=L7Plm7mMG9QQ7kNvwHWaSzz&_nc_oc=AdrehveiDLtbXVSixPsw9gBexQsflTN4Bkp16-DhqpsNIqjENVKdAIFXbUox0SQSk6RJODq8ofJ-4GRWvahEg5DL&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=7f689&oh=00_AQMlCvkdmXP3NYdkgx_BBtX5-rmDWe2aP42n7bfZJVbPpA&oe=6AC3E9A8",
+    "posts": [
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/830834251_18634506361009286_2641047620490258310_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=5wYsHpTcdGAQ7kNvwGHA_Jc&_nc_oc=AdrRQDLL-sJpjGrXLzmIY79B2HID0GJOCyqrjBCo7HaaPCza3s2aa4pmoi2mIyYLTMCLIqcxDYGDcpzPLUSChbtt&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=vgTGXQdZdk1mOu2g6GetVg&_nc_ss=7f689&oh=00_AQM5qBkN6TFXgaA66G5Oac3sEXwIUFJ8ZLjgI-u5twGytg&oe=6AC3FBD3",
+        "caption": "MEET MY TEAM\n\nYou see me everywhere. Making all these investments, I could not do it without my team at The Shark Group.\n\nThis is what I mean when I talk about maximizing and triangulating our divisions. Seven divisions, seven ways to work with us:\n\nShark Investors \u2014 where the deals get done\nShark Speakers \u2014 where the stages get rocked\nBrand Partners \u2014 where the infuse brands into the conversation \n@theshark_art \u2014 where artists get seen\nCEO Access \u2014 where leaders connect\n@sharkgevity \u2014 where we invest in longevity\nShark Licensing \u2014 where brands grow\nYou can have the vision, but you need the right people around you to bring it to life. \n\nMuch love to my team @thesharkgroup  I appreciate every one of you! \ud83d\udc4a\ud83c\udffe"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/829473567_18634345162009286_3214082364075197129_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=-YQifEt4MFMQ7kNvwHoAkZN&_nc_oc=AdoiwsdL1KVA64aXmGHOtKw89Ko-NlBxQbFfLKBpDD6VOv4kVkgbAHnkXiWn9EO5vQnRgvHT2cUg6738bXHd7nbZ&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=vgTGXQdZdk1mOu2g6GetVg&_nc_ss=7f689&oh=00_AQPWUeeRBf8LoNzxPkxio0qIVSIyh0fDREzP2epb_gVhyw&oe=6AC3FB3A",
+        "caption": "IS MARK BACK ON @sharktankabc?!?!\n\nHe might be back to take his seat\u2026 Or he might not. \n\nFind out TONIGHT during the 2-hour #SharkTank season premiere at 9/8c on ABC and stream on Hulu."
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/825352113_18392565709206484_2440432392644268562_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=t_2FzzWfQ4wQ7kNvwEqI-XE&_nc_oc=AdoVgPoB5_8pXDLPtigEpgfWK2ANvUA10sZ2Bdaz5BuMOiOJYOef0aj40QwOuN9rZpV__xJJPhVUYPMabbxCPMCv&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=vgTGXQdZdk1mOu2g6GetVg&_nc_ss=7f689&oh=00_AQOtUvNWpvrP0ZZ3mgHK6cXra8j-XWLJ3glX1WdCDEU9ZA&oe=6AC3FD88",
+        "caption": "Christmas came early to TimTokSherry, thanks to the LEGEND @thesharkdaymond and @thesharkworld \n#timtoksherry #oldschool \n@onceuponacoconut @protocol4health @preppartnersgroup @truistacoffee @punchdenergy @murphydoor @chillygoattubs @nightcapit @socialyogut @shubugco @wickedcutzjerky @essentiaorganicmattress @heather__john"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/825320650_18633946126009286_3907508370470449465_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=N09Rb6cUmP0Q7kNvwGNoPJu&_nc_oc=AdoRw13S3C13-FtuMx6HTZOE8VylVNcp9l3vgQLDVhPLbp0O59uzogha7ADtpA5dOOs-f_OyhSlO2ZCwscz10q9p&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=vgTGXQdZdk1mOu2g6GetVg&_nc_ss=7f689&oh=00_AQPsRzR8kmzKNq9obPKgiGcgGK0FeBJpmBeTlq55kefexQ&oe=6AC405AD",
+        "caption": "Stop doing these things with your pitches until you hear this."
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/825320720_18633810697009286_2801596006515735637_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=4iRoG4D6760Q7kNvwFit3F8&_nc_oc=AdojyVJtOMiioA2KryV5ueaA0BmWpZjIdExLzt5CfhBBF9TWi0Kb8gCVrtN8CiJWeDnwNVoOn3Fn0F7RB9P6JfSv&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=vgTGXQdZdk1mOu2g6GetVg&_nc_ss=7f689&oh=00_AQPG-1EmgEfFHmiXkSusVBhP_NBm78bkzYQ2d85556NAEw&oe=6AC3F452",
+        "caption": "If you (or your boss) has built a company doing $100M+ a year, this might just be for you. Because once you reach that level, more information usually isn\u2019t what moves the needle.\n\nAccess does. Access to the right opportunities, the right relationships, the right rooms and the right positioning, so people know your value before you ever walk through the door. That\u2019s why I created CEO Access. I work directly with a hand-selected group of CEOs who have already proven they know how to build and scale. They don\u2019t need me to teach them how to run their business.\n\nMy job is to help them expand what\u2019s possible through new business opportunities, strategic introductions, personal branding, thought leadership, and access to relationships and rooms that could change the trajectory of what they\u2019re building. This is not a mastermind.\nIt\u2019s not a networking group and it\u2019s definitely not for everybody.\n\nBut if you\u2019ve built a company doing $100M+ a year and believe your next level could come from stronger positioning, better access, and bigger opportunities, I want to hear from you.\n\nApply for CEO Access at CEOAccess.com or through the link in my bio.\n\nI personally work with a limited number of CEOs, and every application is reviewed.\nThis might just be for you."
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/825320821_18633656203009286_5214817124240736962_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=YS4yDSQ056wQ7kNvwH8s3di&_nc_oc=AdrjjilJEc3HnkfvGx6h2XmHmxlTOQWLDVCIlzJAmKdMuq828GisdAeahlDREXx0-8_08Pfeq6ZT5sH4PPl6FuQa&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=vgTGXQdZdk1mOu2g6GetVg&_nc_ss=7f689&oh=00_AQOBWL2Pf4cbbCHBeY2OMx5NQ9mfdfsVG7jRoeW3DkdL0g&oe=6AC4133C",
+        "caption": "Comparison will rob you faster than any thief.\n\nI've seen billionaires cry on private jets and I've seen people build empires out of nothing.. I was one of them.\n\nIt's not what you have. It's what you MAKE out of it. The day you stop looking sideways is the day you start moving forward.\n\nThis is your reminder to  be grateful for what you got, and make the MOST out of it."
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/825277089_18633506947009286_41014475096385295_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=kGjAd1lZXE4Q7kNvwFFph6A&_nc_oc=AdrSE9y7x3hp-S36Eg0E9m5DuTzxX2eErDTWahcLviSK_M46PyxjWlTyVBw6LGmSB7sNvLOmYtYhLr8djqF2il_L&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=vgTGXQdZdk1mOu2g6GetVg&_nc_ss=7f689&oh=00_AQO2XrM5fSa3Vtly9JQ3EqrM0y_hlgXADm_yVcso_ZdOig&oe=6AC3EC88",
+        "caption": "Nothing like waking up to find out that @jalenbrunson1 and @nbcsnl nailed my 3 obsessions perfectly!\n\n1. My Top Hat\ud83c\udfa9\n2. My \u201cI\u2019m out\u201d\n3. My love for a woman with a beautiful \u00a0\u00a0\u00a0\u00a0Derri\u00e8re \ud83e\udd37\ud83c\udffe\u200d\u2642\ufe0f\n\nI think there is a rat on my team. And I have a strong idea that it\u2019s @heather__john \ud83d\ude33\ud83d\ude02\n\nGreat Job Jalen. \n\nIt\u2019s just in time for the 2hr season premiere of @sharktankabc this Wednesday featuring @mrbeast as a Shark. \n\nLet\u2019s Go!!"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/825320231_18633315796009286_3411962039164402599_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=8KzWf058anMQ7kNvwEPySfR&_nc_oc=AdqkjooQd3IZ6xtxPxOLwDXHDl3rlpouvocQwFwnhElYn8rE42slIkiSQvBUStiV5h_9yv00GTrx6vbi2swWt6JO&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=vgTGXQdZdk1mOu2g6GetVg&_nc_ss=7f689&oh=00_AQMp5o_4-hlhCN7WtsXPSgqBIqtdcpNwMz826Xgboj1fOg&oe=6AC41AC4",
+        "caption": "For @the_sharkart Sunday, thanks to @kerikfuri for for sending @solo.gigolos to me. \n\nThe level of detail and creativity he puts into every layer is unreal.\n\nGo show Steven some love.\n\nDJ \ud83e\udd88\ud83c\udfa8"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/825277041_18633126724009286_6012688386591876435_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=5q7eX3Z-MgQQ7kNvwFG5EAX&_nc_oc=AdpBcEXyRlnSFHz6BNqPM88JhbN7MKBis8_FFleIHCB-ocdAmSmQLUbmONjDeVisN4dbQ7zdKFPBNFnrw4Wa4_Qd&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=vgTGXQdZdk1mOu2g6GetVg&_nc_ss=7f689&oh=00_AQML8vGv7eW4nWHZc2SIwBJCTaiers06B3B6JjL0w56oDA&oe=6AC40D0B",
+        "caption": "ITS CRAZY TO KNOW THAT WE ARE SLEEPING ON TOXINS EVERY NIGHT! \n\nI had NO idea what went into making mattresses until last year. \n\nThink about it. No wonder they tell us to air out a new mattress before sleeping on it. I never even stopped to ask why.\n\nThis video from @drewcanole says it all @garybrecka and Jack the sleep Hack turned me on to looking much closer at what I sleep on every night.\n\nGary\u2019s @theultimatesnooze and Jack\u2019s @essentiaorganicmattress are game changers that don\u2019t have any of these dangerous chemicals in them. And no, I\u2019m not an investor in either. I\u2019m just a fan. I believe that @dave.asprey also works w essentia\n\nYou spend roughly a third of your life in bed. So When it\u2019s time to replace your mattress, whether it\u2019s Gary\u2019s, Jack\u2019s, or another quality organic option, I highly suggest doing your homework and considering the switch. @sharkgevity \n\ud83d\udecf\ufe0f"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/825276869_18632961799009286_7354055706719962607_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=H3xlT3L9A6wQ7kNvwEI4UcD&_nc_oc=AdqzUvxJq1N4pSVcqwM4-Ipjdv6L07isMtilMJtuf40wx4UbzRVjAAigPOcQXvccJBOnCTG4OxeDy-eowERo25Wc&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=vgTGXQdZdk1mOu2g6GetVg&_nc_ss=7f689&oh=00_AQPSNxqFjM_W8_P7z3rh_ORe5k765tkhNZonY6oHCDY-hA&oe=6AC3F1F4",
+        "caption": "3 free things you can start today on your longevity Journey. \nThere are many more things you can do that don\u2019t cost money. \nBut these are the easiest if you ask me. \n\nShout out to @sharkgevity team member @donlondean for the tough question \ud83d\ude33\ud83d\ude02"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/825320481_18632749978009286_1892880987357876046_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=ozJKfMm2t_kQ7kNvwEWGLRW&_nc_oc=Adph2xVgF9aW_wd5X-CvlKc5eJdcUFhvAMff4LUCZN6vhuV19PrSJK98IFFlfhtvH5wH3126LyTfjPGpN7N2lFqe&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=vgTGXQdZdk1mOu2g6GetVg&_nc_ss=7f689&oh=00_AQOSGbkkYNa3Z2zi7ot8pKZowyO6VfR3Iopxzd3BmzDCpA&oe=6AC3FECE",
+        "caption": "\u201cAs long as you can stand. Never forget to take a moment to dance with the ones you love\u201d\n\nAnd on National Daughters Day, I\u2019m reminded just how fast all of this goes.\n\nThat was said to me by one of my mentors shortly before he passed away. And I will never forget how subtle yet powerful that statement was. \n\nI started doing it with Minka back when we had that odd thing called COVID locked up in our house a couple years back. Can you even believe that happened? \ud83e\udd37\ud83c\udffe\u200d\u2642\ufe0f\ud83e\udd26\ud83c\udffe\n\n@minkajaggerjohn was about five. We danced our way through it.\n\nShe has grown so much since then. But we're still dancing.\n\nAs we all struggle to find work life balance. It doesn't have to mean big vacations and long trips, sometimes it's just a moment your home with the music up and the ones you love. \ud83d\udd7a\ud83c\udffe\ud83d\udc83\ud83c\udffb\ud83e\uddd1\ud83c\udffc\u200d\ud83e\ude70\n\nSend this to somebody you used to dance with.\n\nDJ"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/818392118_18632586667009286_5070251062551886575_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=jnUJyqNA3n4Q7kNvwFOY1cO&_nc_oc=Adqav-iye0e8InK3L-DBnnZHeEzjgUkqTbrkPpYnpPJd0uBHrxlAn_lfpYL9fT2i6obBwvOcRIz1WwG1UkoxoS9S&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=vgTGXQdZdk1mOu2g6GetVg&_nc_ss=7f689&oh=00_AQOvEEVlrykmyexKMuti71Yd4emcoywsIhZDma91sKx1VQ&oe=6AC3E884",
+        "caption": "Nobody is coming to save your health. Pay attention.\n\nI\u2019m almost 60, and I\u2019m paying closer attention to my health now than ever. The testing, the recovery, the biohacking, the numbers... I want to know what\u2019s going on with MY body.\n\nSame goes for your money, your business and your family. Pay attention. Ask questions. Do your homework.\n\nGreat conversation with @joeandjada. They got me talking \ud83d\ude02\nAnd this passion is what made me create @sharkgevity \nBecause we should all be the number 1 investors in our own health \n\nWhat are you doing today that your future self will thank you for?\n\n-Longevity Shark"
+      }
+    ]
+  },
+  "photo": "https://scontent.cdninstagram.com/v/t51.2885-19/74666961_2379079692347010_5840095558991085568_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=103&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=L7Plm7mMG9QQ7kNvwHWaSzz&_nc_oc=AdrehveiDLtbXVSixPsw9gBexQsflTN4Bkp16-DhqpsNIqjENVKdAIFXbUox0SQSk6RJODq8ofJ-4GRWvahEg5DL&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=7f689&oh=00_AQMlCvkdmXP3NYdkgx_BBtX5-rmDWe2aP42n7bfZJVbPpA&oe=6AC3E9A8",
+  "analysis": {
+    "name": "Daymond John",
+    "oneLiner": "Serial entrepreneur, Shark Tank shark, and bio\u2011hacker who loves high\u2011impact teams, health hacks, and a good hat.",
+    "summary": "Daymond is a self\u2011made billionaire who spends his days scaling brands, mentoring CEOs, and sharing hustle wisdom on TV and social media. Off\u2011camera he\u2019s a bio\u2011hacker, family\u2011man and pop\u2011culture fan who values gratitude, relentless improvement and authentic connections.",
+    "location": "New York, New York, United States",
+    "ageRange": "unknown",
+    "career": {
+      "role": "CEO & Founder / TV Personality",
+      "stage": "Established serial entrepreneur",
+      "ambition": "Expand influence through CEO Access, brand partnerships and thought\u2011leadership while continuing to innovate in fashion and health."
+    },
+    "needs": [
+      {
+        "label": "Intellectual stimulation",
+        "detail": "He constantly shares articles on entrepreneurship and creates CEO Access for high\u2011level CEOs (linkedin).",
+        "source": "linkedin",
+        "confidence": 0.9
+      },
+      {
+        "label": "Health\u2011focused lifestyle partner",
+        "detail": "Instagram posts about bio\u2011hacking, sleep toxins, longevity hacks, and paying closer attention to his body (instagram).",
+        "source": "instagram",
+        "confidence": 0.85
+      },
+      {
+        "label": "Support for family & personal rituals",
+        "detail": "Caption about National Daughters Day, dancing with loved ones, and a mentor\u2019s advice (instagram).",
+        "source": "instagram",
+        "confidence": 0.8
+      },
+      {
+        "label": "Appreciation of his brand\u2011centric humor",
+        "detail": "Playful post about top hat, \u201cI\u2019m out\u201d sign, and love for a woman with a beautiful derri\u00e8re (instagram).",
+        "source": "instagram",
+        "confidence": 0.75
+      }
+    ],
+    "hobbies": [
+      {
+        "label": "Bio\u2011hacking & health research",
+        "detail": "Posts about mattress toxins, longevity tips, and tracking personal metrics (instagram).",
+        "source": "instagram",
+        "confidence": 0.9
+      },
+      {
+        "label": "Team building & mentorship",
+        "detail": "Regular \u201cMeet my team\u201d videos and shout\u2011outs to Shark Group members (instagram).",
+        "source": "instagram",
+        "confidence": 0.85
+      },
+      {
+        "label": "Fashion & personal style",
+        "detail": "References to his signature top hat and FUBU heritage (instagram & linkedin).",
+        "source": "both",
+        "confidence": 0.9
+      },
+      {
+        "label": "Public speaking & content creation",
+        "detail": "Daily LinkedIn articles, TV appearances, and Instagram captions that educate (both).",
+        "source": "both",
+        "confidence": 0.95
+      }
+    ],
+    "interests": [
+      {
+        "label": "Entrepreneurship & scaling businesses",
+        "detail": "LinkedIn headline and multiple article titles about entrepreneurship (linkedin).",
+        "source": "linkedin",
+        "confidence": 0.98
+      },
+      {
+        "label": "Brand culture & pop\u2011culture intersections",
+        "detail": "Mentions of integrating fashion, music, and culture into branding (linkedin).",
+        "source": "linkedin",
+        "confidence": 0.9
+      },
+      {
+        "label": "Health & longevity science",
+        "detail": "Instagram posts about bio\u2011hacking, sleep toxins, and longevity hacks (instagram).",
+        "source": "instagram",
+        "confidence": 0.9
+      },
+      {
+        "label": "Mentorship & giving back",
+        "detail": "Talks about helping CEOs, CEO Access, and sharing lessons from his \u201cPower of Broke\u201d (linkedin).",
+        "source": "linkedin",
+        "confidence": 0.85
+      },
+      {
+        "label": "Family moments & legacy",
+        "detail": "National Daughters Day post and reference to mentor\u2019s advice (instagram).",
+        "source": "instagram",
+        "confidence": 0.8
+      },
+      {
+        "label": "Art & creative collaborations",
+        "detail": "Shout\u2011out to artist @kerikfuri for \u201cThe Shark Art\u201d (instagram).",
+        "source": "instagram",
+        "confidence": 0.75
+      }
+    ],
+    "values": [
+      {
+        "label": "Gratitude & humility",
+        "detail": "Caption reminding followers to be grateful for what they have (instagram).",
+        "source": "instagram",
+        "confidence": 0.85
+      },
+      {
+        "label": "Relentless self\u2011improvement",
+        "detail": "Posts about \u201cPower of Broke,\u201d health hacks, and constant learning (both).",
+        "source": "both",
+        "confidence": 0.9
+      },
+      {
+        "label": "Authentic storytelling",
+        "detail": "Uses personal anecdotes, humor, and behind\u2011the\u2011scenes team posts (instagram).",
+        "source": "instagram",
+        "confidence": 0.8
+      }
+    ],
+    "personality": [
+      {
+        "trait": "Openness",
+        "score": 78,
+        "note": "Shows curiosity in health, art, and new business models (instagram posts on bio\u2011hacking, art collaborations)."
+      },
+      {
+        "trait": "Conscientiousness",
+        "score": 88,
+        "note": "Highly disciplined career, multiple CEOs, regular content schedule (linkedin experience, Instagram consistency)."
+      },
+      {
+        "trait": "Extraversion",
+        "score": 82,
+        "note": "TV personality, frequent public speaking, energetic team videos."
+      },
+      {
+        "trait": "Agreeableness",
+        "score": 70,
+        "note": "Mentors CEOs, celebrates team members, but also uses tough love in business advice."
+      },
+      {
+        "trait": "Emotional Stability",
+        "score": 65,
+        "note": "Confident public figure, yet shares vulnerability about health and aging."
+      }
+    ],
+    "lifestyle": [
+      {
+        "label": "Pace",
+        "value": "Fast\u2011paced, always juggling multiple ventures and media appearances."
+      },
+      {
+        "label": "Social energy",
+        "value": "High \u2013 thrives in networking events, TV sets, and team gatherings."
+      },
+      {
+        "label": "Fitness",
+        "value": "Focused on longevity; bio\u2011hacking routines rather than traditional gym."
+      },
+      {
+        "label": "Travel",
+        "value": "Frequent domestic & international travel for speaking, investing, and brand shoots."
+      },
+      {
+        "label": "Work\u2011life",
+        "value": "Integrated \u2013 work, health, and family often overlap in his public content."
+      }
+    ],
+    "communicationStyle": "Direct, data\u2011driven, peppered with humor and pop\u2011culture references; appreciates concise, high\u2011value exchanges.",
+    "loveLanguage": "Words of affirmation & acts of service (frequent public praise for team, emphasis on helping partners succeed).",
+    "lookingFor": "A partner who can match his intellectual curiosity, share his health\u2011first mindset, enjoy his playful humor, and respect his demanding schedule.",
+    "greenFlags": [
+      "Enjoys deep, strategic conversations.",
+      "Values health and self\u2011optimization.",
+      "Can laugh at his hat jokes and pop\u2011culture references."
+    ],
+    "watchOuts": [
+      "May dominate conversations with business talk.",
+      "High\u2011profile schedule can limit spontaneous quality time."
+    ],
+    "dealbreakers": [
+      "Disinterest in personal growth or health.",
+      "Lack of respect for his entrepreneurial drive."
+    ],
+    "idealFirstDate": "A relaxed brunch at a trendy NYC spot followed by a walk through an art gallery where you can discuss design, then a quick visit to a boutique coffee shop for a bio\u2011hacking coffee (e.g., mushroom latte).",
+    "conversationHooks": [
+      "Ask his take on the latest bio\u2011hacking trend you\u2019ve heard about.",
+      "Discuss how fashion and music shaped brand culture in the \u201990s.",
+      "Share a favorite productivity hack and see if he\u2019s tried it.",
+      "Talk about a recent book on entrepreneurship you loved."
+    ],
+    "agentVoice": "Confident yet warm, witty with a dash of street\u2011smart humor, referencing pop culture when appropriate, and always steering the chat toward actionable insight.",
+    "readingNotes": [
+      "LinkedIn headline leads with mission, not title \u2014 purpose matters to him.",
+      "He repeatedly mentions \u2018team\u2019 and \u2018access\u2019, indicating a need for collaborative partnership.",
+      "Instagram bio adds \u2018BioHacker\u2019, showing health is now a core personal focus.",
+      "Playful hat and derriere jokes reveal a light\u2011hearted side beneath the CEO fa\u00e7ade.",
+      "National Daughters Day post signals family ties and emotional grounding."
+    ]
+  },
+  "gender": "man",
+  "seeking": "women",
+  "genderSource": "inferred",
+  "genderEvidence": "He continues to set standards of excellence while expanding his interests...",
+  "shortlist": null
+}

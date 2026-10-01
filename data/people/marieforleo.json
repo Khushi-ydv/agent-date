@@ -1,0 +1,374 @@
+{
+  "id": "marieforleo",
+  "createdAt": 1790849274783,
+  "linkedinUrl": "https://www.linkedin.com/in/marieforleo/",
+  "instagramUrl": "https://www.instagram.com/marieforleo/",
+  "status": "ready",
+  "datingStatus": "idle",
+  "log": [
+    {
+      "t": 1790849274784,
+      "step": "Opening Instagram",
+      "detail": "https://www.instagram.com/marieforleo/"
+    },
+    {
+      "t": 1790849274785,
+      "step": "Read Instagram @marieforleo",
+      "detail": "12 recent posts, bio: \u201c#1 NYTimes Bestselling Author \ud83c\udf4a\n\ud83d\udc97Build a business and life you love\n\ud83d\udc69\u200d\ud83d\udcbb CEO \u201d \u00b7 via instagram-crawler-html (Mozilla)"
+    },
+    {
+      "t": 1790849274786,
+      "step": "Opening LinkedIn",
+      "detail": "https://www.linkedin.com/in/marieforleo/"
+    },
+    {
+      "t": 1790849274787,
+      "step": "Read LinkedIn: Marie Forleo",
+      "detail": "Marie Forleo - Marie Forleo International \u00b7 7 posts/articles \u00b7 via linkedin-public-page (json-ld)"
+    },
+    {
+      "t": 1790849274788,
+      "step": "\u2713 Identity check",
+      "detail": "LinkedIn and Instagram names match"
+    },
+    {
+      "t": 1790849274789,
+      "step": "Agent is reading both profiles",
+      "detail": "cross-referencing career, captions and photos"
+    },
+    {
+      "t": 1790849459928,
+      "step": "Profile analysis complete",
+      "detail": "Entrepreneurial spirit who blends big\u2011picture purpose with daily playfulness."
+    },
+    {
+      "t": 1790850793601,
+      "step": "Identified as a woman, looking for men",
+      "detail": "The profile uses the name Marie Forleo and includes a female emoji \ud83d\udc69\u200d\ud83d\udcbb, indicating a woman."
+    }
+  ],
+  "linkedin": {
+    "source": "linkedin",
+    "method": "linkedin-public-page (json-ld)",
+    "slug": "marieforleo",
+    "url": "https://www.linkedin.com/in/marieforleo",
+    "name": "Marie Forleo",
+    "headline": "Marie Forleo - Marie Forleo International",
+    "about": "Named by Oprah as a thought leader for the next generation and owner of one of Inc.\u2019s 500\u2026",
+    "location": "New York, New York, United States",
+    "profilePic": "https://media.licdn.com/dms/image/v2/D4E03AQHTlj_cGXv79g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1699302767358?e=2147483647&v=beta&t=7TPRSqrgYTfN6X5T3CXkBTPE2VRPmEvtDhMFZPmz8IQ",
+    "followers": 59808,
+    "experience": [
+      {
+        "title": "Marie Forleo International New York City Metropolitan Area"
+      }
+    ],
+    "education": [],
+    "languages": [],
+    "posts": [
+      {
+        "kind": "article",
+        "text": "7 Ways to Work Smarter Not Harder While You Run Your Own Business",
+        "date": "2019-12-12T21:43:58.000+00:00"
+      },
+      {
+        "kind": "article",
+        "text": "3 Words That Will Make You Unstoppable",
+        "date": "2019-09-05T14:36:38.000+00:00"
+      },
+      {
+        "kind": "post",
+        "text": "You keep saying \u201csomeday.\u201d\n\nSomeday when you have more time.\nSomeday when the timing is right.\nSomeday when everything is figured out.\n\nBut here\u2019s the thing: your life is happening today. \u2764\ufe0f\n\nDon\u2019t wait so long to start living the life you want that you forget to enjoy the one you have.\n\nWhat\u2019s one thing you\u2019re done putting off until \u201csomeday\u201d? \ud83d\udc47",
+        "date": "2026-09-30T21:00:07.188Z"
+      },
+      {
+        "kind": "post",
+        "text": "Sometimes you don\u2019t need more answers. You need to ask yourself better questions. \ud83e\udde0\u2728\n\nTake a few minutes today to slow down, get quiet, and check in with yourself.\n\nYou might be surprised by what comes up when you stop looking outside yourself for the answer.\n\nWhich question made you stop and think? \ud83d\udc47",
+        "date": "2026-09-28T22:00:33.151Z"
+      },
+      {
+        "kind": "post",
+        "text": "Let's bust a few myths that might be keeping you stuck. \ud83e\udde0\n\nSometimes the thing standing between you and your goals isn't a lack of ability. It's what you believe is possible.\n\nWe all pick up beliefs along the way that sound like facts, until we question them. A little perspective shift can open up a whole new set of possibilities. \u2728\n\nWhich belief are you ready to question? \ud83d\udc47",
+        "date": "2026-09-24T03:00:31.566Z"
+      },
+      {
+        "kind": "post",
+        "text": "I didn\u2019t start out knowing exactly what I was doing. \ud83d\ude02\n\nI bartended while building my coaching business. I tried different careers. I took plenty of wrong turns.\n\nAnd guess what?\n\nSome things worked. Some things didn\u2019t.\n\nBut I kept going.\n\nBecause failure isn\u2019t proof that you should stop. It\u2019s proof you\u2019re in the game. \ud83c\udfaf\n\nYou don\u2019t have to know exactly where you\u2019re going to take the first step.\n\nYou just have to be willing to be a beginner. \u2764\ufe0f\n\nAnd if you\u2019re ready to start building a business of your own, I\u2019d love to show you what\u2019s possible.\n\n\ud83d\udcac What's one thing you've been afraid to start ",
+        "date": "2026-09-21T21:00:11.419Z"
+      },
+      {
+        "kind": "post",
+        "text": "You don\u2019t have to put yourself in a box just because the world wants to know \u201cWhat do you do?\u201d \ud83d\ude09\n\nYou can be an entrepreneur and a writer.\nA coach and a creative.\nA leader and a student.\nA million things in between.\n\nYour different interests, talents, and passions don\u2019t have to compete with each other.\n\nThey can become the thing that makes your work uniquely yours. \u2728\n\nSo, fellow multipassionate person: stop trying to pick just one. \u2764\ufe0f\n\nWhat are the different things you\u2019re passionate about? \ud83d\udc47",
+        "date": "2026-09-18T21:01:19.885Z"
+      }
+    ],
+    "activityText": "Activity 60K followers Posts Comments No more previous content Marie Forleo Marie Forleo 12h Marie Forleo shared this You keep saying \u201csomeday.\u201d Someday when you have more time. Someday when the timing is right. Someday when everything is figured out. But here\u2019s the thing: your life is happening today. \u2764\ufe0f Don\u2019t wait so long to start living the life you want that you forget to enjoy the one you have. What\u2019s one thing you\u2019re done putting off until \u201csomeday\u201d? \ud83d\udc47 Marie Forleo Marie Forleo 1d Marie Forleo shared this Elizabeth Gilbert's new paperback, All the Way to the River, is out today! \ud83d\udcda\u2728 So we're bringing back this conversation because there are some ideas that are just too good not to revisit. I loved this conversation with Liz. She is full of wisdom, honesty, and reminders about trusting yourself and following what feels true. Congratulations, Liz, go grab her new paperback! \u2764\ufe0f What's a piece of advice you've carried with you for years? @elizabeth_gilbert_writer Marie Forleo Marie Forleo 2d Marie Forleo shared this Sometimes you don\u2019t need more answers. You need to ask yourself better questions. \ud83e\udde0\u2728 Take a few minutes today to slow down, get quiet, and check in with yourself. You might be surprised by what comes up when you stop looking outside yourself for the answer. Which question made you stop and think? \ud83d\udc47 Marie Forleo Marie Forleo 5d Marie Forleo shared this Your morning routine might be sabotaging your productivity before your day even starts. \ud83d\udcf1\ud83e\udde0 The second you open your phone, you\u2019re letting other people\u2019s priorities, notifications, and noise into your brain before you\u2019ve had a chance to focus on your own. Try this instead: give yourself a little time in the morning before you reach for your phone. Protect your attention. Protect your energy. And start your day on your terms. \u2728 Could you go phone-free for the first 30 minutes of your day? \ud83d\udc47 Marie Forleo Marie Forleo 6d Marie Forleo shared this Outside of work? \ud83d\ude02 I like to dance, laugh, play, explore, and enjoy the heck out of this wild little life. \ud83d\udc83\u2728 Because building a meaningful business matters to me, but so does having a life I actually love living. Reminder: You\u2019re allowed to be more than what you do for work. \u2764\ufe0f What\u2019s your favorite thing to do when you\u2019re not working? \ud83d\udc47 Marie Forleo Marie Forleo 1w Marie Forleo shared this Let's bust a few myths that might be keeping you stuck. \ud83e\udde0 Sometimes the thing standing between you and your goals isn't a lack of ability. It's what you believe is possible. We all pick up beliefs along the way that sound like facts, until we question them. A little perspective shift can open up a whole new set of possibilities. \u2728 Which belief are you ready to question? \ud83d\udc47 Marie Forleo Marie Forleo 1w Marie Forleo shared this Excuse me\u2026 WHAT?! \ud83d\ude09 Before B-School, Sarah Hawkey was running around NYC piecing together voice lesson gigs, calling it a side hustle. Now she runs a real business. This is her story, in her own words. When your income more than "
+  },
+  "instagram": {
+    "source": "instagram",
+    "method": "instagram-crawler-html (Mozilla)",
+    "username": "marieforleo",
+    "url": "https://www.instagram.com/marieforleo/",
+    "fullName": "Marie Forleo \u2022 Entrepreneur",
+    "bio": "#1 NYTimes Bestselling Author \ud83c\udf4a\n\ud83d\udc97Build a business and life you love\n\ud83d\udc69\u200d\ud83d\udcbb CEO + Founder #BSchool #TimeGenius",
+    "followers": 935414,
+    "following": 685,
+    "postsCount": 3607,
+    "isVerified": true,
+    "isPrivate": false,
+    "profilePic": "https://scontent.cdninstagram.com/v/t51.2885-19/399535370_860936628814838_179147807282731741_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=nBH2zMOWahQQ7kNvwETdGAj&_nc_oc=AdpFKo_MEDiAu3AauoHxGx6AAj1qpDNnuRt_xXKQ5BoKHD_TIw8UogEEAfRjztl744OdJE5Qz8lHa5r5IAnJRN1T&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=7f689&oh=00_AQNtFG7L1CgAIg7YuRlUxKnEY444kaCajAk1laODjKH9Xg&oe=6AC40CB2",
+    "posts": [
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/829806128_18635887441012666_6991706933148445781_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=XWUBCq8xiOQQ7kNvwHHePvX&_nc_oc=AdqzAiJ8cvu9hc71TeqH2Ah16eWEXcmjInjr0wkkXiLuRJbATm3op_HojN0lg-eNEKZF3__1Nq5QjpiGQ-flSJXl&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=DTe1Iatr5TVZVw4rmmXLUg&_nc_ss=7f689&oh=00_AQM6-UpS60YudXB-slrlwv7txiGkU83Qgkd5i2GY-CrPFQ&oe=6AC41A1A",
+        "caption": "You keep saying \u201csomeday.\u201d\n\nSomeday when you have more time.\nSomeday when the timing is right.\nSomeday when everything is figured out.\n\nBut here\u2019s the thing: your life is happening today. \u2764\ufe0f\n\nDon\u2019t wait so long to start living the life you want that you forget to enjoy the one you have.\n\nWhat\u2019s one thing you\u2019re done putting off until \u201csomeday\u201d? \ud83d\udc47"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/825320656_18635512228012666_5906570659679800755_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Ee10Cf6dFhQQ7kNvwEirzV7&_nc_oc=Adq1IjQStRl0wwUAeD0r4Z5sW_Xc8tCx2isUtD1akWLR7K8aL718SBo52I-m40ZuhSz6AMUMMgwnqQEooKQDq9xi&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=DTe1Iatr5TVZVw4rmmXLUg&_nc_ss=7f689&oh=00_AQNxxrtRYDiEMJhQjKj5emXsTW8gtd0h8bHtUye3deo62Q&oe=6AC3E917",
+        "caption": "Elizabeth Gilbert's new paperback, All the Way to the River, is out today! \ud83d\udcda\u2728\n\nSo we're bringing back this conversation because there are some ideas that are just too good not to revisit.\n\nI loved this conversation with Liz. She is full of wisdom, honesty, and reminders about trusting yourself and following what feels true.\n\nCongratulations, Liz, go grab her new paperback! \u2764\ufe0f\nComment READ and I'll send you the full episode.\n\n@elizabeth_gilbert_writer"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/828776549_18635221183012666_5355119153295388173_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=Ud0G7tIvMQ0Q7kNvwGW1PIp&_nc_oc=AdrgMgnRmowLqgkAigfR_FKQXAJXBA3tJ3FyWiPxgDO0L-8OV3GDK_JJs2WaKKIIaTuyaxaGg9bQJRaAU7l707G8&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=DTe1Iatr5TVZVw4rmmXLUg&_nc_ss=7f689&oh=00_AQNuRR9vik5FU2iqNTuDSY7tAufmT12zlRbD8w3qCQEFDg&oe=6AC408E6",
+        "caption": "Sometimes you don\u2019t need more answers. You need to ask yourself better questions. \ud83e\udde0\u2728\n\nTake a few minutes today to slow down, get quiet, and check in with yourself.\n\nYou might be surprised by what comes up when you stop looking outside yourself for the answer.\n\nWhich question made you stop and think? \ud83d\udc47"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/825324657_18634058977012666_6322870982221196561_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=SOCIJ6kqTc8Q7kNvwFt7D3b&_nc_oc=AdpxLMknz-BMCw3kcQBxq4S2sYbYK4-uunIBQbP5KFv4MwuWHgdfrTmfgR1UD2BP41NXiZef8t1ah3yS2qNt8XGI&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=DTe1Iatr5TVZVw4rmmXLUg&_nc_ss=7f689&oh=00_AQMgp3JdyQaMwH7NLwjp3cuvPPlOHkqlFcEVKUDJv_flxw&oe=6AC40AFC",
+        "caption": "Your morning routine might be sabotaging your productivity before your day even starts. \ud83d\udcf1\ud83e\udde0\n\nThe second you open your phone, you\u2019re letting other people\u2019s priorities, notifications, and noise into your brain before you\u2019ve had a chance to focus on your own.\n\nTry this instead: give yourself a little time in the morning before you reach for your phone.\n\nProtect your attention. Protect your energy. And start your day on your terms. \u2728\n\nCould you go phone-free for the first 30 minutes of your day? \ud83d\udc47"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/823914190_18633760348012666_8497183229492438805_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=foGYiQRQgnkQ7kNvwHGmcBN&_nc_oc=Adr2aKCW5kx4ZuTDSaVj0pKVizOLP6AM8F4rZRfCDYFtXEKv3e6IrC7LKuQqs0Gs4bcMxOFkE39awr5rJk8Tdnq0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=DTe1Iatr5TVZVw4rmmXLUg&_nc_ss=7f689&oh=00_AQP85mNy2K3LmI4bfmCEfLyA6Sh4ZcWzZ9hM98JYev-EHg&oe=6AC41CD1",
+        "caption": "Outside of work? \ud83d\ude02\n\nI like to dance, laugh, play, explore, and enjoy the heck out of this wild little life. \ud83d\udc83\u2728\n\nBecause building a meaningful business matters to me, but so does having a life I actually love living.\n\nReminder: You\u2019re allowed to be more than what you do for work. \u2764\ufe0f\n\nWhat\u2019s your favorite thing to do when you\u2019re not working? \ud83d\udc47"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/820000019_18633476734012666_5776309595244307361_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=EF3xxlevNAAQ7kNvwHjEAWD&_nc_oc=Adr-k2zeuk5vzChn2nyx7z3OKTpp8WYmLw6vCBSl8GpwJM8wooYeYae3Q3FzlXy1QtsDXuvqgUt7L1E14e4flGN_&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=DTe1Iatr5TVZVw4rmmXLUg&_nc_ss=7f689&oh=00_AQPLSWi9ImtR0vVNQ94gTg36TO8e9o_PQVCUPZt6sZTOcA&oe=6AC3EA59",
+        "caption": "Let's bust a few myths that might be keeping you stuck. \ud83e\udde0\n\nSometimes the thing standing between you and your goals isn't a lack of ability. It's what you believe is possible.\n\nWe all pick up beliefs along the way that sound like facts, until we question them. A little perspective shift can open up a whole new set of possibilities. \u2728\n\nWhich belief are you ready to question? \ud83d\udc47"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/821281931_18633328099012666_5709055818061947007_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=I-mT8WsKq5wQ7kNvwG6k9jF&_nc_oc=AdpBkwkivzDUL3kdQgIZCsSaXf5udWuXy_Sdv6BwklaGA6-VObM2eWl0cPPJVz3PvZ0-vwiLvhGwJ5hIw5RUezvy&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=DTe1Iatr5TVZVw4rmmXLUg&_nc_ss=7f689&oh=00_AQM7LajN5hMk3ErLuf3oGUmxhF4JOv4EwZA0INyRYUziXw&oe=6AC41958",
+        "caption": "Excuse me\u2026 WHAT?! \ud83d\ude09\n\nBefore B-School, Sarah Hawkey was running around NYC piecing together voice lesson gigs, calling it a side hustle. Now she runs a real business. This is her story, in her own words.\n\nWhen your income more than doubles, it's definitely worth celebrating. But the number isn't the whole story.\n\nBehind that kind of growth is someone who decided to bet on their ideas, learn what they didn't know, and actually take action.\n\nBecause building a business isn't just about making more money. It's about building the skills, confidence, and belief in yourself to create something that can grow.\n\nAnd sometimes the results are so good you have to do a double take. \ud83d\udc40\n\n\ud83d\udcac Want the details on B-School? Comment BSCHOOL below and I'll send them straight to your DMs. \ud83d\udc47"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/820114408_18633089698012666_6295602022047046475_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Ks1f94rPv3MQ7kNvwEgJHLw&_nc_oc=Adpm1oVJDIXeIdiApAhAhS66-iXHjN1yrJdG5Kau4_9SoLG0DcpRuI4FQr-0ijyHvE0kApmsS3v9-1rsE8uwnlKA&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=DTe1Iatr5TVZVw4rmmXLUg&_nc_ss=7f689&oh=00_AQNpvUor2UAqmkuk0Q9YXTkLosSMyA29y28uEN2HMh4TDw&oe=6AC4088D",
+        "caption": "Growing up, fitting in felt like the only option. \ud83e\udd1d\n\nBut hiding parts of myself hurt more than I ever let on.\n\nCarissa Schumacher put it perfectly in our conversation: you are not an a la carte menu, picking which pieces of yourself are safe to show and which ones need to stay hidden.\n\nLet's embrace our entire selves, and support each other as whole people. \u2764\ufe0f\n\nComment CARISSA and I'll send you the full episode."
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/790208500_18632725978012666_8535278155215377754_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=-_gIhyghWPkQ7kNvwHj3Twh&_nc_oc=AdrzfRH8jPvxHXmX5mucx-D2KFacKPqZEyFW4qjal1JePjgAc-11T3UzAHT5PBqiIQ5efRlyKVyptxCbnc8csOs9&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=DTe1Iatr5TVZVw4rmmXLUg&_nc_ss=7f689&oh=00_AQNvW1SGEfl5SvTNK_fMWD8STgXwgKKdxmM5KXYP0tY4VA&oe=6AC3EE38",
+        "caption": "I didn\u2019t start out knowing exactly what I was doing. \ud83d\ude02\n\nI bartended while building my coaching business. I tried different careers. I took plenty of wrong turns.\n\nAnd guess what?\n\nSome things worked. Some things didn\u2019t.\n\nBut I kept going.\n\nBecause failure isn\u2019t proof that you should stop. It\u2019s proof you\u2019re in the game. \ud83c\udfaf\n\nYou don\u2019t have to know exactly where you\u2019re going to take the first step.\n\nYou just have to be willing to be a beginner. \u2764\ufe0f\n\nAnd if you\u2019re ready to start building a business of your own, I\u2019d love to show you what\u2019s possible.\n\n\ud83d\udcac What's one thing you've been afraid to start because you might fail?"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/796808210_18631665577012666_5615589018114790554_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=AX4oV6IG19IQ7kNvwHxh7vB&_nc_oc=AdpBFNVOr2iTQ-F0pEByki4cZ1MxSEhmjf-QrdMKG2UySUNTKWI1-TbQzY4iAgXu1r0CLlH43YVOEMfA6tyl8tRt&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=DTe1Iatr5TVZVw4rmmXLUg&_nc_ss=7f689&oh=00_AQPW2FLwk1to0nl829A1Z52t4sg6V-KdM3JGPURU-P6uRw&oe=6AC3F535",
+        "caption": "You don\u2019t have to put yourself in a box just because the world wants to know \u201cWhat do you do?\u201d \ud83d\ude09\n\nYou can be an entrepreneur and a writer.\nA coach and a creative.\nA leader and a student.\nA million things in between.\n\nYour different interests, talents, and passions don\u2019t have to compete with each other.\n\nThey can become the thing that makes your work uniquely yours. \u2728\n\nSo, fellow multipassionate person: stop trying to pick just one. \u2764\ufe0f\n\nWhat are the different things you\u2019re passionate about? \ud83d\udc47"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/814584698_18631418488012666_2896843849442321730_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=WvwM4d3yhMoQ7kNvwG0wFU4&_nc_oc=AdrJXz8UK7FoDmFMTXha8K9sSPuj3wjNosQgBmZM_22iLwVshz4Sm1cYLXJGAOXf8-spldyNYYekOUppcZ9ycyYi&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=DTe1Iatr5TVZVw4rmmXLUg&_nc_ss=7f689&oh=00_AQMWmk3E9R7q97v49a4MOi9yykFc1pJko8-NnmHHKQRQhw&oe=6AC40777",
+        "caption": "Procrastination isn\u2019t always about being lazy or lacking discipline. \ud83d\ude2c\n\nSometimes, it\u2019s fear in disguise. \ud83d\udc40\n\nFear of getting it wrong.\nFear of being judged.\nFear of putting yourself out there.\nFear of finding out you\u2019re not as good as you hoped.\n\nSo you stall. You scroll. You find one more thing to do first. \ud83d\udcf1\n\nBut the way through isn\u2019t waiting until the fear disappears.\n\nIt\u2019s taking the next step anyway. \ud83d\udcaa\u2728\n\nWhat have you been putting off because, deep down, you\u2019re a little afraid? \ud83d\udc47"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/814493786_18631298407012666_5187556369836063154_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=E6ADY4h0ES8Q7kNvwGhd3ZD&_nc_oc=AdpvxsD7vTwPA13rhomxTDcfEq7R7sbyPebMAclET2_YFh1fOE6Uv6Oi4j0yeUuWPOrgUBehzr2xY260pPoyYFaB&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=DTe1Iatr5TVZVw4rmmXLUg&_nc_ss=7f689&oh=00_AQMskjfwnji-iyBfRn_uk8B8JJRCQq4dCbsSeP297cc-Cw&oe=6AC4107B",
+        "caption": "Feeling overwhelmed? \ud83d\ude35\u200d\ud83d\udcab\n\nBefore you download another productivity app or add another \u201clife hack\u201d to your routine, look at your calendar. \ud83d\udc40\n\nAsk yourself:\n\n\u2728 What can I eliminate?\n\u2728 What can I automate?\n\u2728 What can I delegate?\n\u2728 What actually deserves my best energy?\n\u2728 What needs a \u201cnot now\u201d instead of a \u201cyes\u201d?\n\nBecause productivity isn\u2019t about squeezing more into your day.\n\nIt\u2019s about creating more freedom in your life. \ud83d\udcab\n\nThat's the heart of Time Genius.\nAnd if you grab it before tomorrow at 7pm ET, you'll save $500!\nWhich one of these questions do you need to ask yourself this week? \ud83d\udc47"
+      }
+    ]
+  },
+  "photo": "https://scontent.cdninstagram.com/v/t51.2885-19/399535370_860936628814838_179147807282731741_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=nBH2zMOWahQQ7kNvwETdGAj&_nc_oc=AdpFKo_MEDiAu3AauoHxGx6AAj1qpDNnuRt_xXKQ5BoKHD_TIw8UogEEAfRjztl744OdJE5Qz8lHa5r5IAnJRN1T&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=7f689&oh=00_AQNtFG7L1CgAIg7YuRlUxKnEY444kaCajAk1laODjKH9Xg&oe=6AC40CB2",
+  "analysis": {
+    "name": "Marie Forleo",
+    "oneLiner": "Entrepreneurial spirit who blends big\u2011picture purpose with daily playfulness.",
+    "summary": "Marie is a multipassionate founder and coach who lives by the mantra of taking action today. She shares productivity hacks, mindset shifts, and a love of dancing, reading, and exploring life beyond work. Her public voice is upbeat, encouraging, and deeply curious about personal growth.",
+    "location": "New York, New York, United States",
+    "ageRange": "unknown",
+    "career": {
+      "role": "CEO & Founder of Marie Forleo International / B\u2011School",
+      "stage": "Established entrepreneur / Thought leader",
+      "ambition": "Scale impact\u2011focused businesses while inspiring others to live intentionally"
+    },
+    "needs": [
+      {
+        "label": "Support for personal growth",
+        "detail": "She repeatedly asks followers to ask better questions and challenge limiting beliefs (LinkedIn posts).",
+        "source": "linkedin",
+        "confidence": 0.93
+      },
+      {
+        "label": "Playful partnership",
+        "detail": "Instagram caption: \u201cI like to dance, laugh, play, explore\u201d shows she values fun together (instagram).",
+        "source": "instagram",
+        "confidence": 0.95
+      },
+      {
+        "label": "Respect for her multiple passions",
+        "detail": "LinkedIn post about being \u201cmultipassionate\u201d and not fitting into one box (linkedin).",
+        "source": "linkedin",
+        "confidence": 0.9
+      },
+      {
+        "label": "Space for quiet, phone\u2011free mornings",
+        "detail": "She advises a phone\u2011free first 30 minutes to protect attention (linkedin).",
+        "source": "linkedin",
+        "confidence": 0.88
+      }
+    ],
+    "hobbies": [
+      {
+        "label": "Dancing",
+        "detail": "Instagram caption mentions dancing as a favorite off\u2011work activity (instagram).",
+        "source": "instagram",
+        "confidence": 0.96
+      },
+      {
+        "label": "Reading",
+        "detail": "She promotes Elizabeth Gilbert\u2019s new paperback and calls herself a #1 NYTimes bestselling author (instagram).",
+        "source": "instagram",
+        "confidence": 0.94
+      },
+      {
+        "label": "Exploring new places",
+        "detail": "Instagram post says she loves to \u201cexplore\u201d and \u201cenjoy the heck out of this wild little life\u201d (instagram).",
+        "source": "instagram",
+        "confidence": 0.92
+      },
+      {
+        "label": "Coaching & mentoring",
+        "detail": "Her LinkedIn content revolves around coaching entrepreneurs and running B\u2011School (linkedin).",
+        "source": "linkedin",
+        "confidence": 0.9
+      }
+    ],
+    "interests": [
+      {
+        "label": "Personal development",
+        "detail": "Frequent posts about mindset shifts, better questions, and overcoming limiting beliefs (linkedin).",
+        "source": "linkedin",
+        "confidence": 0.96
+      },
+      {
+        "label": "Productivity & habit design",
+        "detail": "She shares morning routine tips and app\u2011free strategies (linkedin).",
+        "source": "linkedin",
+        "confidence": 0.94
+      },
+      {
+        "label": "Creative entrepreneurship",
+        "detail": "Talks about being a writer, coach, leader, student all at once (linkedin).",
+        "source": "linkedin",
+        "confidence": 0.9
+      },
+      {
+        "label": "Storytelling & literature",
+        "detail": "Highlights books like Elizabeth Gilbert\u2019s and encourages reading (instagram).",
+        "source": "instagram",
+        "confidence": 0.88
+      },
+      {
+        "label": "Community building",
+        "detail": "Calls followers to share their fears, beliefs, and \u201csomeday\u201d goals (both).",
+        "source": "both",
+        "confidence": 0.9
+      }
+    ],
+    "values": [
+      {
+        "label": "Authenticity",
+        "detail": "She urges people not to hide parts of themselves and to embrace the whole self (instagram).",
+        "source": "instagram",
+        "confidence": 0.93
+      },
+      {
+        "label": "Growth mindset",
+        "detail": "Repeatedly frames failure as proof you\u2019re in the game and encourages beginners (linkedin).",
+        "source": "linkedin",
+        "confidence": 0.95
+      },
+      {
+        "label": "Balance between work and life",
+        "detail": "Instagram caption: \u201cBecause building a meaningful business matters to me, but so does having a life I actually love living.\u201d (instagram).",
+        "source": "instagram",
+        "confidence": 0.94
+      }
+    ],
+    "personality": [
+      {
+        "trait": "Openness",
+        "score": 88,
+        "note": "Curious about ideas, books, and new experiences; shares creative content."
+      },
+      {
+        "trait": "Conscientiousness",
+        "score": 82,
+        "note": "Runs a successful company, offers structured productivity advice."
+      },
+      {
+        "trait": "Extraversion",
+        "score": 75,
+        "note": "Engages large audiences, loves dancing and social interaction."
+      },
+      {
+        "trait": "Agreeableness",
+        "score": 80,
+        "note": "Supportive tone, encourages community, empathetic language."
+      },
+      {
+        "trait": "Emotional Stability",
+        "score": 70,
+        "note": "Open about fears and setbacks, but frames them positively."
+      }
+    ],
+    "lifestyle": [
+      {
+        "label": "Pace",
+        "value": "Fast\u2011moving entrepreneurial rhythm with scheduled downtime for play"
+      },
+      {
+        "label": "Social energy",
+        "value": "High \u2013 frequent public speaking, community posts, and social dancing"
+      },
+      {
+        "label": "Fitness",
+        "value": "Active \u2013 dance and movement mentioned as regular outlets"
+      },
+      {
+        "label": "Travel",
+        "value": "Exploratory \u2013 enjoys discovering new places, though not detailed"
+      },
+      {
+        "label": "Work\u2011life",
+        "value": "Deliberately blended; she champions both productivity and leisure"
+      }
+    ],
+    "communicationStyle": "Warm, inquisitive, and action\u2011oriented; she asks open\u2011ended questions and offers quick, uplifting feedback.",
+    "loveLanguage": "Words of affirmation & quality time (frequent encouragement, invites deep conversation, values shared play).",
+    "lookingFor": "A partner who can keep up with her ambition, join her in playful exploration, and honor both her drive and her need for quiet reflection.",
+    "greenFlags": [
+      "Enjoys learning and personal growth together",
+      "Shares a playful, dance\u2011oriented vibe",
+      "Values authenticity and open communication"
+    ],
+    "watchOuts": [
+      "May prioritize work projects during peak periods",
+      "Can be intense about productivity hacks"
+    ],
+    "dealbreakers": [
+      "Dismisses personal development or self\u2011reflection",
+      "Resists a multipassionate lifestyle"
+    ],
+    "idealFirstDate": "A low\u2011key dance class or a walk through a quirky NYC market followed by coffee where you can both share a favorite book excerpt.",
+    "conversationHooks": [
+      "What\u2019s a belief you\u2019ve recently questioned?",
+      "Which book has shifted your perspective lately?",
+      "If you could spend a \u2018someday\u2019 day doing anything, what would it be?",
+      "Do you have a go\u2011to dance move that always lifts your mood?"
+    ],
+    "agentVoice": "Bright, supportive, and slightly witty\u2014think a friendly mentor who loves to sprinkle in playful metaphors and genuine curiosity.",
+    "readingNotes": [
+      "LinkedIn headline emphasizes mission over title \u2013 purpose drives her.",
+      "She frequently uses heart emojis \u2764\ufe0f, signaling emotional openness.",
+      "Instagram bio blends business (CEO) with personal flair (orange emoji).",
+      "Posts repeatedly ask followers to share fears or \u2018someday\u2019 goals \u2013 community matters.",
+      "Dance, laugh, play appear together, showing she values embodied joy.",
+      "Morning\u2011routine advice reveals a need for focused, low\u2011stimulus time."
+    ]
+  },
+  "gender": "woman",
+  "seeking": "men",
+  "genderSource": "inferred",
+  "genderEvidence": "The profile uses the name Marie Forleo and includes a female emoji \ud83d\udc69\u200d\ud83d\udcbb, indicating a woman.",
+  "shortlist": null
+}

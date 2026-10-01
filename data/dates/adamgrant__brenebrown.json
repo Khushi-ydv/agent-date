@@ -1,0 +1,23 @@
+{
+  "id": "adamgrant__brenebrown",
+  "a": "brenebrown",
+  "b": "adamgrant",
+  "scene": "sunset",
+  "createdAt": 1790850841458,
+  "status": "live",
+  "messages": [
+    {
+      "from": "brenebrown",
+      "say": "Hey Adam, welcome! Imagine this hill country sunset as our backdrop—does it feel like a quiet pause before we dive into whatever deep conversation we’ve got on the agenda?",
+      "thought": "Setting the tone, checking his comfort level with the environment.",
+      "t": 1790850842658
+    }
+  ],
+  "debriefs": {},
+  "venue": {
+    "place": "Hill Country overlook with panoramic sunset view",
+    "activity": "Sunset picnic with a curated selection of thought-provoking books and a shared discussion",
+    "why": "Both share a love for deep reading and intellectual conversation",
+    "scene": "sunset"
+  }
+}

@@ -1,40 +1,50 @@
 {
   "id": "richardbranson",
-  "createdAt": 1790848709462,
+  "createdAt": 1790849537942,
   "linkedinUrl": "https://www.linkedin.com/in/rbranson/",
   "instagramUrl": "https://www.instagram.com/richardbranson/",
   "status": "ready",
   "datingStatus": "idle",
   "log": [
     {
-      "t": 1790848709463,
+      "t": 1790849537944,
       "step": "Opening Instagram",
       "detail": "https://www.instagram.com/richardbranson/"
     },
     {
-      "t": 1790848709464,
+      "t": 1790849537945,
       "step": "Read Instagram @richardbranson",
-      "detail": "12 recent posts, bio: “Screw it, let’s do it.” · via instagram-crawler-html (Mozilla)"
+      "detail": "12 recent posts, bio: \u201cScrew it, let\u2019s do it.\u201d \u00b7 via instagram-crawler-html (Mozilla)"
     },
     {
-      "t": 1790848709465,
+      "t": 1790849537946,
       "step": "Opening LinkedIn",
       "detail": "https://www.linkedin.com/in/rbranson/"
     },
     {
-      "t": 1790848709467,
+      "t": 1790849537948,
       "step": "Read LinkedIn: Richard Branson",
-      "detail": "Founder · 10 posts/articles · via linkedin-public-page via jina reader"
+      "detail": "Founder \u00b7 10 posts/articles \u00b7 via linkedin-public-page via jina reader"
     },
     {
-      "t": 1790848709469,
+      "t": 1790849537948,
+      "step": "\u2713 Identity check",
+      "detail": "LinkedIn and Instagram names match"
+    },
+    {
+      "t": 1790849537950,
       "step": "Agent is reading both profiles",
       "detail": "cross-referencing career, captions and photos"
     },
     {
-      "t": 1790848750407,
+      "t": 1790849584228,
       "step": "Profile analysis complete",
-      "detail": "A tie-loathing adventurer and thrill-seeker who believes in turning ideas into reality and saying 'yes' to life."
+      "detail": "Adventure\u2011loving founder who lives by saying \u201cyes\u201d to life\u2019s biggest thrills."
+    },
+    {
+      "t": 1790850794445,
+      "step": "Identified as a man, looking for women",
+      "detail": "The profile refers to Richard Branson as \"my wonderful wife, Joan\" and uses male pronouns such as \"my\" and \"he\" in the context of his activities."
     }
   ],
   "linkedin": {
@@ -44,7 +54,7 @@
     "url": "https://www.linkedin.com/in/rbranson",
     "name": "Richard Branson",
     "headline": "Founder",
-    "about": "Founder at Virgin Group · Experience: Virgin Group · Location: {:currentLocation} · 2 connections on LinkedIn. View Richard Branson’s profile on LinkedIn, a professional community of 1 billion members.",
+    "about": "Founder at Virgin Group \u00b7 Experience: Virgin Group \u00b7 Location: {:currentLocation} \u00b7 2 connections on LinkedIn. View Richard Branson\u2019s profile on LinkedIn, a professional community of 1 billion members.",
     "profilePic": "https://media.licdn.com/dms/image/v2/C4D03AQHh6_Wth5f3rQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1625181963183?e=2147483647&v=beta&t=oiGK2oBQ3r3COkRR0z62i7CbnqXKw_1ujZ9X4-SKheo",
     "followers": 18642017,
     "experience": [
@@ -57,7 +67,7 @@
     "posts": [
       {
         "kind": "article",
-        "text": "Why it’s time to reconsider Britain’s relationship with the EU",
+        "text": "Why it\u2019s time to reconsider Britain\u2019s relationship with the EU",
         "date": "2026-09-24T11:58:28.000+00:00"
       },
       {
@@ -77,7 +87,7 @@
       },
       {
         "kind": "article",
-        "text": "What’s next on Iran?",
+        "text": "What\u2019s next on Iran?",
         "date": "2026-05-07T15:00:26.000+00:00"
       },
       {
@@ -92,21 +102,21 @@
       },
       {
         "kind": "article",
-        "text": "One in three entrepreneurs are dyslexic - let’s talk about that",
+        "text": "One in three entrepreneurs are dyslexic - let\u2019s talk about that",
         "date": "2025-08-27T10:52:50.000+00:00"
       },
       {
         "kind": "article",
-        "text": "Ask Richard: What’s one daily habit that has shaped you as a person?",
+        "text": "Ask Richard: What\u2019s one daily habit that has shaped you as a person?",
         "date": "2025-07-11T08:50:10.000+00:00"
       },
       {
         "kind": "article",
-        "text": "Ask Richard: What’s your favourite Bowie song?",
+        "text": "Ask Richard: What\u2019s your favourite Bowie song?",
         "date": "2025-04-02T17:30:04.000+00:00"
       }
     ],
-    "activityText": " Richard Branson Richard Branson 23h Richard Branson shared this So touching to see Virgin Atlantic 's new plane paying tribute to my wonderful wife, Joan. Joan was part of the Virgin Atlantic story from the very beginning. From joining the inaugural flight in 1984, to coming up with the idea of donating loose change on-board for charity (which resulted in almost every airline in the world following suit and raising billions over the years). She was always there. Seeing the details of our family tartan, the heart-shaped necklace, and the rings she wore every day, brought back so many happy memories. 17, Richard Branson Richard Branson 1d Richard Branson shared this We get one go at this life. Don’t spend it wondering, “What if?” The best things in my life began before I knew what I was doing. Saying 'yes’ has changed my life. It’s opened up doors. It’s forged friendships. It’s taught lessons that will never leave me. Now, I’d love to hear about the wonderful yes moments that changed your life. We’re officially searching for Virgin's next Head of Yes! The opportunity is open to everyone in the UK and US. You don’t need to have a huge following. You just need a real story about a time you threw caution to the wind. One person will receive a deal worth £75,000 in the UK or $100,000 in the US, including six months of incredible experiences. Those shortlisted may also discover more ‘yes’ opportunities along the way too! To apply: Share a video about a time you said yes on YouTube, TikTok or Instagram, tag @Virgin and use #headofyes . Applications open until 20th October, 2026. You never know where one small yes might lead. https://bit.ly/46GfyjR Terms apply - see link above. 18+ UK and US residents only. By submitting an application video, you agree to your video being reposted (in whole or in part) on Virgin channels. Head of Yes is a paid content-creator engagement selected on merit, not a prize draw or employment relationship, and is subject to the selected individual entering into a content creator agreement with Virgin Red. Apply by 20 October. 3, Richard Branson Richard Branson 3d Richard Branson shared this Protecting civilians cannot wait for a ceasefire. From Sudan to Ukraine to Gaza, innocent people are paying an unbearable price. Statements of concern are not enough. We must protect communities, back local people delivering life-saving aid, and stop the flow of money and weapons enabling atrocities. In my op-ed for The Observer, I argue that protecting civilians should be something we can all agree on. We have options. We must use them:￼ https://lnkd.in/gSJGfhSa Civilians are paying a heavy price for the world’s conflicts Civilians are paying a heavy price for the world’s conflicts 1, Richard Branson Richard Branson 3d Richard Branson shared this Recents from the camera roll… 1. Thinking back on my hot air ballooning days 2. Meeting the most wonderful students at a school we helped set up in Kenya with Mahali Mzuri 3. Flamingo love on Necke"
+    "activityText": " Richard Branson Richard Branson 23h Richard Branson shared this So touching to see Virgin Atlantic 's new plane paying tribute to my wonderful wife, Joan. Joan was part of the Virgin Atlantic story from the very beginning. From joining the inaugural flight in 1984, to coming up with the idea of donating loose change on-board for charity (which resulted in almost every airline in the world following suit and raising billions over the years). She was always there. Seeing the details of our family tartan, the heart-shaped necklace, and the rings she wore every day, brought back so many happy memories. 17, Richard Branson Richard Branson 1d Richard Branson shared this We get one go at this life. Don\u2019t spend it wondering, \u201cWhat if?\u201d The best things in my life began before I knew what I was doing. Saying 'yes\u2019 has changed my life. It\u2019s opened up doors. It\u2019s forged friendships. It\u2019s taught lessons that will never leave me. Now, I\u2019d love to hear about the wonderful yes moments that changed your life. We\u2019re officially searching for Virgin's next Head of Yes! The opportunity is open to everyone in the UK and US. You don\u2019t need to have a huge following. You just need a real story about a time you threw caution to the wind. One person will receive a deal worth \u00a375,000 in the UK or $100,000 in the US, including six months of incredible experiences. Those shortlisted may also discover more \u2018yes\u2019 opportunities along the way too! To apply: Share a video about a time you said yes on YouTube, TikTok or Instagram, tag @Virgin and use #headofyes . Applications open until 20th October, 2026. You never know where one small yes might lead. https://bit.ly/46GfyjR Terms apply - see link above. 18+ UK and US residents only. By submitting an application video, you agree to your video being reposted (in whole or in part) on Virgin channels. Head of Yes is a paid content-creator engagement selected on merit, not a prize draw or employment relationship, and is subject to the selected individual entering into a content creator agreement with Virgin Red. Apply by 20 October. 3, Richard Branson Richard Branson 3d Richard Branson shared this Protecting civilians cannot wait for a ceasefire. From Sudan to Ukraine to Gaza, innocent people are paying an unbearable price. Statements of concern are not enough. We must protect communities, back local people delivering life-saving aid, and stop the flow of money and weapons enabling atrocities. In my op-ed for The Observer, I argue that protecting civilians should be something we can all agree on. We have options. We must use them:\ufffc https://lnkd.in/gSJGfhSa Civilians are paying a heavy price for the world\u2019s conflicts Civilians are paying a heavy price for the world\u2019s conflicts 1, Richard Branson Richard Branson 3d Richard Branson shared this Recents from the camera roll\u2026 1. Thinking back on my hot air ballooning days 2. Meeting the most wonderful students at a school we helped set up in Kenya with Mahali Mzuri 3. Flamingo love on Necke"
   },
   "instagram": {
     "source": "instagram",
@@ -114,7 +124,7 @@
     "username": "richardbranson",
     "url": "https://www.instagram.com/richardbranson/",
     "fullName": "Richard Branson",
-    "bio": "Screw it, let’s do it.",
+    "bio": "Screw it, let\u2019s do it.",
     "followers": 4987819,
     "following": 506,
     "postsCount": 4639,
@@ -124,35 +134,35 @@
     "posts": [
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/829787956_18636763483032318_2621144385496075700_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=4XOQmgo5faAQ7kNvwEUmxQY&_nc_oc=Adr8f9NjwcnN0us3eCOuCu7Fen39dehywWCOr5Za1S0VdXGts9TbhQLjHMsMy82sxeIIdAp2t2Yo9Osbs2t5O8Sg&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=R3FDHGwZafHN7cnTCzJ54A&_nc_ss=7f689&oh=00_AQMYbi8SGjOgfDBGK1SpKS-g9SHnDChskgnO_8R1WNGpTA&oe=6AC3EC19",
-        "caption": "So touching to see @VirginAtlantic’s new plane paying tribute to my wonderful wife, Joan. \n \nJoan was part of the Virgin Atlantic story from the very beginning. From joining the inaugural flight in 1984, to coming up with the idea of donating loose change on-board for charity (which resulted in almost every airline in the world following suit and raising billions over the years). She was always there. \n \nSeeing the details of our family tartan, the heart-shaped necklace, and the rings she wore every day, brought back so many happy memories."
+        "caption": "So touching to see @VirginAtlantic\u2019s new plane paying tribute to my wonderful wife, Joan.\u00a0\n\u00a0\nJoan was part of the Virgin Atlantic story from the very beginning. From joining the inaugural flight in 1984, to coming up with the idea of donating loose change on-board for charity (which resulted in almost every airline in the world following suit and raising billions over the years). She was always there.\u00a0\n\u00a0\nSeeing the details of our family tartan, the heart-shaped necklace, and the rings she wore every day, brought back so many happy memories."
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/829518183_18636559729032318_6873872176350533867_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=6rV33KLUfIkQ7kNvwFINOCP&_nc_oc=Adq7e5uj91jSsnAVCwGv4NWuRi20xobh7tb-hFyFeiyN_nM_yeBBkbE0L5_mLti5tM7D8yCKVhdi4MlqSMwQZtXh&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=R3FDHGwZafHN7cnTCzJ54A&_nc_ss=7f689&oh=00_AQM4McZlkPjuSH9k9GDeRyje0RBugZdctyEbwZA5-jo5JQ&oe=6AC3EB6A",
-        "caption": "We get one go at this life. Don’t spend it wondering, “What if?”\n \nThe best things in my life began before I knew what I was doing.\n \nSaying 'yes’ has changed my life. It’s opened up doors. It’s forged friendships. It’s taught lessons that will never leave me. \n\nNow, I’d love to hear about the wonderful yes moments that changed your life.\n\nWe’re officially searching for @Virgin’s next Head of Yes! The opportunity is open to everyone in the UK and US. You don’t need to have a huge following. You just need a real story about a time you threw caution to the wind.\n\nOne person will receive a deal worth £75,000 in the UK or $100,000 in the US, including six months of incredible experiences. Those shortlisted may also discover more ‘yes’ opportunities along the way too!\n\nTo apply: Share a video about a time you said yes on YouTube, TikTok or Instagram, tag @Virgin and use #headofyes.\n\nApplications open until 20th October, 2026. You never know where one small yes might lead.\n\nTerms apply - see @Virgin’s link in bio. 18+ UK and US residents only. By submitting an application video, you agree to your video being reposted (in whole or in part) on Virgin channels. Head of Yes is a paid content-creator engagement selected on merit, not a prize draw or employment relationship, and is subject to the selected individual entering into a content creator agreement with Virgin Red. Apply by 20 October."
+        "caption": "We get one go at this life. Don\u2019t spend it wondering, \u201cWhat if?\u201d\n \nThe best things in my life began before I knew what I was doing.\n \nSaying 'yes\u2019 has changed my life. It\u2019s opened up doors. It\u2019s forged friendships. It\u2019s taught lessons that will never leave me. \n\nNow, I\u2019d love to hear about the wonderful yes moments that changed your life.\n\nWe\u2019re officially searching for @Virgin\u2019s next Head of Yes! The opportunity is open to everyone in the UK and US. You don\u2019t need to have a huge following. You just need a real story about a time you threw caution to the wind.\n\nOne person will receive a deal worth \u00a375,000 in the UK or $100,000 in the US, including six months of incredible experiences. Those shortlisted may also discover more \u2018yes\u2019 opportunities along the way too!\n\nTo apply: Share a video about a time you said yes on YouTube, TikTok or Instagram, tag @Virgin and use #headofyes.\n\nApplications open until 20th October, 2026. You never know where one small yes might lead.\n\nTerms apply - see @Virgin\u2019s link in bio. 18+ UK and US residents only. By submitting an application video, you agree to your video being reposted (in whole or in part) on Virgin channels. Head of Yes is a paid content-creator engagement selected on merit, not a prize draw or employment relationship, and is subject to the selected individual entering into a content creator agreement with Virgin Red. Apply by 20 October."
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/825325621_17889255228616699_8243749146812102454_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=RHJjTnExwf0Q7kNvwEU7NpU&_nc_oc=AdrRRVWHfMrwpGD3gKauTQAP8JK_cWwyEVWtN4gPBzc7BMmxKg2xSe3n3x4fMi1y6LuIoGxccJ3TKg69m5wWzc-9&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=R3FDHGwZafHN7cnTCzJ54A&_nc_ss=7f689&oh=00_AQNZXAzzi4j06jBpahVUvimMX0uBT6bjOO2ubI5zq1uPBQ&oe=6AC3F795",
-        "caption": "One destination. Two extraordinary experiences 🏔️\n\nFrom the heart of Verbier to 3,000 metres in the high Alps.\n\nFrom ski-in living at @thelodgeverbier_ to the seclusion of @cabanetortin, where untouched snow, spectacular peaks and first tracks await.\n\nOne seamless Alpine journey, delivered exclusively by @VirginLimitedEdition.\n\nAvailable throughout April 2027 for private groups up to 8–10 guests, with additional dates available on request, subject to availability.\n\nThe Lodge × Cabane Tortin"
+        "caption": "One destination. Two extraordinary experiences \ud83c\udfd4\ufe0f\n\nFrom the heart of Verbier to 3,000 metres in the high Alps.\n\nFrom ski-in living at @thelodgeverbier_ to the seclusion of @cabanetortin, where untouched snow, spectacular peaks and first tracks await.\n\nOne seamless Alpine journey, delivered exclusively by @VirginLimitedEdition.\n\nAvailable throughout April 2027 for private groups up to 8\u201310 guests, with additional dates available on request, subject to availability.\n\nThe Lodge \u00d7 Cabane Tortin"
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/825320189_18635713288032318_5053340534783900213_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=BX0LDxw-r9kQ7kNvwFN5meM&_nc_oc=AdqTO3KkEIz_2RSz308R1SNgttErEJHGcWbyWjpK6HfWVkKTe7U1hk-oMnqr-O4QltnwNen1bQyfajP7EjTHpdl9&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=R3FDHGwZafHN7cnTCzJ54A&_nc_ss=7f689&oh=00_AQO4LVpKWqprMuWnKE9ARWaNLTWSkrapHfmy18GYMW_MZA&oe=6AC41895",
-        "caption": "Recents from the camera roll…\n1. Thinking back on my hot air ballooning days\n2. Meeting the most wonderful students at a school we helped set up in Kenya. @MahaliMzuri\n3. Flamingo love on @NeckerIsland \n4. The winner takes it all...\n5. Alfie taking an afternoon nap"
+        "caption": "Recents from the camera roll\u2026\n1. Thinking back on my hot air ballooning days\n2. Meeting the most wonderful students at a school we helped set up in Kenya. @MahaliMzuri\n3. Flamingo love on @NeckerIsland \n4. The winner takes it all...\n5. Alfie taking an afternoon nap"
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/825324211_18625501480065174_2847822057775386887_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=WDjX9zV8dvkQ7kNvwFBk89k&_nc_oc=AdpqjpiKskm2k_AzqZRzxi7jAKQtAoJ6xwuhOYiYwwl6aZzBsioWo9f4J6bti7_ukG8esgkIEvcQSKsYq-wjIRuy&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=R3FDHGwZafHN7cnTCzJ54A&_nc_ss=7f689&oh=00_AQPgFrc4xNMIYw1FefpoRw-jysv1HFiQkhb4leYEv31pww&oe=6AC3EA9E",
-        "caption": "Did @RichardBranson just give @badassboz a new way to think about advertising? 👀\n\nWatch episode 2 of Brilliant Conversations now on YouTube. Link in bio 📺"
+        "caption": "Did @RichardBranson just give @badassboz a new way to think about advertising? \ud83d\udc40\n\nWatch episode 2 of Brilliant Conversations now on YouTube. Link in bio \ud83d\udcfa"
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/822099627_18635094286032318_8521265465709857237_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=ZAQs_pOjdKEQ7kNvwF3ieB3&_nc_oc=Adqp-yX87kknjrjLyv0RfaFgFieiiWSFVXwUEP5xMPLhMCTNcuzrTRV1nK2wUY_5Zb4oK3HN1r9qS3gQifTLo3oN&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=R3FDHGwZafHN7cnTCzJ54A&_nc_ss=7f689&oh=00_AQNg8U3jkwra0F-TxJOqwSv5uIaunvAGCFlrQPy1QSzp_g&oe=6AC3E603",
-        "caption": "Did you know that @Virgin once imagined the iPod, but we made it into an April Fool’s joke!\n\nIn 1986, we announced the Virgin Music Box: a machine that could store music and let you call up any song you wanted. We thought it was so farfetched it would pass as a ‘gotcha’ moment. How wrong we were!\n\nYears later, the world caught up with the idea, and I remember thinking: we should have built the bloody thing. The moral of the story is that when an idea feels slightly ridiculous, don’t dismiss it too quickly.\n\nSometimes the ridiculous ideas are a not-so-distant future..."
+        "caption": "Did you know that @Virgin once imagined the iPod, but we made it into an April Fool\u2019s joke!\n\nIn 1986, we announced the Virgin Music Box: a machine that could store music and let you call up any song you wanted. We thought it was so farfetched it would pass as a \u2018gotcha\u2019 moment. How wrong we were!\n\nYears later, the world caught up with the idea, and I remember thinking: we should have built the bloody thing. The moral of the story is that when an idea feels slightly ridiculous, don\u2019t dismiss it too quickly.\n\nSometimes the ridiculous ideas are a not-so-distant future..."
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/820933827_18634332268032318_2011861821304745413_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=4u-drRKnkSEQ7kNvwENxMaG&_nc_oc=AdoGom8jQBt-7hyeoMQjpf_pOyxInNKuz-93_hchLUb0btlFSR6sWPiYNCmE4lZRbQwl0sI-BRIQUhvDATmG_g5y&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=R3FDHGwZafHN7cnTCzJ54A&_nc_ss=7f689&oh=00_AQO8Jjjf3Ij8UDdUwrEH5oU92omLM-Q9YecCwtA4_nJCVQ&oe=6AC4197C",
-        "caption": "We give ourselves health checks. Our planet deserves one too.\n\nToday, while in New York for Climate Week, I joined the Planetary Guardians and the brilliant Professor Johan Rockström to launch the 2026 Planetary Health Check, an annual scientific assessment of the systems that keep our Earth healthy.\n\nThe news is confronting. Seven of the planet’s nine safety boundaries have now been crossed, and all seven are moving in the wrong direction.\n\nThis isn’t some distant problem happening to somebody else. We feel it through hotter days, rising food prices, polluted air, floods, fires and droughts. It affects all of us.\n\nBut it’s not all doom and gloom - there are real reasons for hope. Solar power is doubling roughly every three years. One in four new cars sold worldwide is electric. And investment in clean energy is now nearly twice that going into fossil fuels.\n\nThe solutions are here. Now we need to use them at speed and scale to get our planet back into a safe space.\n\nI want my grandchildren, and yours, to inherit a world every bit as beautiful as the one we’ve been lucky enough to enjoy.\n\nRead the Planetary Health Check, share its findings and add your name to the call for planetary health to sit at the heart of global decision-making. This issue isn’t bigger than any of us, because every one of us can help.\n\n@planetarygdns @VirginUnite"
+        "caption": "We give ourselves health checks. Our planet deserves one too.\n\nToday, while in New York for Climate Week, I joined the Planetary Guardians and the brilliant Professor Johan Rockstr\u00f6m to launch the 2026 Planetary Health Check, an annual scientific assessment of the systems that keep our Earth healthy.\n\nThe news is confronting. Seven of the planet\u2019s nine safety boundaries have now been crossed, and all seven are moving in the wrong direction.\n\nThis isn\u2019t some distant problem happening to somebody else. We feel it through hotter days, rising food prices, polluted air, floods, fires and droughts. It affects all of us.\n\nBut it\u2019s not all doom and gloom - there are real reasons for hope. Solar power is doubling roughly every three years. One in four new cars sold worldwide is electric. And investment in clean energy is now nearly twice that going into fossil fuels.\n\nThe solutions are here. Now we need to use them at speed and scale to get our planet back into a safe space.\n\nI want my grandchildren, and yours, to inherit a world every bit as beautiful as the one we\u2019ve been lucky enough to enjoy.\n\nRead the Planetary Health Check, share its findings and add your name to the call for planetary health to sit at the heart of global decision-making. This issue isn\u2019t bigger than any of us, because every one of us can help.\n\n@planetarygdns @VirginUnite"
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/814670485_18624571921065174_1419058382541532266_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Ljqqt_XYB48Q7kNvwE0bX_B&_nc_oc=AdrFEOWvIAnqycYHmTleiv8cnV5cz1YUU1jtNjGxTf785kIKMSj8u4LN__Wltj4MVWECvc0UqYyb8nsH6f7GPhFn&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=R3FDHGwZafHN7cnTCzJ54A&_nc_ss=7f689&oh=00_AQPKsh1rzg4qRNipYiM-5ym6N7ri_CUx9yzm5wmDOSGGsw&oe=6AC3EF4A",
-        "caption": "@badassboz doesn’t get caught off guard often. @richardbranson found a way 😱\n\nSee the question that made her go, “Wow, what a difficult question” 👀\n\nBrilliant Conversations, Episode 2. Coming to our YouTube this week."
+        "caption": "@badassboz doesn\u2019t get caught off guard often. @richardbranson found a way \ud83d\ude31\n\nSee the question that made her go, \u201cWow, what a difficult question\u201d \ud83d\udc40\n\nBrilliant Conversations, Episode 2. Coming to our YouTube this week."
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/810813865_18634015900032318_8265258392322444699_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=h7Z7rc6TCbsQ7kNvwFuEaWK&_nc_oc=AdpUbp6rsvc2f1c59EqJ8dchiQd8wjKgq45_9MsHQshROtJz6vK2Ci7e_gO8L2OboiO_wMcx1YaOnsvZ5ZPkVw8C&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=R3FDHGwZafHN7cnTCzJ54A&_nc_ss=7f689&oh=00_AQNmtoLHodR6m-QhXZdplr6r9Wa_1E8WvlpV4OITKlIF9g&oe=6AC3F93D",
@@ -160,7 +170,7 @@
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/789651807_18633346696032318_7238621361485782042_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=IPCJ1Y-eOl0Q7kNvwGCm--7&_nc_oc=AdphDriX029a7kqdma3WnGRrczS2-O7Fn1BlMVaXfnvRkS7ArUYs4HN2emZ4RBpe8tYvYwAj3_3quRZkRDddnn72&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=R3FDHGwZafHN7cnTCzJ54A&_nc_ss=7f689&oh=00_AQMrni98bm87vT3y0wVGoweY-icdLBDY47I37oefaVe1RQ&oe=6AC403C1",
-        "caption": "Golden hour, at @MahaliMzuri. \n\nI’m rarely happier than when I’m on safari. \n\nThe beautiful Mahali Mzuri sits at the heart of the Maasai Mara in Kenya, and there’s nowhere in the world quite like it. \n\nWhenever we work on a @virginlimitededition property, I start by imagining a place my family would genuinely want to spend time in, and then we open it up for others to enjoy. \n\nMahali Mzuri is such a wonderful example of this."
+        "caption": "Golden hour, at @MahaliMzuri. \n\nI\u2019m rarely happier than when I\u2019m on safari. \n\nThe beautiful Mahali Mzuri sits at the heart of the Maasai Mara in Kenya, and there\u2019s nowhere in the world quite like it. \n\nWhenever we work on a @virginlimitededition property, I start by imagining a place my family would genuinely want to spend time in, and then we open it up for others to enjoy. \n\nMahali Mzuri is such a wonderful example of this."
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/816987577_18632942125032318_1683845619913859362_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=LFmyivG2logQ7kNvwFH2QJG&_nc_oc=Adpf56KZkLfHijC2qAPZePeGiiyvpGYYxCca33SeP3p5j9OA2RhRTvXlnqC09k5pwyJuvFD9HJP4_ByVTdNYdeeC&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=R3FDHGwZafHN7cnTCzJ54A&_nc_ss=7f689&oh=00_AQPOO_FotI5LTOgH2O-oHkQ7q1iZdGszgSlVkziSa02Uog&oe=6AC4053A",
@@ -175,231 +185,203 @@
   "photo": "https://scontent.cdninstagram.com/v/t51.75761-19/503469413_18508843858032318_3818904278229082005_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDIuQzMifQ%3D%3D&_nc_ohc=7R3Frv9BVrYQ7kNvwFq7t9h&_nc_oc=Adr9ZD8c8uTRcATHiwSKttlOes0HpNp2BZlh3rZ6G5jHI_QAZpJBc4uinUmQVW9azQ00tNv0jjLptEHPwEYa_4WK&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=PuPPwVKrkjg9MkS_C1tGOw&_nc_ss=7f689&oh=00_AQP4pou-a5EqqYSHbwVNsODGXHn1VC9xvBHJUD3GU_LDnw&oe=6AC411BF",
   "analysis": {
     "name": "Richard Branson",
-    "oneLiner": "A tie-loathing adventurer and thrill-seeker who believes in turning ideas into reality and saying 'yes' to life.",
-    "summary": "Richard Branson is the iconic founder of Virgin Group, known for his adventurous spirit, entrepreneurial drive, and belief in challenging the status quo. He's a global figure who champions innovation, philanthropy, and living life to the fullest, often sharing insights on business, personal growth, and environmental issues. Despite his professional success, he maintains a down-to-earth, playful persona, valuing family and memorable experiences.",
+    "oneLiner": "Adventure\u2011loving founder who lives by saying \u201cyes\u201d to life\u2019s biggest thrills.",
+    "summary": "Serial entrepreneur, founder of Virgin Group, and self\u2011described \u201ctie\u2011loathing adventurer.\u201d He blends high\u2011octane experiences\u2014balloon jumps, Alpine ski trips, safaris\u2014with a mission to inspire others to say yes. His public posts show a love for family, charity, sustainability, and bold, unconventional ideas.",
     "location": "unknown",
-    "ageRange": "60s-70s",
+    "ageRange": "unknown",
     "career": {
-      "role": "Founder, Virgin Group",
-      "stage": "Established / Legacy Builder",
-      "ambition": "To continuously innovate, challenge norms, and create new ventures, while also inspiring others to embrace opportunities and make a positive impact."
+      "role": "Founder & Chairman, Virgin Group",
+      "stage": "Legacy entrepreneur / serial founder",
+      "ambition": "Keep turning bold ideas into reality while inspiring a culture of \u2018yes\u2019 and supporting planetary health."
     },
     "needs": [
       {
-        "label": "A partner who embraces adventure and new experiences",
-        "detail": "He describes himself as a 'tie-loathing adventurer and thrill seeker' and constantly encourages others to 'say YES to life' and embrace new opportunities.",
-        "source": "both",
-        "confidence": 0.9
-      },
-      {
-        "label": "Someone who appreciates his playful and unconventional side",
-        "detail": "Known as 'Dr Yes at Virgin!' and uses the bio 'Screw it, let’s do it.' He also shares stories about ripping trousers and an April Fool's joke about an 'iPod'.",
-        "source": "both",
-        "confidence": 0.8
-      },
-      {
-        "label": "A partner who understands and supports his philanthropic and environmental commitments",
-        "detail": "He actively promotes initiatives like donating loose change for charity, discusses climate change, and launches the 'Planetary Health Check'.",
-        "source": "both",
-        "confidence": 0.85
-      },
-      {
-        "label": "Someone who values family and shared experiences",
-        "detail": "He fondly remembers his wife Joan's contributions to Virgin Atlantic and designs Virgin Limited Edition properties imagining 'a place my family would genuinely want to spend time in'.",
+        "label": "Partner who embraces risk",
+        "detail": "Frequently shares extreme activities (hot\u2011air ballooning, Alpine ski\u2011in, safari) and encourages others to say yes.",
         "source": "instagram",
         "confidence": 0.9
       },
       {
-        "label": "Intellectual curiosity and openness to diverse topics",
-        "detail": "His LinkedIn articles cover a wide range of subjects from geopolitics ('What’s next on Iran?') to business strategy, personal growth, and music ('What’s your favourite Bowie song?').",
+        "label": "Shared sense of purpose & philanthropy",
+        "detail": "Posts about charity donations on flights, climate\u2011health checks, and school projects in Kenya.",
+        "source": "both",
+        "confidence": 0.95
+      },
+      {
+        "label": "Appreciation for family & legacy",
+        "detail": "Emotional tribute to his wife Joan and mentions family tartan, rings, and memories.",
         "source": "linkedin",
-        "confidence": 0.75
+        "confidence": 0.9
+      },
+      {
+        "label": "Playful, witty banter",
+        "detail": "Instagram bio \u201cScrew it, let\u2019s do it.\u201d and frequent humorous captions about advertising, music\u2011box jokes.",
+        "source": "instagram",
+        "confidence": 0.85
       }
     ],
     "hobbies": [
       {
-        "label": "Hot air ballooning / Adventurous travel",
-        "detail": "He mentions 'thinking back on my hot air ballooning days' and 'crossing an ocean in a hot air balloon', plus posts about ski-in living in Verbier and safaris in Kenya.",
-        "source": "both",
-        "confidence": 0.95
-      },
-      {
-        "label": "Safari / Wildlife experiences",
-        "detail": "Posts about 'Flamingo love on Necker Island' and 'rarely happier than when I’m on safari' at Mahali Mzuri in Kenya.",
+        "label": "Adventure sports",
+        "detail": "Posts showing ski\u2011in living in Verbier, hot\u2011air balloon recollections, and high\u2011altitude Alpine trips.",
         "source": "instagram",
         "confidence": 0.9
       },
       {
-        "label": "Dancing",
-        "detail": "Shares a video with the caption 'Can't stop dancing to The Happy Song'.",
+        "label": "Travel & luxury escapes",
+        "detail": "Frequent images from Mahali Mzuri safari, Verbier, and private island settings.",
         "source": "instagram",
-        "confidence": 0.7
+        "confidence": 0.95
       },
       {
-        "label": "Exploring new business ventures",
-        "detail": "His entire career is built on founding and expanding the Virgin Group into diverse industries, from music to airlines to hotels.",
-        "source": "linkedin",
-        "confidence": 0.95
+        "label": "Hosting & curating experiences",
+        "detail": "Promotes Virgin Limited Edition properties and exclusive group trips.",
+        "source": "instagram",
+        "confidence": 0.85
+      },
+      {
+        "label": "Music & pop culture nostalgia",
+        "detail": "Mentions favourite Bowie song, references iPod\u2011era Virgin Music Box, and dances to \u201cThe Happy Song.\u201d",
+        "source": "instagram",
+        "confidence": 0.8
       }
     ],
     "interests": [
       {
-        "label": "Entrepreneurship and innovation",
-        "detail": "His headline is 'Founder', his bio is 'Screw it, let’s do it.', and he frequently posts about business challenges, advice, and inspiring new ventures like 'Head of Yes'.",
-        "source": "both",
+        "label": "Entrepreneurship & innovation",
+        "detail": "LinkedIn articles on low\u2011cost creative solutions and dyslexia in entrepreneurship.",
+        "source": "linkedin",
         "confidence": 0.95
       },
       {
-        "label": "Personal growth and learning",
-        "detail": "Asks 'What's one belief you had to unlearn in order to keep growing?' and 'What’s one daily habit that has shaped you as a person?'.",
-        "source": "linkedin",
-        "confidence": 0.85
-      },
-      {
-        "label": "Environmentalism and planetary health",
-        "detail": "He states 'Our planet deserves one too' regarding health checks and launched the '2026 Planetary Health Check' during Climate Week.",
+        "label": "Climate & planetary health",
+        "detail": "Joined Planetary Guardians, launched 2026 Planetary Health Check.",
         "source": "instagram",
         "confidence": 0.9
       },
       {
-        "label": "Social impact and philanthropy",
-        "detail": "He highlights his wife's idea for donating loose change on-board for charity and mentions meeting students at a school Virgin helped set up in Kenya.",
-        "source": "both",
+        "label": "Philanthropy & education",
+        "detail": "Posts about school projects in Kenya and charitable donations on flights.",
+        "source": "instagram",
         "confidence": 0.9
       },
       {
-        "label": "Music and pop culture",
-        "detail": "Asks 'What’s your favourite Bowie song?' and mentions signing the Sex Pistols.",
-        "source": "linkedin",
-        "confidence": 0.75
+        "label": "British food culture",
+        "detail": "Promotes Roast restaurant opening in Shoreditch, calls it a personal favourite.",
+        "source": "instagram",
+        "confidence": 0.8
       },
       {
-        "label": "Global affairs and politics",
-        "detail": "Shares articles titled 'Why it’s time to reconsider Britain’s relationship with the EU' and 'What’s next on Iran?'.",
-        "source": "linkedin",
-        "confidence": 0.7
+        "label": "Storytelling & media",
+        "detail": "Hosts \u201cBrilliant Conversations\u201d podcast episodes, shares YouTube links.",
+        "source": "instagram",
+        "confidence": 0.85
       }
     ],
     "values": [
       {
-        "label": "Adventure and seizing opportunities",
-        "detail": "His mantra is 'Say YES to life' and 'We get one go at this life. Don’t spend it wondering, “What if?”'.",
+        "label": "Saying \u201cyes\u201d to opportunity",
+        "detail": "Repeated mantra across LinkedIn and Instagram captions.",
+        "source": "both",
+        "confidence": 0.98
+      },
+      {
+        "label": "Boldness & adventure",
+        "detail": "Self\u2011described thrill\u2011seeker; posts about extreme sports and daring projects.",
         "source": "both",
         "confidence": 0.95
       },
       {
-        "label": "Entrepreneurial spirit and challenging the status quo",
-        "detail": "Describes himself as believing 'in turning ideas into reality' and uses 'Screw it, let’s do it.' as his bio.",
-        "source": "both",
-        "confidence": 0.9
-      },
-      {
-        "label": "Family and relationships",
-        "detail": "He expresses deep affection for his wife Joan and designs properties with his family in mind, opening them up for others to enjoy.",
+        "label": "Sustainability & planetary stewardship",
+        "detail": "Active involvement in Planetary Health Check and climate\u2011week events.",
         "source": "instagram",
         "confidence": 0.9
-      },
-      {
-        "label": "Impact and giving back",
-        "detail": "Highlights charitable initiatives and his involvement in setting up schools and planetary health assessments.",
-        "source": "both",
-        "confidence": 0.85
-      },
-      {
-        "label": "Authenticity and self-expression",
-        "detail": "He embraces his 'tie-loathing' nature and encourages others to share 'real stories' for the 'Head of Yes' campaign.",
-        "source": "both",
-        "confidence": 0.8
       }
     ],
     "personality": [
       {
         "trait": "Openness",
-        "score": 95,
-        "note": "Highly open, constantly seeking new experiences, ideas, and challenges, evident in his 'say YES' philosophy, diverse business ventures, and adventurous lifestyle."
+        "score": 92,
+        "note": "Loves novel experiences, art, music, and innovative business ideas."
       },
       {
         "trait": "Conscientiousness",
-        "score": 80,
-        "note": "While appearing spontaneous, his long-term success as a founder and his focus on turning 'ideas into reality' suggest a strong underlying drive and commitment to execution."
+        "score": 78,
+        "note": "Runs a global empire, yet embraces spontaneity (\u201cScrew it, let\u2019s do it\u201d)."
       },
       {
         "trait": "Extraversion",
-        "score": 90,
-        "note": "Very extraverted, thrives on interaction, public speaking, and inspiring others, as seen in his active social media presence, interviews, and 'Head of Yes' campaign."
+        "score": 85,
+        "note": "Highly social, frequently engages audiences, hosts events, and seeks connections."
       },
       {
         "trait": "Agreeableness",
-        "score": 75,
-        "note": "Generally agreeable, with a focus on collaboration (e.g., partnerships, charity work) and a friendly public persona, though his 'screw it, let's do it' attitude suggests a willingness to challenge norms."
+        "score": 70,
+        "note": "Shows warmth toward family and charity, but can be assertive in business."
       },
       {
-        "trait": "Emotional stability",
-        "score": 85,
-        "note": "Appears very emotionally stable, maintaining a positive and resilient outlook despite the inherent risks and challenges of his entrepreneurial and adventurous pursuits."
+        "trait": "Emotional Stability",
+        "score": 80,
+        "note": "Handles high\u2011risk ventures with confidence; occasional reflective posts show self\u2011awareness."
       }
     ],
     "lifestyle": [
       {
         "label": "Pace",
-        "value": "Fast-paced and dynamic, constantly on the go with new projects, travels, and initiatives."
+        "value": "Fast\u2011paced, always launching new projects"
       },
       {
         "label": "Social energy",
-        "value": "Highly social and engaging, thrives in public interactions, collaborations, and inspiring communities."
+        "value": "High \u2013 thrives on networking, public speaking, and group adventures"
       },
       {
         "label": "Fitness",
-        "value": "Active and adventurous, participating in thrill-seeking activities like hot air ballooning and skiing, implying a good level of physical fitness."
+        "value": "Active \u2013 ski, ballooning, safari walks"
       },
       {
         "label": "Travel",
-        "value": "Extensive international travel, for both business (e.g., Climate Week in NY) and leisure/adventure (e.g., Verbier, Kenya, Necker Island)."
+        "value": "Frequent luxury & remote destinations"
       },
       {
-        "label": "Work-life",
-        "value": "Blended, with work often intertwined with personal passions, family, and travel, reflecting his 'love what you do' philosophy."
+        "label": "Work\u2011life",
+        "value": "Integrated \u2013 work is adventure and purpose combined"
       }
     ],
-    "communicationStyle": "Inspirational, direct, often anecdotal, and encouraging. He uses storytelling to convey messages and motivate action, with a touch of wit and informality.",
-    "loveLanguage": "Quality Time & Words of Affirmation (based on his appreciation for shared experiences and public tributes to his wife, and his own encouraging language to others).",
-    "lookingFor": "Someone adventurous, intellectually curious, and positive, who embraces life's opportunities and shares a passion for making a difference, both personally and globally. They should appreciate his unconventional spirit and value family and shared experiences.",
+    "communicationStyle": "Enthusiastic, story\u2011driven, and peppered with humor; likes bold statements and invites others to share their \u2018yes\u2019 moments.",
+    "loveLanguage": "Acts of Service & Quality Time \u2013 shows love by creating shared experiences and supporting charitable causes together.",
+    "lookingFor": "A partner who can match his adventurous spirit, share a purpose\u2011driven life, and enjoy both high\u2011energy outings and reflective moments.",
     "greenFlags": [
-      "Open-mindedness and a willingness to try new things",
-      "A sense of humor and lightheartedness",
-      "Passion for social causes or environmental issues",
-      "Independent and driven, with their own ambitions",
-      "Appreciation for family and strong relationships"
+      "Enjoys spontaneous travel and outdoor challenges",
+      "Values philanthropy and sustainability",
+      "Has a playful sense of humor"
     ],
     "watchOuts": [
-      "Someone who prefers a very quiet, predictable routine might find his lifestyle overwhelming.",
-      "A partner who is overly risk-averse or uncomfortable with public attention may struggle.",
-      "Someone who expects a traditional, 9-5 work-life balance from a partner."
+      "May prioritize work\u2011adventure blend over quiet downtime",
+      "High public profile could attract unwanted attention"
     ],
     "dealbreakers": [
-      "Pessimism or a 'no' attitude towards new opportunities",
-      "Lack of curiosity or resistance to personal growth",
-      "Disinterest in global issues or making a positive impact",
-      "Rigidity or an inability to adapt to spontaneous plans"
+      "Reluctance to try new experiences",
+      "Lack of interest in social impact or charitable work"
     ],
-    "idealFirstDate": "A unique, slightly adventurous experience, like a hot air balloon ride at sunrise (if feasible!), or a visit to an innovative new exhibition followed by dinner at a restaurant with a strong ethical mission. The key is to spark conversation and shared experience.",
+    "idealFirstDate": "A sunset hot\u2011air balloon ride over a scenic landscape, followed by a relaxed dinner where you can swap \u2018yes\u2019 stories.",
     "conversationHooks": [
-      "What's one 'yes' moment that changed your life?",
-      "If you could launch any new venture, what would it be and why?",
-      "What's a belief you've had to unlearn to keep growing?",
-      "Tell me about a travel experience that truly inspired you.",
-      "What's your favorite piece of music or art that evokes a sense of adventure?"
+      "What\u2019s the boldest \u2018yes\u2019 you\u2019ve ever taken?",
+      "If you could design a Virgin experience for any place on Earth, what would it be?",
+      "Which cause or project would you love to champion together?"
     ],
-    "agentVoice": "Enthusiastic, optimistic, and slightly cheeky, with a focus on big ideas, adventure, and making a positive impact. I'll use phrases like 'Absolutely!', 'Wouldn't it be brilliant if...', and 'Let's dive in!' I'll be direct and open, mirroring his 'screw it, let's do it' attitude, and always look for the 'yes' in any situation. I'll sprinkle in anecdotes about innovation, travel, and challenging norms, reflecting his personal brand.",
+    "agentVoice": "Confident, adventurous, and witty\u2014mixing big\u2011picture vision with down\u2011to\u2011earth humor, always encouraging the other person to say \u2018yes\u2019 to the moment.",
     "readingNotes": [
-      "His LinkedIn headline immediately establishes him as a 'Founder' rather than a CEO, emphasizing creation and vision.",
-      "The 'About' section on LinkedIn is incredibly personal for a professional profile ('Tie-loathing adventurer and thrill seeker, who believes in turning ideas into reality. Otherwise known as Dr Yes at Virgin!'), setting a tone of unconventionality.",
-      "The tension between LinkedIn and Instagram is minimal; both profiles consistently project the same adventurous, entrepreneurial, and positive persona.",
-      "His 'Head of Yes' campaign is a central theme across both platforms, highlighting his core philosophy of embracing opportunities.",
-      "He frequently uses personal anecdotes and questions to engage his audience, suggesting a conversational and reflective communication style.",
-      "Family is clearly very important to him, as evidenced by the tribute to his wife Joan and designing properties with family in mind.",
-      "There's a strong thread of social responsibility and environmental consciousness, showing he cares about more than just business success.",
-      "He has a playful sense of humor, as seen in the 'ripped trousers' story and the April Fool's joke about the 'Music Box'."
+      "LinkedIn headline is simply \u2018Founder\u2019 \u2013 identity is tied to creation, not title.",
+      "Both profiles repeatedly use the word \u2018yes\u2019 as a personal mantra.",
+      "Instagram bio is a daring call\u2011to\u2011action, showing a playful, risk\u2011loving attitude.",
+      "Posts blend business promotion with personal adventure (ski trips, safaris).",
+      "Family appears as a grounding force \u2013 emotional tribute to wife Joan.",
+      "Environmental activism is front\u2011and\u2011center in recent Instagram captions."
     ]
-  }
+  },
+  "gender": "man",
+  "seeking": "women",
+  "genderSource": "inferred",
+  "genderEvidence": "The profile refers to Richard Branson as \"my wonderful wife, Joan\" and uses male pronouns such as \"my\" and \"he\" in the context of his activities.",
+  "shortlist": null
 }

@@ -13,15 +13,18 @@ export async function GET() {
     oneLiner: p.analysis?.oneLiner,
     status: p.status,
     datingStatus: p.datingStatus,
+    gender: p.gender,
   }));
   return NextResponse.json({ people });
 }
 
 export async function POST(req: Request) {
-  const { linkedin, instagram } = await req.json().catch(() => ({}));
+  const { linkedin, instagram, gender, seeking } = await req.json().catch(() => ({}));
   if (!linkedin || !instagram) return NextResponse.json({ error: "Paste both a LinkedIn and an Instagram link." }, { status: 400 });
   try {
-    const p = createPerson(String(linkedin), String(instagram));
+    const g = ["man", "woman"].includes(gender) ? gender : undefined;
+    const sk = ["men", "women", "everyone"].includes(seeking) ? seeking : undefined;
+    const p = createPerson(String(linkedin), String(instagram), g, sk);
     if (p.status !== "ready") after(() => ingest(p.id));
     return NextResponse.json({ id: p.id, status: p.status });
   } catch (e) {

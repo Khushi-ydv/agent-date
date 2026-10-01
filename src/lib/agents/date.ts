@@ -1,6 +1,6 @@
 import { chat, chatJson, parseJsonLoose } from "../llm";
 import { getDate, getPerson, saveDate } from "../store";
-import type { Analysis, DateMessage, DateRecord, Debrief, Person } from "../types";
+import { SCENES, type Analysis, type DateMessage, type DateRecord, type Debrief, type Person, type Scene } from "../types";
 
 /** A compact card of a person — what one agent knows about a *candidate* before the date (public-facing). */
 export function card(p: Person): string {
@@ -77,13 +77,26 @@ ${card(other)}
 Reply ONLY as JSON: {"say": string (what you say out loud), "thought": string (a one-sentence private note to yourself about what you just learned or are probing)}`;
 }
 
-async function planVenue(a: Person, b: Person) {
-  return chatJson<NonNullable<DateRecord["venue"]>>({
+const SCENE_HINT: Record<Scene, string> = {
+  cafe: "a cosy café, coffee house, bakery or bookshop café",
+  beach: "a beach or seaside spot",
+  mountain: "the mountains, a hill trail, a lookout or a cabin",
+  sunset: "somewhere to watch the sunset — a rooftop, a lake pier, a hilltop",
+};
+
+async function planVenue(a: Person, b: Person, scene?: Scene) {
+  const v = await chatJson<NonNullable<DateRecord["venue"]>>({
     tier: "fast",
     temperature: 0.9,
-    system: `You are ${a.analysis!.name}'s dating agent, planning a first date with ${b.analysis!.name}. Pick a specific, imaginative, ROMANTIC first-date setting that plays to something BOTH of them enjoy outside of work (e.g. "a sunrise trail run then chai at a hill café", "a pottery class then tacos"). Never a work event, panel, conference or office. Return JSON {"place": string, "activity": string, "why": string (one sentence naming the shared ground)}.`,
+    system: `You are ${a.analysis!.name}'s dating agent, planning a first date with ${b.analysis!.name}. ${
+      scene
+        ? `The date MUST take place at ${SCENE_HINT[scene]}. Make it specific and imaginative, and weave in something BOTH of them enjoy.`
+        : `Pick a specific, imaginative, ROMANTIC first-date setting that plays to something BOTH of them enjoy outside of work. Choose the scene type from: ${SCENES.join(", ")}.`
+    } Never a work event, panel, conference or office. Return JSON {"place": string, "activity": string, "why": string (one sentence naming the shared ground), "scene": one of ${JSON.stringify(SCENES)}}.`,
     messages: [{ role: "user", content: `${card(a)}\n\n${card(b)}` }],
   });
+  v.scene = scene ?? (SCENES.includes(v.scene as Scene) ? v.scene : "cafe");
+  return v;
 }
 
 async function speak(me: Person, other: Person, rec: DateRecord): Promise<{ say: string; thought: string }> {
@@ -119,6 +132,7 @@ async function debrief(me: Person, other: Person, rec: DateRecord): Promise<Debr
     tier: "smart",
     temperature: 0.3,
     system: `You are ${me.analysis!.name}'s dating agent. You just went on a first date on their behalf. Debrief honestly for YOUR client — you are protecting their time, not being polite. Judge against their needs, values, lifestyle and dealbreakers, using what was actually said.
+Calibrate like a discerning matchmaker: a pleasant but ordinary first date is 45-65; good chemistry with real shared values is 66-79; 80+ is rare and needs specific evidence of fit on needs AND lifestyle. Pleasant conversation alone is not compatibility — penalise clashes in lifestyle, pace, location, life stage or dealbreakers even if the talk was friendly. Only say secondDate: true if overall >= 70.
 Return JSON: {"chemistry": 0-10, "valuesFit": 0-10, "lifestyleFit": 0-10, "goalsFit": 0-10, "overall": 0-100, "secondDate": boolean, "highlight": string (best moment, quote-specific), "concern": string (the biggest risk), "reportToHuman": string (2-3 sentences you'd text your client, first person, candid)}`,
     messages: [{ role: "user", content: `YOUR CLIENT:\n${brief(me.analysis!)}\n\nTHEIR CARD:\n${card(other)}\n\nSETTING: ${rec.venue?.place}\n\nTRANSCRIPT:\n${transcript}` }],
   });
@@ -131,7 +145,8 @@ export async function runDate(rec: DateRecord): Promise<DateRecord> {
   try {
     rec.status = "planning";
     saveDate(rec);
-    rec.venue = await planVenue(a, b);
+    rec.venue = await planVenue(a, b, rec.scene);
+    rec.scene = rec.venue.scene;
     rec.status = "live";
     saveDate(rec);
     while (rec.messages.length < TURNS) {

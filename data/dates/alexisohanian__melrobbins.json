@@ -1,0 +1,29 @@
+{
+  "id": "alexisohanian__melrobbins",
+  "a": "melrobbins",
+  "b": "alexisohanian",
+  "scene": "sunset",
+  "createdAt": 1790850840238,
+  "status": "live",
+  "messages": [
+    {
+      "from": "melrobbins",
+      "say": "You made it! I was half-tempted to send a drone to check if you’d taken the wrong turn, but I figured you’d be at the back door checking your phone for exactly the right time to appear. The light on the water right now is doing that impossible gold thing where I honestly can’t tell if it’s a sunset or a filter. It’s a rare thing for me to just sit on a cliff and not check my phone once — I feel like I’m supposed to be taking notes. So — welcome. Did you bring snacks, or am I about to have to trade you the fruit for a conversation about volleyball? Because I will absolutely trade you the fruit.",
+      "thought": "Opening hook: relaxed, playful, slightly teasing; kept it light, hinted she’s usually phone-obsessed to show she’s taking him seriously, and batted the baton to him with a specific, low-pressure question that touches his volleyball thing.",
+      "t": 1790850841809
+    },
+    {
+      "from": "alexisohanian",
+      "say": "No drones allowed on my watch, I promise. I brought the coffee and a lot of patience, though I might need you to speak up if I get too deep into a volleyball tangent. Honestly, sitting here without the ping of notifications sounds like the best therapeutic breakthrough I've had all week—let's just enjoy the gold light and see if this conversation is actually good.",
+      "thought": "Mel seems comfortable with the tech-heavy startup world and has a playful, energetic vibe that might match his 'Business Dad' lifestyle.",
+      "t": 1790850842381
+    }
+  ],
+  "debriefs": {},
+  "venue": {
+    "place": "A quiet, sun-drenched cliffside deck on the Palos Verdes Peninsula",
+    "activity": "Sharing a picnic basket with fresh fruit and coffee while overlooking the Pacific, then walking the coastal trail together",
+    "why": "They can bond over their shared values of authenticity and empowerment by discussing how they both use storytelling and community to help others thrive outside of the office.",
+    "scene": "sunset"
+  }
+}

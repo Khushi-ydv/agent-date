@@ -212,8 +212,12 @@ export async function scrapeLinkedIn(input: string): Promise<LinkedInProfile> {
     }
   }
   const fallbacks: [string, string | undefined, () => Promise<LinkedInProfile>][] = [
-    ["jina", "always", () => viaJina(slug)],
-    ["jina-retry", "always", () => sleep(3000).then(() => viaJina(slug))],
+    // Jina intermittently gets LinkedIn's authwall instead of the profile; retrying a few seconds later usually works.
+    ...[0, 4000, 8000, 12000].map((wait, i): [string, string, () => Promise<LinkedInProfile>] => [
+      `jina#${i + 1}`,
+      "always",
+      () => sleep(wait).then(() => viaJina(slug)),
+    ]),
     ["brightdata", process.env.BRIGHTDATA_API_KEY, () => viaBrightData(slug)],
     ["apify", process.env.APIFY_TOKEN, () => viaApify(slug)],
   ];

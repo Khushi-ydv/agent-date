@@ -1,0 +1,446 @@
+{
+  "id": "thejustinwelsh",
+  "createdAt": 1790850773662,
+  "linkedinUrl": "https://www.linkedin.com/in/justinwelsh/",
+  "instagramUrl": "https://www.instagram.com/thejustinwelsh/",
+  "status": "ready",
+  "datingStatus": "idle",
+  "log": [
+    {
+      "t": 1790850773662,
+      "step": "Opening Instagram",
+      "detail": "https://www.instagram.com/thejustinwelsh/"
+    },
+    {
+      "t": 1790850773663,
+      "step": "Read Instagram @thejustinwelsh",
+      "detail": "12 recent posts, bio: \u201cWriter & Entrepreneur. I write The Saturday Essay for 200,000+ ambitious people \u201d \u00b7 via instagram-crawler-html (Mozilla)"
+    },
+    {
+      "t": 1790850773663,
+      "step": "Opening LinkedIn",
+      "detail": "https://www.linkedin.com/in/justinwelsh/"
+    },
+    {
+      "t": 1790850773664,
+      "step": "Read LinkedIn: Justin Welsh",
+      "detail": "Writer \u00b7 Founder \u00b7 Angel Investor \u00b7 10 posts/articles \u00b7 via linkedin-public-page via jina reader"
+    },
+    {
+      "t": 1790850773664,
+      "step": "\u2713 Identity check",
+      "detail": "LinkedIn and Instagram names match"
+    },
+    {
+      "t": 1790850773665,
+      "step": "Agent is reading both profiles",
+      "detail": "cross-referencing career, captions and photos"
+    },
+    {
+      "t": 1790850774690,
+      "step": "Identified as a man, looking for women",
+      "detail": "The text refers to Justin Welsh and mentions 'My wife, Jennifer'."
+    },
+    {
+      "t": 1790850784865,
+      "step": "Profile analysis complete",
+      "detail": "Recovering corporate climber, solo entrepreneur, and believer that a quiet weekend at home is the ultimate luxury."
+    }
+  ],
+  "linkedin": {
+    "source": "linkedin",
+    "method": "linkedin-public-page via jina reader",
+    "slug": "justinwelsh",
+    "url": "https://www.linkedin.com/in/justinwelsh",
+    "name": "Justin Welsh",
+    "headline": "Writer \u00b7 Founder \u00b7 Angel Investor",
+    "about": "For more than a decade, I lived the kind of life ambitious people are told to want. I helped build two companies past $1B in valuation and raised more than $300M in venture capital. By 33, I was Chief Revenue Officer at a venture-backed company, making more money than I\u2019d ever imagined. And quietly falling apart. I was burned out, anxious, drinking too much, and increasingly convinced that if I kept going, I might not see fifty. Then one afternoon, in our house in Los Angeles, I had a panic attack so severe I ended up on the kitchen floor. My wife, Jennifer, called 911. The paramedics came. And by the time they were standing in our home, it was impossible to keep pretending this was just stress. When it passed, I knew that the life I was building wasn\u2019t the one I wanted to live. So Jennifer and I quit our high-paying jobs with almost no plan. We bought a house in the mountains of Upstate New York, drove across the country, and started our lives over. In the years since, I\u2019ve built a $15M one-person business with no employees and no investors, and an audience of 1.5M+ people has followed along. But that\u2019s not the real story. The real story is that I got my life back, slowly, unglamorously, one difficult choice at a time. Today, I spend that life writing. Every Saturday, I publish one essay about the choices that made it possible: leaving the obvious path, redefining ambition, using money for freedom instead of performance, and building something of your own without letting it consume you. These are the choices that can look wrong from the outside and still be right for the life you actually want. If that\u2019s the kind of conversation you\u2019ve been wanting to have with yourself, I\u2019d love to have you with us.",
+    "location": "New York City Metropolitan Area",
+    "profilePic": "https://media.licdn.com/dms/image/v2/D4E03AQFSnJr2hvWPQQ/profile-displayphoto-scale_200_200/B4EZ5k2sLHHUAg-/0/1779808520452?e=2147483647&v=beta&t=wN0G6XMt2JrdW-EYpl8IvfrCge1a25V78rD59gG8LGY",
+    "followers": 882992,
+    "experience": [
+      {
+        "title": "Writer the saturday essay. Jan 2022 - Present 4 years 10 months One weekly essay for 200,000+ ambitious people living and working on their own terms."
+      },
+      {
+        "title": "Founder Justin Welsh Aug 2019 - Present 7 years 3 months Writer & Entrepreneur | I've spent the last 5+ years writing one weekly newsletter to over 200,000 ambitious people living and working on their"
+      },
+      {
+        "title": "Angel Investor Bonsai Health Jan 2025 - Present 1 year 10 months"
+      },
+      {
+        "title": "Angel Investor Kit (formerly ConvertKit) Nov 2023 - Present 3 years"
+      },
+      {
+        "title": "Angel Investor Spekit Dec 2021 - Present 4 years 11 months"
+      },
+      {
+        "title": "Angel Investor acquire.com Aug 2021 - Present 5 years 3 months"
+      },
+      {
+        "title": "Angel Investor Gumroad Mar 2021 - Present 5 years 8 months"
+      },
+      {
+        "title": "Member Pavilion Jan 2019 - Present 7 years 10 months Los Angeles Metropolitan Area"
+      }
+    ],
+    "education": [
+      {
+        "org": "GTMfund",
+        "start": "2021-01",
+        "end": "2022-12"
+      },
+      {
+        "org": "500 Startups Latin America",
+        "start": "2020-09",
+        "end": "2022-12"
+      },
+      {
+        "org": "PatientPop, a Tebra company",
+        "start": "2020-08",
+        "end": "2022-01"
+      },
+      {
+        "org": "ZocDoc",
+        "start": "2013-05",
+        "end": "2014-02"
+      },
+      {
+        "org": "Stryker Endoscopy",
+        "start": "2007-11",
+        "end": "2009-11"
+      },
+      {
+        "org": "GlaxoSmithKline",
+        "start": "2004-11",
+        "end": "2007-10"
+      },
+      {
+        "org": "Biovail",
+        "start": "2003-12",
+        "end": "2004-11"
+      },
+      {
+        "org": "The Ohio State University",
+        "start": 1999,
+        "end": 2003
+      }
+    ],
+    "languages": [],
+    "posts": [
+      {
+        "kind": "article",
+        "text": "Before you make the deal.",
+        "date": "2026-09-05T13:30:02.000+00:00"
+      },
+      {
+        "kind": "article",
+        "text": "Your second choosing.",
+        "date": "2026-08-29T13:30:02.000+00:00"
+      },
+      {
+        "kind": "article",
+        "text": "People deserve bad news.",
+        "date": "2026-08-22T13:30:02.000+00:00"
+      },
+      {
+        "kind": "article",
+        "text": "The rule that worked too well.",
+        "date": "2026-08-15T13:30:02.000+00:00"
+      },
+      {
+        "kind": "article",
+        "text": "Why are you taking this out on me?",
+        "date": "2026-08-08T13:30:03.000+00:00"
+      },
+      {
+        "kind": "article",
+        "text": "Ask for what you want.",
+        "date": "2026-08-01T13:30:04.000+00:00"
+      },
+      {
+        "kind": "article",
+        "text": "Mediocrity at scale.",
+        "date": "2026-07-25T13:29:02.000+00:00"
+      },
+      {
+        "kind": "article",
+        "text": "The machine is a mirror.",
+        "date": "2026-07-18T13:30:02.000+00:00"
+      },
+      {
+        "kind": "article",
+        "text": "Having fun is the new moat.",
+        "date": "2026-07-11T13:30:02.000+00:00"
+      },
+      {
+        "kind": "article",
+        "text": "Stop sharpening your axe.",
+        "date": "2026-07-04T13:30:06.000+00:00"
+      }
+    ],
+    "activityText": " Justin Welsh Justin Welsh 22h Justin Welsh shared this Nobody gets to approve how I spend my days. That's the rule I built my whole business around. I never want to ask another adult for permission to: Take a vacation. Go to a ballgame. Spend time with my wife. Read in the middle of the day. Take a day off for any reason. This very specific freedom has shaped nearly every business decision I've made for the last 7 years. I could have built some big team of growth gurus, newsletter marketers, operations people, customer support, and a few layers of management. Or chased more revenue, a monster valuation, more media coverage, and a more \"impressive\" company. Instead, I kept the business small enough to manage with my wife. No employees. No office politics. No unnecessary complexity. No calendar filled with someone else's priorities. That decision came with tradeoffs, of course. The business probably could have grown a lot faster. I would have likely sold more products, appeared on more podcasts and shows, or received more national recognition. And those things can be incredibly valuable. But they're not valuable enough for me to exchange control of my time for them. If you're building something of your own, decide what freedom you actually want before you decide how big your business should become. Otherwise, it's remarkably easy to create a successful business that gives you a lot less of the life you wanted. This approach helped me build my little one-person business to $15M in profit and do it my way. The small way. I put the 7 most important things I learned into a free 30-page guide on building a profitable solo business without letting it take over your life. Free to read here: https://buff.ly/lwqZSlG 2, Justin Welsh Justin Welsh 1d Justin Welsh shared this You don't need to make millions to live an awesome life. In fact, most of the people who do are operating on razor-thin margins. They pay a huge staff. Mountains of software costs. Investors expecting a massive return. And the result is a business that has high revenue, low profit, and is incredibly complex to manage. Modern solopreneurship is that alternative option. - One person - A few products - A simple sales process - One or two marketing channels It's almost a guarantee that you won't be able to hit \"big business\" revenue numbers. But if you're anything like me, profit will be what matters to you and your family. And the upsides? My goodness. No employees to manage. A little bit of software. Nobody to answer to. The most refreshing business model available today. If you want to build a business like this, here's my free guide for starting: https://buff.ly/lwqZSlG Read it, apply it, and work toward profit fast. 2, Justin Welsh Justin Welsh 2d Justin Welsh shared this I escaped the corporate rat race on August 1st, 2019. My big goal? Do whatever I want, whenever I want, with whomever I want, and very little of what I hate. I think that's a reasonable life goal. Most people don't. It "
+  },
+  "instagram": {
+    "source": "instagram",
+    "method": "instagram-crawler-html (Mozilla)",
+    "username": "thejustinwelsh",
+    "url": "https://www.instagram.com/thejustinwelsh/",
+    "fullName": "Justin Welsh",
+    "bio": "Writer & Entrepreneur. I write The Saturday Essay for 200,000+ ambitious people living and working on their own terms.",
+    "followers": 96893,
+    "following": 1144,
+    "postsCount": 1459,
+    "isVerified": true,
+    "isPrivate": false,
+    "profilePic": "https://scontent.cdninstagram.com/v/t51.82787-19/707097533_18592389337025266_5113167526059600369_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjAuQzMifQ%3D%3D&_nc_ohc=YLzYIAJNldQQ7kNvwHCoFVV&_nc_oc=AdoDVRfZdn5DGPLWwLyZyk6nf3HA9d-Ko2-EGXoVh_BhMAZXOZRszKyuu72ktN7HhT6w32VRW9b4J9Kdu6v02fZ6&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=2DRaucO0sMehdt8ZKEW8lA&_nc_ss=7f689&oh=00_AQNCAfoMX2J4AyPjFKLAChH1YsaqJgsq9xG2L_KYYkgxUA&oe=6AC3F2F4",
+    "posts": [
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/829098127_18632772340025266_29408051962382937_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=amTzQl_OEXAQ7kNvwFSiWgc&_nc_oc=Adq0V-kxmWtfCARUnKm9tZqsFMerCon0mC-AHEXvUkAUbrSQfNqq7d1AIpfOwLEV_llCr_lOL9rCQ4nYB0Gku4jT&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=CtREBUJ5Qm_jZTmQWJRUnw&_nc_ss=7f689&oh=00_AQM0rHoxqPrRYedaDVAOSwY2QJQhsN6jPlWe33ibn4AYRw&oe=6AC3FE4B",
+        "caption": "Most entrepreneurs try to build a business first and then cram their life around it.\n\nI think that's a mistake.\n\nBefore you build anything, you should decide what your business is going to make possible in your life.\n\nHere are some important questions to think through:\n\nHow many hours do you want to work?\nHow much income is actually enough?\nDo you want weekends protected?\nDo you want employees?\nDo you want meetings?\nDo you want to travel?\n\nThose answers should help shape the business model that you eventually choose.\n\nBecause the answers affect what you sell, how you price it, how much complexity you install, and what kinds of customers you avoid.\n\nYou can build a \"great\" business and still build the wrong one for the life you want to live.\n\nSo define your life first.\nThen build the business that supports it.\n\nThat was how I approached my one-person business, and it forced me to get excellent at a handful of skills:\n\nChoosing the best work for me.\nKeeping everything overly simple.\nProtecting my time (especially weekends).\nCreating predictable income with automation.\nAnd growing without adding any complexity.\n\nI learned so many lessons building my business this way. \n\nI took 7 of the most important ones and broke them down in a free 30-page guide on how I built my one-person business to $15M in profit.\n\nIt's hundreds of articles, hours of voice notes, and interviews with successful friends compressed into a short guide you can read in less than 30 minutes.\n\nFree at my LINK IN BIO.\n\n#entrepreneur #business #entrepreneurship #mindset #lifestyle"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/825320709_18632446285025266_412182816469530625_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=msfVVY0cEdMQ7kNvwEBkR0k&_nc_oc=AdqnkUIrwn576S5lNDzIg6xBpgshx-wUUCzxY45Lm5snEV7Qcee58h7lf1xVvEFsRQTJETivB14qzOCaFLt0eqjR&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=CtREBUJ5Qm_jZTmQWJRUnw&_nc_ss=7f689&oh=00_AQN8FQTSCl16qREPQx7J0J0Qt_WPQ89RaaiipRGAij3cXw&oe=6AC3F30E",
+        "caption": "If you're great at what you do, but nobody knows, that's a \"you\" problem.\n\nThe market isn't going to discover you because you deserve it.\n\nBut, of course, someone half as talented is posting their work, explaining what they know, showing results, asking for the business, and getting paid.\n\nBeing uncomfortable with self-promotion is expensive.\n\nBut you don't need to become obnoxious.\n\nYou do need to get good at three things:\n\n1. Show your work.\n\nTalk about what you're building, what you're learning, what worked, and what failed. Be open, honest, and helpful.\n\n2. Make your value extremely obvious.\n\nExplain the problem you solve and show the result. Make it simple. A 6th-grader should be able to understand it.\n\n3. Repeat yourself daily.\n\nYou are significantly more tired of your message than everyone else is. Most people missed it, forgot it, or are new to your world. Repeat!\n\nPeople can't buy work they don't know exists.\n\nAnd if you're building a one-person business, nobody else is coming to create that attention for you.\n\nYou have to learn how to get attention, earn trust, make good decisions, and turn your skills into income without spending your entire life doing it.\n\nThat took me years to figure out.\n\nI wrote down everything I learned in a free solopreneur guide.\n\nHundreds of articles, hours of voice notes, and interviews with successful builders compressed into something you can read in less than 30 minutes.\n\n100% free at my LINK IN BIO.\n\n#entrepreneur #business #entrepreneurship #mindset #lifestyle"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/825320385_18632119087025266_7520132480420453054_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=wEB2ou7bLSEQ7kNvwFeWuIb&_nc_oc=Adopgv1zGBKLBT2-M-2WmolJQpy1EJeGWmPECteUqODsCQwtCZYQLZSXENqZI7Wy-SL_gE4FapU_6sc6niE442TW&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=CtREBUJ5Qm_jZTmQWJRUnw&_nc_ss=7f689&oh=00_AQPok_kSJo0jpALp_eoS_O-LIxITVWDCrqQL7bRMcDptCQ&oe=6AC3EA45",
+        "caption": "The 24/7 grinders won't experience the joy of a relaxed weekend with their spouse.\n\nWhat a tragedy.\n\nWhat's the point of doing all of this work if you never get the joy of downtime?\n\n\"Rise and grind.\"\n\"I'll sleep when I'm dead.\"\n\nLol. OK.\n\nThere's nothing wrong with hard work. I love working hard.\n\nAnd there's nothing wrong with the occasional all-nighter or tough week, or workaholic month.\n\nI get that. I've been there, too.\n\nBut if your identity is that work always gets 100% of your time, you're going to be a very sad and lonely person as you age.\n\nIf I could give one piece of advice to any aspiring entrepreneur, it would be this:\n\nBuild your life first and your business second.\n\nEnvision exactly how you want to live. What do your months, weeks, and days look like?\n\nThen, fill in the gaps with exactly how work can support it.\n\nI wrote down 30 pages of notes on how I did exactly that, and what skills were necessary (and unnecessary) to develop over time.\n\nYou can read it free at my LINK IN BIO.\n\nI hope you enjoy it. Cheers. \n\n#entrepreneur #business #entrepreneurship #mindset #lifestyle"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/825143890_18631103557025266_4562254156746303302_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=Ez49-3DKU0QQ7kNvwFP9pqv&_nc_oc=AdqzeFpTgx79rPlZEOrlhSO_g_hovbWY1Ym5kCLvuMjPx2m0An3lpW1OoQiJl_rTxmosYXnpaNdSfjd_lrdKUa-A&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=CtREBUJ5Qm_jZTmQWJRUnw&_nc_ss=7f689&oh=00_AQPP2oHHwjZNaeh1Z8f9Sh7kx2_UbHVonhkmKXfavnML2w&oe=6AC3EE27",
+        "caption": "People waste months building things nobody wants because they get excited.\n\nJust because the idea feels obvious to you doesn't mean the customer will care.\n\nAll they care about is whether your solution solves their problem at an appropriate price.\n\nThat's it.\n\nThat\u2019s why building before validating is one of the worst habits.\n\nYou don't need six months of product building.\n\nYou need conversations.\nYou need a rough version.\nYou need someone to pay you.\n\nA paying customer will teach you more than 100+ hours spent building something behind-the-scenes.\n\nQuick, cheap, and dirty experimentation is one of the most valuable lessons I learned while building my one-person business to $15M.\n\nTest cheaply. \nLearn quickly. \nDouble down when the evidence is there.\n\nThis is one of the 7 skills that matter more than almost everything else when you're just getting started.\n\nI broke the rest down in a free 30-page guide for entrepreneurs.\n\nHundreds of articles, hours of voice notes, and interviews with successful builders compressed into a short guide you can read in 30 minutes.\n\nFree at my LINK IN BIO.\n\n#entrepreneur #business #entrepreneurship #mindset #lifestyle"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/793121927_18630767971025266_1527605487941584177_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=ZqOYnQjLP_UQ7kNvwHFOSJh&_nc_oc=AdrXRfE-yi7Uz_WnhTUXKYnG-xAC0xqME-NwrN25jctb_bPqsRgD-RDoUizs9e45otu5LtPBW34fJjRzTjyMcDCr&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=CtREBUJ5Qm_jZTmQWJRUnw&_nc_ss=7f689&oh=00_AQOh1nBE_ilqbVghZz2o6M3Z7kCrhn7nLfmyKCz4Wp-msw&oe=6AC3F965",
+        "caption": "The new success stories won't be straight-line career paths.\n\nThey'll be \"illegible careers.\"\n\nSmart people, teaching themselves, and deploying tons of little experiments until something sticks.\n\nThere are so many ways to start:\n\nAdvise a business.\nBuild something useful.\nHelp someone solve a problem.\nDesign and launch an AI service.\n\nOr do all of these and simply write about what you're learning.\n\nMost experiments won't become businesses.\n\nThat's completely fine.\n\nThe whole point is to figure out what skills matter, what people care about and value, and which opportunities might be worth pursuing further.\n\nDo that for a few years, and you'll never go linear on your career again.\n\nThe biggest benefit?\n\nIt becomes a lot harder for one company, one boss, or one bad quarter to wreck your income.\n\nIf you don't know where to start, check out my free guide on building the 7 skills you'll need to thrive in this environment.\n\nHundreds of articles, hours of voice notes, and interviews with successful builders compressed into a short guide you can read in 30 minutes.\n\nFree at my LINK IN BIO.\n\n#entrepreneur #business #entrepreneurship #mindset #lifestyle"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/815335371_18630439009025266_1393426552390871181_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=jO02Zbn7jTQQ7kNvwEWOJUT&_nc_oc=Adp7JaaePlF-UUEW0atGLN6ByLWfbDHXX-ZnZVYH6cz2Jkzj9t8yyuGOxsodAC-vlExNdddMfz6DxcyfPFGnmLA6&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=CtREBUJ5Qm_jZTmQWJRUnw&_nc_ss=7f689&oh=00_AQPqF2mScRLZAzaC0rgf-OYBKeYvZJnaoBZfjdB7m08KCw&oe=6AC40739",
+        "caption": "There are three important decisions that have an outsized impact on your life.\n\n1. Who you marry\n\nWho you marry isn't only about the best of times.\n\nIt's also about your support system in the most difficult times.\n\nAll in all, probably the most important decision you can make.\n\n2. Where you live\n\nThe place you call home should align with your energy and the type of community you want to build.\n\nLove that city chaos? Get in there.\nNeed that quiet country serenity? Find it.\nNeed both? Try your best to split your time.\n\n3. How you earn a living\n\nThere's nothing worse than building a business that you hate working in.\n\nA business can make you rich and still be a terrible business for you.\n\nIf it requires 80-hour weeks, some giant team you never wanted, or spending a ton of your time doing work you hate, money doesn't magically make that a good deal.\n\nI always wanted something different.\n\nA business that earned extremely well, stayed simple, and left me enough time and energy for the rest of my life.\n\nFiguring out how to actually build that took me a decade.\n\nIf you're trying to get work right, I broke the 7 skills that matter most into a free guide.\n\nHundreds of articles, hours of voice notes, and interviews with successful builders compressed into a guide you can read in less than 30 minutes.\n\nStart at my LINK IN BIO.\n\n#entrepreneur #business #entrepreneurship #mindset #lifestyle"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/792029632_18630132808025266_2153943882534451780_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=wjmrIsQFrzkQ7kNvwEZKqnJ&_nc_oc=AdpPAgQpluixLNDh_K8WKJEbo-aUayLx1VLGSqJ2K1C8bCEALha4s_lTR0GQfHKsHCNd2Jqiw289xh9PLpIr9XAh&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=CtREBUJ5Qm_jZTmQWJRUnw&_nc_ss=7f689&oh=00_AQObFq3CcSRwo3kmnKEx2p8gQEW2HcJjPEuq7X6UKakZKQ&oe=6AC4087F",
+        "caption": "The most successful people I know move fast.\n\nNot chaotically. Fast.\n\nThere's a big difference.\n\nChaos means that you're doing fifty million things at once and not really getting anything done.\n\nFast (in this context) means eliminating everything that doesn't matter and committing only to the stuff that does.\n\nWhen you operate this way, you naturally speed up.\n\nYou stop working on things that \"feel\" like they are moving your business forward, but are actually slowing you down:\n\n- Designing a logo\n- Reading more books\n- Testing another software\n\nAnd instead, you put something in front of potential customers, bad or not, and start getting critical feedback.\n\nWe're all in a race right now.\n\nIf you have an idea, unleash it to the crowd.\n\nLet the market tell you where to spend your time.\n\nThis is one of several traits that successful solopreneurs and entrepreneurs develop quickly.\n\nI've put together a 30-page guide on 7 more skills and traits that helped me grow my business past 8-figures in profit without sacrificing my life to do it.\n\nIf you're interested, you can read it for free.\n\nIt's at my LINK IN BIO.\n\n#entrepreneur #business #entrepreneurship #mindset #lifestyle"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/790113458_18629817010025266_8733835939863833360_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=qVqXV5pClLoQ7kNvwFXerx_&_nc_oc=AdpSOtTBkxhrCJhMTdmk8yCQY7kNg__UuE_krd5pYaGWAQH7nj-Cecar8lEDWYs-9YwewUeSJoRNr3WNAlpOoMz-&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=CtREBUJ5Qm_jZTmQWJRUnw&_nc_ss=7f689&oh=00_AQMXffWIvYXvEYgLOPqflY87Lov5bUQ3Frj0EuT_Z2_V_A&oe=6AC3E83D",
+        "caption": "Comfort is overrated.\n\nA lot of people want a life of coasting.\n\nEasy work.\nEasy money.\nEasy decisions.\nEasy schedules.\n\nAfter a while, they just wake up feeling miserable.\n\nSome of my best moments in life came from doing things that sucked.\n\nBuilding skills I was terrible at.\nBuilding a business nobody cared about.\nShowing up when results were disappointing.\nMaking decisions I wasn't completely sure about.\n\nThe point isn't to remove pain from your life.\n\nIt's to choose difficulty that actually makes your life better.\n\nTrue in life...true in business.\n\nDo hard work, feel crappy for a bit, and reap the rewards of being out of your comfort zone.\n\nIt took me a decade to get even mildly decent at it.\n\nEventually, I put together a little field guide on the stuff I learned.\n\nThousands of things I wrote, hours of voice notes, interviews with crazy successful people...\n\nAll condensed down to a guide you can read in 30 minutes.\n\nFree if you want it at my LINK IN BIO.\n\n#entrepreneur #business #entrepreneurship #mindset #lifestyle"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/816030664_18628806676025266_388811845204135661_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=n9ZcjjOXrvUQ7kNvwG8NqSs&_nc_oc=AdpxOhhMJp76GQdJCgNKnJ8OtIA_JZLsuIB69YpPTo-ydf_R8_rIhiEBo40Emh7xE8j967y1g11_NWEACiQf1wt3&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=CtREBUJ5Qm_jZTmQWJRUnw&_nc_ss=7f689&oh=00_AQPd-KhduAR17RwfrNSPOv7-ELokZ44bc7Wpu1vzS__FFQ&oe=6AC3F92D",
+        "caption": "A lot of people spend their 20s and 30s getting really good at one thing.\n\nWork.\n\nThe income goes up.\nThe career gets better.\nThe calendar gets fuller.\n\nMeanwhile, your relationship gets the leftovers.\n\nYour health becomes something you'll \"deal with later.\"\n\nAnd eventually you realize you've built a pretty impressive life on paper that you don't particularly enjoy living.\n\nBut that's understandable.\n\nIt's hard to make progress without letting one part of your life eat the others.\n\nEarn well.\nTake care of your body.\nDo work you actually enjoy.\nHave time and energy for your family.\n\nNailing it all is hard.\n\nIt requires making some very different decisions about ambition, money, work, and what \u201cenough\u201d actually looks like in your life.\n\nTomorrow, I'm writing a short essay about it.\n\nHow the choices you make in your 20s, 30s, and 40s are very different. \n\nAnd what happens when you keep playing by the rules you made up when you were young.\n\nIt goes out tomorrow morning to 200,000+ readers.\n\nJoin at my LINK IN BIO.\n\n#entrepreneur #business #entrepreneurship #mindset #lifestyle"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/813613949_18628485649025266_1308639495492583834_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=lHxMfk_C9woQ7kNvwFMewa9&_nc_oc=AdoTW_liactEp9aiIkHNmRVIVTwrw3fmRJkRgwdoADVJIrpsQSbz-TIlHNE8E9StsccMdgTkeq0yXd4pwcJACdN_&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=CtREBUJ5Qm_jZTmQWJRUnw&_nc_ss=7f689&oh=00_AQOGBwOqXv8hHqhYLewHIgyMsx6x_urV_ThhvEmF3S3nrA&oe=6AC41C17",
+        "caption": "Working for yourself means that nobody is coming to save you.\n\nEvery great decision you make, you get to bask in the glory.\n\nEvery terrible one, you get to own the repercussions.\n\nNobody is there to comfort you.\nOr check in to see if you're OK.\nOr hold your hand.\n\nThe buck simply stops with you.\n\nFor some people, that's absolutely terrifying.\n\nIt's what keeps them from ever getting started.\n\nFor other people, it's empowering.\n\nKnowing that you own the entire ups and downs can feel liberating, powerful, and energizing.\n\nBefore you ever get into this game, it's important to understand what kind of person you are.\n\nBecause once all of that responsibility is yours, so are all of the decisions.\n\nWhat to ignore.\nWhere to focus.\nWhen to push harder.\nWhen enough is enough.\n\nI spent over a decade getting better at those decisions while building my one-person business to $15M.\n\nEventually, I narrowed the most important lessons down to 7 skills.\n\nI break each one down in the free 30-page field manual at my LINK IN BIO.\n\nRead it. Apply. Build a business you enjoy running.\n\n#entrepreneur #business #entrepreneurship #mindset #lifestyle"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/813406819_18628170136025266_909775905499343156_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=goryohxWJ5sQ7kNvwHlaOTJ&_nc_oc=AdrEChRhVDqaKgnsQr3dbu_FfG8pCiu67B5Ow13sviBJeupFsdGrm2vCZeh_P3xXkXIDKNwG7hHTvLX7Xhwzv2c9&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=CtREBUJ5Qm_jZTmQWJRUnw&_nc_ss=7f689&oh=00_AQMZPs10qnErqXnwOwXtniqi0yidiwN4t_cqqE6KmXgimw&oe=6AC3E825",
+        "caption": "If you want to make any money, somebody has to know you exist.\n\nThat\u2019s the part a lot of really talented people struggle with.\n\nThey\u2019re comfortable doing the work, but uncomfortable talking about it.\n\nThey don\u2019t want to become the person constantly announcing how smart, successful, or busy they are.\n\nI get that.\n\nA lot of self-promotion can be excruciating to watch.\n\nBut there\u2019s a big difference between talking about yourself and showing people what you know.\n\nIf nobody knows you exist, they can\u2019t hire you.\nIf nobody sees your ideas, they can\u2019t follow you.\nIf nobody knows your product, they can\u2019t buy it.\n\nThat\u2019s why learning to put yourself out there is such an important part of building a business.\n\nYou don\u2019t need a million followers.\nYou don\u2019t need to be an \"influencer.\"\nOr spend all day posting on social media.\n\nYou need a specific set of skills that help the perfect people find you, trust you, and pay you.\n\nFiguring out what those skills are (and how they fit together) is the hard part.\n\nI broke down the seven that helped me build a $15M one-person business in a free 30-page field manual called:\n\nHow I Built a $15M One-Person Business Without Destroying My Life.\n\nRead it at my LINK IN BIO.\n\n(See how easy that self-promotion was?) \n\n#entrepreneur #business #entrepreneurship #mindset #lifestyle"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/810215374_18627873781025266_496708637363061922_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=usPalCoH7Q0Q7kNvwGokEPV&_nc_oc=AdpjbGNpfrmjn32IiAxY54O7V8cqVqV3yeOU-zivnb0IV1ITfF9a1XlZBduAqd_VM7NbodIaAkc0524ufdwEUIgd&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=CtREBUJ5Qm_jZTmQWJRUnw&_nc_ss=7f689&oh=00_AQOXwq6IE_VFfQTuyEIAdC1KizKhyhSNrR-tWkchDTNmzA&oe=6AC402C0",
+        "caption": "A lot of business comes down to who you know.\n\nAnd most people overcomplicate networking.\n\nTrying to \u201cadd value.\u201d\nAsking for introductions.\nWaiting for networking events.\nReaching out when they need something.\n\nThat's very 2015.\n\nI\u2019ve had much better luck doing something simpler:\n\nWhen someone does work I genuinely admire, I tell them.\n\nNo ask.\nNo pitch.\nNo agenda.\n\nJust a thoughtful little note explaining what I like about their work.\n\nDo that consistently for a few years and watch what happens.\n\nYou start building real relationships with smart people.\n\nThose people introduce you to other smart people.\n\nOpportunities start showing up that you never could have planned for.\n\nAnd your little business becomes much less dependent on cold networking and outreach.\n\nThis was one of the biggest lessons I learned building my little one-person business to $15M.\n\nI was able to grow it because I got better at a handful of things that compounded over time.\n\nBuilding trust.\nMaking good decisions.\nFocusing on the right work.\nCreating opportunities, not waiting.\n\nAnd doing all of it without making the business my entire life.\n\nThis is one of 7 or 8 skills every entrepreneur needs to nail in order to be effective today.\n\nI break down the most important ones in my free 30-page field guide for starting and building a business.\n\nHundreds of hours of voice notes, thousands of written words, and 10 interviews distilled into one piece of content you can revisit over and over.\n\nStart reading at my LINK IN BIO.\n\n#entrepreneur #business #entrepreneurship #mindset #lifestyle"
+      }
+    ]
+  },
+  "photo": "https://scontent.cdninstagram.com/v/t51.82787-19/707097533_18592389337025266_5113167526059600369_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjAuQzMifQ%3D%3D&_nc_ohc=YLzYIAJNldQQ7kNvwHCoFVV&_nc_oc=AdoDVRfZdn5DGPLWwLyZyk6nf3HA9d-Ko2-EGXoVh_BhMAZXOZRszKyuu72ktN7HhT6w32VRW9b4J9Kdu6v02fZ6&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=2DRaucO0sMehdt8ZKEW8lA&_nc_ss=7f689&oh=00_AQNCAfoMX2J4AyPjFKLAChH1YsaqJgsq9xG2L_KYYkgxUA&oe=6AC3F2F4",
+  "gender": "man",
+  "seeking": "women",
+  "genderSource": "inferred",
+  "genderEvidence": "The text refers to Justin Welsh and mentions 'My wife, Jennifer'.",
+  "analysis": {
+    "name": "Justin Welsh",
+    "oneLiner": "Recovering corporate climber, solo entrepreneur, and believer that a quiet weekend at home is the ultimate luxury.",
+    "summary": "Justin spent over a decade chasing high-flying tech and corporate executive roles until burnout and a severe panic attack forced a complete life reevaluation. Alongside his wife, Jennifer, he left Los Angeles for Upstate New York and pivoted to building a highly profitable, ultra-lean one-person business. Today, he is deeply protective of his time, freedom, and mental health. He values candid reflection, slow living in the mountains, cooking together at home, rigorous self-reliance, and avoiding unnecessary corporate complexity.",
+    "location": "New York City Metropolitan Area / Upstate New York",
+    "ageRange": "40s",
+    "career": {
+      "role": "Writer, Founder, & Angel Investor",
+      "stage": "Established Solo Business Owner",
+      "ambition": "To maintain total autonomy over his schedule while writing and educating ambitious people on living life on their own terms."
+    },
+    "needs": [
+      {
+        "label": "Deep partnership and shared grounding",
+        "detail": "Mentions marrying someone who is your support system in difficult times and loves quiet weekends at home.",
+        "source": "instagram",
+        "confidence": 0.95
+      },
+      {
+        "label": "Protection of personal time and freedom",
+        "detail": "Builds his entire life and business around never asking permission to take a vacation, read, or go to a ballgame.",
+        "source": "linkedin",
+        "confidence": 0.95
+      },
+      {
+        "label": "Emotional safety and vulnerability",
+        "detail": "Openly shares his history with severe burnout, anxiety, and panic attacks, needing a partner who understands mental health.",
+        "source": "linkedin",
+        "confidence": 0.9
+      },
+      {
+        "label": "Shared domestic rituals",
+        "detail": "Explicitly notes wanting to cook with his wife as a core life priority.",
+        "source": "instagram",
+        "confidence": 0.9
+      }
+    ],
+    "hobbies": [
+      {
+        "label": "Cooking",
+        "detail": "Lists cooking with his wife as a primary life optimization goal.",
+        "source": "instagram",
+        "confidence": 0.9
+      },
+      {
+        "label": "Reading",
+        "detail": "Expresses a desire to read in the middle of the day without asking permission.",
+        "source": "linkedin",
+        "confidence": 0.9
+      },
+      {
+        "label": "Spending time outdoors",
+        "detail": "Moved to a house in the mountains of Upstate New York and prioritizes being outside.",
+        "source": "both",
+        "confidence": 0.9
+      },
+      {
+        "label": "Attending ballgames",
+        "detail": "Explicitly values the freedom to go to a ballgame on a whim.",
+        "source": "linkedin",
+        "confidence": 0.85
+      }
+    ],
+    "interests": [
+      {
+        "label": "Solo entrepreneurship and solopreneur systems",
+        "detail": "Runs a $15M one-person business with zero employees.",
+        "source": "both",
+        "confidence": 0.95
+      },
+      {
+        "label": "Mental health and burnout recovery",
+        "detail": "Writes and reflects extensively on surviving corporate burnout and panic disorders.",
+        "source": "linkedin",
+        "confidence": 0.95
+      },
+      {
+        "label": "Alternative lifestyle design",
+        "detail": "Focuses on optimizing for life and freedom rather than corporate status or massive valuations.",
+        "source": "both",
+        "confidence": 0.95
+      },
+      {
+        "label": "Angel investing and early-stage startups",
+        "detail": "Maintains an active portfolio of angel investments in companies like ConvertKit and Acquire.com.",
+        "source": "linkedin",
+        "confidence": 0.9
+      }
+    ],
+    "values": [
+      {
+        "label": "Autonomy over scale",
+        "detail": "Refuses to build a large company or manage a team in order to retain complete control of his time.",
+        "source": "both",
+        "confidence": 0.95
+      },
+      {
+        "label": "Radical self-awareness and honesty",
+        "detail": "Reflects deeply on past mistakes, fake success, and the courage to change paths.",
+        "source": "linkedin",
+        "confidence": 0.9
+      },
+      {
+        "label": "Quiet domestic peace",
+        "detail": "Champions the underrated power of quiet weekends at home over constant socializing.",
+        "source": "instagram",
+        "confidence": 0.95
+      }
+    ],
+    "personality": [
+      {
+        "trait": "Openness",
+        "score": 85,
+        "note": "Highly reflective, embraces unconventional career paths, and constantly experiments with lifestyle design."
+      },
+      {
+        "trait": "Conscientiousness",
+        "score": 90,
+        "note": "Immensely disciplined in his writing routine, business execution, and personal boundaries."
+      },
+      {
+        "trait": "Extraversion",
+        "score": 40,
+        "note": "Reaches massive audiences online, but deeply prefers a quiet life, small circles, and peaceful weekends."
+      },
+      {
+        "trait": "Agreeableness",
+        "score": 65,
+        "note": "Kind and supportive of peers, but fiercely blunt and unapologetic about his boundaries and opinions."
+      },
+      {
+        "trait": "Emotional Stability",
+        "score": 75,
+        "note": "Hard-won stability following past burnout; now fiercely guards his mental peace and stress levels."
+      }
+    ],
+    "lifestyle": [
+      {
+        "label": "Pace",
+        "value": "Intentional and slow-paced outside of focused work blocks"
+      },
+      {
+        "label": "Social energy",
+        "value": "Introverted; recharges at home with close family"
+      },
+      {
+        "label": "Fitness",
+        "value": "High priority; exercises regularly to maintain mental health"
+      },
+      {
+        "label": "Travel",
+        "value": "Valued on his own terms, preferring freedom over rigid itineraries"
+      },
+      {
+        "label": "Work-life",
+        "value": "Completely integrated; optimized entirely around lifestyle freedom"
+      }
+    ],
+    "communicationStyle": "Direct, reflective, candid, and thoughtful, with a zero-bullshit philosophy on life and work.",
+    "loveLanguage": "Acts of service and quality time (sharing quiet weekends, cooking meals together, supporting each other through stress).",
+    "lookingFor": "A grounded, emotionally intelligent partner who enjoys quiet weekends, values autonomy, and shares a desire for a peaceful, intentional life.",
+    "greenFlags": [
+      "Prioritizes mental health and knows his hard limits after overcoming severe burnout.",
+      "Deeply values and respects a partner as a true life teammate.",
+      "Enjoys simple, grounding pleasures like cooking, reading, and nature over flashy status symbols.",
+      "Possesses high self-awareness and accountability."
+    ],
+    "watchOuts": [
+      "Can be intensely focused and protective of his routine and focus time.",
+      "Prone to high independence\u2014might need reminders to lean on a partner during stress."
+    ],
+    "dealbreakers": [
+      "Craving constant hustle culture or toxic corporate ambition.",
+      "Needing an overly hectic, high-society social calendar every weekend.",
+      "Inability to communicate honestly about mental health and stress."
+    ],
+    "idealFirstDate": "A relaxed, low-pressure afternoon walk in nature followed by grabbing coffee or casual cooking ingredients at a local market, leaving plenty of space for real conversation.",
+    "conversationHooks": [
+      "What's your relationship with 'busy' culture, and how do you protect your downtime?",
+      "If you could completely redesign your daily routine tomorrow, what would you drop first?",
+      "What is your favorite meal to cook together on a lazy Sunday evening?"
+    ],
+    "agentVoice": "Thoughtful, articulate, slightly world-weary in a charming way, and deeply appreciative of authenticity and peace over pretense.",
+    "readingNotes": [
+      "Their LinkedIn headline leads with mission and transparency \u2014 purpose matters deeply to them.",
+      "The panic attack story reveals a raw turning point; they don't hide their vulnerability.",
+      "There is a striking contrast between a massive public digital footprint and a desire for an extremely quiet, private personal life.",
+      "They view marriage not as a checkbox, but as the foundational support system of an entire life.",
+      "Instagram posts read like aphorisms \u2014 they appreciate concise wisdom and hate fluff.",
+      "They traded the high-status Los Angeles executive ladder for mountain peace, signaling a permanent shift in core values."
+    ]
+  },
+  "shortlist": null
+}

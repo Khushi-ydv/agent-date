@@ -1,0 +1,432 @@
+{
+  "id": "alexavontobel",
+  "createdAt": 1790850084352,
+  "linkedinUrl": "https://www.linkedin.com/in/alexavontobel/",
+  "instagramUrl": "https://www.instagram.com/alexavontobel/",
+  "status": "ready",
+  "datingStatus": "idle",
+  "log": [
+    {
+      "t": 1790850084353,
+      "step": "Opening Instagram",
+      "detail": "https://www.instagram.com/alexavontobel/"
+    },
+    {
+      "t": 1790850084353,
+      "step": "Read Instagram @alexavontobel",
+      "detail": "12 recent posts, bio: \u201cFounder @inspiredcapital \nFounder @learnvest, acq. 2015\n\ud83d\udcdaNYT Bestselling Author\u201d \u00b7 via instagram-crawler-html (Mozilla)"
+    },
+    {
+      "t": 1790850084354,
+      "step": "Opening LinkedIn",
+      "detail": "https://www.linkedin.com/in/alexavontobel/"
+    },
+    {
+      "t": 1790850084355,
+      "step": "Read LinkedIn: Alexa von Tobel",
+      "detail": "Founder, Managing Partner \u00b7 8 posts/articles \u00b7 via linkedin-public-page via jina reader"
+    },
+    {
+      "t": 1790850084355,
+      "step": "\u2713 Identity check",
+      "detail": "LinkedIn and Instagram names match"
+    },
+    {
+      "t": 1790850084356,
+      "step": "Agent is reading both profiles",
+      "detail": "cross-referencing career, captions and photos"
+    },
+    {
+      "t": 1790850152301,
+      "step": "Profile analysis complete",
+      "detail": "Fintech founder turned venture partner who blends high\u2011octane ambition with family\u2011first adventure."
+    },
+    {
+      "t": 1790850795646,
+      "step": "Identified as a woman, looking for men",
+      "detail": "The Instagram bio uses girl emojis '\ud83d\udc67\ud83d\udc66\ud83d\udc67' and captions refer to her as a mother figure with phrases like 'Got our girls'."
+    }
+  ],
+  "linkedin": {
+    "source": "linkedin",
+    "method": "linkedin-public-page via jina reader",
+    "slug": "alexavontobel",
+    "url": "https://www.linkedin.com/in/alexavontobel",
+    "name": "Alexa von Tobel",
+    "headline": "Founder, Managing Partner",
+    "about": "Alexa von Tobel, CFP\u00ae, is the Founder and Managing Partner of Inspired Capital, a $900M Pre-Seed to Series A venture fund backing fearless founders solving the hardest challenges facing humanity. In addition, Alexa is the New York Times-Bestselling Author of Financially Fearless and Financially Forward, and she hosts Inc.'s weekly entrepreneurship podcast, The Founders Project. Prior to Inspired Capital, Alexa founded LearnVest in 2008 with the goal of helping people make progress on their money. After raising nearly $75 million in venture capital, LearnVest was acquired by Northwestern Mutual in May 2015 in one of the biggest fintech acquisitions of the decade. Following the acquisition, von Tobel joined the management team of Northwestern Mutual as the company\u2019s first-ever Chief Digital Officer, overseeing digital strategy. She later assumed the role of Chief Innovation Officer through which she oversaw Northwestern Mutual\u2019s venture arm. Alexa has appeared on the cover of Forbes Magazine, been interviewed on NPR\u2019s How I Built This and been featured in a wide variety of publications from The New York Times to Vogue. She is a member of the 2016 Class of Henry Crown Fellows and an inaugural member of President Obama\u2019s Ambassadors for Global Entrepreneurship. Alexa has been honored with numerous recognitions including: Fortune\u2019s 40 Under 40, Fortune's Most Powerful Women, Forbes\u2019 30 Under 30, Inc. Magazine's 30 Under 30 and World Economic Forum's Young Global Leader. Originally from Florida, Alexa attended Harvard College and Harvard Business School before settling in New York City where she currently resides with her husband and their three children.",
+    "location": "New York, New York, United States",
+    "profilePic": "https://media.licdn.com/dms/image/v2/D4E03AQFwvviUIYFONQ/profile-displayphoto-scale_200_200/B4EZ4hnYZsJwAg-/0/1778680433679?e=2147483647&v=beta&t=ozml58lNiQATg0vxDiJoeDE5xRsj9k-3cCzMAra30pw",
+    "followers": 30646,
+    "experience": [
+      {
+        "title": "Founder, Managing Partner Inspired Capital Jan 2019 - Present 7 years 10 months New York City Metropolitan Area"
+      },
+      {
+        "title": "Founder and CEO LearnVest 2008 - Jan 2019 11 years New York, New York (Acquired by Northwestern Mutual in 2015)"
+      },
+      {
+        "title": "Chief Digital Officer, Chief Innovation Officer, & Chair of NM Future Ventures Investment Committee Northwestern Mutual May 2015 - Dec 2018 3 years 8 months New York City Metropolitan Area Following N"
+      },
+      {
+        "title": "Head of Business Development Drop.io Mar 2008 - Aug 2008 6 months (Acquired by Facebook in 2009)"
+      },
+      {
+        "title": "Analyst- Proprietary Trading Group Morgan Stanley Jun 2006 - Mar 2008 1 year 10 months New York, NY"
+      }
+    ],
+    "education": [
+      {
+        "org": "LearnVest",
+        "start": 2008,
+        "end": "2019-01"
+      },
+      {
+        "org": "Northwestern Mutual",
+        "start": "2015-05",
+        "end": "2018-12"
+      },
+      {
+        "org": "Drop.io",
+        "start": "2008-03",
+        "end": "2008-08"
+      },
+      {
+        "org": "Morgan Stanley",
+        "start": "2006-06",
+        "end": "2008-03"
+      }
+    ],
+    "languages": [],
+    "posts": [
+      {
+        "kind": "article",
+        "text": "Open Finance & The Future of Financial Services",
+        "date": "2025-05-23T13:45:23.000+00:00"
+      },
+      {
+        "kind": "article",
+        "text": "Our Mission at Inspired Capital",
+        "date": "2019-11-12T15:00:44.000+00:00"
+      },
+      {
+        "kind": "post",
+        "text": "I grew up as a competitive gymnast and went to Harvard for diving, so I'm always intrigued by the parallels between athletes and founders.\n\nA while back, I got to interview my friend Lindsey Vonn on the Inspired Capital podcast. Something she said really stuck with me: Resilience is surviving to the other side of something. Adaptability is thriving *because* of it. \n\nMost people, in sports and in building companies, stop at resilience. Getting through a hard season feels like the finish line, proof you can take a hit.\n\nThe athletes and founders who are exceptional don't stop there. They come o",
+        "date": "2026-09-30T13:23:39.837Z"
+      },
+      {
+        "kind": "post",
+        "text": "When should startups invest in brand?\n\nHere's my honest answer. As an early-stage investor at Inspired Capital, the most important factor in an investment decision is the founder, not the brand. In the early innings of a business, I'd rather see a founder spend their energy getting in front of customers and nailing down product-market fit than perfecting a visual identity. Your logo will not save a product nobody wants. Your customers will tell you far more about your business than any brand deck ever could.\n\nBut I don't think that means brand doesn't matter. It means timing matters.\n\nAs AI ma",
+        "date": "2026-09-17T17:33:15.408Z"
+      },
+      {
+        "kind": "post",
+        "text": "We're thrilled to announce the promotion of Alexa Gellman to Principal at Inspired Capital!\n\nWatching Alexa Gellman grow from that LearnVest intern into a Principal at Inspired Capital has felt so full circle over the past 13 years. Lex, you bring warmth, grit, and sharp instincts to everything you touch, and every founder who's worked with you knows it. So proud to watch you dominate!! Congratulations, Lex!",
+        "date": "2026-09-09T14:25:22.209Z"
+      },
+      {
+        "kind": "post",
+        "text": "I was talking to a fellow investor yesterday and found myself saying something I've believed for a while but never quite put into words: the best board members don't just keep founders safe. \n\nThey keep them risk-on.\n\nEvery founder knows not to run the tank out of gas. That part is easy; nobody needs a board member to tell them not to blow up their company. But somewhere along the way, a lot of boards decided that was the whole job. Help companies ensure they don't run out of gas. Don't take on too much risk. Stay steady. \n\nAnd I get the instinct: caution is safe to defend later if something g",
+        "date": "2026-09-02T16:03:50.212Z"
+      },
+      {
+        "kind": "post",
+        "text": "After backing 18 companies that have scaled to $100M+ in revenue and spending hours with the world's best founders, I've become convinced the most predictive leadership quality isn't confidence, charisma, or grit.\n\nIt's curiosity.\n\nOnly 20% of people describe themselves as curious at work. \"Curious\" ranks 12th among workplace traits. We are massively undervaluing the thing that matters most. The leaders who never stop asking questions are the ones who never stop growing.\n\nScroll through to see what Dr. Becky Kennedy (Good Inside), Michael Sutherland Brown (Teamshares), Jeff Thompson (Logiqal, ",
+        "date": "2026-08-05T17:45:28.867Z"
+      },
+      {
+        "kind": "post",
+        "text": "Quantum has completely changed how I think about the future of technology. Getting to go deep on this alongside Alexa Gellman has been one of the highlights of my work at Inspired Capital. The founders and researchers we met along the way pushed our thinking in ways I didn't expect.\n\nExcited to share our latest thinking on quantum. And if you are building in the quantum ecosystem, I would love to connect!",
+        "date": "2026-07-08T17:36:50.530Z"
+      }
+    ],
+    "activityText": " Alexa von Tobel Alexa von Tobel 20h Alexa von Tobel posted this I grew up as a competitive gymnast and went to Harvard for diving, so I'm always intrigued by the parallels between athletes and founders. A while back, I got to interview my friend Lindsey Vonn on the Inspired Capital podcast. Something she said really stuck with me: Resilience is surviving to the other side of something. Adaptability is thriving *because* of it. Most people, in sports and in building companies, stop at resilience. Getting through a hard season feels like the finish line, proof you can take a hit. The athletes and founders who are exceptional don't stop there. They come out of the hard stretch changed. With a different instinct. A different read on pressure. Those are the founders I'm most inspired by. Alexa von Tobel Alexa von Tobel 1w Alexa von Tobel shared this When should startups invest in brand? Here's my honest answer. As an early-stage investor at Inspired Capital , the most important factor in an investment decision is the founder, not the brand. In the early innings of a business, I'd rather see a founder spend their energy getting in front of customers and nailing down product-market fit than perfecting a visual identity. Your logo will not save a product nobody wants. Your customers will tell you far more about your business than any brand deck ever could. But I don't think that means brand doesn't matter. It means timing matters. As AI makes it easier to start a company and lowers the barriers to entry, brand is becoming one of the few things that can actually help a company stand out. When anyone can ship a product quickly, the story you tell, the identity you build, and the trust you earn become real competitive advantages, not decoration. So here's my advice: don't confuse brand with credibility. Credibility comes first, from your product and your customers, and ideally your customers obsessing over your product. Brand comes next, and it should tell the truth about what you've already built, not paper over what you haven't. The founders I admire most treat their brand as a reflection of real traction, not a substitute for it. Get the fundamentals right. The rest can, and should, evolve. Thanks to Sarah Wood Gonz\u00e1lez for including my thoughts in your Inc. Magazine piece! https://lnkd.in/g8fpE_q9 A Rebrand Won\u2019t Get Your Startup Funded. It Can Still Help You Win A Rebrand Won\u2019t Get Your Startup Funded. It Can Still Help You Win Alexa von Tobel Alexa von Tobel 3w Alexa von Tobel shared this We're thrilled to announce the promotion of Alexa Gellman to Principal at Inspired Capital ! Watching Alexa Gellman grow from that LearnVest intern into a Principal at Inspired Capital has felt so full circle over the past 13 years. Lex, you bring warmth, grit, and sharp instincts to everything you touch, and every founder who's worked with you knows it. So proud to watch you dominate!! Congratulations, Lex! Alexa von Tobel Alexa von Tobel 4w Alexa von Tobel posted "
+  },
+  "instagram": {
+    "source": "instagram",
+    "method": "instagram-crawler-html (Mozilla)",
+    "username": "alexavontobel",
+    "url": "https://www.instagram.com/alexavontobel/",
+    "fullName": "ALEXA VON TOBEL, CFP \ud83d\ude0d",
+    "bio": "Founder @inspiredcapital \nFounder @learnvest, acq. 2015\n\ud83d\udcdaNYT Bestselling Author \n\ud83c\udfa7INSPIRED podcast\n\ud83d\udcbb @fastcompany Columnist\n\ud83c\udfa5 YouTube\n\u2764\ufe0f@mcr921 \ud83d\udc67\ud83d\udc66\ud83d\udc67",
+    "followers": 38852,
+    "following": 2578,
+    "postsCount": 1110,
+    "isVerified": true,
+    "isPrivate": false,
+    "profilePic": "https://scontent.cdninstagram.com/v/t51.2885-19/11371143_486235861524865_2011540899_a.jpg?_nc_cat=106&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=aFc1kmZihUEQ7kNvwFuCI9O&_nc_oc=Adr5OcnAXG94_TtfHGgjxr3OVcDXbzOIFHkqtE7OftiE2frhfXwyJOpXVBqOjCMYVn4CzicA2SZiPxdK2yzqp7Pr&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=7f689&oh=00_AQOq8xuCEbb7WTfxE0rFCcmlkzcrRHuAFOzxKdHVn4PWVw&oe=6AC41849",
+    "posts": [
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/819728287_18637527814025275_432553424403516735_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=C3l5_S0qVgcQ7kNvwHiAp_z&_nc_oc=Adr3Z0mi4oYmrtf3OlX1g_Vfm7ajVCFd5FdeNj0kd4MpM-fy5mJJD69HOQU98Tfy3A4KQLrz2DD-HvAWcVNo_iCR&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=EDocnI2xscfCWgWaQy4S6A&_nc_ss=7f689&oh=00_AQMpz0iFYh2Djp6P80rZYcyCjp3LOZYusSCgMeSkOXzaXA&oe=6AC40757",
+        "caption": "\u2728Happy birthday to our GOAT. @mcr921. we LOVE you to infinity!\u2728"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/813976248_18636175789025275_2097060093787170710_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=H75vqx7GV5QQ7kNvwGgjq8V&_nc_oc=AdpssSW6exyaNQ9kTI6NAvB6iujKUst2EgQOinXoCyaELtJtxZRr8ru0naB8yFtZs7nVt5lYO8Bi28C30gW41Glh&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=EDocnI2xscfCWgWaQy4S6A&_nc_ss=7f689&oh=00_AQMhLltGHzm4jMlbiCnCtOYidQ5FGVuOGPAhNMjwpZ-7Lw&oe=6AC40EFB",
+        "caption": "\u2728Lil' bit of this, lil' bit of that.\u2728 Fall chaos 2026, here we come!"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/793902317_18631627792025275_2970162799513287054_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=g7OH-llpgtsQ7kNvwGELDN7&_nc_oc=AdqzRT45bXBck9eBcs86CCpgbDEVDcmd5Y1VgW3Ctk7HHM1FZZySBacr5JzUFNK6RXE2hKTBGHTjIzqY8DaAGMrW&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=EDocnI2xscfCWgWaQy4S6A&_nc_ss=7f689&oh=00_AQNYYf8rzzBed7dCa4VPAucZVfwRXZkz2DQ5ds5iKvnjwg&oe=6AC40265",
+        "caption": "\u2728fave baby birds\u2728 (!!!) H A P P Y Labor Day weekend everyone!!!!!!"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/789085603_18226255981322962_3717203803710590263_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=wpNfF-_v3z4Q7kNvwEN3Z85&_nc_oc=Adon63xeZWNXVgSmOOEHO3sWLB9bzwSR6eRMcZ13cMVy73jQSK1sv0SwRHCFtflFZyEV3YXh1FVjZNHczJ5H44ce&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=EDocnI2xscfCWgWaQy4S6A&_nc_ss=7f689&oh=00_AQNVCbD9w8_CvhUpZqMBYgtCbQH29XI2gQb-GBYY6d7_KQ&oe=6AC4097F",
+        "caption": "\ud83d\udd25\ud83d\ude4c\ud83c\udffb A little reminder, via Nelson Mandela \u2728"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/774512720_18624451870025275_4811601395085167546_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=cvvFZHlGZz4Q7kNvwEQpuLE&_nc_oc=AdqlrX9dWEdocPJPZUbUd5Vn_6bTSr88U_vHFkAXox0e4_cNdGGNdp9WngXwnxgIHJM0sottkK__PyA58ONge6GU&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=EDocnI2xscfCWgWaQy4S6A&_nc_ss=7f689&oh=00_AQOEwU3HvvJaFBtdqkLz_V_--P9SOkAi68jiGB_BUw_nqw&oe=6AC3FBFF",
+        "caption": "Spent six days solo adventuring with our little man and will cherish it forever. he beats me in cards, the little pirate \ud83c\udff4\u200d\u2620\ufe0f\ud83c\uddec\ud83c\uddf7"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/771346766_18621867937025275_4007517258405703510_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=1Fir8-HxP-gQ7kNvwF3iOYW&_nc_oc=Ado-jCuZ8GPLxshC1t6DyPCHJ4UGb9Mhz2pAULwRG4no31cc7jN4WaJbrjCJtYylGekXF34QxHa1Ik4WTVkwlDKL&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=EDocnI2xscfCWgWaQy4S6A&_nc_ss=7f689&oh=00_AQPRXd3dTYgtpK1MHJFR7aWTp0icwE9KOdz_-Tzjn72ydg&oe=6AC40930",
+        "caption": "Turns out, I'm not made for sleep away camp \ud83d\ude2d\ud83d\ude02 Got our girls. They had an epic time! Final slide = my August plans. Gonna gobble these babies up \u2728\u2728\u2728"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/767363645_18223739227322962_4653598099123621357_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=KQTvlx0lHxUQ7kNvwHhI48l&_nc_oc=AdoF9FuufRrKhOIwEcFKH3E5kpL5-J2P9VA-MHsDXW0nFjsDtaPFh3QiUWMcsu7591jrAHczVAb-fRCBkghYMUAw&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=EDocnI2xscfCWgWaQy4S6A&_nc_ss=7f689&oh=00_AQNscrEvli40NbAOoWA2LXsdmIyimhLFNsauM-BIUer31Q&oe=6AC3F0CD",
+        "caption": "After backing 18 companies that have scaled to $100M+ in revenue and spending hours with the world\u2019s best founders, I\u2019ve become convinced the most predictive leadership quality isn\u2019t confidence, charisma, or grit.\n\nIt\u2019s curiosity.\n\nOnly 20% of people describe themselves as curious at work. \u201cCurious\u201d ranks 12th among workplace traits. We are massively undervaluing the thing that matters most. The leaders who never stop asking questions are the ones who never stop growing.\n\nSwipe through to see what Dr. Becky Kennedy (Good Inside), Michael Brown (Teamshares), Jeff Thompson (Logiqal), and Ben Lamm (Colossal) already know. Full piece in Fast Company | link in bio"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/747625367_18614161711025275_6461524290417322549_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=NgjgaqhHWDAQ7kNvwFhyiey&_nc_oc=Adr8xPEZiID81i0iZQjX6ZbHuuTF2kTi1iWA65iKfVriPHzDzfyYMidYuKfn4JKZMMVhaHlXi-yIs6ke-DpRm-k_&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=EDocnI2xscfCWgWaQy4S6A&_nc_ss=7f689&oh=00_AQMAm17lF-1q8n2Vjr2HuQ52pJ8PKNNwCzLErFZiyQg9rw&oe=6AC3F642",
+        "caption": "\u2728Wednesday mood\u2728 happy week everyone! \ud83e\udef6\ud83c\udffb"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/742800152_18612774445025275_3827027258384965144_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=-fzNDIXQ6AoQ7kNvwH1IYGz&_nc_oc=AdodQ1BZDOwhWcH5_w3hO0ioPoNai-A5YWuuMSZdTN_ZV9RcySwef3kHakXnsg_BNcRsJeoplI4_alP0smBMNqrS&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=EDocnI2xscfCWgWaQy4S6A&_nc_ss=7f689&oh=00_AQPPvmwYnanWU6ml5WJiMbBnDnLc4tkTucmPx9IQJ5eodw&oe=6AC400B6",
+        "caption": "\u2728summer start with some great loves\u2728 250 \ud83c\uddfa\ud83c\uddf8"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/734387632_18219864883322962_5709072749840744878_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=W19xn15D_YQQ7kNvwEbWIG_&_nc_oc=AdobzYxADaHjT18tr4RC0_-t2fIs9c8gDCuN_n54e1UeBtU9Ym9Mj6tRowQqqe8Eccme7hpFsM8NHnfPbgYCdtxt&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=EDocnI2xscfCWgWaQy4S6A&_nc_ss=7f689&oh=00_AQN0-txrvzpED3p3srSJLpjdlvRCaz1_HL78ztDZ00Tl4Q&oe=6AC3EA23",
+        "caption": "600k+ downloads later and thats a wrap on Season 1 of Inspired! \ud83c\udf99\ufe0f\n\nWant to learn from some of the biggest visionaries changing the future? This season we sat down with people bringing extinct animals back to life, founders going to space, builders reimagining safety for a billion people, and those rewiring the internet itself. Every conversation left us thinking bigger about what is possible - about how much better the world can be. \u2728\n\nEvery guest is at the very top of their field, and we loved getting to share their bold predictions and contrarian takes on where the world is headed from their unique vantage point. \n\nSeason 2 is coming soon, so if you are a founder building something truly unique, we want to hear all about it.\n\nWe also just launched our new YouTube channel, Inspired with Alexa von Tobel! Subscribe so you never miss out on new content. (Link in bio!) \ud83c\udfa7"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/728255090_18219087346322962_7895858017180596296_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=r-EWusiKH64Q7kNvwGa-hOG&_nc_oc=Adpd1rkq48lhhyAOk8nnsDAMfoXrk4UIxeUd_AncxaYGfQEFqkZGMTMS7HvxWPkd9l7D18tFTJHo8axwCuLAdvMg&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=EDocnI2xscfCWgWaQy4S6A&_nc_ss=7f689&oh=00_AQN0nlKsfwOR6bQRZEg7wpO_9ol8IETXWN5zHVEIy1StLA&oe=6AC3ED2D",
+        "caption": "In 2020, he looked us in the eyes and said that \u201cone day you\u2019ll wish you gave me $10M instead of $3M.\u201d\n\nThat was Michael Brown, co-founder of @teamshares after he signed our term sheet\u2014 and he was right.\n\n@teamshares is public on Nasdaq. TMS. \ud83d\udd14\n\nSix years ago: 5 people. 1 acquisition. Under $2M of revenue. A WeWork. A 200-year plan. We backed Teamshares on a draft idea and fell in love with their mission and potential. \n\nToday: 92 companies. $500M revenue. 30+ states. Thousands of everyday workers who now own a piece of what they built.\n\n70% of small businesses in America never find a buyer when their owner retires. Teamshares was built to fix that \u2014 permanently.\n\nMichael will be the first to say this is still the first inning to what they will accomplish. We believe him completely and have been honored to be on their incredible journey.\nCongrats to Michael, Alex, Kevin, and the entire Teamshares team. Onwards and upwards. \ud83d\ude80\n\n@inspiredcapital"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/727788051_18218994871322962_3904215517583360097_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=TMpkAfPB4HoQ7kNvwH8WycP&_nc_oc=Adr0_jcpO8rcya-06waOwRQ6Vv1gsgTuFF4wNsclW3Q4B0qYZw-RKh-_tTXsxo9AgRQKuiIwokh4_y5pTHfGTitb&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=EDocnI2xscfCWgWaQy4S6A&_nc_ss=7f689&oh=00_AQNUxVwlQZfi4c0CUkhvyxAtc2CCJ_ZosnctyPPTXmYiaw&oe=6AC3FAD1",
+        "caption": "We\u2019re thrilled to announce the promotion of Annie Shapiro to Partner at @inspiredcapital. Alexa, Mark and Annie have worked nearly 17 years, side by side since she was in undergrad at Princeton.\n\nAnnie has been with Inspired since the *very* beginning and has built our Platform from the ground up. With her deep operating experience across the New York tech ecosystem, it\u2019s no surprise that one founder described her as a \u201csuperhero who can morph her powers into whatever strength or skill we need on any given day.\u201d\u00a0\n\nShe has produced our award-winning podcast for eight years, and through it all, she has been an advocate for the VC platform community, serving as VP of the Board of @vcplatform.\n\nBeyond being an exceptional operator and partner to our founders, Annie is one of the most wonderful human beings. We feel lucky to call her a partner in every sense of the word! GO ANNIE!!! WE ADORE YOU!"
+      }
+    ]
+  },
+  "photo": "https://scontent.cdninstagram.com/v/t51.2885-19/11371143_486235861524865_2011540899_a.jpg?_nc_cat=106&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=aFc1kmZihUEQ7kNvwFuCI9O&_nc_oc=Adr5OcnAXG94_TtfHGgjxr3OVcDXbzOIFHkqtE7OftiE2frhfXwyJOpXVBqOjCMYVn4CzicA2SZiPxdK2yzqp7Pr&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=7f689&oh=00_AQOq8xuCEbb7WTfxE0rFCcmlkzcrRHuAFOzxKdHVn4PWVw&oe=6AC41849",
+  "analysis": {
+    "name": "Alexa von Tobel",
+    "oneLiner": "Fintech founder turned venture partner who blends high\u2011octane ambition with family\u2011first adventure.",
+    "summary": "Alexa is a serial entrepreneur, bestselling author, and early\u2011stage investor who lives in New York with her husband and three kids. She\u2019s driven by curiosity, resilience and a love of learning\u2014whether that\u2019s building companies, diving at Harvard, or exploring Greek islands with her son. She seeks a partner who can match her intellectual vigor, share her love of family time, and appreciate both her polished professional persona and her playful, adventure\u2011seeking side.",
+    "location": "New York, New York, United States",
+    "ageRange": "40\u201149",
+    "career": {
+      "role": "Founder & Managing Partner at Inspired Capital",
+      "stage": "Established leader / serial entrepreneur",
+      "ambition": "Scale bold early\u2011stage founders, champion curiosity, and shape the future of finance and technology."
+    },
+    "needs": [
+      {
+        "label": "Intellectual partnership",
+        "detail": "She frequently posts about curiosity, leadership and deep\u2011dive podcasts, indicating she values deep conversation.",
+        "source": "both",
+        "confidence": 0.93
+      },
+      {
+        "label": "Family\u2011centered support",
+        "detail": "Instagram captions celebrate birthdays, kids\u2019 adventures, and \u201cgobble these babies up\u201d.",
+        "source": "instagram",
+        "confidence": 0.96
+      },
+      {
+        "label": "Adventure & spontaneity",
+        "detail": "Solo 6\u2011day trip to Greece with her son; mentions \u201cnot made for sleep\u2011away camp\u201d but loves epic outings.",
+        "source": "instagram",
+        "confidence": 0.88
+      },
+      {
+        "label": "Respect for ambition",
+        "detail": "LinkedIn posts emphasize founder quality, brand timing, and her own venture track record.",
+        "source": "linkedin",
+        "confidence": 0.91
+      }
+    ],
+    "hobbies": [
+      {
+        "label": "Card games with her son",
+        "detail": "Instagram post: \u201che beats me in cards, the little pirate\u201d.",
+        "source": "instagram",
+        "confidence": 0.85
+      },
+      {
+        "label": "Travel & solo adventure",
+        "detail": "Six\u2011day solo trip to Greece with her son.",
+        "source": "instagram",
+        "confidence": 0.87
+      },
+      {
+        "label": "Podcast hosting",
+        "detail": "Hosts \u201cThe Founders Project\u201d and promotes season wraps on Instagram.",
+        "source": "both",
+        "confidence": 0.94
+      },
+      {
+        "label": "Writing & column work",
+        "detail": "FastCompany columnist, NYT bestselling author.",
+        "source": "both",
+        "confidence": 0.96
+      },
+      {
+        "label": "Gymnastics/diving background",
+        "detail": "LinkedIn post mentions competitive gymnastics and Harvard diving.",
+        "source": "linkedin",
+        "confidence": 0.9
+      }
+    ],
+    "interests": [
+      {
+        "label": "Fintech & financial education",
+        "detail": "Founder of LearnVest, author of Financially Fearless.",
+        "source": "linkedin",
+        "confidence": 0.98
+      },
+      {
+        "label": "Early\u2011stage technology trends (AI, quantum)",
+        "detail": "Posts about AI, quantum research, and startup branding.",
+        "source": "linkedin",
+        "confidence": 0.92
+      },
+      {
+        "label": "Leadership psychology",
+        "detail": "Quotes from Lindsey Vonn on resilience/adaptability; shares Mandela quote.",
+        "source": "both",
+        "confidence": 0.88
+      },
+      {
+        "label": "Family life & parenting",
+        "detail": "Instagram celebrates birthdays, Labor Day with kids, camp stories.",
+        "source": "instagram",
+        "confidence": 0.97
+      },
+      {
+        "label": "Adventure travel",
+        "detail": "Greek island solo trip, \u201csummer start with some great loves 250\u202f\ud83c\uddfa\ud83c\uddf8\u201d.",
+        "source": "instagram",
+        "confidence": 0.85
+      },
+      {
+        "label": "Mentoring founders",
+        "detail": "Frequent posts about founder qualities, board roles, and venture investments.",
+        "source": "linkedin",
+        "confidence": 0.94
+      }
+    ],
+    "values": [
+      {
+        "label": "Curiosity",
+        "detail": "LinkedIn post declares curiosity the most predictive leadership quality.",
+        "source": "linkedin",
+        "confidence": 0.96
+      },
+      {
+        "label": "Resilience & adaptability",
+        "detail": "She draws parallels between athletes and founders, emphasizing thriving beyond resilience.",
+        "source": "linkedin",
+        "confidence": 0.92
+      },
+      {
+        "label": "Family",
+        "detail": "Instagram consistently highlights kids, birthdays, and family moments.",
+        "source": "instagram",
+        "confidence": 0.99
+      },
+      {
+        "label": "Impact\u2011oriented entrepreneurship",
+        "detail": "Mission to solve humanity\u2019s hardest challenges via Inspired Capital.",
+        "source": "linkedin",
+        "confidence": 0.94
+      }
+    ],
+    "personality": [
+      {
+        "trait": "Openness",
+        "score": 88,
+        "note": "Loves learning (books, podcasts), travel, and exploring new tech."
+      },
+      {
+        "trait": "Conscientiousness",
+        "score": 92,
+        "note": "Founder, author, investor; runs multiple high\u2011stakes ventures."
+      },
+      {
+        "trait": "Extraversion",
+        "score": 75,
+        "note": "Public speaker, podcast host, active on social media; enjoys family gatherings."
+      },
+      {
+        "trait": "Agreeableness",
+        "score": 70,
+        "note": "Shows warmth toward team, family, and founders; balances ambition with empathy."
+      },
+      {
+        "trait": "Emotional Stability",
+        "score": 80,
+        "note": "Talks about resilience; handles high\u2011pressure roles with composure."
+      }
+    ],
+    "lifestyle": [
+      {
+        "label": "Pace",
+        "value": "Fast\u2011moving, high\u2011energy professional life with scheduled family rituals."
+      },
+      {
+        "label": "Social energy",
+        "value": "Moderately high \u2013 networking events, podcasts, family outings."
+      },
+      {
+        "label": "Fitness",
+        "value": "Active (gymnastics background, diving, occasional adventure trips)."
+      },
+      {
+        "label": "Travel",
+        "value": "Frequent short\u2011term trips, both solo and family\u2011oriented."
+      },
+      {
+        "label": "Work\u2011life",
+        "value": "Integrated but intentional; she carves out dedicated family time."
+      }
+    ],
+    "communicationStyle": "Direct, insightful, and peppered with anecdotes; she values curiosity\u2011driven questions.",
+    "loveLanguage": "Quality Time (family rituals, shared adventures, deep conversations).",
+    "lookingFor": "A partner who can match her intellectual curiosity, join her in family\u2011centric adventures, and respect her ambitious drive.",
+    "greenFlags": [
+      "Enjoys deep, curiosity\u2011fuelled conversation",
+      "Loves kids and family\u2011focused activities",
+      "Embraces spontaneous travel",
+      "Supports ambitious professional goals"
+    ],
+    "watchOuts": [
+      "May prioritize work during crunch periods",
+      "High expectations for intellectual engagement"
+    ],
+    "dealbreakers": [
+      "Disinterest in family life",
+      "Closed\u2011mindedness to new ideas",
+      "Lack of ambition or drive"
+    ],
+    "idealFirstDate": "A relaxed brunch at a rooftop caf\u00e9 in NYC followed by a walk in Central Park, ending with a quick card game demo for fun.",
+    "conversationHooks": [
+      "What\u2019s the most curious question you\u2019ve asked yourself this week?",
+      "Which adventure (travel or sport) has taught you the biggest lesson?",
+      "How do you balance high\u2011stakes work with family moments?",
+      "What book or podcast has shifted your perspective lately?"
+    ],
+    "agentVoice": "Warm yet razor\u2011sharp, mixing entrepreneurial grit with playful family anecdotes; I\u2019ll speak with confidence, sprinkle in a dash of humor, and always circle back to curiosity.",
+    "readingNotes": [
+      "LinkedIn headline leads with mission, not title \u2014 purpose matters to her.",
+      "Repeated emphasis on curiosity signals a core personal driver.",
+      "Gymnastics/diving background shows love of disciplined physical challenge.",
+      "Instagram shows she celebrates every family milestone, indicating family is a priority.",
+      "Travel posts reveal a need for spontaneity and adventure beyond boardrooms.",
+      "She frequently shares founder stories, suggesting she seeks partners who can discuss ideas at depth."
+    ]
+  },
+  "gender": "woman",
+  "seeking": "men",
+  "genderSource": "inferred",
+  "genderEvidence": "The Instagram bio uses girl emojis '\ud83d\udc67\ud83d\udc66\ud83d\udc67' and captions refer to her as a mother figure with phrases like 'Got our girls'.",
+  "shortlist": null
+}

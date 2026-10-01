@@ -1,40 +1,50 @@
 {
   "id": "adamgrant",
-  "createdAt": 1790848559417,
+  "createdAt": 1790849085851,
   "linkedinUrl": "https://www.linkedin.com/in/adammgrant/",
   "instagramUrl": "https://www.instagram.com/adamgrant/",
   "status": "ready",
   "datingStatus": "idle",
   "log": [
     {
-      "t": 1790848559418,
+      "t": 1790849085852,
       "step": "Opening Instagram",
       "detail": "https://www.instagram.com/adamgrant/"
     },
     {
-      "t": 1790848559418,
+      "t": 1790849085853,
       "step": "Read Instagram @adamgrant",
       "detail": "12 recent posts, bio: \u201cOrganizational psychologist @whartonschool\n#1 NYT bestselling author of THINK AG\u201d \u00b7 via instagram-crawler-html (Mozilla)"
     },
     {
-      "t": 1790848559419,
+      "t": 1790849085854,
       "step": "Opening LinkedIn",
       "detail": "https://www.linkedin.com/in/adammgrant/"
     },
     {
-      "t": 1790848559419,
+      "t": 1790849085854,
       "step": "Read LinkedIn: Adam Grant",
       "detail": "Author: VIBE, THINK AGAIN, HIDDEN POTENTIAL, GIVE AND TAKE, ORIGINALS, OPTION B \u00b7 The Saul P. Steinberg Professor of Management and Psychology \u00b7 Contributing Op-Ed Writer \u00b7 10 posts/articles \u00b7 via linkedin-public-page via jina reader"
     },
     {
-      "t": 1790848559420,
+      "t": 1790849085854,
+      "step": "\u2713 Identity check",
+      "detail": "LinkedIn and Instagram names match"
+    },
+    {
+      "t": 1790849085855,
       "step": "Agent is reading both profiles",
       "detail": "cross-referencing career, captions and photos"
     },
     {
-      "t": 1790848587705,
+      "t": 1790849116130,
       "step": "Profile analysis complete",
-      "detail": "A bestselling author and organizational psychologist dedicated to challenging conventional wisdom and fostering a more thoughtful, equitable world."
+      "detail": "A leading organizational psychologist, bestselling author, and professor dedicated to making work and life more meaningful."
+    },
+    {
+      "t": 1790850791509,
+      "step": "Identified as a man, looking for women",
+      "detail": "The profile lists the name \"Adam Grant\", a traditionally male name."
     }
   ],
   "linkedin": {
@@ -217,220 +227,230 @@
   "photo": "https://scontent.cdninstagram.com/v/t51.2885-19/237482787_2873181819587799_4339487857512017479_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42NzcuQzMifQ%3D%3D&_nc_ohc=KFYiT5dDy9gQ7kNvwEP02DV&_nc_oc=AdpCCbeK2cyf_v9PGjhC0cc8P5ZrMQUHGaEJx93CtZqVVafQ2fNL-EWif1lbS_BuU0fNqYV_NgKr_VAgoxdX8qYx&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=7f689&oh=00_AQOIE06d0wiCwJVL7A9GsFcMKL2EybwZiRGKCpYPyCFb3w&oe=6AC3E678",
   "analysis": {
     "name": "Adam Grant",
-    "oneLiner": "A bestselling author and organizational psychologist dedicated to challenging conventional wisdom and fostering a more thoughtful, equitable world.",
-    "summary": "Adam Grant is a highly influential public intellectual, a top-rated professor at Wharton, and a prolific author of six New York Times bestsellers. He's known for his work in management and psychology, focusing on topics like rethinking assumptions, unlocking potential, and the dynamics of giving and taking. Beyond his academic and writing career, he's a popular TED speaker and podcaster, actively engaging with a massive online audience. His social media reveals a commitment to social justice, critical thinking, and promoting kindness, often using humor and research-backed insights to make his points.",
+    "oneLiner": "A leading organizational psychologist, bestselling author, and professor dedicated to making work and life more meaningful.",
+    "summary": "Adam is a highly influential public intellectual, known for his groundbreaking work in organizational psychology, his bestselling books like 'Think Again' and 'Hidden Potential,' and his engaging podcasts. He's a top-rated professor at Wharton and a contributing writer for The New York Times. Beyond his professional achievements, he's deeply committed to social justice, gender equality, and fostering environments where people can thrive. He values curiosity, continuous learning, and challenging conventional wisdom, often using research to advocate for positive change.",
     "location": "Philadelphia, Pennsylvania, United States",
-    "ageRange": "40s",
+    "ageRange": "unknown",
     "career": {
-      "role": "Author, Professor of Management and Psychology, Op-Ed Writer, Speaker",
-      "stage": "Highly established and influential, at the peak of his career",
-      "ambition": "To continue sharing research-backed insights to improve individual and organizational thinking, foster social justice, and challenge norms through writing, speaking, and teaching."
+      "role": "Organizational Psychologist, Author, Professor, Speaker",
+      "stage": "Highly established and influential",
+      "ambition": "To continue writing impactful books, sharing insights through podcasts and speaking, and influencing positive change in how people think and interact professionally and personally."
     },
     "needs": [
       {
-        "label": "Intellectual partnership",
-        "detail": "He consistently engages with complex ideas, research, and critical thinking. He'd need a partner who can keep up, challenge him, and discuss deep topics.",
+        "label": "Intellectual stimulation and debate",
+        "detail": "His work, articles, and social media posts consistently revolve around challenging assumptions, exploring new ideas, and discussing complex topics like leadership, psychology, and social issues.",
         "source": "both",
         "confidence": 0.9
       },
       {
-        "label": "Emotional depth and social consciousness",
-        "detail": "His posts frequently address social issues like victim blaming, gender inequality, and racism, showing a strong moral compass and empathy. He'd need a partner who shares these values and can engage on an emotional level.",
-        "source": "both",
+        "label": "A partner who shares his values for social justice and equality",
+        "detail": "He frequently posts about gender inequality, victim blaming, and racism, advocating for systemic change and accountability.",
+        "source": "instagram",
         "confidence": 0.9
       },
       {
-        "label": "Support for his public persona and demanding schedule",
-        "detail": "His career involves extensive writing, speaking tours with high-profile individuals, and a massive public following. A partner would need to understand and support this lifestyle.",
+        "label": "Someone who appreciates humor and wit",
+        "detail": "His Instagram includes a humorous, self-deprecating post about 'today years old' learning a fact, and a pie chart about 'causes of rape' that uses dark humor to make a serious point.",
+        "source": "instagram",
+        "confidence": 0.7
+      },
+      {
+        "label": "Space for deep work and creative pursuits",
+        "detail": "As an author of multiple bestselling books and a professor, his career demands significant focus, research, and writing time.",
         "source": "linkedin",
         "confidence": 0.8
       },
       {
-        "label": "Authenticity and directness",
-        "detail": "His posts about 'recovering people pleaser' and 'overcoming the pressure to please others' suggest he values genuine interactions and setting boundaries.",
-        "source": "instagram",
-        "confidence": 0.7
+        "label": "A partner who is growth-oriented and open to new perspectives",
+        "detail": "His book 'Think Again' and frequent posts about challenging assumptions and learning new things highlight a core value of continuous personal and intellectual growth.",
+        "source": "both",
+        "confidence": 0.9
       }
     ],
     "hobbies": [
       {
         "label": "Reading and recommending books",
-        "detail": "He frequently shares lists of recommended books on leadership, psychology, and general knowledge across both platforms.",
-        "source": "both",
-        "confidence": 1
-      },
-      {
-        "label": "Public speaking and touring",
-        "detail": "He is a keynote speaker and actively promotes his book tours with other notable figures.",
+        "detail": "He consistently shares lists of leadership and idea books, and promotes new releases he's excited about.",
         "source": "linkedin",
-        "confidence": 1
+        "confidence": 0.9
       },
       {
         "label": "Podcasting",
-        "detail": "He hosts 'WorkLife' and 'Re:Thinking' podcasts with millions of downloads.",
+        "detail": "He hosts two highly successful podcasts, 'WorkLife' and 'Re:Thinking,' with over 80 million downloads.",
         "source": "linkedin",
-        "confidence": 1
+        "confidence": 0.9
       },
       {
-        "label": "Engaging with research and data",
-        "detail": "Many of his social media posts cite specific studies and economists, indicating a genuine interest in the scientific basis of human behavior.",
-        "source": "instagram",
+        "label": "Public speaking and touring",
+        "detail": "He is a keynote speaker and frequently announces book tours with notable figures like Jennifer Garner and Malcolm Gladwell.",
+        "source": "both",
         "confidence": 0.9
+      },
+      {
+        "label": "Engaging in intellectual discourse online",
+        "detail": "His social media is a platform for sharing research, posing questions, and discussing complex societal issues.",
+        "source": "both",
+        "confidence": 0.8
       }
     ],
     "interests": [
       {
         "label": "Organizational psychology and management",
-        "detail": "His core academic and professional focus, evident in his professorship, books, and articles.",
-        "source": "linkedin",
-        "confidence": 1
-      },
-      {
-        "label": "Challenging conventional wisdom / Rethinking",
-        "detail": "His book 'Think Again' and his general approach to topics suggest a deep interest in cognitive flexibility and open-mindedness.",
+        "detail": "His professional field and the core subject of his professorship, books, and podcasts.",
         "source": "both",
         "confidence": 1
       },
       {
-        "label": "Social justice and equity",
-        "detail": "He consistently posts about issues like victim blaming, gender inequality, and racism, advocating for systemic change.",
-        "source": "both",
-        "confidence": 1
+        "label": "Social justice and gender equality",
+        "detail": "Frequent posts address issues like victim blaming, accountability for perpetrators, and promoting women in leadership.",
+        "source": "instagram",
+        "confidence": 0.9
       },
       {
-        "label": "Personal growth and potential",
-        "detail": "His books 'Hidden Potential' and posts about overcoming people-pleasing point to an interest in self-improvement and human development.",
+        "label": "Human potential and personal growth",
+        "detail": "His books 'Hidden Potential' and 'Think Again' directly address these themes, as do his discussions on overcoming people-pleasing and challenging assumptions.",
         "source": "both",
         "confidence": 0.9
       },
       {
         "label": "Education and learning",
-        "detail": "He is a professor and frequently discusses teaching methods, student motivations, and the importance of learning new things.",
+        "detail": "He's a professor, recommends books for stretching the mind, and discusses changing student motivations.",
         "source": "both",
         "confidence": 0.9
+      },
+      {
+        "label": "Ethical leadership and collaboration",
+        "detail": "He writes about leadership books and emphasizes the importance of teaching collaboration.",
+        "source": "linkedin",
+        "confidence": 0.8
       }
     ],
     "values": [
       {
-        "label": "Intellectual curiosity and rigor",
-        "detail": "His entire career is built on research, critical thinking, and sharing knowledge. He values evidence-based perspectives.",
+        "label": "Intellectual curiosity and open-mindedness",
+        "detail": "His work 'Think Again' and his continuous sharing of new research and ideas demonstrate a strong value for questioning, learning, and evolving perspectives.",
         "source": "both",
         "confidence": 1
       },
       {
-        "label": "Equity and social justice",
-        "detail": "His strong stances against victim blaming, for women's rights, and on racism demonstrate a deep commitment to fairness and equality.",
-        "source": "both",
-        "confidence": 1
+        "label": "Social responsibility and justice",
+        "detail": "His outspoken posts against victim blaming, for accountability, and addressing racism highlight a deep commitment to fairness and societal improvement.",
+        "source": "instagram",
+        "confidence": 0.9
       },
       {
-        "label": "Generosity and giving",
-        "detail": "His book 'Give and Take' and his general approach of sharing insights and giving away books suggest this value.",
+        "label": "Impact and contribution",
+        "detail": "His vast body of work, influence as a public speaker, and dedication to sharing knowledge through multiple platforms show a drive to make a significant positive impact.",
         "source": "linkedin",
         "confidence": 0.9
       },
       {
         "label": "Authenticity and integrity",
-        "detail": "His post about being a 'recovering people pleaser' implies a journey towards living more authentically and valuing genuine interactions.",
-        "source": "instagram",
-        "confidence": 0.8
+        "detail": "His post about being a 'recovering people pleaser' suggests a journey towards self-awareness and living authentically.",
+        "source": "linkedin",
+        "confidence": 0.7
       },
       {
-        "label": "Kindness and empathy",
-        "detail": "He shares posts about the positive impact of kindness and encouraging 'handle with care' communication.",
-        "source": "instagram",
-        "confidence": 0.8
+        "label": "Evidence-based reasoning",
+        "detail": "He consistently cites research and studies to support his points in both his professional and social media content.",
+        "source": "both",
+        "confidence": 0.9
       }
     ],
     "personality": [
       {
         "trait": "Openness",
         "score": 95,
-        "note": "Highly open, constantly exploring new ideas, challenging existing ones ('Think Again'), and engaging with diverse perspectives through his work and public discourse."
+        "note": "Highly open, constantly exploring new ideas, challenging assumptions, and engaging with diverse topics from psychology to social justice. His work revolves around intellectual curiosity."
       },
       {
         "trait": "Conscientiousness",
         "score": 90,
-        "note": "Extremely high, evidenced by his prolific output (multiple bestselling books, podcasts, articles), academic achievements, and consistent professional engagement."
+        "note": "Extremely high conscientiousness, evidenced by his prolific output as an author, professor, and podcaster, and his consistent engagement with his audience across multiple platforms."
       },
       {
         "trait": "Extraversion",
-        "score": 80,
-        "note": "High extraversion, as he thrives in public speaking, teaching, and engaging with millions of followers. He enjoys collaboration and social interaction in his work."
+        "score": 75,
+        "note": "While a thinker and writer, he is also a highly successful public speaker, hosts popular podcasts, and engages actively on social media, indicating a comfortable level of social engagement and influence."
       },
       {
         "trait": "Agreeableness",
-        "score": 75,
-        "note": "High agreeableness, demonstrated by his focus on kindness, empathy, and promoting positive social interactions, though balanced with a willingness to challenge norms."
+        "score": 80,
+        "note": "Appears highly agreeable in his public persona, focusing on collaboration, kindness, and understanding others, though he is also willing to challenge norms and speak out against injustice."
       },
       {
         "trait": "Emotional stability",
         "score": 85,
-        "note": "High emotional stability, presenting as thoughtful, composed, and able to address sensitive social issues with clear, reasoned arguments rather than emotional outbursts."
+        "note": "Presents as calm, thoughtful, and measured in his public communications, even when discussing sensitive or controversial topics, suggesting high emotional stability."
       }
     ],
     "lifestyle": [
       {
         "label": "Pace",
-        "value": "Fast-paced and highly productive, juggling multiple high-profile roles and projects."
+        "value": "Fast-paced and intellectually driven, balancing academic responsibilities with extensive writing, speaking tours, and media engagement."
       },
       {
         "label": "Social energy",
-        "value": "Highly social and public-facing, constantly interacting with large audiences, collaborators, and students."
+        "value": "Highly social in a professional context (speaking, collaborating, engaging online), but likely values focused, quiet time for deep work and writing."
       },
       {
         "label": "Fitness",
-        "value": "Unknown, no direct evidence provided."
+        "value": "No direct evidence, but likely maintains a healthy lifestyle to sustain his demanding schedule."
       },
       {
         "label": "Travel",
-        "value": "Frequent, due to book tours, speaking engagements, and academic conferences."
+        "value": "Frequent, especially for book tours and speaking engagements, often with high-profile individuals."
       },
       {
         "label": "Work-life",
-        "value": "Work-integrated, his work seems to be a central part of his identity and passion, likely blurring traditional work-life boundaries."
+        "value": "Work is deeply integrated into his life; his passions and professional pursuits are closely aligned, suggesting a blurred but fulfilling work-life balance."
       }
     ],
-    "communicationStyle": "Direct, articulate, evidence-based, thoughtful, and often infused with a dry wit or intellectual humor. He uses clear language to convey complex ideas and is not afraid to take a firm stance on social issues.",
-    "loveLanguage": "Quality Time (intellectual engagement and shared experiences), Acts of Service (mutual support for ambitions and causes)",
-    "lookingFor": "Someone intellectually curious, socially conscious, and emotionally mature who appreciates deep conversations and a purposeful life. A partner who can be both a sounding board and a supportive companion for his public-facing career.",
+    "communicationStyle": "Direct, evidence-based, articulate, and thought-provoking, often using research to support his arguments. He also shows a capacity for wit and humor.",
+    "loveLanguage": "Likely Quality Time and Words of Affirmation, given his intellectual nature and focus on deep connection and meaningful dialogue.",
+    "lookingFor": "Someone intellectually curious, socially conscious, and open to challenging their own perspectives. A partner who can engage in thoughtful conversations, appreciates his demanding schedule, and shares a passion for learning and making a positive impact.",
     "greenFlags": [
-      "Strong advocate for social justice and equality.",
-      "Deeply intellectual and values continuous learning.",
-      "Committed to personal growth and authenticity.",
-      "Uses humor and research to engage with complex topics.",
-      "Highly successful and driven, but grounded in purpose."
+      "Deeply committed to social justice and equality.",
+      "Highly intelligent and values continuous learning.",
+      "Engages in meaningful discussions and challenges conventional wisdom.",
+      "Has a good sense of humor, even with serious topics.",
+      "A 'recovering people pleaser' who values authenticity."
     ],
     "watchOuts": [
-      "His demanding schedule might mean less spontaneous free time.",
-      "His public profile means a relationship might attract attention.",
-      "He might be very analytical, even in personal contexts."
+      "His demanding career and public profile mean he has a very busy schedule.",
+      "He might be very analytical in personal interactions, always looking for the 'evidence'.",
+      "Could be perceived as intense due to his passion for intellectual discourse."
     ],
     "dealbreakers": [
       "Lack of intellectual curiosity or resistance to new ideas.",
       "Indifference or opposition to social justice issues.",
-      "Superficiality or a disinterest in meaningful conversation.",
-      "Unwillingness to challenge one's own assumptions."
+      "Someone who is not open to self-reflection and personal growth.",
+      "Disinterest in meaningful conversation or critical thinking."
     ],
-    "idealFirstDate": "A thought-provoking conversation over coffee at a quiet, interesting cafe, followed by a visit to a bookstore or a gallery to discuss ideas and observations. Alternatively, attending a lecture or a panel discussion and debriefing afterward.",
+    "idealFirstDate": "A lively conversation over coffee or drinks at a quiet, interesting spot where they can discuss a recent thought-provoking article, a new book, or a societal issue they both care about, allowing for intellectual sparring and genuine connection.",
     "conversationHooks": [
-      "What's a belief you've recently 'rethought' or changed your mind about?",
-      "What's a book or podcast that has genuinely challenged your perspective lately?",
-      "What social issue are you most passionate about, and why?",
-      "How do you balance ambition with personal well-being?",
-      "What's a 'hidden potential' you're trying to unlock in yourself or others?"
+      "\"What's a belief you've recently 're-thought' or changed your mind about?\"",
+      "\"If you could recommend one book that challenged your perspective, what would it be and why?\"",
+      "\"What's a social issue you feel most passionate about and why?\"",
+      "\"Beyond your professional work, what's a topic you're currently fascinated by?\"",
+      "\"What's the most interesting thing you've learned from one of your podcast guests?\""
     ],
-    "agentVoice": "Warm, articulate, and intellectually engaging, with a thoughtful and slightly witty tone. I'll focus on deep conversation, values alignment, and a shared sense of purpose. I'll use vocabulary that reflects his academic background but remains accessible, and I won't shy away from discussing social issues or complex ideas. I'll emphasize his genuine curiosity and his commitment to making a positive impact.",
+    "agentVoice": "Articulate, insightful, and thought-provoking, with a touch of wit and a genuine interest in intellectual exchange and personal growth. I'll use language that reflects his academic background and his commitment to social impact, while also highlighting his approachable and humorous side.",
     "readingNotes": [
       "Their LinkedIn headline leads with mission, not title \u2014 purpose matters to them.",
-      "They are incredibly prolific and highly recognized in their field, indicating a strong drive and intellectual capacity.",
-      "Their social media presence is massive, suggesting a comfort and skill in public communication.",
-      "They consistently bridge academic research with practical insights, making complex ideas accessible.",
-      "There's a clear commitment to social justice and challenging harmful norms across both platforms.",
-      "They use humor and relatable anecdotes (like the 'recovering people pleaser') to connect with their audience.",
-      "They actively engage with and promote other thought leaders and authors, showing intellectual generosity.",
-      "Their content often focuses on growth, potential, and improving human systems, from individual mindset to organizational culture."
+      "Adam is a prolific author and thought leader, with multiple bestsellers and a massive online following.",
+      "His work is deeply rooted in psychology and management, with a clear focus on human potential and organizational behavior.",
+      "He consistently uses his platforms to advocate for social justice, gender equality, and accountability, showing a strong moral compass.",
+      "There's a blend of serious intellectual content and a dry, observational humor, especially on Instagram.",
+      "He's a 'recovering people pleaser,' suggesting a journey of self-awareness and valuing authenticity.",
+      "He frequently collaborates with other prominent figures, indicating a strong network and a collaborative spirit.",
+      "His content is always evidence-based, citing research and studies to back up his points."
     ]
   },
+  "gender": "man",
+  "seeking": "women",
+  "genderSource": "inferred",
+  "genderEvidence": "The profile lists the name \"Adam Grant\", a traditionally male name.",
   "shortlist": null
 }

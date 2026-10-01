@@ -16,6 +16,7 @@ export async function GET(_req: NextRequest, ctx: { params: Promise<{ id: string
     initiatedByMe: d.a === id,
     status: d.status,
     venue: d.venue,
+    scene: d.scene ?? d.venue?.scene,
     messages: d.messages.length,
     myDebrief: d.debriefs[id],
     theirDebrief: d.debriefs[d.a === id ? d.b : d.a],

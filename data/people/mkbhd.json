@@ -1,0 +1,332 @@
+{
+  "id": "mkbhd",
+  "createdAt": 1790849291387,
+  "linkedinUrl": "https://www.linkedin.com/in/mkbhd/",
+  "instagramUrl": "https://www.instagram.com/mkbhd/",
+  "status": "ready",
+  "datingStatus": "idle",
+  "log": [
+    {
+      "t": 1790849291388,
+      "step": "Opening Instagram",
+      "detail": "https://www.instagram.com/mkbhd/"
+    },
+    {
+      "t": 1790849291389,
+      "step": "Read Instagram @mkbhd",
+      "detail": "12 recent posts, bio: \u201cI promise I won't overdo the filters.\u201d \u00b7 via instagram-crawler-html (Mozilla)"
+    },
+    {
+      "t": 1790849291390,
+      "step": "Opening LinkedIn",
+      "detail": "https://www.linkedin.com/in/mkbhd/"
+    },
+    {
+      "t": 1790849291391,
+      "step": "Read LinkedIn: Marques Brownlee",
+      "detail": "Marques Brownlee - United States | Professional Profile \u00b7 0 posts/articles \u00b7 via linkedin-public-page via jina reader"
+    },
+    {
+      "t": 1790849291392,
+      "step": "\u2713 Identity check",
+      "detail": "LinkedIn and Instagram names match"
+    },
+    {
+      "t": 1790849291392,
+      "step": "Agent is reading both profiles",
+      "detail": "cross-referencing career, captions and photos"
+    },
+    {
+      "t": 1790849336758,
+      "step": "Profile analysis complete",
+      "detail": "Tech\u2011savvy creator who blends relentless curiosity with a love for competition and community."
+    },
+    {
+      "t": 1790850793307,
+      "step": "Identified as a man, looking for women",
+      "detail": "The text refers to the person as \"he\" in the LinkedIn activity caption: \"he has released videos during his finals week, graduated college and started his own business\"."
+    }
+  ],
+  "linkedin": {
+    "source": "linkedin",
+    "method": "linkedin-public-page via jina reader",
+    "slug": "mkbhd",
+    "url": "https://www.linkedin.com/in/mkbhd",
+    "name": "Marques Brownlee",
+    "headline": "Marques Brownlee - United States | Professional Profile",
+    "about": "Location: United States \u00b7 500+ connections on LinkedIn. View Marques Brownlee\u2019s profile on LinkedIn, a professional community of 1 billion members.",
+    "location": "United States",
+    "profilePic": "https://media.licdn.com/dms/image/v2/C4D03AQEwdTv8QHvZqA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1578071679803?e=2147483647&v=beta&t=Oxc-C_PE4V40NNSDCWJCykfQYFbTXrt7SKj2DV7CErU",
+    "followers": 55605,
+    "experience": [],
+    "education": [],
+    "languages": [],
+    "posts": [],
+    "activityText": "Activity 56K followers Reactions No more previous content Marques Brownlee liked this Marques Brownlee liked this Isaac Attuah Isaac Attuah 6y Marques Brownlee liked this It was both emotional and awesome to see Marques Brownlee finally cross the 10 million mark on YouTube. Over the past decade, he has released videos during his finals week, graduated college and started his own business, interviewed the likes of Bill Gates, Elon Musk and Kobe Bryant, dominated ultimate frisbee and much more. I started watching him in 2014 and since then I have seen how he has grown quickly over the years but still remained true to the MKBHD community. Here are my top 6 lessons from his channel over the past decade: #1 Make content that you will want to watch #2 Don't follow the crowd ; Be honest and be yourself #3 You can disrupt an industry even if you are the minority. #4 Competition breeds innovation #5 Consistency of thought, actions and work breeds results #6 Think.Plan.Execute It is indeed encouraging to have role models who look just like you trailblazing in the industry. Definitely an encouragement to keep working hard and breaking barriers. #marquesbrownlee #mkbhd #keith #youtube No more next content"
+  },
+  "instagram": {
+    "source": "instagram",
+    "method": "instagram-crawler-html (Mozilla)",
+    "username": "mkbhd",
+    "url": "https://www.instagram.com/mkbhd/",
+    "fullName": "Marques Brownlee",
+    "bio": "I promise I won't overdo the filters.",
+    "followers": 5288891,
+    "following": 578,
+    "postsCount": 2117,
+    "isVerified": true,
+    "isPrivate": false,
+    "profilePic": "https://scontent.cdninstagram.com/v/t51.82787-19/587817368_18545874469015447_3745195562993032801_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YOAQUIwwVwgQ7kNvwFr1nKR&_nc_oc=AdpL73sUgfofqdKDE_eigdiKvZMPfj6I7NcDnvB90rkV8uTGo8eQehrT6R9QAv0eF6l2UdD3fIIVqMw4T4GYZhtq&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=oLNvqdmH8mJqBi5nXobKbQ&_nc_ss=7f689&oh=00_AQMXwnCmI7BkLvbdd0GdItMtu_aN09LeHobCK4CCxdrGVA&oe=6AC41227",
+    "posts": [
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/809209371_18629877718015447_7052620111081774864_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=_KqDc_jIzr0Q7kNvwFdwpPj&_nc_oc=AdqNjg_7gsQBFAeQmqiScjxOpcyidWjl9Dnlt8g9GpMecnbJlb63mO78pG4cNE-Zk19Kq9YVnJWIbJGIUD6yU2iw&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=ox-2Fcw5PWxn7XnFYBQtow&_nc_ss=7f689&oh=00_AQMhwCeeXfVS8xvt-FiqLUY6Y6WFmU7FCLqBdt60AE-EhA&oe=6AC41D98",
+        "caption": "The greatest ruler/caliper I\u2019ve ever seen, sorry for getting so excited"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/802119890_918765177974092_9153122750521233822_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=kqL_AyfqxmgQ7kNvwGOl3Ec&_nc_oc=Ado-khHT34zEJ0M4g0s3qgxtuUrW3QjMxv1c06x1zguVkDVqnCOe20PksBNQVG7ukKQiI9JfsiUwVQQp92Tor236&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=ox-2Fcw5PWxn7XnFYBQtow&_nc_ss=7f689&oh=00_AQMzZC8xB1uby3ElikryKJYOXlKHlLMP_NbdOfswzZ5faw&oe=6AC40FB7",
+        "caption": "This iPhone Duo animation"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/802244481_18628126534015447_5187785863855368626_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=rfZqxq5ySJcQ7kNvwEqeesI&_nc_oc=AdogJ21fp6hfvOGcGyhPT8AVGadmi99KwucBrNBYly3raXL3pDOgw0bXuYnQttviHFOkt4GH1gPhH6KcGCmty4eG&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=ox-2Fcw5PWxn7XnFYBQtow&_nc_ss=7f689&oh=00_AQOMttIGogO8xXyL6BoZMunl8a0hbtFXD71qssxfImmUFw&oe=6AC3F2DB",
+        "caption": "Shot one OnePlus 15"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/786121610_18623329324015447_4437483294252731793_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=cq4bnEwtayIQ7kNvwGJn-72&_nc_oc=AdqbMM5k8MbS7qCfSfuBbYqoRkBQLbSThC03eryPYiIIsI61fSQ5xL46pURWB8U9x8nDtIPJSoL51GKlk43hmD5J&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=ox-2Fcw5PWxn7XnFYBQtow&_nc_ss=7f689&oh=00_AQOQOki3tGD60O7Y3YGmyBnAtqWlQfmDt1bV2Wol6n1XWA&oe=6AC3EC26",
+        "caption": "Do a flip"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/777982156_18642475966003783_1710864528637765322_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=Th3nkXG9bDMQ7kNvwEPlMq3&_nc_oc=Adq7unRVXY3qt9QcNQxPg7bAwi1e0OBXk0Y7AxEnp7ohqFjspCI_s0xtnijjiZq1ePbvmQE9lD3ZYsKQ91sCtsd7&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=ox-2Fcw5PWxn7XnFYBQtow&_nc_ss=7f689&oh=00_AQNvmt-jIqEPocmELNphncPHiT3gMxnu0KXgI13muRnlXA&oe=6AC40532",
+        "caption": "Fun fact: Marques Brownlee is the only player in league history to throw and catch a buzzer beater at Championship Weekend.\n\nCan Brownlee and New York win a fourth title in 2026?"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/762846910_18631166470037874_6281191613520396990_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=NeBvaCka-DIQ7kNvwG2B0BT&_nc_oc=AdokyFUJXN1wURwmeqQuNXrPQAB1lTKEpTKiI_4IufOJ5o9kyoFQdgkKGxnfUXaf_GyhNJe2-lJWbgp7LksTEtmz&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=ox-2Fcw5PWxn7XnFYBQtow&_nc_ss=7f689&oh=00_AQMDDGabIEM4FyHhm3zRcB5E2GbR_56GQ5O0_BG2K11tCA&oe=6AC3FD9D",
+        "caption": "IMPOSSIBLE FRISBEE SHOT (Feat. @mkbhd)"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/751915236_18611224540015447_4712126672499396660_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=A4ThiY1Hm_0Q7kNvwFSuk_Z&_nc_oc=AdrTIx9yAV4-1Uuhrr72JxWy41gFNSzVdU1WtgAUuoPeMvtHN8KdlYHOGahDgir1iTQksolA2ojV1XTvKEygmAIw&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=ox-2Fcw5PWxn7XnFYBQtow&_nc_ss=7f689&oh=00_AQP38L9Tq9w_WW-QZSZAqwW6ASLwUCZKhA9n_PlUJ65Lyw&oe=6AC3F51A",
+        "caption": "dbrand made a Steam machine skin. Trying to resist the urge to dribble it"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/753509793_18610927336015447_9194907880618181868_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=MLzJ20njAWQQ7kNvwEu4wB6&_nc_oc=AdqI2H10MRhTaOtESsQPRalNbqg9PnFsPdLN6KbN5BDCxz0_ao_helDE6AREcVlru3DWyCV2I6rD6I1pcLaDPumD&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=ox-2Fcw5PWxn7XnFYBQtow&_nc_ss=7f689&oh=00_AQMLxJWmJA-5Ytp30bGedn7-0Wt60wINRZjqusSmd5yNQQ&oe=6AC3F764",
+        "caption": "Keep zooming. Keep zooming."
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/736456378_18605276323015447_4909712949295803763_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=zHMSxFMih9gQ7kNvwH2Hahm&_nc_oc=AdrNK-FFuOcnFpS4RJlFDiJezZCoXXmt_LUd9XYJdrN815thZXc5jAWZ4pzIZUSKm_C5C79qaF8wdV2e6ezKB6fI&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=ox-2Fcw5PWxn7XnFYBQtow&_nc_ss=7f689&oh=00_AQOvTb6Dh0JK5EXbrhkCtd1KhI6r9Qy764WIJBz-HnfKGw&oe=6AC4155D",
+        "caption": "2026 is 50% complete.\n\u2593\u2593\u2593\u2593\u2593\u2593\u2593\u2593\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/729822836_18602738713015447_7006062399714887140_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=y253wwy6LdgQ7kNvwFQwVYj&_nc_oc=AdrLKwX08gOGHkIlIYorJ7zWn9q1jbZ5LQr-CcOkgtwUFjUHh-_OFeEZHtFxL96FA9GYASXr_Qk-Ea4LHcFj9t9B&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=ox-2Fcw5PWxn7XnFYBQtow&_nc_ss=7f689&oh=00_AQMdy3UTQldRkDlHZ4ryTc2dIFzZU4PJtSgfScugdCU2cw&oe=6AC3FCE3",
+        "caption": "Sheesh"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/720417640_18597523024015447_2927657862961423043_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=WdSD4GP08s4Q7kNvwFj3dHI&_nc_oc=Adrjk_dZT3f-YHjGZjbTjMoDfXnozKNtrTdEJeCN9nEv7CjRnYZ5xWqO850ot2oJ9bOoOYRGY37QmPC0ts5WGFrh&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=ox-2Fcw5PWxn7XnFYBQtow&_nc_ss=7f689&oh=00_AQMl_2bOjl_JmMRVueonM8-e6e4DmHZLzQLYtkYoi1ilsw&oe=6AC3FBCD",
+        "caption": "We out here. Shot on OnePlus 15"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/714521301_2126858848095714_7754995888518593178_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=gly4ewamjcMQ7kNvwEd3MGw&_nc_oc=Ado5U9jcESRK39BLXKJDfFg9bgLe6x9cdlJo5VBUAXFUqu6iZ_uyKfEBlZcWC8Q_1QD6CvwEML2sO6iO48HC1OvT&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=ox-2Fcw5PWxn7XnFYBQtow&_nc_ss=7f689&oh=00_AQM-RiURfHwMpH-zcTmUpqvJsOemQIhEZs9WfinLzThyXw&oe=6AC3F4C9",
+        "caption": "Apple products that don\u2019t exist\u2026 yet"
+      }
+    ]
+  },
+  "photo": "https://scontent.cdninstagram.com/v/t51.82787-19/587817368_18545874469015447_3745195562993032801_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YOAQUIwwVwgQ7kNvwFr1nKR&_nc_oc=AdpL73sUgfofqdKDE_eigdiKvZMPfj6I7NcDnvB90rkV8uTGo8eQehrT6R9QAv0eF6l2UdD3fIIVqMw4T4GYZhtq&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=oLNvqdmH8mJqBi5nXobKbQ&_nc_ss=7f689&oh=00_AQMXwnCmI7BkLvbdd0GdItMtu_aN09LeHobCK4CCxdrGVA&oe=6AC41227",
+  "analysis": {
+    "name": "Marques Brownlee",
+    "oneLiner": "Tech\u2011savvy creator who blends relentless curiosity with a love for competition and community.",
+    "summary": "Marques is a globally\u2011recognized tech reviewer and content creator who thrives on innovation, high\u2011energy challenges, and connecting with fans. His LinkedIn highlights a decade of growth, interviews with industry leaders, and a background in ultimate frisbee, while his Instagram shows a playful, competitive side\u2014frisbee tricks, sports references, and excitement over cutting\u2011edge gadgets.",
+    "location": "United States",
+    "ageRange": "unknown",
+    "career": {
+      "role": "Tech Content Creator / YouTuber",
+      "stage": "Established influencer with a decade\u2011long portfolio",
+      "ambition": "Continue disrupting tech media, expand into product design and community\u2011driven experiences"
+    },
+    "needs": [
+      {
+        "label": "Intellectual Stimulation",
+        "detail": "Regularly engages with thought\u2011leaders like Bill Gates and Elon Musk; values deep tech discussions.",
+        "source": "linkedin",
+        "confidence": 0.9
+      },
+      {
+        "label": "Shared Competitive Spirit",
+        "detail": "Posts about ultimate frisbee shots, buzzer\u2011beater moments, and \u201cDo a flip\u201d challenges.",
+        "source": "instagram",
+        "confidence": 0.85
+      },
+      {
+        "label": "Authentic Support for Creative Projects",
+        "detail": "Mentions staying true to the MKBHD community and valuing honesty in content.",
+        "source": "linkedin",
+        "confidence": 0.8
+      },
+      {
+        "label": "Balance of High Energy & Chill",
+        "detail": "Enjoys high\u2011octane frisbee tricks but also posts low\u2011key \u201ckeep zooming\u201d captions, indicating need for both excitement and calm.",
+        "source": "both",
+        "confidence": 0.75
+      }
+    ],
+    "hobbies": [
+      {
+        "label": "Ultimate Frisbee",
+        "detail": "Referenced as a dominant sport in his LinkedIn activity and appears in Instagram frisbee video.",
+        "source": "both",
+        "confidence": 0.95
+      },
+      {
+        "label": "Tech Gadget Experimentation",
+        "detail": "Posts about new phones, calipers, and speculative Apple products.",
+        "source": "instagram",
+        "confidence": 0.9
+      },
+      {
+        "label": "Creative Video Challenges",
+        "detail": "\u201cIMPOSSIBLE FRISBEE SHOT\u201d and \u201cDo a flip\u201d captions show he enjoys filming daring stunts.",
+        "source": "instagram",
+        "confidence": 0.85
+      },
+      {
+        "label": "Sports Trivia & fandom",
+        "detail": "References to buzzer\u2011beater history and championship weekends.",
+        "source": "instagram",
+        "confidence": 0.8
+      }
+    ],
+    "interests": [
+      {
+        "label": "Emerging Consumer Tech",
+        "detail": "Frequent posts about OnePlus 15, iPhone animations, and speculative Apple products.",
+        "source": "instagram",
+        "confidence": 0.95
+      },
+      {
+        "label": "Innovation & Disruption",
+        "detail": "LinkedIn post lists \u201cDisrupt an industry even if you are the minority.\u201d",
+        "source": "linkedin",
+        "confidence": 0.9
+      },
+      {
+        "label": "Community Building",
+        "detail": "Mentions staying true to the MKBHD community and encouraging fans.",
+        "source": "linkedin",
+        "confidence": 0.85
+      },
+      {
+        "label": "Competitive Sports History",
+        "detail": "Shares unique sports facts (only player to throw/catch buzzer beater).",
+        "source": "instagram",
+        "confidence": 0.8
+      },
+      {
+        "label": "Design & Aesthetics",
+        "detail": "Bio promises \u201cwon\u2019t overdo the filters,\u201d indicating care for visual presentation.",
+        "source": "instagram",
+        "confidence": 0.75
+      }
+    ],
+    "values": [
+      {
+        "label": "Authenticity",
+        "detail": "LinkedIn post stresses \u201cBe honest and be yourself.\u201d",
+        "source": "linkedin",
+        "confidence": 0.9
+      },
+      {
+        "label": "Consistency",
+        "detail": "Mentions \u201cConsistency of thought, actions and work breeds results.\u201d",
+        "source": "linkedin",
+        "confidence": 0.85
+      },
+      {
+        "label": "Innovation",
+        "detail": "Highlights disrupting industries and loving competition.",
+        "source": "linkedin",
+        "confidence": 0.85
+      }
+    ],
+    "personality": [
+      {
+        "trait": "Openness",
+        "score": 88,
+        "note": "Loves new tech, creative challenges, and exploring ideas (evidence: gadget reviews, experimental frisbee shots)."
+      },
+      {
+        "trait": "Conscientiousness",
+        "score": 80,
+        "note": "Consistent content output, disciplined career growth (LinkedIn highlights decade\u2011long consistency)."
+      },
+      {
+        "trait": "Extraversion",
+        "score": 70,
+        "note": "High social energy in sports videos and public interviews; enjoys community interaction."
+      },
+      {
+        "trait": "Agreeableness",
+        "score": 65,
+        "note": "Values community and authenticity but also thrives on competition."
+      },
+      {
+        "trait": "Emotional Stability",
+        "score": 78,
+        "note": "Handles high\u2011pressure interviews and public scrutiny with calm confidence."
+      }
+    ],
+    "lifestyle": [
+      {
+        "label": "Pace",
+        "value": "Fast\u2011moving, always chasing the next tech drop or challenge"
+      },
+      {
+        "label": "Social energy",
+        "value": "High \u2013 frequent collaborations, public interviews, and community engagement"
+      },
+      {
+        "label": "Fitness",
+        "value": "Active \u2013 regular ultimate frisbee and physical stunts"
+      },
+      {
+        "label": "Travel",
+        "value": "Frequent \u2013 travels for interviews, product launches, and events"
+      },
+      {
+        "label": "Work\u2011life",
+        "value": "Integrated \u2013 tech passion bleeds into personal time (gadgets, sports)"
+      }
+    ],
+    "communicationStyle": "Direct, enthusiastic, peppered with tech analogies and playful banter.",
+    "loveLanguage": "Acts of Service (helping test new gear, joining challenges) and Words of Appreciation (recognizing his community impact).",
+    "lookingFor": "A partner who can match his curiosity, join in physical play, and respect his drive to create and innovate.",
+    "greenFlags": [
+      "Enjoys trying new gadgets together",
+      "Shares a love for competitive sports or games",
+      "Values authenticity and honest feedback"
+    ],
+    "watchOuts": [
+      "May prioritize work/projects over downtime",
+      "High\u2011energy lifestyle could clash with very low\u2011key partners"
+    ],
+    "dealbreakers": [
+      "Dishonesty or inauthentic social media personas",
+      "Lack of interest in tech or creative challenges"
+    ],
+    "idealFirstDate": "Visit a tech exhibit or interactive museum, then grab a casual bite while swapping favorite gadget stories.",
+    "conversationHooks": [
+      "What\u2019s the most mind\u2011blowing tech you\u2019ve used this year?",
+      "Ever tried an ultimate frisbee trick shot? I\u2019d love to see yours.",
+      "Which interview or guest left the biggest impression on you?"
+    ],
+    "agentVoice": "Enthusiastic, witty, and slightly geek\u2011savvy\u2014mixing crisp tech references with relaxed humor, never over\u2011filtering the truth.",
+    "readingNotes": [
+      "LinkedIn headline is bare, focusing on location \u2013 suggests modest self\u2011presentation.",
+      "Activity feed praises his consistency and honesty \u2013 core professional values.",
+      "Instagram bio promises minimal filters \u2013 signals a preference for authenticity.",
+      "Frequent posts about extreme frisbee shots reveal a love for kinetic challenges.",
+      "Tech\u2011centric captions (OnePlus 15, iPhone Duo) show his excitement for cutting\u2011edge products."
+    ]
+  },
+  "gender": "man",
+  "seeking": "women",
+  "genderSource": "inferred",
+  "genderEvidence": "The text refers to the person as \"he\" in the LinkedIn activity caption: \"he has released videos during his finals week, graduated college and started his own business\".",
+  "shortlist": null
+}

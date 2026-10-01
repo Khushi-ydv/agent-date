@@ -1,40 +1,50 @@
 {
   "id": "lewishowes",
-  "createdAt": 1790848615113,
+  "createdAt": 1790849267405,
   "linkedinUrl": "https://www.linkedin.com/in/lewishowes/",
   "instagramUrl": "https://www.instagram.com/lewishowes/",
   "status": "ready",
   "datingStatus": "idle",
   "log": [
     {
-      "t": 1790848615115,
+      "t": 1790849267407,
       "step": "Opening Instagram",
       "detail": "https://www.instagram.com/lewishowes/"
     },
     {
-      "t": 1790848615117,
+      "t": 1790849267408,
       "step": "Read Instagram @lewishowes",
-      "detail": "12 recent posts, bio: “Host of The School of @greatness\n3x NY Times Bestseller\nDream = LA 2028 Olympics” · via instagram-crawler-html (Mozilla)"
+      "detail": "12 recent posts, bio: \u201cHost of The School of @greatness\n3x NY Times Bestseller\nDream = LA 2028 Olympics\u201d \u00b7 via instagram-crawler-html (Mozilla)"
     },
     {
-      "t": 1790848615118,
+      "t": 1790849267408,
       "step": "Opening LinkedIn",
       "detail": "https://www.linkedin.com/in/lewishowes/"
     },
     {
-      "t": 1790848615120,
+      "t": 1790849267409,
       "step": "Read LinkedIn: Lewis Howes",
-      "detail": "Lewis Howes - Greatness Media · 10 posts/articles · via linkedin-public-page (json-ld)"
+      "detail": "Lewis Howes - Greatness Media \u00b7 10 posts/articles \u00b7 via linkedin-public-page (json-ld)"
     },
     {
-      "t": 1790848615121,
+      "t": 1790849267410,
+      "step": "\u2713 Identity check",
+      "detail": "LinkedIn and Instagram names match"
+    },
+    {
+      "t": 1790849267411,
       "step": "Agent is reading both profiles",
       "detail": "cross-referencing career, captions and photos"
     },
     {
-      "t": 1790848709461,
+      "t": 1790849275193,
       "step": "Profile analysis complete",
-      "detail": "A New York Times Bestselling author and lifestyle entrepreneur, driven by a mission to inspire greatness and achieve ambitious goals, both professionally and personally."
+      "detail": "Entrepreneurial storyteller who blends personal growth with high\u2011energy sport and media hustle."
+    },
+    {
+      "t": 1790850793387,
+      "step": "Identified as a man, looking for women",
+      "detail": "The Instagram bio includes the man health/male athlete emoji \ud83e\udd3c\u200d\u2642\ufe0f next to the handball reference."
     }
   ],
   "linkedin": {
@@ -44,7 +54,7 @@
     "url": "https://www.linkedin.com/in/lewishowes",
     "name": "Lewis Howes",
     "headline": "Lewis Howes - Greatness Media",
-    "about": "Lewis Howes is a New York Times Bestselling author, lifestyle entrepreneur, high…",
+    "about": "Lewis Howes is a New York Times Bestselling author, lifestyle entrepreneur, high\u2026",
     "location": "Los Angeles, California, United States",
     "profilePic": "https://media.licdn.com/dms/image/v2/D4D03AQGY7PUKYf2_kw/profile-displayphoto-scale_200_200/B4DZ9daBOlGwAc-/0/1783978530656?e=2147483647&v=beta&t=7-COUXMpLJGrowjfnE2eS0vKnx98AQ417Cf6i6qkxqo",
     "followers": 327422,
@@ -116,7 +126,7 @@
         "date": "2024-01-31T14:00:25.000+00:00"
       }
     ],
-    "activityText": " Lewis Howes Lewis Howes 8h Lewis Howes shared this Your body often notices what your mind is still trying to rationalize. 🙌 Trust yourself enough to listen. Your mind can process the details later. Have you ever had a gut feeling that ended up being right? 💭 Lewis Howes Lewis Howes 12h Lewis Howes shared this Men trade money advice constantly. Women are taught it's gross to bring it up. Emma Grede listens to her husband on the phone with his friends, swapping notes on investments, crypto, lawyers, and deal structures. She realized she'd never had one of those calls with her girlfriends. At a panel literally called \"Women, Power and Money,\" a woman told her she talks about money too much. But nobody is coming to pull you out of obscurity and hand you what you want. If you don't ask, you don't get. What money conversation have you been avoiding? Lewis Howes Lewis Howes 20h Lewis Howes shared this There’s something powerful about trusting the process, even when you can’t see the full picture yet. You don’t need every answer. You don’t need to know exactly how it’s going to happen. Sometimes you just need enough belief to keep moving forward. 🙏 What’s something you’re choosing to trust will work out right now? 💭 Lewis Howes Lewis Howes 22h Lewis Howes shared this Research says women are attracted to men for three core reasons. The third is the one people least like to admit. First is kindness. Being good to your parents and going out of your way to help people, with no expectation of anything back. Second is intelligence, because smarter people make better decisions and protect their families. The fastest way to show it? Humor. Third is the ability to signal future resources. Not being rich now, but having your act together enough to look like a reliable provider. The catch is that fewer and fewer men fit that description. Which of these three are you building right now? Lewis Howes Lewis Howes 1d Lewis Howes shared this The seasons where nothing seems to be happening are often the seasons where everything is taking shape. 🙏 Trust the process. Your consistency, love, and dedication matter more than you realize. What are you choosing to keep believing in right now? 💭 Lewis Howes Lewis Howes 1d Lewis Howes shared this Success doesn't mean the work of getting noticed is over. Jo Koy has a Netflix special and three sold-out shows in Miami this weekend. He still asked his graphics guy for 10,000 fliers to hand out himself. His reasoning: plenty of people have never heard of him, and thinking otherwise would take a special kind of ego. He isn't asking everyone to like him. He's asking for a chance. Watch ten minutes, and if it isn't for you, that's fine. The work of showing up never really ends, no matter how far you get. Where have you stopped introducing yourself because you assumed people already knew? Lewis Howes Lewis Howes 1d Lewis Howes shared this Sometimes growth looks like letting go. 🙏 Protecting your peace isn’t selfish. It’s self-respe"
+    "activityText": " Lewis Howes Lewis Howes 8h Lewis Howes shared this Your body often notices what your mind is still trying to rationalize. \ud83d\ude4c Trust yourself enough to listen. Your mind can process the details later. Have you ever had a gut feeling that ended up being right? \ud83d\udcad Lewis Howes Lewis Howes 12h Lewis Howes shared this Men trade money advice constantly. Women are taught it's gross to bring it up. Emma Grede listens to her husband on the phone with his friends, swapping notes on investments, crypto, lawyers, and deal structures. She realized she'd never had one of those calls with her girlfriends. At a panel literally called \"Women, Power and Money,\" a woman told her she talks about money too much. But nobody is coming to pull you out of obscurity and hand you what you want. If you don't ask, you don't get. What money conversation have you been avoiding? Lewis Howes Lewis Howes 20h Lewis Howes shared this There\u2019s something powerful about trusting the process, even when you can\u2019t see the full picture yet. You don\u2019t need every answer. You don\u2019t need to know exactly how it\u2019s going to happen. Sometimes you just need enough belief to keep moving forward. \ud83d\ude4f What\u2019s something you\u2019re choosing to trust will work out right now? \ud83d\udcad Lewis Howes Lewis Howes 22h Lewis Howes shared this Research says women are attracted to men for three core reasons. The third is the one people least like to admit. First is kindness. Being good to your parents and going out of your way to help people, with no expectation of anything back. Second is intelligence, because smarter people make better decisions and protect their families. The fastest way to show it? Humor. Third is the ability to signal future resources. Not being rich now, but having your act together enough to look like a reliable provider. The catch is that fewer and fewer men fit that description. Which of these three are you building right now? Lewis Howes Lewis Howes 1d Lewis Howes shared this The seasons where nothing seems to be happening are often the seasons where everything is taking shape. \ud83d\ude4f Trust the process. Your consistency, love, and dedication matter more than you realize. What are you choosing to keep believing in right now? \ud83d\udcad Lewis Howes Lewis Howes 1d Lewis Howes shared this Success doesn't mean the work of getting noticed is over. Jo Koy has a Netflix special and three sold-out shows in Miami this weekend. He still asked his graphics guy for 10,000 fliers to hand out himself. His reasoning: plenty of people have never heard of him, and thinking otherwise would take a special kind of ego. He isn't asking everyone to like him. He's asking for a chance. Watch ten minutes, and if it isn't for you, that's fine. The work of showing up never really ends, no matter how far you get. Where have you stopped introducing yourself because you assumed people already knew? Lewis Howes Lewis Howes 1d Lewis Howes shared this Sometimes growth looks like letting go. \ud83d\ude4f Protecting your peace isn\u2019t selfish. It\u2019s self-respe"
   },
   "instagram": {
     "source": "instagram",
@@ -124,7 +134,7 @@
     "username": "lewishowes",
     "url": "https://www.instagram.com/lewishowes/",
     "fullName": "Lewis Howes",
-    "bio": "Host of The School of @greatness\n3x NY Times Bestseller\nDream = LA 2028 Olympics in Handball 🤾‍♂️ \nPresident of 2026 USA Champions @lateamhandball 🏆",
+    "bio": "Host of The School of @greatness\n3x NY Times Bestseller\nDream = LA 2028 Olympics in Handball \ud83e\udd3e\u200d\u2642\ufe0f \nPresident of 2026 USA Champions @lateamhandball \ud83c\udfc6",
     "followers": 5067947,
     "following": 2589,
     "postsCount": 9099,
@@ -134,268 +144,255 @@
     "posts": [
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/825326636_18638521351021831_7546774936009647717_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=oVMOtGHLMoQQ7kNvwEAhxow&_nc_oc=AdqtDJTCMmXPWCGgnAlp8eK2PPAO6cyWLRzrmWiX4i29lsY2Wh2V_a6V1cq7-UYRl_a4VNl6h5KGMyKZ8hTR5_83&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=L0-Ud2GPucIY2EehLPEXHw&_nc_ss=7f689&oh=00_AQNEM5fV4-YgysxYdz19WCIBjRtEsh9GDOQ-cQTcFy5nOA&oe=6AC3F8DE",
-        "caption": "Happy International Podcast Day 🎙️\n\nThe biggest lessons I’ve learned from 13 years of conversations 🙏 Which one did you need to hear today? Let me know in the comments 💭\n\nSend this to the friend you always send episodes to 🤍\n\n#internationalpodcastday #podcast #healing #growth #inspiration"
+        "caption": "Happy International Podcast Day \ud83c\udf99\ufe0f\n\nThe biggest lessons I\u2019ve learned from 13 years of conversations \ud83d\ude4f Which one did you need to hear today? Let me know in the comments \ud83d\udcad\n\nSend this to the friend you always send episodes to \ud83e\udd0d\n\n#internationalpodcastday #podcast #healing #growth #inspiration"
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/827636755_18639104236021831_6094648637052385250_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=f7oLKySBBToQ7kNvwG81Gac&_nc_oc=Adp8jfNnu4qqC0pUmLDJO-xuADF7CqVlO0280KyOS_9ERkdUbJBxJszvADK8WwEhFBLMymR4Cksig3fMFHTD_K0a&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=L0-Ud2GPucIY2EehLPEXHw&_nc_ss=7f689&oh=00_AQOz7pzVlhWWYbl8sCCL-XO9cUTrtH8zkUxZwzJkWyOaWw&oe=6AC3F73D",
-        "caption": "The story you tell yourself about yourself is creating your life 🤯 \n\nHarvard instructor, behavioral researcher & author Vanessa Van Edwards explains in today’s episode of The School of Greatness 🙏\n\nIf you want to go deeper, just comment YES & I’ll send you the full episode 💫\n\nWhat story are you telling yourself today?\n\n#manifestation #affirmations #neuroscience #lawofattraction #lawofassumption"
+        "caption": "The story you tell yourself about yourself is creating your life \ud83e\udd2f \n\nHarvard instructor, behavioral researcher & author Vanessa Van Edwards explains in today\u2019s episode of The School of Greatness \ud83d\ude4f\n\nIf you want to go deeper, just comment YES & I\u2019ll send you the full episode \ud83d\udcab\n\nWhat story are you telling yourself today?\n\n#manifestation #affirmations #neuroscience #lawofattraction #lawofassumption"
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/825322770_18637319914021831_5874486768434723560_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=Kx2loNyY1ZgQ7kNvwHpmd7U&_nc_oc=AdpJamjLHH1K5er6APbN9VYwPAkueIchm7whw7hhhl_HGvFqKunneeG4fb6oxOnVRCGt1poQS65xccm2AOSa-BWR&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=L0-Ud2GPucIY2EehLPEXHw&_nc_ss=7f689&oh=00_AQMhkSrqG3l7LEdqF3bN1gegX6PcR21DpbEqevcmzMmCIg&oe=6AC3E8B4",
-        "caption": "Take this as your sign to stop playing it safe 🙏\n\nDid you need to hear this today? 💛\n\n#taketherisk #keepgoing #inspiration #believe #liveyourdream"
+        "caption": "Take this as your sign to stop playing it safe \ud83d\ude4f\n\nDid you need to hear this today? \ud83d\udc9b\n\n#taketherisk #keepgoing #inspiration #believe #liveyourdream"
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/828649888_18638774704021831_6276253008512011640_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=oHzbpaM2Zt0Q7kNvwHd0yq2&_nc_oc=AdpSuQOMthax8xS9aLvpoYadm12NFWFhVaMnWS0sK02lud1JnIJDH6A_bgbp6genwyDOuLliTLgqeW12EvH31HLg&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=L0-Ud2GPucIY2EehLPEXHw&_nc_ss=7f689&oh=00_AQMV2K1g9soKK2huFe9Iq8QcDYYG8Wq9Po8RcF2fsaHgEQ&oe=6AC41CC4",
-        "caption": "What she says at the end is so important 🙏 \n\nCEO & entrepreneur @emmagrede breaks down the stigma women continue to experience when talking about money & how she’s had to navigate it in her career 🤯 \n\nHave you experienced this too? Let me know your thoughts in the comments 💭\n\n#womeninspiringwomen #femaleempowerment #money #womeninbusiness #entrepreneur"
+        "caption": "What she says at the end is so important \ud83d\ude4f \n\nCEO & entrepreneur @emmagrede breaks down the stigma women continue to experience when talking about money & how she\u2019s had to navigate it in her career \ud83e\udd2f \n\nHave you experienced this too? Let me know your thoughts in the comments \ud83d\udcad\n\n#womeninspiringwomen #femaleempowerment #money #womeninbusiness #entrepreneur"
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/829973016_18638758036021831_7072183570921096901_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=1XOIUR8xjQ0Q7kNvwH6HF5S&_nc_oc=AdpwJX8T9bIY7CFxUtgPKupEypmCvvh8MFqKMJKCujfrH1eJMw54rTQQEEpSaGlr1NnamJoJuB6YRkVtClWbnRmr&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=L0-Ud2GPucIY2EehLPEXHw&_nc_ss=7f689&oh=00_AQNAOn8f7cDgF5eozmwasvUoefv6Z-IfzMknJLvrgOKApA&oe=6AC3FDB8",
-        "caption": "“Science misses one point, and really, it took death for me to understand this” 🤯 NYT bestselling author @anitamoorjani reveals the realization she had during her NDE that saved her life 🙏\n\nDo you find yourself getting stuck in fear? Has it ever affected your health? Let me know your thoughts & experiences in the comments ❤️‍🩹\n\n#selfhealing #nde #awakening #manifestation #consciousness"
+        "caption": "\u201cScience misses one point, and really, it took death for me to understand this\u201d \ud83e\udd2f NYT bestselling author @anitamoorjani reveals the realization she had during her NDE that saved her life \ud83d\ude4f\n\nDo you find yourself getting stuck in fear? Has it ever affected your health? Let me know your thoughts & experiences in the comments \u2764\ufe0f\u200d\ud83e\ude79\n\n#selfhealing #nde #awakening #manifestation #consciousness"
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/825269464_18637319485021831_6990943306604340310_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=pVqxL8FXKQgQ7kNvwFGY4Wj&_nc_oc=AdrWxceKM34sIajMjMRgIgAIeVvfwUdYLe0sO6yFIF1-ZX9-PGus9AN7l1GFsTpWtV6LMdIvWYkA70daYi61apNG&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=L0-Ud2GPucIY2EehLPEXHw&_nc_ss=7f689&oh=00_AQN-rm51ovE6c5qa8CbB5uYmXdZPgRSVodt8KoCHzXOufA&oe=6AC3FDB6",
-        "caption": "How has your life changed since last September? 💭\n\n#reflection #perspective #gratitude #presence #change"
+        "caption": "How has your life changed since last September? \ud83d\udcad\n\n#reflection #perspective #gratitude #presence #change"
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t15.5256-10/824358065_1125223096705652_1864562984769441976_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=bDejBgPiZGAQ7kNvwGlwajx&_nc_oc=AdoCkWZOYSgbco4PL4536sFw69ajxm2Wzz_7Js9OVaiup-mvhanxcYnNpHiIPnpCG8uxjXz6c-vaT0iyf2oGzfJ9&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=L0-Ud2GPucIY2EehLPEXHw&_nc_ss=7f689&oh=00_AQOPAaEdGUb21Ig_6zFqkzDtZSAOu5r80L-IKNCDqMKYbQ&oe=6AC40F9F",
-        "caption": "Stop checking if their grass is greener 🌱\n\nLove yours. Take care of it. Let it be enough 🤍\n\nSend this to someone who needs the reminder today 🙏\n\n✍️ @lette.ceramics\n\n#selflove #gratitude #contentment #innerpeace #enoughness"
+        "caption": "Stop checking if their grass is greener \ud83c\udf31\n\nLove yours. Take care of it. Let it be enough \ud83e\udd0d\n\nSend this to someone who needs the reminder today \ud83d\ude4f\n\n\u270d\ufe0f @lette.ceramics\n\n#selflove #gratitude #contentment #innerpeace #enoughness"
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/825269700_18638414632021831_2853673922738207614_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=7csR0xgiczcQ7kNvwF7gjzY&_nc_oc=AdqvmjZg5J78jbrPgoxOg1vR1k4IdQzEj-MzimBS4ejzJNBTVvDNvfxn4VQ2GXE4aF7oz6csohGfWUa3LvOFq75_&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=L0-Ud2GPucIY2EehLPEXHw&_nc_ss=7f689&oh=00_AQMDlamA2-Re7TmiLtqiNGeeIskLbRi6A93sl2cXZlE1WA&oe=6AC3EE77",
-        "caption": "Why Jo Koy STILL passes out flyers to his sold out shows 🤯 He explains in today’s episode of The School of Greatness 🙏\n\nJust comment JO & I’ll send you the full episode 💫 \n\nIf you’re ready to uplevel your mindset & take meaningful action towards making your dreams come true, you won’t want to miss this inspiring conversation ✨\n\nMake sure to come back & let me know your thoughts once you’ve watched or listened! \n\n#successmindset #standup #comedy #jokoy #comedian"
+        "caption": "Why Jo Koy STILL passes out flyers to his sold out shows \ud83e\udd2f He explains in today\u2019s episode of The School of Greatness \ud83d\ude4f\n\nJust comment JO & I\u2019ll send you the full episode \ud83d\udcab \n\nIf you\u2019re ready to uplevel your mindset & take meaningful action towards making your dreams come true, you won\u2019t want to miss this inspiring conversation \u2728\n\nMake sure to come back & let me know your thoughts once you\u2019ve watched or listened! \n\n#successmindset #standup #comedy #jokoy #comedian"
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/795767264_18636998149021831_3306870741136650247_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=JBxJV9HEW9QQ7kNvwHx06oA&_nc_oc=Ado8vuOvDr-Axh6omJO4-pcIw1VGQa1intJgBnsgRi0UrftzvzAxiITHduzZDcnK4550fiUPs5rGH9lbAP1OhHoL&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=L0-Ud2GPucIY2EehLPEXHw&_nc_ss=7f689&oh=00_AQNxNmgIxfmQ70j0rTsla1hloLQJFrpD7R82bfiTlJKAnQ&oe=6AC3E548",
-        "caption": "Who stuck by you during your hardest season, without judging you for how you got through it? ❤️‍🩹\n\n#healing #truefriends #keepgoing #relationships #selflove"
+        "caption": "Who stuck by you during your hardest season, without judging you for how you got through it? \u2764\ufe0f\u200d\ud83e\ude79\n\n#healing #truefriends #keepgoing #relationships #selflove"
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/825324499_18637337053021831_4625137443285701471_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=TM0ITW1bHJgQ7kNvwGVVOZd&_nc_oc=AdqToVvza73jhqpbmEMQWdshyRZQmPfL7YrF_sYWJpaoKVaRkAYHqn6HuGjANhkxp_tPWHjJ18MxNyGeLRfccVD6&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=L0-Ud2GPucIY2EehLPEXHw&_nc_ss=7f689&oh=00_AQOdYRqPHHJLiNeLBFiR4JUcYupjr7v4fvSWrotacl1B-g&oe=6AC3EC5B",
-        "caption": "The mindset behind sold-out arenas & shattered box-office records 🤯 Legendary comedian @jokoy opens up in this brand new episode of The School of Greatness 🙏\n\nFull episode drops TOMORROW, September 28th 💫\n\nWill you be there!? Let me know in the comments! \n\n#standupcomedy #comedian #successmindset #jokoy #comedy"
+        "caption": "The mindset behind sold-out arenas & shattered box-office records \ud83e\udd2f Legendary comedian @jokoy opens up in this brand new episode of The School of Greatness \ud83d\ude4f\n\nFull episode drops TOMORROW, September 28th \ud83d\udcab\n\nWill you be there!? Let me know in the comments! \n\n#standupcomedy #comedian #successmindset #jokoy #comedy"
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/822536093_18636611215021831_2023448568399351789_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=5L_eMQslnAAQ7kNvwHebeS0&_nc_oc=Adpo_hV7iqk07QbLLMTTHh2cZ6Qzy1u66N5JATzcKOGXSz_SYstDMLQPs_-075Yi1289uxPf7J5GUNzs2OdC6JFR&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=L0-Ud2GPucIY2EehLPEXHw&_nc_ss=7f689&oh=00_AQM2qfeI1r6LmIez4jEOEDGxg5oipN7PhGP2kcfpvVqvuA&oe=6AC3EFE8",
-        "caption": "What’s one thing you’re grateful for today? 🤍\n\nLet me know in the comments 💭\n\n#perspective #presence #gratitude #inspiration #mindfulness"
+        "caption": "What\u2019s one thing you\u2019re grateful for today? \ud83e\udd0d\n\nLet me know in the comments \ud83d\udcad\n\n#perspective #presence #gratitude #inspiration #mindfulness"
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/823221881_18637020793021831_6252010922376773698_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=W1OzxwZj15EQ7kNvwGad8t9&_nc_oc=Adqy3RMrXgCpd5d_IsqCLYVXD-dcvD5FDPGiESMt_G3wbEjfeQKx9SFys3ixEb7PGZI1hc50YSXfJa4H1w0WYIyA&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=L0-Ud2GPucIY2EehLPEXHw&_nc_ss=7f689&oh=00_AQOde93yyxiTKT9WKZgTvJPt8qHNhU6LXSamxs3ZgYzvmw&oe=6AC41C29",
-        "caption": "I wish someone told me this sooner 🙏\n\nThe moment you start believing in yourself is the moment everything around you starts to change 💫\n\nWhat’s one daily habit that reminds you that you’re capable? Let me know in the comments 💛\n\n#selfbelief #confidence #mindset #selflove #motivation"
+        "caption": "I wish someone told me this sooner \ud83d\ude4f\n\nThe moment you start believing in yourself is the moment everything around you starts to change \ud83d\udcab\n\nWhat\u2019s one daily habit that reminds you that you\u2019re capable? Let me know in the comments \ud83d\udc9b\n\n#selfbelief #confidence #mindset #selflove #motivation"
       }
     ]
   },
   "photo": "https://scontent.cdninstagram.com/v/t51.2885-19/336311397_708951537688057_3291753694936664018_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy43NTMuQzMifQ%3D%3D&_nc_ohc=KQ1tSkA0jFUQ7kNvwFhp8l1&_nc_oc=AdoiXk1eVBvanLKObFaDLyZv951OwJQrBfuCSxgbwIQ6SD_nXAoT6RxzeGv-SY24swOH-xmUE-RnSQdCkYgnSxtd&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=7f689&oh=00_AQNaaLXfPYyKIcaWOz-35UtnO4u5Iy6bNtHHuVOLcdr2Lw&oe=6AC40775",
-  "shortlist": null,
   "analysis": {
     "name": "Lewis Howes",
-    "oneLiner": "A New York Times Bestselling author and lifestyle entrepreneur, driven by a mission to inspire greatness and achieve ambitious goals, both professionally and personally.",
-    "summary": "Lewis Howes is a highly driven individual, a New York Times Bestselling author, and the host of 'The School of Greatness' podcast. He's deeply invested in personal growth, mindset, and empowering others to achieve their potential. His professional life is characterized by entrepreneurship and media, while his personal passions include handball, with a clear aspiration to compete in the Olympics. He values kindness, intelligence, and a partner who is also building towards their future.",
+    "oneLiner": "Entrepreneurial storyteller who blends personal growth with high\u2011energy sport and media hustle.",
+    "summary": "Lewis is a bestselling author, host of The School of Greatness, and a media entrepreneur based in Los Angeles. He constantly shares mindset, manifestation, and financial\u2011empowerment content while also championing handball and Olympic ambitions. His public persona mixes polished thought\u2011leadership with a hands\u2011on, playful side that loves sport, podcasts, and community\u2011building.",
     "location": "Los Angeles, California, United States",
     "ageRange": "unknown",
     "career": {
-      "role": "Lifestyle Entrepreneur, Author, Podcaster",
-      "stage": "Established and highly influential, with a significant media presence.",
-      "ambition": "To continue expanding his media empire (Greatness Media, The Greatness Network), write bestsellers, and achieve a personal dream of competing in the 2028 LA Olympics for handball."
+      "role": "Founder & Host of Greatness Media / The School of Greatness",
+      "stage": "Established entrepreneur / Thought\u2011leader",
+      "ambition": "Scale his media empire, launch the 2028 LA Olympics handball team, and expand his influence in personal\u2011development publishing."
     },
     "needs": [
       {
-        "label": "Intellectual Stimulation",
-        "detail": "His content consistently features deep conversations with experts on various topics like neuroscience, manifestation, and business, indicating a need for a partner who can engage in thoughtful discussions.",
-        "source": "both",
+        "label": "Intellectual curiosity",
+        "detail": "Frequently posts about neuroscience, manifestation, and invites deep conversation in comments.",
+        "source": "instagram",
         "confidence": 0.9
       },
       {
-        "label": "Shared Ambition & Growth Mindset",
-        "detail": "His entire brand is built around 'greatness,' 'manifestation,' 'dreaming big,' and 'taking risks.' He would need a partner who is also striving for personal and professional growth.",
-        "source": "both",
+        "label": "Support for his athletic dreams",
+        "detail": "Dream of LA 2028 Olympics in Handball and presidency of 2026 USA Champions team.",
+        "source": "instagram",
         "confidence": 0.95
       },
       {
-        "label": "Emotional Support & Trust",
-        "detail": "Posts about 'trusting the process,' 'noticing what your body rationalizes,' and 'who stuck by you during your hardest season, without judging you' suggest a need for deep emotional connection and unwavering support.",
-        "source": "linkedin",
-        "confidence": 0.8
+        "label": "Emotional encouragement",
+        "detail": "Shares gratitude, self\u2011love, and healing prompts, asking followers to reflect on hard seasons.",
+        "source": "instagram",
+        "confidence": 0.85
       },
       {
-        "label": "Respect for his mission",
-        "detail": "His life seems deeply intertwined with his mission of inspiring greatness. A partner would need to understand and respect this driving force, rather than see it as just a job.",
-        "source": "both",
-        "confidence": 0.9
+        "label": "Financial transparency & partnership",
+        "detail": "Writes about money conversations, gender money stigma, and the need to ask for resources.",
+        "source": "linkedin",
+        "confidence": 0.8
       }
     ],
     "hobbies": [
       {
-        "label": "Handball",
-        "detail": "He explicitly states his dream to play in the 'LA 2028 Olympics in Handball' and is the 'President of 2026 USA Champions @lateamhandball.'",
+        "label": "Podcast hosting",
+        "detail": "Hosts The School of Greatness, celebrates International Podcast Day.",
         "source": "instagram",
-        "confidence": 1
+        "confidence": 0.95
       },
       {
-        "label": "Podcasting/Interviewing",
-        "detail": "Host of 'The School of Greatness' for 13 years, constantly sharing lessons from conversations.",
-        "source": "both",
-        "confidence": 1
-      },
-      {
-        "label": "Writing",
-        "detail": "He is a '3x NY Times Bestseller' and frequently publishes articles on LinkedIn.",
-        "source": "both",
-        "confidence": 1
-      },
-      {
-        "label": "Personal Development Practices",
-        "detail": "Refers to '5 Daily Practices to Create Abundance,' 'manifestation,' 'gratitude,' and 'mindfulness' in his posts.",
-        "source": "both",
+        "label": "Handball training/competition",
+        "detail": "President of 2026 USA Champions team; dreams of Olympic handball.",
+        "source": "instagram",
         "confidence": 0.9
+      },
+      {
+        "label": "Reading/self\u2011education",
+        "detail": "References NYT bestsellers, behavioral research, and personal\u2011growth books.",
+        "source": "instagram",
+        "confidence": 0.85
+      },
+      {
+        "label": "Public speaking / panel participation",
+        "detail": "Shares clips of panels on women, money, and entrepreneurship.",
+        "source": "linkedin",
+        "confidence": 0.8
       }
     ],
     "interests": [
       {
-        "label": "Personal Growth & Self-Improvement",
-        "detail": "His entire content ecosystem revolves around 'healing, growth, inspiration,' 'mindset,' 'self-belief,' and 'manifestation.'",
-        "source": "both",
-        "confidence": 1
-      },
-      {
-        "label": "Psychology & Behavioral Science",
-        "detail": "Features guests like 'Harvard instructor, behavioral researcher & author Vanessa Van Edwards' and discusses 'neuroscience' and 'law of attraction.'",
-        "source": "instagram",
-        "confidence": 0.9
-      },
-      {
-        "label": "Entrepreneurship & Business Strategy",
-        "detail": "His LinkedIn posts discuss 'Navigating Business, Confidence & Connections' and 'Using The 3 Levels of Accountability For Success.' He also features CEO Emma Grede.",
-        "source": "both",
-        "confidence": 0.9
-      },
-      {
-        "label": "Mental Health & Well-being",
-        "detail": "Shared an article for 'World Mental Health Day' and discusses 'healing' and 'self-healing.'",
-        "source": "both",
-        "confidence": 0.9
-      },
-      {
-        "label": "Financial Literacy & Empowerment",
-        "detail": "Shared posts about 'If Money Were A Person' and Emma Grede discussing 'women and money.'",
-        "source": "linkedin",
-        "confidence": 0.8
-      }
-    ],
-    "values": [
-      {
-        "label": "Ambition & Achievement",
-        "detail": "His bio states a dream to play in the Olympics, he's a bestselling author, and his brand is 'Greatness.' He constantly encourages 'Dare To Dream BIG' and 'taking meaningful action.'",
-        "source": "both",
-        "confidence": 1
-      },
-      {
-        "label": "Integrity & Authenticity",
-        "detail": "He values 'kindness' and 'going out of your way to help people, with no expectation of anything back.' He also discusses 'trusting yourself enough to listen' to gut feelings.",
-        "source": "linkedin",
-        "confidence": 0.8
-      },
-      {
-        "label": "Contribution & Empowerment",
-        "detail": "His work is centered on sharing lessons and inspiring others, evident in his podcast's mission and frequent calls to action for self-improvement.",
+        "label": "Personal development & mindset",
+        "detail": "Posts about manifestation, gratitude, and self\u2011belief.",
         "source": "both",
         "confidence": 0.95
       },
       {
-        "label": "Resilience & Perseverance",
-        "detail": "Posts about 'trusting the process, even when you can’t see the full picture' and 'stop playing it safe' highlight a belief in pushing through challenges.",
+        "label": "Financial empowerment",
+        "detail": "Writes about money conversations, investment talks, and resource signaling.",
+        "source": "linkedin",
+        "confidence": 0.85
+      },
+      {
+        "label": "Sports & Olympic ambition",
+        "detail": "Handball leadership and Olympic goal.",
+        "source": "instagram",
+        "confidence": 0.9
+      },
+      {
+        "label": "Storytelling & media production",
+        "detail": "Runs Greatness Media, hosts a podcast, shares episode teasers.",
         "source": "both",
         "confidence": 0.9
       },
       {
-        "label": "Gratitude",
-        "detail": "He frequently asks followers 'What’s one thing you’re grateful for today?' and mentions 'gratitude' in his reflections.",
+        "label": "Community building",
+        "detail": "Encourages followers to comment, share episodes, and support each other.",
         "source": "instagram",
+        "confidence": 0.85
+      }
+    ],
+    "values": [
+      {
+        "label": "Growth mindset",
+        "detail": "Repeatedly urges audience to trust the process and take risks.",
+        "source": "linkedin",
         "confidence": 0.9
+      },
+      {
+        "label": "Authenticity",
+        "detail": "Shares personal reflections on fear, NDE experiences, and vulnerability.",
+        "source": "instagram",
+        "confidence": 0.85
+      },
+      {
+        "label": "Service to others",
+        "detail": "Talks about kindness, helping parents, and supporting friends through hard seasons.",
+        "source": "linkedin",
+        "confidence": 0.8
       }
     ],
     "personality": [
       {
         "trait": "Openness",
-        "score": 90,
-        "note": "Highly open, constantly exploring new ideas, interviewing diverse experts, and embracing concepts like manifestation, neuroscience, and alternative healing."
+        "score": 85,
+        "note": "Loves new ideas, neuroscience, and creative sport projects."
       },
       {
         "trait": "Conscientiousness",
-        "score": 95,
-        "note": "Extremely high. He's a NYT Bestselling author, runs a media empire, and has an Olympic-level athletic goal, all requiring immense discipline, planning, and follow-through."
+        "score": 78,
+        "note": "Runs a media company, publishes regularly, disciplined about habits."
       },
       {
         "trait": "Extraversion",
-        "score": 85,
-        "note": "Highly extraverted. He thrives on public speaking, interviewing, and engaging with a massive audience across multiple platforms."
+        "score": 88,
+        "note": "Public speaker, podcast host, engages heavily with audience."
       },
       {
         "trait": "Agreeableness",
         "score": 70,
-        "note": "High agreeableness, emphasizing kindness, helping others, and building strong relationships. His content promotes understanding and empathy."
+        "note": "Emphasizes kindness and community, but also talks about resource signaling."
       },
       {
-        "trait": "Emotional stability",
-        "score": 80,
-        "note": "High emotional stability. He consistently promotes a positive, resilient mindset, focusing on growth, trust, and overcoming challenges, suggesting a stable internal state."
+        "trait": "Emotional Stability",
+        "score": 65,
+        "note": "Open about fear and vulnerability; handles high\u2011visibility roles."
       }
     ],
     "lifestyle": [
       {
         "label": "Pace",
-        "value": "Fast-paced and highly driven. He juggles multiple major projects (podcast, books, media company, athletic training) and constantly pushes for growth and achievement."
+        "value": "Fast\u2011moving, multiple projects simultaneously"
       },
       {
         "label": "Social energy",
-        "value": "Highly social and engaging. His work involves constant interaction, interviewing, and community building with millions of followers. He enjoys deep conversations."
+        "value": "High \u2013 thrives on networking, panels, and audience interaction"
       },
       {
         "label": "Fitness",
-        "value": "Very active and dedicated to fitness, with a clear goal of competing in the Olympics for handball. This implies a rigorous training regimen."
+        "value": "Active \u2013 handball training and regular sport involvement"
       },
       {
         "label": "Travel",
-        "value": "Likely frequent, given his public figure status, interviews, and potential international handball commitments, though not explicitly stated as a hobby."
+        "value": "Frequent \u2013 speaking tours, podcast recordings, Olympic ambitions"
       },
       {
-        "label": "Work-life",
-        "value": "Blended and purpose-driven. His 'work' (inspiring greatness) seems deeply integrated into his personal values and daily life, suggesting long hours but high fulfillment."
+        "label": "Work\u2011life",
+        "value": "Blended \u2013 personal growth content often overlaps with personal life"
       }
     ],
-    "communicationStyle": "Inspirational, direct, thoughtful, and encouraging. He uses questions to prompt reflection and values deep, meaningful conversations.",
-    "loveLanguage": "Words of Affirmation (through encouragement and inspiration) and Quality Time (through deep conversations and shared experiences).",
-    "lookingFor": "A partner who is kind, intelligent, ambitious, and actively building towards their future. Someone who values personal growth, can engage in deep conversations, and is supportive of his big dreams and mission.",
+    "communicationStyle": "Enthusiastic, question\u2011driven, and supportive; he often frames ideas as challenges or reflections.",
+    "loveLanguage": "Words of affirmation & quality time (frequent deep conversations, shared learning experiences).",
+    "lookingFor": "A partner who can match his curiosity, cheer his athletic pursuits, and engage in purposeful dialogue.",
     "greenFlags": [
-      "Deeply values kindness and helping others.",
-      "Highly ambitious and goal-oriented, inspiring those around him.",
-      "Committed to personal growth and self-improvement.",
-      "Seeks intellectual connection and meaningful conversations."
+      "Enjoys deep, growth\u2011focused conversations",
+      "Supports his handball/fitness goals",
+      "Shares a love for personal development content"
     ],
     "watchOuts": [
-      "His intense focus on 'greatness' and achievement might mean a very demanding schedule.",
-      "His public persona means a certain level of exposure for a partner."
+      "May prioritize projects over downtime",
+      "Can be overly analytical in emotional moments"
     ],
     "dealbreakers": [
-      "Lack of ambition or a fixed mindset.",
-      "Disinterest in personal growth or self-improvement.",
-      "Someone who doesn't value kindness or integrity.",
-      "A partner who isn't supportive of his athletic or professional aspirations."
+      "Dismisses personal growth or self\u2011reflection",
+      "Shows no interest in his athletic ambitions"
     ],
-    "idealFirstDate": "A stimulating activity that allows for deep conversation, perhaps a walk and talk in nature, or a visit to a thought-provoking exhibition followed by dinner. Something that allows both to share their passions and dreams.",
+    "idealFirstDate": "A relaxed brunch at a rooftop caf\u00e9 followed by a quick handball demo or a walk through a museum of modern art where they can discuss mindset ideas.",
     "conversationHooks": [
-      "What's a big dream you're currently working towards, and what's your 'why' behind it?",
-      "What's a recent lesson you've learned that significantly shifted your perspective?",
-      "If you could have a conversation with any historical figure, who would it be and what would you ask them?",
-      "What's a daily practice that helps you feel grounded and capable?"
+      "What story are you telling yourself about your biggest goal right now?",
+      "If you could design a sport for the Olympics, what would it be and why?",
+      "Which book or podcast episode has shifted your perspective lately?",
+      "How do you balance high\u2011energy projects with moments of stillness?"
     ],
-    "agentVoice": "Confident, inspiring, articulate, and genuinely curious. I'll use language that reflects personal growth, ambition, and a positive mindset, while also showing a warm, engaging, and thoughtful side. I'll ask open-ended questions that invite deeper connection and shared vision.",
+    "agentVoice": "Warm, upbeat, and slightly witty \u2013 I\u2019ll mirror Lewis\u2019s enthusiasm for growth while sprinkling in playful curiosity, using inclusive language and occasional light\u2011hearted analogies.",
     "readingNotes": [
-      "Their LinkedIn headline leads with 'Greatness Media' — purpose and brand identity are paramount.",
-      "There's a strong emphasis on mindset, manifestation, and personal responsibility across both platforms.",
-      "The Olympic handball dream is a huge, concrete personal goal that stands out from the professional content.",
-      "He actively seeks engagement from his audience, frequently asking reflective questions in posts.",
-      "There's a consistent theme of empowering women, particularly around financial conversations, which is interesting.",
-      "He values both intellectual rigor (Harvard instructor) and spiritual/experiential wisdom (NDE survivor).",
-      "The content is very polished and curated, reflecting a professional and aspirational brand.",
-      "He clearly values long-term commitment and trust, as seen in the 'who stuck by you' post."
+      "His LinkedIn headline emphasizes Greatness Media, not a job title \u2013 brand identity matters.",
+      "Instagram bio proudly lists a handball Olympic dream \u2013 sport is a core personal driver.",
+      "Frequent posts ask followers to reflect, showing he values introspection.",
+      "He blends business advice with relationship and money stigma topics \u2013 holistic view of success.",
+      "Has a massive Instagram following, indicating comfort with large\u2011scale audience engagement.",
+      "Uses gratitude and self\u2011love hashtags, revealing a daily mindfulness practice."
     ]
-  }
+  },
+  "gender": "man",
+  "seeking": "women",
+  "genderSource": "inferred",
+  "genderEvidence": "The Instagram bio includes the man health/male athlete emoji \ud83e\udd3c\u200d\u2642\ufe0f next to the handball reference.",
+  "shortlist": null
 }

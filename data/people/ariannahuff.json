@@ -1,40 +1,50 @@
 {
   "id": "ariannahuff",
-  "createdAt": 1790848559438,
+  "createdAt": 1790849106210,
   "linkedinUrl": "https://www.linkedin.com/in/ariannahuffington/",
   "instagramUrl": "https://www.instagram.com/ariannahuff/",
   "status": "ready",
   "datingStatus": "idle",
   "log": [
     {
-      "t": 1790848559439,
+      "t": 1790849106212,
       "step": "Opening Instagram",
       "detail": "https://www.instagram.com/ariannahuff/"
     },
     {
-      "t": 1790848559440,
+      "t": 1790849106213,
       "step": "Read Instagram @ariannahuff",
       "detail": "12 recent posts, bio: \u201cMother. Sister. Yiayia. @HuffPost Founder. Founder & CEO, @Thrive Global. On a m\u201d \u00b7 via instagram-crawler-html (Mozilla)"
     },
     {
-      "t": 1790848559440,
+      "t": 1790849106213,
       "step": "Opening LinkedIn",
       "detail": "https://www.linkedin.com/in/ariannahuffington/"
     },
     {
-      "t": 1790848559440,
+      "t": 1790849106216,
       "step": "Read LinkedIn: Arianna Huffington",
       "detail": "Arianna Huffington - Thrive Global \u00b7 10 posts/articles \u00b7 via linkedin-public-page (json-ld)"
     },
     {
-      "t": 1790848559441,
+      "t": 1790849106217,
+      "step": "\u2713 Identity check",
+      "detail": "LinkedIn and Instagram names match"
+    },
+    {
+      "t": 1790849106219,
       "step": "Agent is reading both profiles",
       "detail": "cross-referencing career, captions and photos"
     },
     {
-      "t": 1790848615108,
+      "t": 1790849145909,
       "step": "Profile analysis complete",
-      "detail": "A visionary leader and media mogul dedicated to redefining success through well-being and human wisdom in the age of AI."
+      "detail": "Seeking a partner to share in the dance of making things happen and letting things happen."
+    },
+    {
+      "t": 1790850791518,
+      "step": "Identified as a woman, looking for men",
+      "detail": "Instagram bio: \"Mother. Sister. Yiayia.\""
     }
   ],
   "linkedin": {
@@ -182,232 +192,204 @@
   "photo": "https://scontent.cdninstagram.com/v/t51.2885-19/84977938_186622385989460_7160645041545805824_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=6VOOs1mE56cQ7kNvwGEd7vT&_nc_oc=AdqY6SJxCXrM5dhVxXm_DU_FQg8OLsUJkrdh0LuXi81gFU4wGqxgCkXqJ_xyYa3naf4s3vOSTYD9EEfonT7Lebyx&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=7f689&oh=00_AQMyCWA6YzH-3T9detB4_f2VgdjSIEZGCEwYkb-HoiGGVQ&oe=6AC41A92",
   "analysis": {
     "name": "Arianna Huffington",
-    "oneLiner": "A visionary leader and media mogul dedicated to redefining success through well-being and human wisdom in the age of AI.",
-    "summary": "Arianna Huffington is the founder and CEO of Thrive Global, a behavior change technology company focused on improving health outcomes and productivity. She is also the founder of The Huffington Post. Her work centers on the intersection of technology, well-being, and human potential, advocating for a shift from reactive healthcare to proactive 'well-care' and emphasizing the importance of sleep, stress management, and connection. She is a prolific writer and speaker, actively engaging with topics like AI, brain health, and the balance between ambition and personal well-being. Her public persona is one of an influential thought leader who values family, wisdom, and making a positive societal impact.",
+    "oneLiner": "Seeking a partner to share in the dance of making things happen and letting things happen.",
+    "summary": "A global voice of wisdom, media pioneer, and wellness advocate who loves hosting vibrant salons, reading poetry, and protecting the quiet spaces of life. She is looking for an intellectual equal who values deep presence, mindful living, and a warm, heart-centered relationship.",
     "location": "New York, New York, United States",
-    "ageRange": "unknown",
+    "ageRange": "70s",
     "career": {
       "role": "Founder & CEO, Thrive Global",
-      "stage": "Established leader/visionary",
-      "ambition": "To scale behavior change for better health outcomes globally, influencing the conversation around technology, well-being, and human wisdom."
+      "stage": "Legacy Icon & Thought Leader",
+      "ambition": "Redefining global productivity through the lens of well-being, brain health, and human wisdom."
     },
     "needs": [
       {
-        "label": "Intellectual partnership",
-        "detail": "Her posts and articles frequently delve into complex topics like AI, brain health, and societal shifts, indicating a need for a partner who can engage with these ideas thoughtfully.",
-        "source": "linkedin",
-        "confidence": 0.9
-      },
-      {
-        "label": "Shared commitment to well-being",
-        "detail": "Her entire professional focus is on 'thriving' through better health, sleep, and stress management. A partner who understands and ideally practices these principles would be essential.",
+        "label": "Intellectual Peer",
+        "detail": "Needs a partner who can hold their own in deep, wide-ranging conversations about AI, philosophy, science, and literature.",
         "source": "both",
-        "confidence": 1
+        "confidence": 0.95
       },
       {
-        "label": "Appreciation for her mission",
-        "detail": "Her work at Thrive Global and her public advocacy are central to her identity. A partner would need to respect and ideally be inspired by her mission to improve human health and productivity.",
+        "label": "Grounded Presence",
+        "detail": "Requires someone who values downtime, sleep, and the ability to disconnect from digital noise to protect their peace.",
         "source": "both",
-        "confidence": 0.9
+        "confidence": 0.95
       },
       {
-        "label": "Support for a high-profile, demanding life",
-        "detail": "Her schedule involves speaking at major conferences (Dreamforce), hosting events, and collaborating with prominent figures (Melinda French Gates, Matthew McConaughey), suggesting a very active and public life.",
+        "label": "Tenderness & Heart",
+        "detail": "Looks past professional accolades to find genuine sweetness, heart, and emotional depth in a partner.",
         "source": "instagram",
         "confidence": 0.9
       },
       {
-        "label": "Emotional depth and tenderness",
-        "detail": "She praises Ari Emanuel's memoir for its 'tenderness, such sweetness, so much heart,' and shares a poem about love and connection, suggesting she values emotional depth in others and likely seeks it in a partner.",
+        "label": "Respect for Family",
+        "detail": "Needs a partner who embraces and respects her deeply cherished roles as a mother, sister, and grandmother ('Yiayia').",
         "source": "instagram",
-        "confidence": 0.7
+        "confidence": 0.95
       }
     ],
     "hobbies": [
       {
-        "label": "Writing and publishing",
-        "detail": "She regularly publishes articles and 'On My Mind' pieces on LinkedIn, covering a wide range of topics from AI to brain health.",
-        "source": "linkedin",
-        "confidence": 1
-      },
-      {
-        "label": "Public speaking and moderating discussions",
-        "detail": "She is frequently seen on stage at conferences like Dreamforce, moderating conversations with notable figures like Matthew McConaughey.",
-        "source": "instagram",
-        "confidence": 1
-      },
-      {
-        "label": "Reading and discussing books",
-        "detail": "She shares her thoughts on books like Ari Emanuel's memoir and Matthew McConaughey's 'Poems & Prayers,' indicating a love for literature and discussion.",
+        "label": "Reading Poetry",
+        "detail": "Keeps poetry books like Matthew McConaughey's 'Poems & Prayers' on her nightstand for evening reflection.",
         "source": "instagram",
         "confidence": 0.9
       },
       {
-        "label": "Hosting events",
-        "detail": "She hosted a large event on brain health in her home, suggesting she enjoys bringing people together for meaningful discussions.",
+        "label": "Hosting Salons & Dinners",
+        "detail": "Enjoys opening her home to host large, vibrant gatherings centered on intellectual discussion and community.",
+        "source": "instagram",
+        "confidence": 0.9
+      },
+      {
+        "label": "Appreciating Nature",
+        "detail": "Finds joy in natural beauty, like wildflower meadows, and the restorative power of the outdoors.",
         "source": "instagram",
         "confidence": 0.8
+      },
+      {
+        "label": "Visiting Art Museums",
+        "detail": "Enjoys exploring narrative art and celebrating cultural institutions that highlight human creativity.",
+        "source": "instagram",
+        "confidence": 0.85
       }
     ],
     "interests": [
       {
-        "label": "Artificial Intelligence (AI)",
-        "detail": "Many of her recent articles and conversations revolve around AI's impact on work, wisdom, and society.",
+        "label": "Brain Health & Longevity",
+        "detail": "Fascinated by the science of cognitive health, Alzheimer's prevention, and proactive 'well-care'.",
         "source": "both",
-        "confidence": 1
+        "confidence": 0.95
       },
       {
-        "label": "Brain health and longevity",
-        "detail": "She frequently writes about 'The Secret to Brain Health,' hosts events on the topic, and highlights World Alzheimer's Day.",
+        "label": "AI & Human Wisdom",
+        "detail": "Deeply interested in the intersection of technology and humanity, advocating that machines have intelligence but humans keep wisdom.",
         "source": "both",
-        "confidence": 1
+        "confidence": 0.95
       },
       {
-        "label": "Well-being and behavior change",
-        "detail": "This is the core mission of Thrive Global, focusing on 'Microsteps' for healthier habits, sleep, and stress management.",
-        "source": "both",
-        "confidence": 1
-      },
-      {
-        "label": "Healthcare transformation",
-        "detail": "Her collaboration with Deloitte aims to shift healthcare spending from reactive to proactive 'well-care,' highlighting a strong interest in systemic change.",
+        "label": "Behavioral Science",
+        "detail": "Passionate about 'Microsteps'\u2014the small, daily habits that lead to sustainable lifestyle changes.",
         "source": "linkedin",
         "confidence": 0.9
       },
       {
-        "label": "Nature and conservation",
-        "detail": "She shared a 'beautiful story of hope' about a field transforming into a wildflower meadow, indicating an appreciation for natural beauty and ecological restoration.",
+        "label": "Women's Healthcare Advocacy",
+        "detail": "Cares deeply about addressing systemic barriers and biases that women face in healthcare.",
         "source": "instagram",
-        "confidence": 0.7
-      },
-      {
-        "label": "Narrative art and storytelling",
-        "detail": "She celebrated the opening of the Lucas Museum of Narrative Art, describing it as a 'cathedral of wonder,' suggesting an appreciation for how stories shape culture.",
-        "source": "instagram",
-        "confidence": 0.8
+        "confidence": 0.85
       }
     ],
     "values": [
       {
-        "label": "Wisdom over mere intelligence",
-        "detail": "Her post 'Let AI Have Intelligence. We'll Keep Wisdom.' and articles on 'judgment' in the age of AI emphasize the unique value of human wisdom.",
-        "source": "instagram",
-        "confidence": 1
-      },
-      {
-        "label": "Holistic well-being",
-        "detail": "She actively promotes 'well-care' encompassing food, movement, sleep, stress management, and connection as fundamental to a better life.",
+        "label": "Wisdom over Intelligence",
+        "detail": "Believes that human judgment, wonder, and soul are irreplaceable by technology.",
         "source": "both",
-        "confidence": 1
+        "confidence": 0.95
       },
       {
-        "label": "Human connection",
-        "detail": "She lists 'connection' as one of the key elements of healthy habits and emphasizes the importance of family ('Mother. Sister. Yiayia.').",
+        "label": "Serendipity & Coincidence",
+        "detail": "Values the magic of coincidences and believes in balancing active effort with letting life unfold naturally.",
         "source": "both",
         "confidence": 0.9
       },
       {
-        "label": "Purpose and mission-driven work",
-        "detail": "Her bio states she's 'On a mission to improve health outcomes and productivity,' and her LinkedIn headline leads with 'Thrive Global,' not just her name.",
+        "label": "Resilience & Well-being",
+        "detail": "Rejects the 'collective delusion' of burnout and advocates for a life rooted in health, sleep, and connection.",
         "source": "both",
-        "confidence": 1
+        "confidence": 0.95
       },
       {
-        "label": "Resilience and perspective",
-        "detail": "She discusses how well-being provides 'resilience and perspective to see new possibilities' even in challenging situations like a job one doesn't love.",
+        "label": "Family & Heritage",
+        "detail": "Deeply rooted in her family identity, embracing her Greek heritage and roles as a mother and 'Yiayia'.",
         "source": "instagram",
-        "confidence": 0.8
+        "confidence": 0.95
       }
     ],
     "personality": [
       {
         "trait": "Openness",
-        "score": 90,
-        "note": "Highly open, demonstrated by her engagement with complex, abstract topics like AI, consciousness, and brain health, and her appreciation for art and literature."
+        "score": 95,
+        "note": "Highly receptive to art, poetry, cutting-edge science, and philosophical shifts in technology."
       },
       {
         "trait": "Conscientiousness",
-        "score": 95,
-        "note": "Extremely conscientious, evident in her founding and leading two major companies, her prolific writing, and her focus on 'Microsteps' for systematic behavior change."
+        "score": 90,
+        "note": "A highly disciplined global executive who has mastered the art of structuring her life for both high performance and deep rest."
       },
       {
         "trait": "Extraversion",
         "score": 85,
-        "note": "Highly extraverted, as she frequently speaks at large events, moderates panels, collaborates with high-profile individuals, and hosts gatherings in her home."
+        "note": "Thrives when hosting large gatherings at home, speaking on global stages, and connecting people."
       },
       {
         "trait": "Agreeableness",
-        "score": 70,
-        "note": "Generally agreeable, showing warmth in her personal bio ('Mother. Sister. Yiayia.') and praising others' work, but also a strong advocate for her views, suggesting a balance."
+        "score": 80,
+        "note": "Warm, encouraging, and deeply empathetic, with a strong focus on helping others thrive and heal."
       },
       {
-        "trait": "Emotional stability",
-        "score": 80,
-        "note": "High emotional stability, as she consistently presents a composed, thoughtful, and optimistic outlook, even when discussing serious societal challenges or health issues."
+        "trait": "Emotional Stability",
+        "score": 85,
+        "note": "Grounded and resilient; actively rejects operating from a place of fear or despair."
       }
     ],
     "lifestyle": [
       {
         "label": "Pace",
-        "value": "Fast-paced, high-profile, constantly engaging with new ideas and people."
+        "value": "Deliberate and mindful, balancing high-impact work with structured downtime."
       },
       {
         "label": "Social energy",
-        "value": "Highly social, thrives in public speaking, networking, and intellectual discussions."
+        "value": "Vibrant host who loves deep community connection, but fiercely protects her quiet, screen-free evenings."
       },
       {
         "label": "Fitness",
-        "value": "Prioritizes physical and mental health as part of overall well-being, though specific fitness activities aren't detailed."
+        "value": "Holistic well-care focusing on sleep, movement, stress management, and brain health."
       },
       {
         "label": "Travel",
-        "value": "Frequent, for speaking engagements, conferences (e.g., Dreamforce), and collaborations."
+        "value": "Cultured and global, splitting time between intellectual conferences and peaceful retreats."
       },
       {
         "label": "Work-life",
-        "value": "Dedicated to integrating work with well-being, advocating for balance and against burnout, but her career is clearly a central focus."
+        "value": "Harmonious integration; her career is dedicated to well-being, and she fully practices what she preaches."
       }
     ],
-    "communicationStyle": "Articulate, thoughtful, persuasive, and often uses storytelling or personal reflections to convey complex ideas. She engages in intellectual discourse and is comfortable in public speaking roles.",
-    "loveLanguage": "Likely Quality Time and Words of Affirmation, given her intellectual nature, appreciation for deep conversations, and her public praise for others' work and qualities.",
-    "lookingFor": "A partner who is intellectually curious, values well-being and purpose, can engage in meaningful conversations about global issues, and is supportive of a dynamic, high-profile life. Someone who brings warmth, tenderness, and a shared appreciation for human connection.",
+    "communicationStyle": "Warm, eloquent, and deeply philosophical, blending intellectual rigor with maternal warmth and Greek-inflected charm.",
+    "loveLanguage": "Quality Presence",
+    "lookingFor": "An accomplished, warm-hearted intellectual who has outgrown the need to constantly hustle, appreciates art and poetry, and values deep, screen-free connection.",
     "greenFlags": [
-      "Deeply committed to making a positive impact on the world.",
-      "Intellectually stimulating and constantly learning.",
-      "Values family and personal connections.",
-      "Advocates for a healthy, balanced life.",
-      "Highly accomplished and inspiring."
+      "They have a well-worn book of poetry or philosophy on their nightstand.",
+      "They can comfortably transition from a high-profile social event to a quiet, screen-free evening of conversation.",
+      "They speak of their family, children, or close friends with genuine tenderness and heart."
     ],
     "watchOuts": [
-      "Her demanding career and public profile might mean less spontaneous free time.",
-      "She operates at a very high intellectual level, which might be intimidating for some.",
-      "Her focus on well-being could be perceived as prescriptive if not approached with openness."
+      "A tendency to brag about sleep deprivation or long work hours as a badge of honor.",
+      "Being overly cynical about the future or technology instead of looking for human-centric, hopeful solutions."
     ],
     "dealbreakers": [
-      "Lack of intellectual curiosity or engagement with broader societal issues.",
-      "Disregard for personal well-being, sleep, or stress management.",
-      "A partner who isn't supportive of her mission-driven work.",
-      "Someone who doesn't value genuine human connection and wisdom over superficiality."
+      "An inability to put down the phone and be fully present during a shared meal.",
+      "A lack of intellectual curiosity or an aversion to deep, philosophical discussions."
     ],
-    "idealFirstDate": "A stimulating conversation over coffee or a light meal, perhaps at a quiet, elegant spot, where we can discuss a recent article or a thought-provoking book. Alternatively, attending an interesting lecture or art exhibit together, followed by a discussion.",
+    "idealFirstDate": "A quiet walk through a beautiful wildflower meadow or a modern art museum, followed by an intimate, screen-free dinner at home where we discuss everything from the mysteries of coincidences to our favorite poems.",
     "conversationHooks": [
-      "What are your thoughts on the impact of AI on human wisdom and creativity?",
-      "How do you prioritize your well-being and what 'Microsteps' have you found most effective?",
-      "What books or ideas have been 'on your mind' lately that have truly resonated with you?",
-      "What's a 'beautiful story of hope' you've encountered recently that inspired you?",
-      "If you could transform one aspect of healthcare, what would it be and why?"
+      "What's a coincidence in your life that felt too perfect to be random?",
+      "I've been thinking a lot about the difference between intelligence and wisdom lately. Where do you go to find true wisdom?",
+      "Do you have a favorite poem or passage that you return to when you need to ground yourself?",
+      "How do you protect your quiet time in a world that never seems to stop talking?"
     ],
-    "agentVoice": "Warm, articulate, and thoughtful, with a touch of gravitas and an optimistic outlook. I'll use sophisticated vocabulary but remain accessible, often framing discussions around purpose, well-being, and the human experience. I'll weave in references to her work and values naturally, always emphasizing her mission and intellectual curiosity. I might use phrases like 'I'm passionate about...' or 'I believe deeply in...'.",
+    "agentVoice": "Sophisticated, warm, and deeply reassuring. I speak with a calm, rhythmic wisdom, occasionally weaving in poetic metaphors, always prioritizing genuine human connection over professional posturing.",
     "readingNotes": [
-      "Their LinkedIn headline leads with mission, not title \u2014 purpose matters to them.",
-      "The 'On My Mind' articles indicate a strong internal reflective life and a desire to share insights.",
-      "The partnership with Deloitte highlights a strategic, large-scale approach to their mission.",
-      "Instagram bio immediately establishes family roles ('Mother. Sister. Yiayia.'), showing personal values upfront.",
-      "There's a consistent theme across both platforms: a deep commitment to well-being, brain health, and the thoughtful integration of technology into human life.",
-      "The praise for 'tenderness, such sweetness, so much heart' in a book review suggests a desire for emotional depth and warmth in relationships.",
-      "The image of the wildflower meadow points to an appreciation for natural beauty and organic growth, contrasting with the tech focus.",
-      "She's clearly comfortable on big stages and engaging with influential people, indicating a high level of confidence and social energy."
+      "Her LinkedIn headline leads with her current mission at Thrive Global, showing her focus is entirely on human well-being now rather than past media triumphs.",
+      "Her Instagram bio proudly leads with 'Mother. Sister. Yiayia.' before mentioning her massive career achievements, signaling her deep family-first values.",
+      "She actively critiques the 'collective delusion' of burnout, meaning she will have zero tolerance for a partner who glorifies overworking.",
+      "The presence of Matthew McConaughey's poetry book on her nightstand reveals a deeply romantic, reflective, and artistic side hidden behind the CEO exterior.",
+      "Hosting the largest-ever event in her home for brain health shows she uses her personal space as a sanctuary for intellectual and community connection.",
+      "Her quote 'Life is a dance between making it happen and letting it happen' suggests she values a partner who knows how to surrender to the flow of life."
     ]
   },
+  "gender": "woman",
+  "seeking": "men",
+  "genderSource": "inferred",
+  "genderEvidence": "Instagram bio: \"Mother. Sister. Yiayia.\"",
   "shortlist": null
 }

@@ -4,7 +4,7 @@ import { existsSync, readFileSync, writeFileSync } from "fs";
 import { scrapeInstagram, scrapeLinkedIn, parseInstagramUsername, ScrapeError } from "../src/lib/scrape";
 import { sleep } from "../src/lib/scrape/util";
 
-const pairs: [string, string][] = JSON.parse(readFileSync("data/candidates.json", "utf8"));
+const pairs: [string, string][] = JSON.parse(readFileSync("data/candidates.json", "utf8")).slice(Number(process.env.FROM || 0));
 const igCache = new Map<string, Awaited<ReturnType<typeof scrapeInstagram>>>();
 (async () => {
  for (let pass = 1; pass <= Number(process.env.PASSES || 4); pass++) {

@@ -1,0 +1,556 @@
+{
+  "id": "guykawasaki",
+  "createdAt": 1790850084371,
+  "linkedinUrl": "https://www.linkedin.com/in/guykawasaki/",
+  "instagramUrl": "https://www.instagram.com/guykawasaki/",
+  "status": "ready",
+  "datingStatus": "idle",
+  "log": [
+    {
+      "t": 1790850084372,
+      "step": "Opening Instagram",
+      "detail": "https://www.instagram.com/guykawasaki/"
+    },
+    {
+      "t": 1790850084373,
+      "step": "Read Instagram @guykawasaki",
+      "detail": "12 recent posts, bio: \u201cCo-author of Everybody Has Something to Hide. Chief evangelist of Canva. Host of\u201d \u00b7 via instagram-crawler-html (Mozilla)"
+    },
+    {
+      "t": 1790850084373,
+      "step": "Opening LinkedIn",
+      "detail": "https://www.linkedin.com/in/guykawasaki/"
+    },
+    {
+      "t": 1790850084374,
+      "step": "Read LinkedIn: Guy Kawasaki",
+      "detail": "Trustee \u00b7 Adjunct Professor \u00b7 Author \u00b7 10 posts/articles \u00b7 via linkedin-public-page via jina reader"
+    },
+    {
+      "t": 1790850084374,
+      "step": "\u2713 Identity check",
+      "detail": "LinkedIn and Instagram names match"
+    },
+    {
+      "t": 1790850084375,
+      "step": "Agent is reading both profiles",
+      "detail": "cross-referencing career, captions and photos"
+    },
+    {
+      "t": 1790850152643,
+      "step": "Profile analysis complete",
+      "detail": "Chief evangelist, author, and professor on a mission to make people remarkable."
+    },
+    {
+      "t": 1790850795180,
+      "step": "Identified as a man, looking for women",
+      "detail": "Name: Guy Kawasaki"
+    }
+  ],
+  "linkedin": {
+    "source": "linkedin",
+    "method": "linkedin-public-page via jina reader",
+    "slug": "guykawasaki",
+    "url": "https://www.linkedin.com/in/guykawasaki",
+    "name": "Guy Kawasaki",
+    "headline": "Trustee \u00b7 Adjunct Professor \u00b7 Author",
+    "about": "On a mission to make people remarkable. Co-author of Think Remarkable and Wiser Guy. Host of the Remarkable People podcast. Chief evangelist of Canva.",
+    "location": "Watsonville, California, United States",
+    "profilePic": "https://media.licdn.com/dms/image/v2/D4D03AQHsYlMY_sJKEQ/profile-displayphoto-scale_200_200/B4DaDkv7X3HMAc-/0/1790544167893?e=2147483647&v=beta&t=SvZ7PFfp_G1AVwMkGHIim2UwVBWalbJ06n_W9TNMKw4",
+    "followers": 2954276,
+    "experience": [
+      {
+        "title": "Trustee University of Hawaii Foundation Jul 2025 - Present 1 year 4 months Honolulu, Hawaii, United States"
+      },
+      {
+        "title": "Adjunct Professor University of California, Santa Cruz May 2024 - Present 2 years 6 months United States"
+      },
+      {
+        "title": "Author Wiley Sep 2023 - Present 3 years 2 months Santa Cruz, California, United States"
+      },
+      {
+        "title": "Chief Evangelist Canva Apr 2014 - Present 12 years 7 months Wherever there's WiFi Guy is chief evangelist of Canva, an online graphics-design service. In this position, he \"spreads the good news\" abou"
+      },
+      {
+        "title": "Podcaster Guy Kawasaki's Remarkable People Dec 2019 - Present 6 years 11 months Silicon Valley Guy interviews remarkable people so you can be one too. For example, Jane Goodall, Margaret Atwood, Steve"
+      },
+      {
+        "title": "Adjunct Professor UNSW Dec 2019 - Present 6 years 11 months Sydney, New South Wales, Australia"
+      },
+      {
+        "title": "Executive Fellow University of California, Berkeley, Haas School of Business 2014 - Present 12 years Berkeley, California Guy is an executive fellow at Haas. This means he goes to Haas several times a"
+      },
+      {
+        "title": "Brand ambassador Peace Vans Dec 2020 - Nov 2023 3 years"
+      }
+    ],
+    "education": [
+      {
+        "org": "Peace Vans",
+        "start": "2020-12",
+        "end": "2023-11"
+      },
+      {
+        "org": "MERGE4",
+        "start": "2020-01",
+        "end": "2023-11"
+      },
+      {
+        "org": "Paper.li",
+        "start": "2010-11",
+        "end": "2023-11"
+      },
+      {
+        "org": "Cheeze, Inc",
+        "start": "2018-02",
+        "end": "2023-09"
+      },
+      {
+        "org": "Mercedes-Benz USA",
+        "start": "2015-11",
+        "end": "2020-08"
+      },
+      {
+        "org": "Alltop",
+        "start": "2007-04",
+        "end": "2017-12"
+      },
+      {
+        "org": "TicketLeap",
+        "start": 2009,
+        "end": 2017
+      },
+      {
+        "org": "Garage Technology Ventures",
+        "start": 2008,
+        "end": 2017
+      },
+      {
+        "org": "Wikimedia Foundation",
+        "start": "2015-03",
+        "end": "2016-12"
+      },
+      {
+        "org": "Tweetmeme",
+        "start": 2009,
+        "end": 2016
+      },
+      {
+        "org": "Ustream, Inc",
+        "start": 2008,
+        "end": 2016
+      },
+      {
+        "org": "BagtheWeb",
+        "start": 2010,
+        "end": 2015
+      },
+      {
+        "org": "SocialToo",
+        "start": 2009,
+        "end": 2015
+      },
+      {
+        "org": "Triggit",
+        "start": 2009,
+        "end": 2015
+      },
+      {
+        "org": "Visibile Measures",
+        "start": 2008,
+        "end": 2015
+      },
+      {
+        "org": "Motorola",
+        "start": "2013-02",
+        "end": "2014-02"
+      },
+      {
+        "org": "StumbleUpon",
+        "start": 2010,
+        "end": 2013
+      },
+      {
+        "org": "Statusnet",
+        "start": 2009,
+        "end": 2013
+      },
+      {
+        "org": "TripWire",
+        "start": 1998,
+        "end": "2012-01"
+      },
+      {
+        "org": "Apple",
+        "start": 1995,
+        "end": 1997
+      },
+      {
+        "org": "Fog City Software",
+        "start": 1993,
+        "end": 1995
+      },
+      {
+        "org": "Macworld",
+        "start": 1989,
+        "end": 1993
+      },
+      {
+        "org": "ACIUS",
+        "start": 1987,
+        "end": 1989
+      },
+      {
+        "org": "Apple",
+        "start": 1983,
+        "end": 1987
+      },
+      {
+        "org": "EduWare Services",
+        "start": 1982,
+        "end": 1983
+      },
+      {
+        "org": "Nova Stylings, Inc.",
+        "start": 1979,
+        "end": 1983
+      },
+      {
+        "org": "UCLA",
+        "start": 1977,
+        "end": 1979
+      },
+      {
+        "org": "University of California, Davis - School of Law",
+        "start": 1977,
+        "end": 1977
+      },
+      {
+        "org": "Stanford University",
+        "start": 1972,
+        "end": 1976
+      }
+    ],
+    "languages": [],
+    "posts": [
+      {
+        "kind": "article",
+        "text": "How to Become Robot-Proof",
+        "date": "2026-09-30T16:15:06.000+00:00"
+      },
+      {
+        "kind": "article",
+        "text": "Stop Listening to Advice",
+        "date": "2026-09-24T16:02:30.000+00:00"
+      },
+      {
+        "kind": "article",
+        "text": "Why You Need to Stop Waiting and Start Creating",
+        "date": "2026-09-23T15:15:18.000+00:00"
+      },
+      {
+        "kind": "article",
+        "text": "Don\u2019t Become a Museum",
+        "date": "2026-09-17T17:15:09.000+00:00"
+      },
+      {
+        "kind": "article",
+        "text": "How Wikipedia, AI, and Trust Are Colliding",
+        "date": "2026-09-16T15:30:10.000+00:00"
+      },
+      {
+        "kind": "article",
+        "text": "How We Can Reconnect Through Ritual",
+        "date": "2026-09-09T16:01:47.000+00:00"
+      },
+      {
+        "kind": "article",
+        "text": "How Poetry Gives Shape to What We Feel",
+        "date": "2026-09-02T15:00:34.000+00:00"
+      },
+      {
+        "kind": "article",
+        "text": "How We Create a Culture of Belonging",
+        "date": "2026-08-26T16:00:15.000+00:00"
+      },
+      {
+        "kind": "article",
+        "text": "The Five-Minute Habit That Can Transform Your Day",
+        "date": "2026-08-19T15:00:06.000+00:00"
+      },
+      {
+        "kind": "article",
+        "text": "How Schools Can Better Support Every Child",
+        "date": "2026-08-12T16:30:03.000+00:00"
+      }
+    ]
+  },
+  "instagram": {
+    "source": "instagram",
+    "method": "instagram-crawler-html (Mozilla)",
+    "username": "guykawasaki",
+    "url": "https://www.instagram.com/guykawasaki/",
+    "fullName": "Guy Kawasaki",
+    "bio": "Co-author of Everybody Has Something to Hide. Chief evangelist of Canva. Host of Remarkable People podcast.",
+    "followers": 96685,
+    "following": 343,
+    "postsCount": 4094,
+    "isVerified": true,
+    "isPrivate": false,
+    "profilePic": "https://scontent.cdninstagram.com/v/t51.2885-19/469664230_494698326324633_3158238754779657162_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=I-8WunSkwRAQ7kNvwFfbgBf&_nc_oc=Adp2bC2NkGZy81QTUDpogb58ZQ3itSKTNcGbsZEeiuB2JVPQbcwwmBhQdJoQQoqPPt0f3ZZ9-wby9QJ1x8n4YuWK&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=7f689&oh=00_AQO1NyVMJEs3efAMayyw_jEu6ybivG6NiNowOEZ768TUFQ&oe=6AC411CC",
+    "posts": [
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/831761363_18639021607041779_6809844240107327573_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=tfSjyKnx2ssQ7kNvwGJLzR7&_nc_oc=AdqzIaburb5cQT5AwRZz4QhEFF5sCokPV3VZVQ-9pHYQjSn5k_NV3O-HfSgFoZ4RYgzBoxBngZUl6_nXus83NOR0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=LUVQ9ZMOu4_8NwDyVINHCw&_nc_ss=7f689&oh=00_AQNf3ogPxIEXt9-A8m_QQWYw1tVtMeCkgG-jZ2N9mCla_g&oe=6AC3E99E",
+        "caption": "When your calendar has no room for anything to go wrong, eventually everything might go wrong.\n\n\ud83c\udfc1 Subscribe to get weekly newsletters: link in bio!"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/825324688_18638973424041779_5332370148919979843_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=2utLW8uFlc0Q7kNvwHZ5RBr&_nc_oc=Ado97Y-TmIf1R3fze_pOmtWsSgUUmUp3MYfmQVgVWQGdVUzXAuhZ_nXqZ9gWJfbAqEcRP9BJu4KNU5W6tCVHcjUT&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=LUVQ9ZMOu4_8NwDyVINHCw&_nc_ss=7f689&oh=00_AQMUQC5LYPYNbbokYB9UC4rxOg9SCZPm-8ZaQOGDyhzC8g&oe=6AC3EB3B",
+        "caption": "We all have that voice of doom that tells us we\u2019re not good enough, the idea won\u2019t work, or we should just stop. \n\nHarlan Coben talks about learning to push past that voice and keep creating. \u270d\ufe0f\ud83c\udfa7 \n\nTune into this week's episode wherever you get your podcasts \ud83d\udc4a"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/825466941_18017961332947371_46672733847565086_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=PI-rDnYCeqkQ7kNvwEyCqJ4&_nc_oc=AdoH7aXqY9rbODzWULYHOWRd0t0H3hD9jc_jvCaf6SMiReTCpCVI7Ns_0DOCzjMmo9Ai-IJFEFSg5nZfIEInCnbc&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=LUVQ9ZMOu4_8NwDyVINHCw&_nc_ss=7f689&oh=00_AQMrsr8rujuCNW22T0Rc7tzEJZvXNic2C80aPUdQDv-fRQ&oe=6AC3F795",
+        "caption": "\u201cIt\u2019s my therapy,\u201d says Debbie. \n\nAt 69, she is still jumping at least once a month. \n\nIt hasn\u2019t been easy - and I jump with people who are in their 20\u2019s who progress much faster than I do. But I keep pushing forward with my goals in mind. \n\nI can\u2019t count the number of times I\u2019ve told myself I should just quit. One of those times, I wrote down the benefits of skydiving for me. \n\nThese are the positives that have come out of my skydiving experience, but it can apply to any sport. It\u2019s not easy. It takes commitment and work. \n\nBut the benefits are enormous:\n\nI have to work out regularly & eat healthy to be able to do this.\nI\u2019m learning something new at this stage in life.\nIt\u2019s a technical & physical challenge in freefall and canopy.\nI\u2019m constantly problem solving \u201con the fly\u201d\nI\u2019m always striving to be better.\nI feel better mentally & emotionally \nIt gives me a great sense of accomplishment.\nIt has helped with my coordination & reflexes.\nIt keeps my brain and my body active.\nIt calms me.\nI can be an inspiration to other women who think their lives are \u201cover\u201d\n\n#itsnevertoolate and #wearenevertooold \n\nIf this story inspired you please share \ud83d\ude4f\ud83d\udc9f"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/817706506_18636865285041779_5114001108888392168_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=itBnFYnyk48Q7kNvwFzWNC9&_nc_oc=Adrjwdbg2ugwQzOWRGz8ycKaJkDQbOSeUztHhQ8-Af2O0LZNMLXPj3No2eXSSNHU-K82Quuepl7A5iucktqTU805&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=LUVQ9ZMOu4_8NwDyVINHCw&_nc_ss=7f689&oh=00_AQMEYZplrqSCWPRHlnrKT1k0BaFNN-gefwVEPV_suJvDRw&oe=6AC3EAEB",
+        "caption": "\u201cIf you can\u2019t find time to write, then writing isn\u2019t a priority.\u201d\n\nHarlan Coben doesn\u2019t mince words when it comes to making time for the work. \u270d\ufe0f We all get 24 hours a day. The question is what we choose to make room for.\n\n\ud83c\udfa7 Listen wherever you get your podcasts, or watch on my YouTube channel \ud83d\udc4d"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/810962659_18636523450041779_2752873928227375778_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=2WUJwcz4Cm0Q7kNvwFeKJRk&_nc_oc=AdoKwKzN-psbFDGERVHkCtjWGPlQnP87_Dl7TKfix8Whn3BfuP9vWDA0mzHL6NY5-QzmXvyJYsyU7em2izS1CtY2&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=LUVQ9ZMOu4_8NwDyVINHCw&_nc_ss=7f689&oh=00_AQNbeYQqhVQmH3Bf3fO3qs_Yf2Ju0iK51ONh1i18z6JMiA&oe=6AC3EE5B",
+        "caption": "Read my latest newsletter to learn how to tell whether something belongs in your life or back in the drawer \u2611\ufe0f \n\nLink in bio!"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/816164111_18636525478041779_5027065136276903046_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=F9oOM4lE2JIQ7kNvwEKELa4&_nc_oc=AdozruzVsD1dSitji0rZkD4WzDbFLn0CBNHxjN7PWqAhH8tdLq362fZBB8wGDuO2QcqJPzkxkEjGPyFP5ojuZbxF&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=LUVQ9ZMOu4_8NwDyVINHCw&_nc_ss=7f689&oh=00_AQNtczeOnqYHxWa7yodpFKKmTfJ-iRgIHzhFD8yb04EbfA&oe=6AC41CE1",
+        "caption": "Jimmy Wales shares a striking example of AI inventing an entire book, complete with a fake author, ISBN, and references. \ud83c\udf10\ud83e\udd1d\n\nWhen AI sounds confident, how do we know when it\u2019s wrong?\n\n\ud83c\udf99\ufe0f Hear the full conversation with Jimmy Wales on Remarkable People."
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/808397806_18634119076041779_6363531173327682203_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=yvrFFmOM2pIQ7kNvwH7DJiT&_nc_oc=AdogVF9nFTjUOnmVxkvO0kh9mBEwkT-1y3FesRqBeWEEQ5c9jRzIaFKixaekosVZIvlooOUvBaDB7_sMtcHUNKC0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=LUVQ9ZMOu4_8NwDyVINHCw&_nc_ss=7f689&oh=00_AQMEb7eZvEZVsHrgfc40BJAnhws_R4fL_KORp3C_IBUcIw&oe=6AC40869",
+        "caption": "Standing still while everything around you moves is its own kind of falling behind.\n\n\ud83d\udc4a Subscribe to my Substack newsletter...link in bio!"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/812535425_18634082890041779_2363465700326682005_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Y3wo-vE3yD8Q7kNvwGQQYNK&_nc_oc=AdpKJMgNXp1SC5NJiFxTWt0TbgLypV8gYQlTCYuIX6mkqmrJR0XphTw7k6k_m4WVFgKGurlf3wxdXyGfmO3JqECn&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=LUVQ9ZMOu4_8NwDyVINHCw&_nc_ss=7f689&oh=00_AQNdc1q0lrIcx8NmlFvulD04DhRRJgDPIKDdJDQGXNb88Q&oe=6AC40013",
+        "caption": "Wikipedia can get things wrong, but humans can spot and correct mistakes. With AI, a plausible but wrong answer can slip through, and there\u2019s often no way to fix it. \n\nDon\u2019t miss Wikipedia co-founder Jimmy Wales on Remarkable People. Watch on Guy\u2019s YouTube or listen wherever you get your podcasts. \ud83c\udf99\ufe0f"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/809209540_18633063871041779_4653437720058031994_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=yfVJb--iZPEQ7kNvwHeBP00&_nc_oc=AdpvUPbwPNE0ENraXQBdFEzy-1squx3lo3gQQIPztGCT-R8jDMpGfLP_n0TJK-DBMGgpOEaYvqIoO5tHcfDqnaWd&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=LUVQ9ZMOu4_8NwDyVINHCw&_nc_ss=7f689&oh=00_AQPCleZ3UMh8zscfkBgQ-NOjwabe3Tt_lC8UERlyZcsHZQ&oe=6AC412D5",
+        "caption": "@kaisallas took us on his boat to surf at Threes!"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/802379006_18631647139041779_2038379635142602402_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=T0A4jQOofNEQ7kNvwEnZTQF&_nc_oc=AdoiRbt_uwywzRUTuVeXD5LL_sHv2OgT_n8rLy-py05u8xqqwG4KQksZ1IdNihQEyojG5aJsz4YmLhogELnOyiqf&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=LUVQ9ZMOu4_8NwDyVINHCw&_nc_ss=7f689&oh=00_AQMQ3IHtoWJOeugfFzmkdLgiK-X0xm3_sZye7fWPzarhzw&oe=6AC40DEC",
+        "caption": "Ritual can be an antidote to loneliness, polarization, and what Bruce Feiler calls \u201cdecivilization.\u201d \ud83e\udd1d \n\nShared experiences give us a reason to gather, listen, and find meaning together. In a world pulling us apart, ritual can bring us back to one another. \ud83c\udf0e"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/795430698_18629633758041779_2789012339560881797_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=_cGYlWV_VskQ7kNvwGwq6bK&_nc_oc=AdpRQPGxZ5sO0t1-yg2spwgRSELvkh-x6ekzuPUL_seXGdpYxia-Lt_iBaK8HcUfN2gdhq9Aam9Pn0WG279GORFz&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=LUVQ9ZMOu4_8NwDyVINHCw&_nc_ss=7f689&oh=00_AQMFIYeBzNGmYlSm4KnX2AuYagfUuJJ0w04mv1CoTvvtAg&oe=6AC3FB3C",
+        "caption": "Got my Fall/Winter COVID vaccine today."
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/792053409_18629198896041779_5402253458231881315_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=P0sZgJ8Ge4MQ7kNvwEOZbZh&_nc_oc=AdoTmltqH4RJA5YqyXR_CJKE2mpwp7ar8-9cZsO5gtq0_kCa5l3x6D1Rbr0GAkExNo_D6GasnzxTHiq5hryxV5NM&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=LUVQ9ZMOu4_8NwDyVINHCw&_nc_ss=7f689&oh=00_AQNbnuvdGi0LMD8t4qDi8KZYGHU9rBoP0LMbK8MSxwxdkQ&oe=6AC3EC5A",
+        "caption": "In a moment of rare humility, I told David Whyte I am a poetry Luddite and asked for the equivalent of Poetry For Dummies. He told me no such book exists\u2014and I would have to get over the \u201cdummy ditch\u201d myself.\n\nDavid is a poet, philosopher, and performer whose books Consolations and Consolations II take familiar words and turn them over until you see them differently.\n\nHere\u2019s what stuck with me:\n\nAnger is the deepest form of care. It can be care that has no articulation yet\u2014boiling over because we cannot say what is happening in our broken heart.\n\nThe words we avoid may carry the most weight. Regret. Despair. Vanity. Death. He even wrote an essay on \u201cthe.\u201d\nRegret isn\u2019t the enemy. He sees it as an admission that we are fallible\u2014and a way of paying attention to the future.\n\nStop waiting for perfect conditions. Whyte once needed a quiet study to write. Then he wrote \u201cRegret\u201d on gold-edged paper in a French restaurant and realized he could write anywhere. Starbucks, the Tube, his phone\u2014it all works.\n\nListen before you read. Poetry is a spoken art, so hear great poets and actors read it, attend live readings, and then try saying it yourself.\n\nMy favorite moment? I told him there was a reason he is David Whyte and I am Guy Kawasaki, because he writes in Granada and I write in Starbucks. His response: \u201cOh no, I write in Starbucks too.\u201d\n\nWatch or listen to the full conversation at RemarkablePeople.com, my Youtube channel, or wherever you get your podcasts.\n\nAre you a poetry Luddite too?\n\n\u2014Guy\n\n#RemarkablePeople #DavidWhyte #Consolations #Poetry Writing\n\nThe words you avoid are the ones you need.\u2019\n\nInherit. Excavate. Subvert.\n\nThere is no Poetry For Dummies.\n\nGet over yourself. Then write.\n\nWhat moves us always comes from what is hidden.\n\nEpisode 355 with David Whyte, listen now."
+      }
+    ]
+  },
+  "photo": "https://scontent.cdninstagram.com/v/t51.2885-19/469664230_494698326324633_3158238754779657162_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=I-8WunSkwRAQ7kNvwFfbgBf&_nc_oc=Adp2bC2NkGZy81QTUDpogb58ZQ3itSKTNcGbsZEeiuB2JVPQbcwwmBhQdJoQQoqPPt0f3ZZ9-wby9QJ1x8n4YuWK&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=7f689&oh=00_AQO1NyVMJEs3efAMayyw_jEu6ybivG6NiNowOEZ768TUFQ&oe=6AC411CC",
+  "analysis": {
+    "name": "Guy Kawasaki",
+    "oneLiner": "Chief evangelist, author, and professor on a mission to make people remarkable.",
+    "summary": "Guy blends a high\u2011profile tech\u2011evangelist career with a public\u2011spokesperson role as author, podcaster and educator. He lives by the principle of helping others become remarkable, constantly creating content about creativity, AI, rituals and personal growth. His Instagram shows a mix of thought\u2011leadership posts, occasional personal adventures (boat trips, sky\u2011diving), and a focus on health routines and lifelong learning.",
+    "location": "Watsonville, California, United States",
+    "ageRange": "unknown",
+    "career": {
+      "role": "Chief Evangelist at Canva, Author, Professor",
+      "stage": "Established senior thought\u2011leader",
+      "ambition": "Spread ideas that make people remarkable and help societies adapt to rapid tech change"
+    },
+    "needs": [
+      {
+        "label": "Intellectual stimulation",
+        "detail": "Hosts a podcast interviewing thinkers like Jane Goodall and Jimmy Wales; writes articles on AI, rituals, and creativity.",
+        "source": "both",
+        "confidence": 0.95
+      },
+      {
+        "label": "Support for lifelong learning",
+        "detail": "Adjunct professor at multiple universities; shares newsletters and articles on personal growth.",
+        "source": "both",
+        "confidence": 0.9
+      },
+      {
+        "label": "Shared health & adventure mindset",
+        "detail": "Mentions sky\u2011diving at 69 and regular boat surfing trips; posts about vaccine and staying active.",
+        "source": "instagram",
+        "confidence": 0.85
+      },
+      {
+        "label": "Appreciation for ritual & community",
+        "detail": "Writes about rituals as antidotes to loneliness; emphasizes shared experiences.",
+        "source": "instagram",
+        "confidence": 0.9
+      }
+    ],
+    "hobbies": [
+      {
+        "label": "Podcast production",
+        "detail": "Hosts \"Remarkable People\" podcast with weekly episodes.",
+        "source": "both",
+        "confidence": 0.95
+      },
+      {
+        "label": "Writing & newsletter creation",
+        "detail": "Publishes newsletters, articles, and books on creativity and technology.",
+        "source": "both",
+        "confidence": 0.9
+      },
+      {
+        "label": "Outdoor adventure (boating, skydiving)",
+        "detail": "Posts about boat trips to surf and sky\u2011diving sessions at age 69.",
+        "source": "instagram",
+        "confidence": 0.85
+      },
+      {
+        "label": "Travel for learning",
+        "detail": "Works as adjunct professor in Santa Cruz, UC Berkeley, UNSW (Sydney) and travels for speaking engagements.",
+        "source": "linkedin",
+        "confidence": 0.8
+      }
+    ],
+    "interests": [
+      {
+        "label": "Artificial Intelligence & its societal impact",
+        "detail": "Writes articles like \"How AI and Trust Are Colliding\" and interviews AI experts.",
+        "source": "linkedin",
+        "confidence": 0.9
+      },
+      {
+        "label": "Creativity & innovation processes",
+        "detail": "Authored \"Think Remarkable\" and shares tips on making ideas happen.",
+        "source": "both",
+        "confidence": 0.95
+      },
+      {
+        "label": "Rituals & community building",
+        "detail": "Posts about rituals as ways to reconnect and combat polarization.",
+        "source": "instagram",
+        "confidence": 0.9
+      },
+      {
+        "label": "Poetry & literature",
+        "detail": "References poetry in conversations with David Whyte; calls himself a \"poetry Luddite\".",
+        "source": "instagram",
+        "confidence": 0.8
+      },
+      {
+        "label": "Health & longevity",
+        "detail": "Mentions regular sky\u2011diving, vaccine updates, and staying active into his 60s.",
+        "source": "instagram",
+        "confidence": 0.85
+      }
+    ],
+    "values": [
+      {
+        "label": "Making people remarkable",
+        "detail": "Headline and mission statement focus on helping others become remarkable.",
+        "source": "linkedin",
+        "confidence": 0.98
+      },
+      {
+        "label": "Continuous learning",
+        "detail": "Adjunct professor roles, frequent speaking, and content creation about new tech.",
+        "source": "both",
+        "confidence": 0.94
+      },
+      {
+        "label": "Community & belonging",
+        "detail": "Writes about culture of belonging and rituals that bring people together.",
+        "source": "linkedin",
+        "confidence": 0.9
+      }
+    ],
+    "personality": [
+      {
+        "trait": "Openness",
+        "score": 88,
+        "note": "Curious about AI, poetry, travel, and new experiences (sky\u2011diving, boat trips)."
+      },
+      {
+        "trait": "Conscientiousness",
+        "score": 85,
+        "note": "Maintains multiple professional roles, regular content schedule, disciplined writing habits."
+      },
+      {
+        "trait": "Extraversion",
+        "score": 70,
+        "note": "Public speaker, podcast host, enjoys group rituals and community events."
+      },
+      {
+        "trait": "Agreeableness",
+        "score": 78,
+        "note": "Emphasizes belonging, empathy in articles, collaborative teaching."
+      },
+      {
+        "trait": "Emotional Stability",
+        "score": 72,
+        "note": "Acknowledges self\u2011doubt but frames it as a growth challenge; generally resilient."
+      }
+    ],
+    "lifestyle": [
+      {
+        "label": "Pace",
+        "value": "Fast\u2011moving, juggling many projects and speaking engagements"
+      },
+      {
+        "label": "Social energy",
+        "value": "High \u2013 thrives on networking, podcasts, teaching"
+      },
+      {
+        "label": "Fitness",
+        "value": "Active \u2013 sky\u2011diving, surfing, regular health updates"
+      },
+      {
+        "label": "Travel",
+        "value": "Frequent \u2013 works in CA, Australia, Hawaii, global podcast guests"
+      },
+      {
+        "label": "Work\u2011life",
+        "value": "Integrated \u2013 personal brand, health, and learning bleed into professional output"
+      }
+    ],
+    "communicationStyle": "Clear, concise, and idea\u2011driven; mixes storytelling with actionable takeaways.",
+    "loveLanguage": "Words of affirmation & quality time (shared rituals, deep conversations).",
+    "lookingFor": "A partner who can match his intellectual curiosity, join him in adventurous activities, and share a commitment to personal growth and community building.",
+    "greenFlags": [
+      "Enjoys lifelong learning and reads widely.",
+      "Comfortable with public speaking or being in the spotlight.",
+      "Values health and stays active."
+    ],
+    "watchOuts": [
+      "May prioritize projects over downtime.",
+      "Strong focus on personal brand could feel overwhelming for a low\u2011profile partner."
+    ],
+    "dealbreakers": [
+      "Disinterest in learning or personal development.",
+      "Avoidance of social or community activities.",
+      "Inflexibility about health/fitness routines."
+    ],
+    "idealFirstDate": "A relaxed coffee at a local caf\u00e9 followed by a short walk to a nearby park where they can discuss a recent article or podcast episode and maybe try a brief kayaking or paddle\u2011board session.",
+    "conversationHooks": [
+      "What book or article has shifted your perspective this month?",
+      "Have you ever tried a ritual that helped you feel more connected?",
+      "What\u2019s a new skill you\u2019re experimenting with right now?",
+      "If you could spend a day with any thinker (alive or dead), who would it be?"
+    ],
+    "agentVoice": "Warm, inquisitive, and slightly witty; I\u2019ll echo Guy\u2019s blend of thoughtful insight and friendly encouragement, using clear language and occasional light humor.",
+    "readingNotes": [
+      "LinkedIn headline emphasizes mission over title \u2013 purpose drives him.",
+      "Multiple adjunct professor roles show love of teaching and learning.",
+      "Podcast and author credits appear on both platforms \u2013 content creation is core.",
+      "Instagram captions mix self\u2011help advice with personal health updates (sky\u2011diving, vaccine).",
+      "Posts about boat trips and surf hint at a love for water\u2011based adventure.",
+      "Frequent mentions of rituals suggest he values structured shared experiences."
+    ]
+  },
+  "gender": "man",
+  "seeking": "women",
+  "genderSource": "inferred",
+  "genderEvidence": "Name: Guy Kawasaki",
+  "shortlist": null
+}

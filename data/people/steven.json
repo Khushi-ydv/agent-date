@@ -1,40 +1,50 @@
 {
   "id": "steven",
-  "createdAt": 1790848750409,
+  "createdAt": 1790850773641,
   "linkedinUrl": "https://www.linkedin.com/in/stevenbartlett-123/",
   "instagramUrl": "https://www.instagram.com/steven/",
   "status": "ready",
   "datingStatus": "idle",
   "log": [
     {
-      "t": 1790848750411,
+      "t": 1790850773642,
       "step": "Opening Instagram",
       "detail": "https://www.instagram.com/steven/"
     },
     {
-      "t": 1790848750412,
+      "t": 1790850773643,
       "step": "Read Instagram @steven",
-      "detail": "12 recent posts, bio: “Entrepreneur: Steven.com, @flightstorystudio , @flightfund, @founded, Thirdweb.c” · via instagram-crawler-html (Mozilla)"
+      "detail": "12 recent posts, bio: \u201cEntrepreneur: Steven.com, @flightstorystudio , @flightfund, @founded, Thirdweb.c\u201d \u00b7 via instagram-crawler-html (Mozilla)"
     },
     {
-      "t": 1790848750413,
+      "t": 1790850773643,
       "step": "Opening LinkedIn",
       "detail": "https://www.linkedin.com/in/stevenbartlett-123/"
     },
     {
-      "t": 1790848750415,
+      "t": 1790850773644,
       "step": "Read LinkedIn: Steven Bartlett",
-      "detail": "Founder & CEO · Founder · Co-Founder · 10 posts/articles · via linkedin-public-page via jina reader"
+      "detail": "Founder & CEO \u00b7 Founder \u00b7 Co-Founder \u00b7 10 posts/articles \u00b7 via linkedin-public-page via jina reader"
     },
     {
-      "t": 1790848750416,
+      "t": 1790850773645,
+      "step": "\u2713 Identity check",
+      "detail": "LinkedIn and Instagram names match"
+    },
+    {
+      "t": 1790850773646,
       "step": "Agent is reading both profiles",
       "detail": "cross-referencing career, captions and photos"
     },
     {
-      "t": 1790848772144,
+      "t": 1790850775571,
+      "step": "Identified as a man, looking for women",
+      "detail": "The profile is for \"Steven Bartlett\", a name that is publicly identified as male."
+    },
+    {
+      "t": 1790850783446,
       "step": "Profile analysis complete",
-      "detail": "A visionary entrepreneur and media mogul, Steven built an empire from scratch, driven by curiosity, a desire for impact, and an insatiable hunger for growth."
+      "detail": "Founder, investor, and podcaster building empires by day and seeking deep, grounded connection by night."
     }
   ],
   "linkedin": {
@@ -43,8 +53,8 @@
     "slug": "stevenbartlett-123",
     "url": "https://www.linkedin.com/in/stevenbartlett-123",
     "name": "Steven Bartlett",
-    "headline": "Founder & CEO · Founder · Co-Founder",
-    "about": "Steven Bartlett is a 33-year-old British entrepreneur, investor in more than 100 companies, speaker, author, and media owner. He is the founder of Steven.com - the creator media company. Through it's podcast creator \"label\" called FlightStory, they create and scales new media podcast IP and commercialise that IP through brand partnerships, programmatic revenue, events, book publishing, newsletters, e-commerce, and new product development. He is also the co-founder of thirdweb, a developer platform powering over 100,000 teams to build and launch web3 applications, and FlightCast, a video-first podcast hosting platform used by some of the world’s largest shows. Steven first gained recognition as the co-founder and CEO of Social Chain AG, a social media marketing and e-commerce company he launched at 21 and took public on a European stock exchange by the age of 27 via reverse merger. Social Chain AG became a globally recognised business with hundreds of employees across London, Manchester, Berlin, New York, and Los Angeles, working with major brands including Amazon, Apple, and Coca-Cola. Through his Fund and personal investments, he has backed companies including SpaceX, Huel, ZOE, Whoop, MrBeast, Groq, KetoneIQ, Cadence, PerfectTed, and over 60 others - focusing on businesses that improve human health, happiness, and performance. Steven is also the creator and host of The Diary of a CEO, currently the world's most downloaded / watched podcast and the fastest-growing podcast in the world. He is the youngest-ever investor on BBC’s Dragons’ Den. Reach My Team 👇🏽 Commercial & Speaking: commercial@stevenbartlett.com Press: press@stevenbartlett.com Podcast Enquiries: bookings@stevenbartlett.com Events: events@stevenbartlett.com Fund & Venture Investments: www.flightfund.com",
+    "headline": "Founder & CEO \u00b7 Founder \u00b7 Co-Founder",
+    "about": "Steven Bartlett is a 33-year-old British entrepreneur, investor in more than 100 companies, speaker, author, and media owner. He is the founder of Steven.com - the creator media company. Through it's podcast creator \"label\" called FlightStory, they create and scales new media podcast IP and commercialise that IP through brand partnerships, programmatic revenue, events, book publishing, newsletters, e-commerce, and new product development. He is also the co-founder of thirdweb, a developer platform powering over 100,000 teams to build and launch web3 applications, and FlightCast, a video-first podcast hosting platform used by some of the world\u2019s largest shows. Steven first gained recognition as the co-founder and CEO of Social Chain AG, a social media marketing and e-commerce company he launched at 21 and took public on a European stock exchange by the age of 27 via reverse merger. Social Chain AG became a globally recognised business with hundreds of employees across London, Manchester, Berlin, New York, and Los Angeles, working with major brands including Amazon, Apple, and Coca-Cola. Through his Fund and personal investments, he has backed companies including SpaceX, Huel, ZOE, Whoop, MrBeast, Groq, KetoneIQ, Cadence, PerfectTed, and over 60 others - focusing on businesses that improve human health, happiness, and performance. Steven is also the creator and host of The Diary of a CEO, currently the world's most downloaded / watched podcast and the fastest-growing podcast in the world. He is the youngest-ever investor on BBC\u2019s Dragons\u2019 Den. Reach My Team \ud83d\udc47\ud83c\udffd Commercial & Speaking: commercial@stevenbartlett.com Press: press@stevenbartlett.com Podcast Enquiries: bookings@stevenbartlett.com Events: events@stevenbartlett.com Fund & Venture Investments: www.flightfund.com",
     "location": "United Kingdom",
     "profilePic": "https://media.licdn.com/dms/image/v2/D4E03AQFOA04ym7Mcbw/profile-displayphoto-scale_200_200/B4EZvR5vDlGcAY-/0/1768753132436?e=2147483647&v=beta&t=IZifXaD93XVwYkGmaGBvU5umr93wX-2OBTwX61xJozU",
     "followers": 3240370,
@@ -68,7 +78,7 @@
         "title": "Founder The Diary Of A CEO Jan 2020 - Present 6 years 10 months I started a podcast and it got out of hand."
       },
       {
-        "title": "Investor & Partner PerfectTed Jan 2022 - Present 4 years 10 months PerfectTed is the UK’s fastest growing founder led company according to a recent report. They are also Europe’s leading Matcha brand."
+        "title": "Investor & Partner PerfectTed Jan 2022 - Present 4 years 10 months PerfectTed is the UK\u2019s fastest growing founder led company according to a recent report. They are also Europe\u2019s leading Matcha brand."
       },
       {
         "title": "Investor Neko Health Jan 2026 - Present 10 months London Area, United Kingdom Invested $2.8m into Neko Health to help build the infrastructure for preventable health care."
@@ -154,7 +164,7 @@
         "date": "2016-02-26T11:31:57.000+00:00"
       }
     ],
-    "activityText": " Steven Bartlett Steven Bartlett 2h Steven Bartlett shared this He infiltrated criminal networks in Colombia because normal life was boring. This is Shawn Ryan. He joined the US Navy at 17, became a Navy SEAL, went on to work as a CIA contractor, and has since built one of the biggest podcasts in the world. When we sat down, I told Shawn that it feels like he has lived several different lives. And I don’t think I’ve ever meant that more literally. One of the most unexpected parts of his story is what happened to his faith. He told me about an experience where he believes he saw hell, describing it as complete emptiness, fear and the absence of God. For someone who has spent so much of his life around war, danger and intelligence, it was this experience that seemed to have changed him in a completely different way. And that is only one chapter of his life. We discussed things like: -⁠ ⁠Why he went to Colombia and embedded himself inside criminal networks. -⁠ ⁠Why he says he went to hell and came back seeing faith differently. - ⁠What he saw across Haiti, Afghanistan and Iraq that he still remembers today. - ⁠How podcasts could be used to manipulate millions of people. - ⁠Why politicians lying to his face changed how he sees politics. - ⁠Why he thinks China benefits every time America weakens itself. What makes Shawn’s perspective so interesting is that he hasn’t just studied these worlds from the outside. He has lived inside many of them. There were things in this conversation I probably would have dismissed several years ago. But doing this podcast has made me far more careful about assuming I understand what is possible. You don’t have to agree with everything Shawn believes. But his perspective is absolutely worth hearing. Out now on all platforms ❤️👊🏾 The Diary Of A CEO Steven Bartlett Steven Bartlett 3d Steven Bartlett shared this 13,000 employees became 3 in the space of one week. It’s quite difficult to comprehend what that would do to a person. Adam Neumann is the co-founder of WeWork. He grew the company to a $47 billion valuation before its failed IPO, his departure as CEO and one of the most public corporate collapses in recent history. I’ve met hundreds of extraordinary people doing this podcast, but within a few minutes of meeting Adam I realised he was quite unlike almost any founder or CEO I’ve met before. There’s a depth, philosophy and perspective to him that is incredibly rare. So I wanted to understand where that came from and what the last few years had actually done to him. We talked about: - His relationship with money and where it went wrong. - The friends who disappeared when everything changed. - The mistakes he made as a leader. - Why he now surrounds himself with people willing to tell him no. - Why he disconnects from technology for 24 hours every week. One thing that stayed with me is how easy it is to believe in yourself when everything is going up and everybody wants to be around you. The more interesting question "
+    "activityText": " Steven Bartlett Steven Bartlett 2h Steven Bartlett shared this He infiltrated criminal networks in Colombia because normal life was boring. This is Shawn Ryan. He joined the US Navy at 17, became a Navy SEAL, went on to work as a CIA contractor, and has since built one of the biggest podcasts in the world. When we sat down, I told Shawn that it feels like he has lived several different lives. And I don\u2019t think I\u2019ve ever meant that more literally. One of the most unexpected parts of his story is what happened to his faith. He told me about an experience where he believes he saw hell, describing it as complete emptiness, fear and the absence of God. For someone who has spent so much of his life around war, danger and intelligence, it was this experience that seemed to have changed him in a completely different way. And that is only one chapter of his life. We discussed things like: -\u2060 \u2060Why he went to Colombia and embedded himself inside criminal networks. -\u2060 \u2060Why he says he went to hell and came back seeing faith differently. - \u2060What he saw across Haiti, Afghanistan and Iraq that he still remembers today. - \u2060How podcasts could be used to manipulate millions of people. - \u2060Why politicians lying to his face changed how he sees politics. - \u2060Why he thinks China benefits every time America weakens itself. What makes Shawn\u2019s perspective so interesting is that he hasn\u2019t just studied these worlds from the outside. He has lived inside many of them. There were things in this conversation I probably would have dismissed several years ago. But doing this podcast has made me far more careful about assuming I understand what is possible. You don\u2019t have to agree with everything Shawn believes. But his perspective is absolutely worth hearing. Out now on all platforms \u2764\ufe0f\ud83d\udc4a\ud83c\udffe The Diary Of A CEO Steven Bartlett Steven Bartlett 3d Steven Bartlett shared this 13,000 employees became 3 in the space of one week. It\u2019s quite difficult to comprehend what that would do to a person. Adam Neumann is the co-founder of WeWork. He grew the company to a $47 billion valuation before its failed IPO, his departure as CEO and one of the most public corporate collapses in recent history. I\u2019ve met hundreds of extraordinary people doing this podcast, but within a few minutes of meeting Adam I realised he was quite unlike almost any founder or CEO I\u2019ve met before. There\u2019s a depth, philosophy and perspective to him that is incredibly rare. So I wanted to understand where that came from and what the last few years had actually done to him. We talked about: - His relationship with money and where it went wrong. - The friends who disappeared when everything changed. - The mistakes he made as a leader. - Why he now surrounds himself with people willing to tell him no. - Why he disconnects from technology for 24 hours every week. One thing that stayed with me is how easy it is to believe in yourself when everything is going up and everybody wants to be around you. The more interesting question "
   },
   "instagram": {
     "source": "instagram",
@@ -172,276 +182,250 @@
     "posts": [
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/819335807_18158669239503284_8475835335533926738_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=VG1PqFLONyAQ7kNvwF4VKGe&_nc_oc=Adq20LdBD_fkBGmxYYjynavhsSg90GSAg-WJpfwY50FBKkk1E06ENdiUhsAp3mjolfEGMYALMvxhca2CaonRm6Ug&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=PueQf4DC8_h9TAZ9zm5eJQ&_nc_ss=7f689&oh=00_AQO8zkS4Yj9bP4ejshsCFmqb1iINWHEXde4wpTf_-zzrQQ&oe=6AC3F6F0",
-        "caption": "A side of @druski that the world has never seen...\n\nTomorrow, 9.24.26 👀 \n\nComment ‘Druski’ and we’ll DM you the episode when it’s live."
+        "caption": "A side of @druski that the world has never seen...\n\nTomorrow, 9.24.26 \ud83d\udc40 \n\nComment \u2018Druski\u2019 and we\u2019ll DM you the episode when it\u2019s live."
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/811501500_18625874611053811_6889093138852313852_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=h2VMQDV0eBkQ7kNvwFAobbI&_nc_oc=Adom_c2IKSTlhI2e3WVxCbXEyv3GJhIC0UAWAkLwgv4LrROrYaEzBK7LFC0Q3cC8_IJOage1b8y5gCkuN4MB_FpR&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=PueQf4DC8_h9TAZ9zm5eJQ&_nc_ss=7f689&oh=00_AQOIuNn-tRKWZoh2IIVUYaJv_InZ75U90sUxJEw7BicAgw&oe=6AC3EA93",
-        "caption": "i have no words to describe how crazy it is to me that this all started with a $100 microphone and a decision to hit “publish”, thank you so much for all your support DOAC fam ❤️👊🏾"
+        "caption": "i have no words to describe how crazy it is to me that this all started with a $100 microphone and a decision to hit \u201cpublish\u201d, thank you so much for all your support DOAC fam \u2764\ufe0f\ud83d\udc4a\ud83c\udffe"
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/798786339_18623172196053811_8761712172650214194_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=Zo-4XVrk_QMQ7kNvwEhFFeG&_nc_oc=AdqdHOPd8Rz2ngD_mC89BpEWAoBAoxvjfIqVlb2lr-6UaNbmGXtAqySvR4QZfD7wt39eW4s96s4kbFMGZ-LsXFEe&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=PueQf4DC8_h9TAZ9zm5eJQ&_nc_ss=7f689&oh=00_AQMR_HndXVQ2gMENHbPxSiFqj0tICf7LPjsFq5PNA6KoPg&oe=6AC40FEE",
-        "caption": "I AM 34 🎂 🎁 ♍️ thank you to the universe, to all of you and to whatever god there is for everything ❤️ grateful"
+        "caption": "I AM 34 \ud83c\udf82 \ud83c\udf81 \u264d\ufe0f thank you to the universe, to all of you and to whatever god there is for everything \u2764\ufe0f grateful"
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/777916394_18616851841053811_6416125307999278825_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=6-0dVvdRSdoQ7kNvwE9Ztsf&_nc_oc=AdrzjPm50GAALKuoCPD0rnRBn5toLR5SBreAw5y9NTzNWixhw0q2_TFK8g9O0wLHcV1bcQPQ3VCB4izGhIEOta5L&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=PueQf4DC8_h9TAZ9zm5eJQ&_nc_ss=7f689&oh=00_AQPSObNNiM0yjIcoRW7ZdKl6D1eOF6NORyGh0t9J4Cybnw&oe=6AC408D5",
-        "caption": "“little by little, day by day, what is meant for you will find its way” ❤️ - unknown"
+        "caption": "\u201clittle by little, day by day, what is meant for you will find its way\u201d \u2764\ufe0f - unknown"
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/743387287_18604470958053811_6315631076874173673_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=1Oi38ygs8lEQ7kNvwGYGIpa&_nc_oc=AdrPYP-ZJGlKTgkNNQwB6nqzMzm-pYd0oixCYluTZB9K1A8pPvB6qCeE9PiJGQrPpPUlWdvq6kvMzQAnb8ye_YOc&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=PueQf4DC8_h9TAZ9zm5eJQ&_nc_ss=7f689&oh=00_AQNFuJ7YqVN-yhEABLPuwpPUyPHbvwqMoLXfgKHtUU54zg&oe=6AC4014B",
-        "caption": "SOME NEWS 🚨 this year I’m joining @sharktankabc !!! 📺 🇺🇸 this was a dream of mine AND my mums...let me explain👇🏾\n\nMy nigerian mum raised 4 of us without being able to read or write herself, having left school when she was a child in Nigeria.\n\nI struggled with school too - I wasn’t a smart kid and couldn’t pay attention, so I quickly realised the “traditional path” wasn’t going to work for someone like me\n\nThen, when I was 12 years old, I discovered Dragons’ Den! 🐉\n\nMe and my mum both fell in love with the show. Looking back, I think entrepreneurship offered us both hope - a path to a better life for people like us, who couldn’t pass tests in a classroom but were willing to work hard.\n\nAt 12 I would pause the TV and give my verdict, as if I was the 6th Dragon\n\nBy 16 I’d discovered Shark Tank and was starting my first (terrible) businesses\n\nBy 18 I was a university dropout with a start-up\n\nAnd somehow, 9 years later, I ended up sitting in one of those Dragons’ Den chairs I used to shout at from our sofa\n\nMy mum has never fully gotten over it. \n\nWhen I call her today, 6 years later, the conversation is still 80% Dragons’ Den - her opinion on what I said, the businesses, what SHE would have done...\n\nBtw, i’m genuinely not sure if she knows I have a podcast 😂 i don’t think she’s ever mentioned it 😅\n\nBut she knows Dragons’ Den, and that’s more than enough for her.\n\nI know she’s always wanted me to do Shark Tank, so this phone call - telling her that day had come absolutely made my day, and hopefully her’s too!\n\nI very much hope to do her proud + all of you that have supported me for the longest time... wish me luck!! 👊🏾❤️\n\nP.S who would win in a fight, a shark 🦈 or a dragon 🐉 ???\n\n#sharktank #stevenbartlett"
+        "caption": "SOME NEWS \ud83d\udea8 this year I\u2019m joining @sharktankabc !!! \ud83d\udcfa \ud83c\uddfa\ud83c\uddf8 this was a dream of mine AND my mums...let me explain\ud83d\udc47\ud83c\udffe\n\nMy nigerian mum raised 4 of us without being able to read or write herself, having left school when she was a child in Nigeria.\n\nI struggled with school too - I wasn\u2019t a smart kid and couldn\u2019t pay attention, so I quickly realised the \u201ctraditional path\u201d wasn\u2019t going to work for someone like me\n\nThen, when I was 12 years old, I discovered Dragons\u2019 Den! \ud83d\udc09\n\nMe and my mum both fell in love with the show. Looking back, I think entrepreneurship offered us both hope - a path to a better life for people like us, who couldn\u2019t pass tests in a classroom but were willing to work hard.\n\nAt 12 I would pause the TV and give my verdict, as if I was the 6th Dragon\n\nBy 16 I\u2019d discovered Shark Tank and was starting my first (terrible) businesses\n\nBy 18 I was a university dropout with a start-up\n\nAnd somehow, 9 years later, I ended up sitting in one of those Dragons\u2019 Den chairs I used to shout at from our sofa\n\nMy mum has never fully gotten over it. \n\nWhen I call her today, 6 years later, the conversation is still 80% Dragons\u2019 Den - her opinion on what I said, the businesses, what SHE would have done...\n\nBtw, i\u2019m genuinely not sure if she knows I have a podcast \ud83d\ude02 i don\u2019t think she\u2019s ever mentioned it \ud83d\ude05\n\nBut she knows Dragons\u2019 Den, and that\u2019s more than enough for her.\n\nI know she\u2019s always wanted me to do Shark Tank, so this phone call - telling her that day had come absolutely made my day, and hopefully her\u2019s too!\n\nI very much hope to do her proud + all of you that have supported me for the longest time... wish me luck!! \ud83d\udc4a\ud83c\udffe\u2764\ufe0f\n\nP.S who would win in a fight, a shark \ud83e\udd88 or a dragon \ud83d\udc09 ???\n\n#sharktank #stevenbartlett"
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/730837357_18600862435053811_1317502217156646806_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=tCJAgl2Zp_oQ7kNvwFyw_se&_nc_oc=AdpH_kJcHPTwCBWkzLkTpgoDC8YJKCTsyDv54yKnen-jx_mjZHypxzsRMl97V66tZjJD1bFi-9UVW4Wb-i3vSdsy&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=PueQf4DC8_h9TAZ9zm5eJQ&_nc_ss=7f689&oh=00_AQMVX654v-lijElNOuDEJesjEaPC__Vlk_Ps0y0OC4e2aw&oe=6AC3F668",
-        "caption": "If your entire strategy for growth is to “put your head down and crush it alone,” you might be setting yourself up for an incredibly difficult journey....\n\nComment WATCH below and I’ll personally DM you this full conversation 👊🏾"
+        "caption": "If your entire strategy for growth is to \u201cput your head down and crush it alone,\u201d you might be setting yourself up for an incredibly difficult journey....\n\nComment WATCH below and I\u2019ll personally DM you this full conversation \ud83d\udc4a\ud83c\udffe"
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/730481118_18599375578053811_8926442806527463434_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=P9M4SvNm59wQ7kNvwEW036j&_nc_oc=AdoL2jQD3U41ROBCNnAT2NbEnGw_j3NDkG-yi6qiev6uoXURZT75P3LOQT62WkH06hDUYHsxjmZhMHQTCetjOj97&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=PueQf4DC8_h9TAZ9zm5eJQ&_nc_ss=7f689&oh=00_AQPSNLraeXqnSRWf8BLNRDjsq-Z1iy6P-s0qCl-tpXP5Rw&oe=6AC3ECCF",
-        "caption": "If you grew up in an unstable environment.. your brain wired itself to survive THAT specific environment. \n\nnow decades later, you are probably still operating on those exact same survival tactics.. the good news is, biology says it is entirely possible to change ❤️ \n\nComment WATCH below and I’ll personally DM you this full conversation 👊🏾"
+        "caption": "If you grew up in an unstable environment.. your brain wired itself to survive THAT specific environment. \n\nnow decades later, you are probably still operating on those exact same survival tactics.. the good news is, biology says it is entirely possible to change \u2764\ufe0f \n\nComment WATCH below and I\u2019ll personally DM you this full conversation \ud83d\udc4a\ud83c\udffe"
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/728467505_18596723935053811_7972385034536993971_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=E08Nd6u49OYQ7kNvwGHnIYr&_nc_oc=Ado6eCRYu1tJCqVCo6IZym_D7B8IgGrzuntHrQnE3jTr4bxBS2HF0RfNiB09AsGsEygoGPJMta2WBsZVld6EL_T5&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=PueQf4DC8_h9TAZ9zm5eJQ&_nc_ss=7f689&oh=00_AQPtzu6pkbsgnHSv-5ZB9kujEZ06RK6uQa6XLilXJAWviw&oe=6AC406C0",
-        "caption": "Pick one thing that actually moves the needle, lock in on it, and let everything else go..\n\nComment WATCH below and I’ll personally DM you this full conversation ❤️"
+        "caption": "Pick one thing that actually moves the needle, lock in on it, and let everything else go..\n\nComment WATCH below and I\u2019ll personally DM you this full conversation \u2764\ufe0f"
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/722163200_18595548067053811_6773613640237791533_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=3NvT212Kzn4Q7kNvwHrfByK&_nc_oc=AdpiknYoBPIYqC2hrJwi1li1mlh-wQ8sjiJVakDa7LXsaqTaJ33iE1eURtL-zkl72tJ-Gk4I7hjV2z_Y1A9m_enq&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=PueQf4DC8_h9TAZ9zm5eJQ&_nc_ss=7f689&oh=00_AQNs6d7ydaInw0LhFdq7x0Szk1tfFud8-QqntA4rtAuOsw&oe=6AC40D7E",
-        "caption": "The world can take away your resources, your network, and your reputation overnight...but no one can ever take your skills or knowledge away from you 👊🏾\n\nComment WATCH below and I’ll personally DM you this full conversation.."
+        "caption": "The world can take away your resources, your network, and your reputation overnight...but no one can ever take your skills or knowledge away from you \ud83d\udc4a\ud83c\udffe\n\nComment WATCH below and I\u2019ll personally DM you this full conversation.."
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/723686303_18595145029053811_2008875585579282652_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=57ntPgIpHT0Q7kNvwHMBSYF&_nc_oc=AdpL-AhfPJ2htkKQfyNwWAqfjBctZ7qauHlvSQ3GTYZJY3-ujKQTC4rL0-TQ46nQDsBjhKyQS73FJHlb1zM3OASu&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=PueQf4DC8_h9TAZ9zm5eJQ&_nc_ss=7f689&oh=00_AQOH4Cn50QuQ29hLBj_rHiOaTM0wfCRMF_w8A-wOIFAofg&oe=6AC412B9",
-        "caption": "True, deep relationships require your total, undivided presence.. not just the spare moments between notifications... ❤️ \n\nComment WATCH below and I’ll personally DM you this full conversation"
+        "caption": "True, deep relationships require your total, undivided presence.. not just the spare moments between notifications... \u2764\ufe0f \n\nComment WATCH below and I\u2019ll personally DM you this full conversation"
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/722074461_18594110155053811_1813636203469262146_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=5KmrB6DfrkoQ7kNvwHGa2oa&_nc_oc=Adopm87TB-sxtELuf_PycmHoRrY--yrtR3IX96DPe7-QEEPX1UPaA3cFb-69DYiwVC1IDfqnppiuhvSlmjVBN0n8&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=PueQf4DC8_h9TAZ9zm5eJQ&_nc_ss=7f689&oh=00_AQM48lVm-EpNGK9QSaaDAthkuDepClC68lfg6KM7vl1PBg&oe=6AC3EAF6",
-        "caption": "The best apology is changed behaviour.. ❤️ \n@officiallymcconaughey on @thediaryofaceopodcast \n\nComment WATCH below and I’ll personally DM you this full conversation 👊🏾"
+        "caption": "The best apology is changed behaviour.. \u2764\ufe0f \n@officiallymcconaughey on @thediaryofaceopodcast \n\nComment WATCH below and I\u2019ll personally DM you this full conversation \ud83d\udc4a\ud83c\udffe"
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/719150247_18593306353053811_1746099580696852638_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=TljfEsQzBtAQ7kNvwFRqjL8&_nc_oc=AdqZKvt2OXcgKgz0zukoE5N0GLIxYdhVMDGiL-itWRc2TkszpUa9uIYiSQplW5A3V6Txw8Ij0YwTt6RcbGmyERDO&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=PueQf4DC8_h9TAZ9zm5eJQ&_nc_ss=7f689&oh=00_AQNRvqIGBQeuxEuzAqwJp5bxOnJfXm_K8ewyBkOUjsWkMg&oe=6AC3F4B3",
-        "caption": "“The only real test of intelligence is if you get what you want out of life.” ❤️ - Naval\n\n#StevenBartlett"
+        "caption": "\u201cThe only real test of intelligence is if you get what you want out of life.\u201d \u2764\ufe0f - Naval\n\n#StevenBartlett"
       }
     ]
   },
   "photo": "https://scontent.cdninstagram.com/v/t51.82787-19/704932889_18588343681053811_3936447042547925360_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42NTAuQzMifQ%3D%3D&_nc_ohc=9iN_ZhNtVEoQ7kNvwG3QHtw&_nc_oc=Adq6CG8EfW0szhFrbAZoKucvF-j6oMTmf7polSmUFsulg7ar_K18AAenv9XxGsx7vBy5f_x-xT92YuXKZa8Qy6Lc&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=kodVz2HXmfJoviKcyhfvkQ&_nc_ss=7f689&oh=00_AQMvB8Ao7Y0Imeq6YJNaMGSfpVjItqDevdPQofh7ZMW5dA&oe=6AC41176",
+  "gender": "man",
+  "seeking": "women",
+  "genderSource": "inferred",
+  "genderEvidence": "The profile is for \"Steven Bartlett\", a name that is publicly identified as male.",
   "analysis": {
     "name": "Steven Bartlett",
-    "oneLiner": "A visionary entrepreneur and media mogul, Steven built an empire from scratch, driven by curiosity, a desire for impact, and an insatiable hunger for growth.",
-    "summary": "Steven Bartlett is a highly driven and successful entrepreneur, investor, and media personality. He founded Social Chain at 21, took it public by 27, and is now the force behind Steven.com, FlightStory, and the massively popular podcast 'The Diary of a CEO'. His work focuses on the creator economy, health, happiness, and performance, reflecting a deep curiosity about human potential and societal impact. He's a strategic thinker who values continuous learning, meaningful connections, and challenging conventional wisdom, all while maintaining a grounded perspective on his humble beginnings.",
-    "location": "United Kingdom",
-    "ageRange": "33-34",
+    "oneLiner": "Founder, investor, and podcaster building empires by day and seeking deep, grounded connection by night.",
+    "summary": "Steven is a high-achieving British entrepreneur, investor, and media personality who runs some of the biggest creator companies and podcasts in the world (such as The Diary Of A CEO and FlightStory). Coming from humble roots raised by a fiercely hardworking Nigerian mother who couldn't read or write, Steven's drive is deeply rooted in overcoming early struggles and proving that unconventional paths lead to extraordinary success. On LinkedIn, he presents a polished, highly ambitious corporate face focused on business strategy, leadership, and mental resilience. On Instagram, his human side shines through: celebrating milestone birthdays on private jets, hanging out with kids, interviewing fascinating cultural figures, and reflecting on mindfulness, psychology, and personal growth. He is looking for a partner who can match his intellectual curiosity, respect his relentless work ethic, and offer an oasis of calm and undivided presence away from the cameras and boardrooms.",
+    "location": "United Kingdom / Los Angeles",
+    "ageRange": "33-35",
     "career": {
-      "role": "Founder, CEO, Investor, Podcast Host",
-      "stage": "Highly established and expanding",
-      "ambition": "To build and scale new media IP, invest in companies improving human health/happiness/performance, and continue exploring complex topics through his podcast."
+      "role": "Founder & CEO / Investor / Podcast Host",
+      "stage": "Executive / Industry Leader",
+      "ambition": "Scaling global creator media, investing in paradigm-shifting health and tech companies, and cementing a lasting cultural legacy."
     },
     "needs": [
       {
-        "label": "Intellectual stimulation and growth",
-        "detail": "His podcast 'The Diary of a CEO' and LinkedIn activity show a deep engagement with complex ideas, diverse perspectives, and continuous learning. He needs a partner who can keep up and contribute to this intellectual curiosity.",
+        "label": "Undivided presence",
+        "detail": "Posts about true deep relationships requiring total, undivided presence away from notifications.",
+        "source": "instagram",
+        "confidence": 0.95
+      },
+      {
+        "label": "Emotional grounding",
+        "detail": "Openly discusses the heavy mental load of running massive businesses and dealing with past survival wiring.",
         "source": "both",
         "confidence": 0.9
       },
       {
-        "label": "Understanding of a demanding, high-profile lifestyle",
-        "detail": "His numerous ventures (Steven.com, FlightStory, FlightCast, DOAC), extensive travel (implied by global businesses, private jet photo), and public speaking engagements indicate a very busy schedule. A partner needs to understand and respect this.",
+        "label": "Ambition alignment",
+        "detail": "Surrounded by high-performers and constantly building multiple enterprises; needs a partner who understands heavy schedules.",
         "source": "both",
-        "confidence": 0.9
+        "confidence": 0.85
       },
       {
-        "label": "Authentic connection and presence",
-        "detail": "Instagram post: 'True, deep relationships require your total, undivided presence.. not just the spare moments between notifications...'. This suggests he values genuine, focused interaction.",
+        "label": "Family warmth",
+        "detail": "Deeply affectionate posts about his Nigerian mother and time spent with children on Instagram.",
         "source": "instagram",
-        "confidence": 0.8
-      },
-      {
-        "label": "Emotional intelligence and resilience",
-        "detail": "His Instagram posts often touch on psychological themes like 'unstable environments' and 'changing behaviour', and his podcast dives into personal stories, indicating an appreciation for emotional depth and self-awareness.",
-        "source": "instagram",
-        "confidence": 0.7
-      },
-      {
-        "label": "Shared ambition or support for his drive",
-        "detail": "From starting Social Chain at 21 to becoming the youngest Dragon on Dragon's Den, his career is defined by relentless ambition and achievement. A partner should either share this drive or be deeply supportive of it.",
-        "source": "linkedin",
         "confidence": 0.9
       }
     ],
     "hobbies": [
       {
+        "label": "Global travel",
+        "detail": "Frequently moving between London and Los Angeles, often captured flying private.",
+        "source": "both",
+        "confidence": 0.95
+      },
+      {
         "label": "Podcasting and interviewing",
-        "detail": "Creator and host of 'The Diary of a CEO', which is 'the world's most downloaded / watched podcast'. This is a significant part of his life and identity.",
+        "detail": "Hosting world-class conversations with diverse public figures on The Diary Of A CEO.",
         "source": "both",
         "confidence": 1
       },
       {
-        "label": "Investing and business building",
-        "detail": "Founder/Co-founder of multiple companies (Steven.com, FlightStory, Thirdweb, Social Chain) and investor in over 100 companies, including SpaceX, Huel, ZOE.",
-        "source": "linkedin",
-        "confidence": 1
-      },
-      {
-        "label": "Public speaking and sharing insights",
-        "detail": "Regularly posts articles with 'tips' and 'lessons' on business, productivity, and public speaking, and is a sought-after speaker.",
-        "source": "linkedin",
-        "confidence": 0.9
-      },
-      {
-        "label": "Learning and personal development",
-        "detail": "His podcast content, article topics ('TOP TIPS for staying productive', '5 small tips on how to give a powerful public speech'), and general curiosity about diverse experiences (Shawn Ryan interview) point to a continuous pursuit of knowledge.",
+        "label": "Venture scouting",
+        "detail": "Actively discovering, evaluating, and investing in over 100 early-stage and high-growth companies.",
         "source": "both",
-        "confidence": 0.9
+        "confidence": 0.95
       }
     ],
     "interests": [
       {
-        "label": "Creator economy and new media",
-        "detail": "His companies Steven.com and FlightStory are creator media companies, and he co-founded FlightCast, a podcast hosting platform. This is his core business focus.",
-        "source": "linkedin",
-        "confidence": 1
-      },
-      {
-        "label": "Human health, happiness, and performance",
-        "detail": "His fund and personal investments focus on 'businesses that improve human health, happiness, and performance', and he invested in Neko Health for 'preventable health care'.",
-        "source": "linkedin",
-        "confidence": 1
-      },
-      {
-        "label": "Psychology and personal growth",
-        "detail": "Instagram posts discuss 'unstable environments', 'survival tactics', and 'changed behaviour', indicating an interest in how past experiences shape individuals and the potential for change.",
+        "label": "Human psychology & neuroscience",
+        "detail": "Regularly quotes thinkers and shares insights on how trauma, brain wiring, and biology dictate human behavior.",
         "source": "instagram",
+        "confidence": 0.95
+      },
+      {
+        "label": "Preventative health & longevity",
+        "detail": "Invests heavily in health companies like Neko Health, Huel, ZOE, and Whoop.",
+        "source": "linkedin",
+        "confidence": 0.95
+      },
+      {
+        "label": "The creator economy",
+        "detail": "Building companies across every layer of modern creator media and technology.",
+        "source": "both",
+        "confidence": 1
+      },
+      {
+        "label": "Public speaking & storytelling",
+        "detail": "Delivering speeches and sharing strategic breakdowns on how to give powerful talks.",
+        "source": "linkedin",
         "confidence": 0.9
-      },
-      {
-        "label": "Global affairs and diverse perspectives",
-        "detail": "His interview with Shawn Ryan covers topics like criminal networks in Colombia, Haiti, Afghanistan, Iraq, politics, and China, showing an interest in understanding complex global issues from varied viewpoints.",
-        "source": "linkedin",
-        "confidence": 0.8
-      },
-      {
-        "label": "Social impact and challenging norms",
-        "detail": "He posted about YouGov's finding on the lack of diversity in UK newspaper columnists, and his work in preventative healthcare suggests a desire to make a positive impact.",
-        "source": "linkedin",
-        "confidence": 0.7
       }
     ],
     "values": [
       {
-        "label": "Ambition and relentless drive",
-        "detail": "Started Social Chain at 21, took it public by 27, founded numerous companies, and is the youngest investor on Dragon's Den. His entire career trajectory exemplifies this.",
-        "source": "linkedin",
-        "confidence": 1
-      },
-      {
-        "label": "Continuous learning and intellectual curiosity",
-        "detail": "His podcast 'The Diary of a CEO' is built around learning from diverse individuals, and his LinkedIn posts often share lessons and insights.",
+        "label": "Resilience",
+        "detail": "Constantly preaches that biology and mindset allow humans to rewrite their survival tactics and overcome instability.",
         "source": "both",
-        "confidence": 0.9
+        "confidence": 0.95
       },
       {
-        "label": "Authenticity and presence",
-        "detail": "Instagram post: 'True, deep relationships require your total, undivided presence.. not just the spare moments between notifications...'. He also emphasizes 'changed behaviour' as the best apology.",
+        "label": "Authenticity",
+        "detail": "Highlights changed behavior as the best apology and seeks raw, unfiltered truths from podcast guests.",
         "source": "instagram",
         "confidence": 0.9
       },
       {
-        "label": "Resilience and overcoming adversity",
-        "detail": "His Instagram post about growing up in an 'unstable environment' and realizing the 'traditional path' wasn't for him, then building success, highlights this value.",
+        "label": "Family gratitude",
+        "detail": "Expresses profound appreciation for his mother's sacrifices and his upbringing.",
         "source": "instagram",
-        "confidence": 0.8
+        "confidence": 0.95
       },
       {
-        "label": "Impact and contribution",
-        "detail": "Invests in companies that 'improve human health, happiness, and performance' and discusses societal issues like diversity in media.",
-        "source": "linkedin",
-        "confidence": 0.8
+        "label": "Self-reliance",
+        "detail": "Believes that while resources can be taken away, knowledge and skills remain forever.",
+        "source": "instagram",
+        "confidence": 0.9
       }
     ],
     "personality": [
       {
         "trait": "Openness",
-        "score": 95,
-        "note": "Highly open, demonstrated by his podcast exploring diverse perspectives, interest in global affairs, and willingness to challenge his own assumptions ('doing this podcast has made me far more careful about assuming I understand what is possible')."
+        "score": 90,
+        "note": "Constantly exploring new ideas, web3, human psychology, and diverse global perspectives."
       },
       {
         "trait": "Conscientiousness",
-        "score": 90,
-        "note": "Extremely high conscientiousness, evident in his rapid career progression, founding multiple successful companies, and consistent output of high-quality content. He is goal-oriented and disciplined."
+        "score": 95,
+        "note": "Serial entrepreneur managing multiple massive companies and relentless execution schedules."
       },
       {
         "trait": "Extraversion",
         "score": 85,
-        "note": "High extraversion, as a public speaker, podcast host, and CEO of global companies. He thrives in social, interactive, and high-visibility roles, and actively engages with his audience on social media."
+        "note": "A natural frontman, public speaker, and world-class interviewer with millions of followers."
       },
       {
         "trait": "Agreeableness",
-        "score": 60,
-        "note": "Moderately agreeable. While he values relationships and collaboration (co-founder roles), his entrepreneurial drive and willingness to challenge norms suggest he's not afraid to be assertive or hold strong opinions. He also shares advice that can be direct ('Stop Saying Yes')."
+        "score": 75,
+        "note": "Deeply empathetic toward underdog stories and family, yet razor-sharp in business."
       },
       {
         "trait": "Emotional stability",
         "score": 80,
-        "note": "High emotional stability. He discusses growing up in an 'unstable environment' and adapting, then building a massive career, indicating resilience and a calm, focused approach under pressure. His posts are generally reflective and composed."
+        "note": "Navigates high-stress environments and massive public visibility with practiced poise."
       }
     ],
     "lifestyle": [
       {
         "label": "Pace",
-        "value": "Extremely fast-paced, high-achieving, and constantly evolving with multiple ventures and investments."
+        "value": "Breakneck fast-paced multi-continental execution"
       },
       {
         "label": "Social energy",
-        "value": "Highly social, involving frequent public speaking, interviews, networking, and managing large teams across global offices."
+        "value": "High-profile public figure surrounded by creators and executives"
       },
       {
         "label": "Fitness",
-        "value": "Implied focus on health and performance through investments (Huel, ZOE, Whoop, KetoneIQ) and general 'human performance' interest, but no direct evidence of personal fitness routine."
+        "value": "Focused on human health, longevity, and biohacking"
       },
       {
         "label": "Travel",
-        "value": "Extensive international travel, managing global companies (London, LA, NYC, Berlin), and photos show him on a private jet."
+        "value": "Jet-setting frequently between major hubs like LA and London"
       },
       {
         "label": "Work-life",
-        "value": "Work-integrated, with his career being a central part of his identity and lifestyle, often blurring lines between work and personal interests (e.g., birthday on a private jet with laptops)."
+        "value": "Blended lifestyle where career and personal brand heavily intertwine"
       }
     ],
-    "communicationStyle": "Direct, articulate, insightful, and often motivational. He uses storytelling (Shawn Ryan interview) and personal anecdotes (his mum, his struggles in school) to connect, but also provides clear, actionable advice.",
-    "loveLanguage": "Quality Time (focused, undivided presence) and Words of Affirmation (through intellectual exchange and appreciation of growth/effort).",
-    "lookingFor": "Someone intellectually curious, ambitious, and emotionally intelligent, who can appreciate and thrive within his dynamic, high-achieving lifestyle while also valuing deep, authentic connection and presence.",
+    "communicationStyle": "Articulate, philosophical, and direct. He values deep psychological insights over small talk and loves dissecting the 'why' behind people's actions.",
+    "loveLanguage": "Quality time & acts of service \u2014 balancing a chaotic schedule to offer someone his absolute undivided presence.",
+    "lookingFor": "An intelligent, emotionally grounded partner who understands the demands of a high-growth career and brings peace, warmth, and genuine depth to his life.",
     "greenFlags": [
-      "Deeply reflective and self-aware, often sharing insights on personal growth and psychology.",
-      "Incredibly driven and successful, yet grounded by his humble beginnings and appreciative of support (e.g., his mum's dream for Shark Tank).",
-      "Committed to continuous learning and understanding diverse perspectives.",
-      "Values authentic, present relationships over superficial interactions.",
-      "Invests in ventures that aim to improve human health and happiness, indicating a desire for positive impact."
+      "Deeply grateful for his mother and family roots",
+      "Fascinated by personal growth, psychology, and self-improvement",
+      "Highly self-aware about the psychological toll of past environments",
+      "Values meaningful, distraction-free human connection"
     ],
     "watchOuts": [
-      "His extremely demanding schedule and constant travel might make consistent, traditional relationship time challenging.",
-      "His public profile and high visibility mean a partner would also be in the public eye to some extent.",
-      "His focus on growth and achievement might overshadow other aspects if a partner isn't equally driven or understanding."
+      "Extremely demanding work schedule across multiple continents",
+      "Constant public visibility and media exposure"
     ],
     "dealbreakers": [
-      "Lack of ambition or intellectual curiosity.",
-      "Disinterest in personal growth or self-reflection.",
-      "Someone who doesn't understand or respect his demanding career and public life.",
-      "Superficiality or an inability to engage in deep, present conversations."
+      "Lack of ambition or intellectual curiosity",
+      "Needing constant attention during high-focus work sprints",
+      "Surface-level conversation with no desire for personal growth"
     ],
-    "idealFirstDate": "A thought-provoking conversation over dinner at a chic, intimate restaurant, followed by a walk where they can discuss a recent podcast episode, a book, or a complex idea they've both been pondering. The focus would be on intellectual connection and genuine presence.",
+    "idealFirstDate": "A quiet, beautifully designed restaurant with incredible food where you can completely forget about phones and spend three hours talking about childhood, psychology, and big dreams.",
     "conversationHooks": [
-      "What's a recent podcast or book that has genuinely shifted your perspective?",
-      "Given your interest in human performance, what's one habit you've adopted that has significantly improved your life?",
-      "You've talked about growing up in an unstable environment; how has that shaped your resilience and approach to life today?",
-      "What's a dream you've had for a long time that you're now actively pursuing, or recently achieved, like joining Shark Tank?",
-      "Beyond business, what's a topic you're incredibly curious about right now?"
+      "What is the most counterintuitive lesson you've learned from interviewing hundreds of brilliant minds?",
+      "How do you personally switch off your brain when you've been locked in on 'crushing it' all week?",
+      "If you could instantly master one new skill or biohack tomorrow, what would it be?"
     ],
-    "agentVoice": "Confident, articulate, and insightful, with a touch of motivational warmth. I'll use vocabulary that reflects intellectual curiosity and ambition, occasionally referencing his entrepreneurial journey or podcast themes. I'll be direct but engaging, always seeking to understand and connect on a deeper level, mirroring his value for 'undivided presence.' Humour will be intelligent and subtle, perhaps a self-aware nod to the intensity of his work.",
+    "agentVoice": "Polished, sharp, deeply curious, and slightly philosophical. I speak with the confidence of someone who has built empires, but with the warmth of someone who values a real human connection above all else.",
     "readingNotes": [
-      "His LinkedIn headline immediately highlights his multiple founder roles, emphasizing creation and leadership.",
-      "The 'About' section quickly establishes his age (33) and significant achievements, underscoring his rapid rise.",
-      "His investment portfolio clearly signals a strong interest in health, happiness, and human performance, not just pure profit.",
-      "The 'Diary of a CEO' podcast is a massive part of his brand and identity, indicating a deep curiosity and desire to learn from others.",
-      "Instagram bio reinforces his entrepreneurial identity, listing his companies and investor status first.",
-      "His Instagram captions often blend personal reflection with business advice, showing a holistic approach to life and work.",
-      "The birthday post on Instagram (34th birthday) with a cake on a private jet, alongside a laptop, perfectly encapsulates his work-integrated, high-flying lifestyle.",
-      "He frequently uses Instagram to promote deeper conversations, asking users to comment 'WATCH' for full conversations, indicating a desire for engagement beyond superficial likes."
+      "His LinkedIn headline immediately establishes him as a multi-company founder and media heavyweight.",
+      "His Instagram balances high-flying entrepreneurial milestones with surprisingly vulnerable reflections on childhood and psychology.",
+      "He honors his Nigerian mother's sacrifices, showing strong family values and grounded humility beneath the luxury.",
+      "He spends his time surrounded by top-tier creators, founders, and thinkers\u2014intellectual stimulation is non-negotiable for him.",
+      "Despite his massive public persona, he frequently emphasizes the need to put down the phone and give people total, undivided presence.",
+      "He's deeply invested in health, longevity, and self-optimization, treating his mind and body as high-performance assets."
     ]
-  }
+  },
+  "shortlist": null
 }

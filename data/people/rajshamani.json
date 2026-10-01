@@ -1,0 +1,398 @@
+{
+  "id": "rajshamani",
+  "createdAt": 1790849459931,
+  "linkedinUrl": "https://www.linkedin.com/in/rajshamani/",
+  "instagramUrl": "https://www.instagram.com/rajshamani/",
+  "status": "ready",
+  "datingStatus": "idle",
+  "log": [
+    {
+      "t": 1790849459932,
+      "step": "Opening Instagram",
+      "detail": "https://www.instagram.com/rajshamani/"
+    },
+    {
+      "t": 1790849459933,
+      "step": "Read Instagram @rajshamani",
+      "detail": "12 recent posts, bio: \u201cPurpose: To help people live & love better \u2728\nPodcast Host: @figuringout.co \ud83c\uddee\ud83c\uddf3\n\u201d \u00b7 via instagram-crawler-html (Mozilla)"
+    },
+    {
+      "t": 1790849459934,
+      "step": "Opening LinkedIn",
+      "detail": "https://www.linkedin.com/in/rajshamani/"
+    },
+    {
+      "t": 1790849459935,
+      "step": "Read LinkedIn: Raj Shamani",
+      "detail": "Founder \u00b7 Investor \u00b7 5 posts/articles \u00b7 via linkedin-public-page via jina reader"
+    },
+    {
+      "t": 1790849459936,
+      "step": "\u2713 Identity check",
+      "detail": "LinkedIn and Instagram names match"
+    },
+    {
+      "t": 1790849459937,
+      "step": "Agent is reading both profiles",
+      "detail": "cross-referencing career, captions and photos"
+    },
+    {
+      "t": 1790849643261,
+      "step": "Profile analysis complete",
+      "detail": "Founder, investor and podcast host who loves probing big ideas while hanging out with his dog Crypto."
+    },
+    {
+      "t": 1790850794053,
+      "step": "Identified as a man, looking for women",
+      "detail": "The name 'Raj Shamani' is a male name, and the profile uses the male pronoun 'he' in the context of 'I invested in Neko Health' without any female-specific self-descriptions."
+    }
+  ],
+  "linkedin": {
+    "source": "linkedin",
+    "method": "linkedin-public-page via jina reader",
+    "slug": "rajshamani",
+    "url": "https://www.linkedin.com/in/rajshamani",
+    "name": "Raj Shamani",
+    "headline": "Founder \u00b7 Investor",
+    "about": "Hi, I\u2019m Raj. \u200bSome people meditate for peace, I ask questions. Basically, my work is to meet the smartest people and get into their minds. Not literally. I talk to them to learn from their expertise, their choices, and their life. And I take my viewers along for the ride. For me, figuring out money, business, health, relationships, and life was so confusing in the beginning, and I\u2019m sure so many others face the same problem. But it gets a little bit easier when you have the right people sharing their lessons (and occasional disasters). When I\u2019m not doing that, I\u2019m hanging out with my dog, Crypto, who, unlike the real crypto, never disappoints me. Stick around to find out more about my experiences while doing all this.",
+    "location": "Mumbai, Maharashtra, India",
+    "profilePic": "https://media.licdn.com/dms/image/v2/C4E03AQFZXVgJZ7vfyQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1608546579473?e=2147483647&v=beta&t=Ezdr3qZbzZhakT21ktrRu-CIorPMEZaopj2Adv-fWCc",
+    "followers": 1936066,
+    "experience": [
+      {
+        "title": "Founder Figuring Out Media Jan 2021 - Present 5 years 10 months Mumbai, Maharashtra, India"
+      },
+      {
+        "title": "Investor C\u00dcRAA Jan 2025 - Present 1 year 10 months India"
+      },
+      {
+        "title": "Speaker United Nations May 2015 - Jun 2015 2 months Austria"
+      },
+      {
+        "title": "Team Member AIESEC Aug 2013 - Feb 2014 7 months Greater Indore Area"
+      }
+    ],
+    "education": [
+      {
+        "org": "United Nations",
+        "start": "2015-05",
+        "end": "2015-06"
+      },
+      {
+        "org": "AIESEC",
+        "start": "2013-08",
+        "end": "2014-02"
+      }
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "posts": [
+      {
+        "kind": "post",
+        "text": "The investments I understand best are the ones where I can connect to the problem myself. \n\nHealth is one of those areas for me. I have seen health issues closely in my family, and it showed me how long a problem can sit inside someone before anyone knows it is there. \n\nThat is a big reason I invested in Neko Health a few months ago. \n\nNeko helps people understand what is happening inside their body before something becomes serious, collecting millions of health data points in a single visit and then sitting them down with a clinician who explains what matters. \n\nIn the outcome data it has sha",
+        "date": "2026-10-01T06:15:16.829Z"
+      },
+      {
+        "kind": "post",
+        "text": "Which country produces the most oil in the world?\n\nThe United States. \n\nIt pumps more oil than any other country, more than Saudi Arabia or Russia, and it produces more natural gas than anyone too. \n\nIn our recent episode, part of the Mobius Foundation sustainability dialogue series, Sumant Sinha, the Founder, Chairman & CEO of ReNew, explained why the US keeps leaning into fossil fuels while much of the world pushes toward clean energy.\n\nA country's energy policy follows the money. The US is sitting on an enormous, profitable fossil fuel business, so doubling down on oil and gas makes economi",
+        "date": "2026-09-30T06:52:16.487Z"
+      },
+      {
+        "kind": "post",
+        "text": "When do you want to retire? \n\nScroll for a few minutes and the feed answers for you, a guy who sold his startup at thirty, a girl explaining how to walk away before forty. \n\nGen Z expects to retire around fifty-four on average, against seventy-one for their grandparents, and more than half say they belong to a movement built around leaving work as early as they can. \n\nAsk what they are chasing, and it is rarely a title or a company or a mark left on the world. It is time, freedom, a life they get to live while they are still young enough to feel it.\n\nThis would sound absurd to almost everyone ",
+        "date": "2026-09-28T06:48:51.479Z"
+      },
+      {
+        "kind": "post",
+        "text": "How do you tell whether a business idea will actually make money?\n\nAsish Mohapatra, who built OfBusiness into one of the rare startups that made money while it scaled, has a test he runs on every new idea. \n\nHe sets it a few very easy targets to hit in its first days: a day-one mark, a day-two mark, a day-three mark, all deliberately small. If the idea misses two, maybe three of them, he treats it as a bad idea and lets it go.\n\nThe targets are deliberately easy. Most people test an idea by whether it can clear some big, far-off goal, and they give it years and a lot of money to get there. He w",
+        "date": "2026-09-27T05:34:34.087Z"
+      },
+      {
+        "kind": "post",
+        "text": "What does it cost to own a private jet?\n\nIn our recent episode, Abhinav Tripathi, Founder of JR Airlines & Private Jet Operator, said that keeping a single jet running comes to around \u20b925 crore a year before it earns you anything back. \n\nEvery trip, the plane flies empty to come get you, flies you where you're going, then flies empty again to get back or reach its next customer, so you're paying for far more air time than the hours you're on board.\n\nAnd the cost is only half the trap. Banks are far more nervous about lending against a plane than a house or a business, so most of that \u20b925 crore",
+        "date": "2026-09-25T06:13:10.672Z"
+      }
+    ],
+    "activityText": "Activity 2M followers Posts No more previous content Raj Shamani Raj Shamani 3h Raj Shamani shared this The investments I understand best are the ones where I can connect to the problem myself. Health is one of those areas for me. I have seen health issues closely in my family, and it showed me how long a problem can sit inside someone before anyone knows it is there. That is a big reason I invested in Neko Health a few months ago. Neko helps people understand what is happening inside their body before something becomes serious, collecting millions of health data points in a single visit and then sitting them down with a clinician who explains what matters. In the outcome data it has shared, around 1% of people with no symptoms had a severe, potentially life-threatening condition found, including heart problems and skin cancers they had no idea about. I looked at the business, the product, the market and the team the way I would with any company, and the conviction came from understanding the problem the moment I saw it. When I back a company, I usually look for three things: a very large problem, a shift in behaviour that feels inevitable, and some personal understanding of why the problem matters. Most investing advice tells you to stay detached and let market size, growth and returns make the decision. Those things matter, and an investor can back good companies without living every problem they invest in. But when a problem is personal, you understand what it costs the people living with it in a way no market report can show you. The investments I hold closest are the companies I would want to exist even if I had no stake in them. Raj Shamani Raj Shamani 21h Raj Shamani shared this 3, Raj Shamani Raj Shamani 1d Raj Shamani shared this Which country produces the most oil in the world? The United States. It pumps more oil than any other country, more than Saudi Arabia or Russia, and it produces more natural gas than anyone too. In our recent episode, part of the Mobius Foundation sustainability dialogue series, Sumant Sinha , the Founder, Chairman & CEO of ReNew , explained why the US keeps leaning into fossil fuels while much of the world pushes toward clean energy. A country's energy policy follows the money. The US is sitting on an enormous, profitable fossil fuel business, so doubling down on oil and gas makes economic sense for them. A lot of the global energy debate runs on this, each country defending the energy source it already profits from. Sinha's bigger argument is that this comfort is a trap. As the world electrifies more of everything, from cars to factories to AI data centres, the advantage shifts to whoever can produce cheap, clean power at scale. The countries building that capacity now are setting up to hold the leverage later, the way oil-rich countries have held it for the last century. So who is positioned to win that shift, and who's already ahead? Watch the full conversation to learn more: https://lnkd.in/dmW2xf4T #rajsha"
+  },
+  "instagram": {
+    "source": "instagram",
+    "method": "instagram-crawler-html (Mozilla)",
+    "username": "rajshamani",
+    "url": "https://www.instagram.com/rajshamani/",
+    "fullName": "Raj Shamani",
+    "bio": "Purpose: To help people live & love better \u2728\nPodcast Host: @figuringout.co \ud83c\uddee\ud83c\uddf3\nI study the science of winning in modern world.",
+    "followers": 11446065,
+    "following": 2817,
+    "postsCount": 3646,
+    "isVerified": true,
+    "isPrivate": false,
+    "profilePic": "https://scontent.cdninstagram.com/v/t51.2885-19/420869272_288514803873421_8324884273493298411_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42NzQuQzMifQ%3D%3D&_nc_ohc=5Q2Pqj-VTe4Q7kNvwFqxa3L&_nc_oc=Adq9bnMUeHE6fL04Sj2JnEXUtmxDEOmQYze1Iv4Bj2NGxsJeSOHspl_25iBmun5faUstiTwz3h-5a2eHlejsKh0K&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=7f689&oh=00_AQMqGACYfaCgD2QGL0iyvFzVU6QshcVeUjnjQ1jmtZLXYw&oe=6AC40826",
+    "posts": [
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/828085699_18635570641052509_5973727701415289220_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=1&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=gaPZFyIY5sQQ7kNvwHXnM9D&_nc_oc=Adqnmhrd8VjZx1YTyZf97feQygKn38q1U3ovF_fV9Slbfbz4S-6FLSqUM81azxyb2mIqNDWvmtFHjT66Kkq6nof5&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=Mgdij_MsuKYk-OCv_Ga_pw&_nc_ss=7f689&oh=00_AQNnFLFtkUDmX9xbnoFl2jF37DstmzD4Sm-JDQ9X6e7Ymg&oe=6AC4039D",
+        "caption": "One bad conversation doesn\u2019t define your relationships.\nOne rejection doesn\u2019t define your potential.\nOne weak day doesn\u2019t define your discipline.\nAnd one person\u2019s opinion doesn\u2019t define your worth.\n\nSometimes we give one moment so much power that we forget everything else we\u2019ve built, survived, and become.\n\nYour life is bigger than what happened today. Keep the bigger picture in mind."
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/831492674_18635310319052509_3507898367271737253_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=1&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=DsPiEniJw8sQ7kNvwHqvJiZ&_nc_oc=AdosVTzrJ06m8RCp4jqKGZsm26UiP64n9UlSW1r3x1opDHugGUPTktfRDRN66XE55D0RGWp1kdIb8e5D03dywlN1&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=Mgdij_MsuKYk-OCv_Ga_pw&_nc_ss=7f689&oh=00_AQMFfIfxtkKE3347BW8l4S4CnfYsWGWkd6NoZk_skA5SEA&oe=6AC41790",
+        "caption": "Comment \u201cYES\u201d if you understand this \ud83d\udc47"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/828551818_18635238766052509_6186646779758728099_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=1&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=s-0eeIrQQawQ7kNvwGhkJsU&_nc_oc=AdoQVuy4Zl5PARcqsmCp19lmKGgtykQW9zFrDd71Je4DugnSxgUCS9EEIXpxPnAsvTMxqm7ZHsF1OtFGoFoN1_qF&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=Mgdij_MsuKYk-OCv_Ga_pw&_nc_ss=7f689&oh=00_AQNRwyyin1ptF28Z3a_qJiuc70uTtKvmCtSadRhi-TDl7w&oe=6AC3E7FD",
+        "caption": "Send this to someone who needs motivation today \ud83d\udcaa"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/825324750_18077489222723960_3027747480875911244_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=HQXSbPphfMEQ7kNvwHOlWRk&_nc_oc=AdpVgqGc03JnIDLHhZuJ2B8x0lvgDXGDRLF_SGgYcTPmWB7Z-EoCyjyGS2YZc9hIKSN3SChL6njD17UQk7L4vKbY&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=Mgdij_MsuKYk-OCv_Ga_pw&_nc_ss=7f689&oh=00_AQM_OLX-ta9ElrvMRC7p1KoBDP3y_8nRGgCjjoE0UwQSIQ&oe=6AC40625",
+        "caption": "Comment \u2018LINK\u2019 and we\u2019ll personally DM you the full conversation.\n\nDo you think India can become energy independent in the next 10 years?\n\nIn today\u2019s episode, we sit down with Sumant Sinha - Founder, Chairman & CEO of @renewcorp one of the people who actually built India\u2019s renewable energy industry from nothing.\n\nHere\u2019s what we discussed:\n-Why Electricity Could Define the Future: Why electricity is only a part of the world\u2019s total energy consumption and why electrification could reshape the energy industry.\n-How China Dominated Clean Tech: How China built a major position across the global renewable energy and clean-tech supply chain.\n-The AI Power Problem: Why the rapid growth of AI is creating huge electricity and grid demands, especially in countries with aging infrastructure.\n-India\u2019s Path to Energy Independence: What India would need to do over the next decade to become more energy independent.\n-The Biggest Energy Bets for India: The three areas Sumant believes India should focus on to strengthen its energy future.\n\nCatch the full episode here:\nYouTube Channel: Raj Shamani\nSpotify Channel: Raj Shamani Figuring Out\n\nUntil then, keep figuring out! \ud83d\ude80\n\n#rajshamani\u00a0#figuringout"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/825325697_18634937872052509_4491146021847539401_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=1&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=H-ImgyIp_N0Q7kNvwG8A8zG&_nc_oc=AdrRKcMIcbIx_c1hpLpDsyRt82JIpMMRARy-a-jisMTMUdp-sWceyxs3d4H0e-pkCA9Q2h7rIKuNelXyQ0eNQo3a&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=Mgdij_MsuKYk-OCv_Ga_pw&_nc_ss=7f689&oh=00_AQO-k00ml_e45fD3Lo7Qx9GLkrnekCQJ1mIQq83VuzUJ2g&oe=6AC40C58",
+        "caption": "Are you still waiting for someone to explain the game to you?"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/825269846_18634691950052509_5227927690396102158_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=1&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=RcvWrWmiHLAQ7kNvwGPJ4_g&_nc_oc=AdptKFKqznAUxoMqkY0gnC4TiLc91GQJwVg0NeL9ObBdKa94XB2Pp8ZWJC6o9K9h4tw7atZwr-xMzdoUaXWyubEK&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=Mgdij_MsuKYk-OCv_Ga_pw&_nc_ss=7f689&oh=00_AQO2KqqKleVa4xDwAT66pH73SW5rRtYRG7Zdc4c4GPCizg&oe=6AC40D62",
+        "caption": "What\u2019s one thing you know you need to improve, but your ego won\u2019t let you admit?"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/825325604_18634630099052509_4808502328924651536_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=8BlzYcSrWCsQ7kNvwHlfP0M&_nc_oc=AdpaEsIVOA1MKm8eOynZdZpkmN9zwVRl_PlexNSQqRYLjV_yZ9ctLMpjHatDPoB0PVKYVcPTT1ecIdqY9kNsY7MC&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=Mgdij_MsuKYk-OCv_Ga_pw&_nc_ss=7f689&oh=00_AQPN5mCLDpu0m0EN9JRGt9ORKwOvpRxgF63G-y_OupB__w&oe=6AC41183",
+        "caption": "Tag someone who would completely relate to this"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/825269967_18634379275052509_6288791152029223662_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=YbRieDHRNiIQ7kNvwHvTp1E&_nc_oc=Adr5XQn8dE5NHgNxLeDkvgD2Fo-yHp8uAcDHLc5W9hdbo75_CKn0XGbrQkPUsWa_quh0tft0_N4o-99cU8S4noV2&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=Mgdij_MsuKYk-OCv_Ga_pw&_nc_ss=7f689&oh=00_AQPVKCVaZOsGThQ4rXH7JxhA_mo5Q1oQuBjRTmW0WYZmfg&oe=6AC3F2C4",
+        "caption": "This is one to come back to. Save it \ud83d\udccc"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/825325990_18077044076723960_7699038126082996896_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=r-ENtGTyOVYQ7kNvwG2B2rO&_nc_oc=Adr7mZFdMn4MXVh_MfGbNBw0TWZ5rUFwyJijyOizbGXbDLEdsv8N33ZePVS46MqISJ98WB2f0BSs4PCB0RwtYAkS&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=Mgdij_MsuKYk-OCv_Ga_pw&_nc_ss=7f689&oh=00_AQMIIqabGhCgmKKP-Mf0_iT9aXJ1x1zRGhFURNX-1IOSNA&oe=6AC41354",
+        "caption": "Comment \u2018GUIDE\u2019 and we\u2019ll personally DM you the full conversation.\n\nWhat \u201cboring\u201d industry do you think has a massive opportunity nobody is noticing?\n\nIn today\u2019s episode, we sit down with Asish Mohapatra - Co-Founder & CEO of @ofbusiness.official and Co-Founder of @oxyzofinancing who built one of India\u2019s rarest companies: high-revenue, high-profit and fast-scaling, all at once, in a \u201cboring\u201d industry.\n\nHere\u2019s what we discussed:\n-Why \u201cBoring\u201d Industries Can Be Huge: How overlooked industries can create some of the biggest business opportunities.\n-Building for India\u2019s Real Economy: Why small and medium businesses can be one of the biggest opportunities for founders.\n-Solving the Customer\u2019s Entire Problem: How going beyond a single product can create a powerful and lasting competitive advantage.\n-How to Spot Where the Big Money Is: The framework Ashish uses to identify opportunities with real business potential.\n-Why Making Money Comes Before a USP: Why founders should focus on creating value and revenue before obsessing over differentiation.\n\nCatch the full episode here:\nYouTube Channel: Raj Shamani\nSpotify Channel: Raj Shamani Figuring Out\n\nUntil then, keep figuring out! \ud83d\ude80\n\n#rajshamani\u00a0#figuringout"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/825322495_1994545575286300_7466513707342039296_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=gH9HH6fvrs4Q7kNvwF8OCPy&_nc_oc=AdperMmv-59C8ikVFm0SCCh3jJ8A9imdnPzkIptXYrf1xyy6rc09AgdJaDilv14Pwx5SAGHsF-0TYt2koyFPNg0c&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=Mgdij_MsuKYk-OCv_Ga_pw&_nc_ss=7f689&oh=00_AQNI8PWkDiHsGGOJvxRPPveez8J2ZMxdAUzbgJ6PbMzrUA&oe=6AC3FBB3",
+        "caption": "Comment \u201c100%\u201d if this is accurate"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/816928738_18633615388052509_8503551948857168209_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=kW2M2mBxKFgQ7kNvwFC72L9&_nc_oc=Ado7ECC4Uj7EMMeT-iuFE-0Y34dDtkjCSdhSeAAuB4iieOMcUb1MFuY6iVjMDtkjHRH-LBmh_h1VbXsDO2T7ALC-&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=Mgdij_MsuKYk-OCv_Ga_pw&_nc_ss=7f689&oh=00_AQPyTuCe-lu4ZvuCbBMWBbvLHQmISTKo83LF3tKqC86fLw&oe=6AC413A1",
+        "caption": "Save this for the version of you who needs it most."
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/819146790_18076742066723960_5544328664359676507_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=ToGEeNoCkZQQ7kNvwEUuUWM&_nc_oc=Adoqu5soqvgskLo3azOymkxicb2vT1KeXmM0xp7YPnsAvAP4A29YfNmqbJ9uRghBGeGGvObkebBtIY1hgzv2c0HE&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=Mgdij_MsuKYk-OCv_Ga_pw&_nc_ss=7f689&oh=00_AQPnYwXDyst22xEYg3OaQlGnUnyIUiVK-fmNyAN9bgtGHw&oe=6AC3F9C6",
+        "caption": "Comment \u2018\u2708\ufe0f\u2019 and we\u2019ll personally DM you the full conversation.\n\nDo you think private jets are worth the cost if they save you hours every week?\n\nIn today\u2019s episode, we sit down with Abhinav Tripathi (@i_m_at07) Founder, @jr.airlines & Private Jet Operator who entered aviation after struggling to book an air ambulance he could trust for his father, and went from charter broker to operating his own jets and helicopters.\n\nHere\u2019s what we discussed:\n-Why Private Jets Are Still Rare in India: What keeps private aviation limited despite India\u2019s growing wealth and demand.\nThe Real Cost of Owning a Jet: Why operating a private aircraft can cost around \u20b925 crore every year.\nWhy Charter Flights Can Be So Expensive: How aircraft positioning and empty return journeys can significantly affect what passengers pay.\nWhy Banks Don\u2019t Easily Finance Aircraft: The challenges of getting traditional financing for private jets in India.\nThe Tax Rules Behind Private Aviation: How differences in GST rates can influence the economics of buying and operating aircraft.\n\nCatch the full episode here:\nYouTube Channel: Raj Shamani\nSpotify Channel: Raj Shamani Figuring Out\n\nUntil then, keep figuring out! \ud83d\ude80\n\n#rajshamani\u00a0#figuringout"
+      }
+    ]
+  },
+  "photo": "https://scontent.cdninstagram.com/v/t51.2885-19/420869272_288514803873421_8324884273493298411_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42NzQuQzMifQ%3D%3D&_nc_ohc=5Q2Pqj-VTe4Q7kNvwFqxa3L&_nc_oc=Adq9bnMUeHE6fL04Sj2JnEXUtmxDEOmQYze1Iv4Bj2NGxsJeSOHspl_25iBmun5faUstiTwz3h-5a2eHlejsKh0K&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=7f689&oh=00_AQMqGACYfaCgD2QGL0iyvFzVU6QshcVeUjnjQ1jmtZLXYw&oe=6AC40826",
+  "analysis": {
+    "name": "Raj Shamani",
+    "oneLiner": "Founder, investor and podcast host who loves probing big ideas while hanging out with his dog Crypto.",
+    "summary": "Raj is a serial entrepreneur and early\u2011stage investor based in Mumbai. He builds media around learning from the smartest people, runs the Figuring Out podcast, and invests in health\u2011tech and sustainability. Outside work he\u2019s a dog lover, fitness\u2011aware, and constantly seeks personal growth through reading, travel and deep conversations.",
+    "location": "Mumbai, Maharashtra, India",
+    "ageRange": "unknown",
+    "career": {
+      "role": "Founder & Investor",
+      "stage": "Established entrepreneur (5+ years running own media company, recent investor role)",
+      "ambition": "Scale ideas that solve large, personal problems and build platforms that help others \u2018live & love better\u2019"
+    },
+    "needs": [
+      {
+        "label": "Intellectual curiosity",
+        "detail": "He spends his LinkedIn posts asking deep questions about business, health and energy, and his Instagram captions invite followers to discuss big topics.",
+        "source": "both",
+        "confidence": 0.95
+      },
+      {
+        "label": "Emotional support & validation",
+        "detail": "LinkedIn bio mentions \u201cwhen I\u2019m not doing that, I\u2019m hanging out with my dog, Crypto, who\u2026 never disappoints me,\u201d indicating a need for reliable, low\u2011drama companionship.",
+        "source": "linkedin",
+        "confidence": 0.85
+      },
+      {
+        "label": "Shared purpose / mission",
+        "detail": "Both profiles state a purpose\u2011driven tagline \u2013 \u201chelp people live & love better\u201d and \u201cmeet the smartest people and get into their minds.\u201d",
+        "source": "both",
+        "confidence": 0.9
+      },
+      {
+        "label": "Adventure & travel flexibility",
+        "detail": "Instagram posts frequently ask about energy independence, private jets, and global topics, suggesting he enjoys travel and new experiences.",
+        "source": "instagram",
+        "confidence": 0.8
+      }
+    ],
+    "hobbies": [
+      {
+        "label": "Podcast hosting",
+        "detail": "Instagram bio lists \u201cPodcast Host: @figuringout.co\u201d.",
+        "source": "instagram",
+        "confidence": 0.95
+      },
+      {
+        "label": "Dog walking / pet time",
+        "detail": "LinkedIn mentions hanging out with his dog Crypto.",
+        "source": "linkedin",
+        "confidence": 0.9
+      },
+      {
+        "label": "Reading & self\u2011education",
+        "detail": "LinkedIn posts reference learning from experts and studying \u201cthe science of winning.\u201d",
+        "source": "both",
+        "confidence": 0.85
+      },
+      {
+        "label": "Fitness / health awareness",
+        "detail": "Investments in health\u2011tech and frequent health\u2011related posts imply personal interest in staying fit.",
+        "source": "linkedin",
+        "confidence": 0.75
+      },
+      {
+        "label": "Travel & aviation",
+        "detail": "Instagram captions discuss private jets and energy independence, hinting at travel enthusiasm.",
+        "source": "instagram",
+        "confidence": 0.7
+      }
+    ],
+    "interests": [
+      {
+        "label": "Health technology",
+        "detail": "Recent LinkedIn post about investing in Neko Health and personal family health experiences.",
+        "source": "linkedin",
+        "confidence": 0.95
+      },
+      {
+        "label": "Sustainability & energy",
+        "detail": "LinkedIn post about US oil vs renewable energy and Instagram episode with Sumant Sinha of Renew.",
+        "source": "both",
+        "confidence": 0.9
+      },
+      {
+        "label": "Entrepreneurship & startup scaling",
+        "detail": "Multiple LinkedIn posts dissecting business idea validation and profit\u2011centric scaling.",
+        "source": "linkedin",
+        "confidence": 0.95
+      },
+      {
+        "label": "Personal development & motivation",
+        "detail": "Instagram captions repeatedly share motivational threads and self\u2011improvement prompts.",
+        "source": "instagram",
+        "confidence": 0.9
+      },
+      {
+        "label": "Global economics & policy",
+        "detail": "LinkedIn post asking \u201cWhich country produces the most oil?\u201d and discussion of energy policy.",
+        "source": "linkedin",
+        "confidence": 0.8
+      }
+    ],
+    "values": [
+      {
+        "label": "Purpose\u2011driven impact",
+        "detail": "Both bios stress helping people live & love better; LinkedIn about sharing lessons from failures.",
+        "source": "both",
+        "confidence": 0.95
+      },
+      {
+        "label": "Authenticity",
+        "detail": "He admits personal disappointment with crypto and shares \u201cone bad conversation doesn\u2019t define you\u201d style posts.",
+        "source": "instagram",
+        "confidence": 0.85
+      },
+      {
+        "label": "Continuous learning",
+        "detail": "Mission to \u201cmeet the smartest people\u201d and regular podcast interviews.",
+        "source": "both",
+        "confidence": 0.9
+      },
+      {
+        "label": "Family & health",
+        "detail": "LinkedIn mentions family health issues driving investment choices.",
+        "source": "linkedin",
+        "confidence": 0.8
+      }
+    ],
+    "personality": [
+      {
+        "trait": "Openness",
+        "score": 88,
+        "note": "Explores varied topics\u2014from health tech to energy policy\u2014and hosts a curiosity\u2011driven podcast."
+      },
+      {
+        "trait": "Conscientiousness",
+        "score": 81,
+        "note": "Runs a media company, invests strategically, and maintains a disciplined posting schedule."
+      },
+      {
+        "trait": "Extraversion",
+        "score": 70,
+        "note": "Comfortable speaking at UN, interviewing guests, and engaging large online audiences."
+      },
+      {
+        "trait": "Agreeableness",
+        "score": 65,
+        "note": "Shows empathy in motivational posts but also pushes hard\u2011selling ideas, indicating moderate agreeableness."
+      },
+      {
+        "trait": "Emotional Stability",
+        "score": 60,
+        "note": "Talks openly about setbacks and rejections, suggesting resilience but occasional self\u2011critique."
+      }
+    ],
+    "lifestyle": [
+      {
+        "label": "Pace",
+        "value": "Fast\u2011moving, multiple projects simultaneously"
+      },
+      {
+        "label": "Social energy",
+        "value": "High \u2013 frequent public speaking, podcast interviews, large follower base"
+      },
+      {
+        "label": "Fitness",
+        "value": "Active \u2013 health\u2011tech interest, dog walks, likely regular exercise"
+      },
+      {
+        "label": "Travel",
+        "value": "Frequent \u2013 talks about private jets, global topics, UN speaking"
+      },
+      {
+        "label": "Work\u2011life",
+        "value": "Blended \u2013 work is mission\u2011driven, but he values downtime with his dog"
+      }
+    ],
+    "communicationStyle": "Direct, data\u2011backed, and motivational; mixes analytical insights with uplifting language.",
+    "loveLanguage": "Words of affirmation \u2013 he frequently uses encouraging phrases and values meaningful conversation.",
+    "lookingFor": "A partner who can match his intellectual curiosity, share a purpose\u2011driven life, and provide steady emotional grounding.",
+    "greenFlags": [
+      "Enjoys deep, thoughtful conversations",
+      "Values personal growth and health",
+      "Has a sense of humor about life\u2019s ups and downs"
+    ],
+    "watchOuts": [
+      "May prioritize work/mission over spontaneous downtime",
+      "Can be overly analytical in personal matters"
+    ],
+    "dealbreakers": [
+      "Lack of ambition or curiosity",
+      "Dismissive of personal development"
+    ],
+    "idealFirstDate": "Coffee at a quiet rooftop caf\u00e9 in Mumbai followed by a walk in a park with his dog Crypto, ending with a short chat about a recent podcast episode they both enjoyed.",
+    "conversationHooks": [
+      "What\u2019s the most surprising lesson you\u2019ve learned from a guest on your podcast?",
+      "How did your family\u2019s health experience shape your view on preventive care?",
+      "If you could solve any \u2018boring\u2019 industry problem, which would you pick and why?"
+    ],
+    "agentVoice": "Conversational, slightly witty, and data\u2011savvy \u2013 I\u2019ll speak like Raj: insightful, encouraging, and peppered with relatable analogies.",
+    "readingNotes": [
+      "LinkedIn headline is just \u2018Founder \u00b7 Investor\u2019 \u2013 he lets the description do the heavy lifting.",
+      "His \u2018About\u2019 section frames questioning as a hobby, not just a job.",
+      "Mentions his dog Crypto repeatedly \u2013 pet is a personal anchor.",
+      "Instagram bio repeats the purpose line, showing brand consistency.",
+      "Posts on Instagram are all call\u2011to\u2011action motivational threads, indicating he loves community engagement.",
+      "Frequent references to health and energy policy reveal personal stakes beyond profit."
+    ]
+  },
+  "gender": "man",
+  "seeking": "women",
+  "genderSource": "inferred",
+  "genderEvidence": "The name 'Raj Shamani' is a male name, and the profile uses the male pronoun 'he' in the context of 'I invested in Neko Health' without any female-specific self-descriptions.",
+  "shortlist": null
+}

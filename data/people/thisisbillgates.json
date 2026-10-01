@@ -1,40 +1,50 @@
 {
   "id": "thisisbillgates",
-  "createdAt": 1790848772144,
+  "createdAt": 1790850514508,
   "linkedinUrl": "https://www.linkedin.com/in/williamhgates/",
   "instagramUrl": "https://www.instagram.com/thisisbillgates/",
   "status": "ready",
   "datingStatus": "idle",
   "log": [
     {
-      "t": 1790848772145,
+      "t": 1790850514511,
       "step": "Opening Instagram",
       "detail": "https://www.instagram.com/thisisbillgates/"
     },
     {
-      "t": 1790848772146,
+      "t": 1790850514512,
       "step": "Read Instagram @thisisbillgates",
-      "detail": "12 recent posts, bio: “Sharing things I'm learning through my foundation work and other interests.” · via instagram-crawler-html (Mozilla)"
+      "detail": "12 recent posts, bio: \u201cSharing things I'm learning through my foundation work and other interests.\u201d \u00b7 via instagram-crawler-html (Mozilla)"
     },
     {
-      "t": 1790848772147,
+      "t": 1790850514513,
       "step": "Opening LinkedIn",
       "detail": "https://www.linkedin.com/in/williamhgates/"
     },
     {
-      "t": 1790848772147,
+      "t": 1790850514516,
       "step": "Read LinkedIn: Bill Gates",
-      "detail": "Co-chair · Founder · Co-founder · 10 posts/articles · via linkedin-public-page via jina reader"
+      "detail": "Co-chair \u00b7 Founder \u00b7 Co-founder \u00b7 10 posts/articles \u00b7 via linkedin-public-page via jina reader"
     },
     {
-      "t": 1790848772148,
+      "t": 1790850514516,
+      "step": "\u2713 Identity check",
+      "detail": "LinkedIn and Instagram names match"
+    },
+    {
+      "t": 1790850514518,
       "step": "Agent is reading both profiles",
       "detail": "cross-referencing career, captions and photos"
     },
     {
-      "t": 1790848791590,
+      "t": 1790850703520,
       "step": "Profile analysis complete",
-      "detail": "A visionary co-founder and philanthropist dedicated to solving global challenges through innovation and strategic investment."
+      "detail": "Philanthropic tech visionary who blends global impact with a love for reading, travel, and tennis."
+    },
+    {
+      "t": 1790850797137,
+      "step": "Identified as a man, looking for women",
+      "detail": "The text refers to him as 'Bill Gates' and includes an opinion piece titled 'Bill Gates\u2019s Blunt Warning on A.I.'"
     }
   ],
   "linkedin": {
@@ -43,7 +53,7 @@
     "slug": "williamhgates",
     "url": "https://www.linkedin.com/in/williamhgates",
     "name": "Bill Gates",
-    "headline": "Co-chair · Founder · Co-founder",
+    "headline": "Co-chair \u00b7 Founder \u00b7 Co-founder",
     "about": "Chair of the Gates Foundation. Founder of Breakthrough Energy. Co-founder of Microsoft. Voracious reader. Avid traveler. Active blogger.",
     "location": "Seattle, Washington, United States",
     "profilePic": "https://media.licdn.com/dms/image/v2/D5603AQF-RYZP55jmXA/profile-displayphoto-shrink_200_200/B56ZRi8g.aGsAY-/0/1736826818802?e=2147483647&v=beta&t=bKWfN6UwwtiCqFWsG7rBELbd48qJOAMLdxhBzzkJV0k",
@@ -70,7 +80,7 @@
     "posts": [
       {
         "kind": "article",
-        "text": "AI, equity, and the choice we can’t delay ",
+        "text": "AI, equity, and the choice we can\u2019t delay ",
         "date": "2026-09-17T15:18:20.000+00:00"
       },
       {
@@ -85,7 +95,7 @@
       },
       {
         "kind": "article",
-        "text": "Bad news isn’t the only news",
+        "text": "Bad news isn\u2019t the only news",
         "date": "2026-08-10T15:22:45.000+00:00"
       },
       {
@@ -105,7 +115,7 @@
       },
       {
         "kind": "article",
-        "text": "We’re entering a golden age of Alzheimer’s research",
+        "text": "We\u2019re entering a golden age of Alzheimer\u2019s research",
         "date": "2026-06-07T21:12:07.000+00:00"
       },
       {
@@ -119,7 +129,7 @@
         "date": "2026-03-27T22:19:20.000+00:00"
       }
     ],
-    "activityText": " Bill Gates Bill Gates 12h Bill Gates shared this AI presents the world with big questions and even bigger challenges. This week in New York, I heard many different perspectives and came away with a lot to think about. The good news is that there are reasons to believe we can keep making progress and use AI to solve some of our toughest problems. Bill Gates Bill Gates 1d Bill Gates shared this I appreciated the opportunity to speak with Ezra at length about the state of AI. I believe the world isn't awake to the dangers of this technology and the choices humanity has to make. AI will either be the greatest tool for opportunity and equality we've ever seen—or the cause of immense, unprecedented harm. Which way things go is up to us. Opinion | Bill Gates’s Blunt Warning on A.I. Opinion | Bill Gates’s Blunt Warning on A.I. 1, Bill Gates Bill Gates 1d Bill Gates shared this At #Goalkeepers2030 , I spoke with Archbishop Vicenzo Paglia about how people and relationships must remain at the center of how we use AI. 1, Bill Gates Bill Gates 2d Bill Gates shared this We need to put the appropriate AI safeguards and monitoring in place now—to both prevent a loss of control and stop bad actors from using the tech to cause harm. If we minimize the risks, we’ll get to benefit from AI’s immense potential in fields like medicine, education, and agriculture. Bill Gates says it’s ‘not enough to have a kill switch’ for AI: Full interview Bill Gates says it’s ‘not enough to have a kill switch’ for AI: Full interview 1, Bill Gates Bill Gates 4d Bill Gates shared this Hannah and her team at Our World in Data do an incredible job of putting the world’s progress into perspective—and showing just how much has changed for the better, even as we face real challenges. Worth the watch. Hannah Ritchie: The Future Is Not Bleak Hannah Ritchie: The Future Is Not Bleak Bill Gates Bill Gates 5d Bill Gates shared this The question isn’t whether AI will transform the world—it's who will benefit from the transformation. ​ ​ In the 2026 Goalkeepers Report, we argue for three things that will be necessary for AI to become a great equalizer: building AI tools that work in every language people speak; grounding those tools in local data, designed for local realities; and investing in the people who will make AI work in the most underserved settings. ​ ​ Read the full report: https://b-gat.es/4Agi1iY Goalkeepers 2026 Report Goalkeepers 2026 Report 1, Bill Gates Bill Gates 6d Bill Gates shared this Huge milestone for geothermal. We are one step closer to more clean energy around the clock. Congrats to the Fervo Energy team! Fervo Energy Fervo Energy 6d Bill Gates shared this This week, Fervo Energy generated First Power at Cape Station, our flagship geothermal development near Beaver County, Utah, representing a landmark moment for the future of enhanced geothermal systems. For the first time, power from Cape Station Phase I is flowing through the transmission network. GeoBlock 1 is operat"
+    "activityText": " Bill Gates Bill Gates 12h Bill Gates shared this AI presents the world with big questions and even bigger challenges. This week in New York, I heard many different perspectives and came away with a lot to think about. The good news is that there are reasons to believe we can keep making progress and use AI to solve some of our toughest problems. Bill Gates Bill Gates 1d Bill Gates shared this I appreciated the opportunity to speak with Ezra at length about the state of AI. I believe the world isn't awake to the dangers of this technology and the choices humanity has to make. AI will either be the greatest tool for opportunity and equality we've ever seen\u2014or the cause of immense, unprecedented harm. Which way things go is up to us. Opinion | Bill Gates\u2019s Blunt Warning on A.I. Opinion | Bill Gates\u2019s Blunt Warning on A.I. 1, Bill Gates Bill Gates 1d Bill Gates shared this At #Goalkeepers2030 , I spoke with Archbishop Vicenzo Paglia about how people and relationships must remain at the center of how we use AI. 1, Bill Gates Bill Gates 2d Bill Gates shared this We need to put the appropriate AI safeguards and monitoring in place now\u2014to both prevent a loss of control and stop bad actors from using the tech to cause harm. If we minimize the risks, we\u2019ll get to benefit from AI\u2019s immense potential in fields like medicine, education, and agriculture. Bill Gates says it\u2019s \u2018not enough to have a kill switch\u2019 for AI: Full interview Bill Gates says it\u2019s \u2018not enough to have a kill switch\u2019 for AI: Full interview 1, Bill Gates Bill Gates 4d Bill Gates shared this Hannah and her team at Our World in Data do an incredible job of putting the world\u2019s progress into perspective\u2014and showing just how much has changed for the better, even as we face real challenges. Worth the watch. Hannah Ritchie: The Future Is Not Bleak Hannah Ritchie: The Future Is Not Bleak Bill Gates Bill Gates 5d Bill Gates shared this The question isn\u2019t whether AI will transform the world\u2014it's who will benefit from the transformation. \u200b \u200b In the 2026 Goalkeepers Report, we argue for three things that will be necessary for AI to become a great equalizer: building AI tools that work in every language people speak; grounding those tools in local data, designed for local realities; and investing in the people who will make AI work in the most underserved settings. \u200b \u200b Read the full report: https://b-gat.es/4Agi1iY Goalkeepers 2026 Report Goalkeepers 2026 Report 1, Bill Gates Bill Gates 6d Bill Gates shared this Huge milestone for geothermal. We are one step closer to more clean energy around the clock. Congrats to the Fervo Energy team! Fervo Energy Fervo Energy 6d Bill Gates shared this This week, Fervo Energy generated First Power at Cape Station, our flagship geothermal development near Beaver County, Utah, representing a landmark moment for the future of enhanced geothermal systems. For the first time, power from Cape Station Phase I is flowing through the transmission network. GeoBlock 1 is operat"
   },
   "instagram": {
     "source": "instagram",
@@ -145,7 +155,7 @@
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/819636919_18468156319187733_332088314657888906_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=1iX8cPwNe4EQ7kNvwEYsf79&_nc_oc=AdrYTWQtXKGEKfA5uAHuLqSnKqksWExdJVhjUJhL3ZFZJj3r3eYavxUgmTQO2Szw__GvuuvdsWK7K6BcQd4QUuXG&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=gbRUFzJZU_Qu7RxjrZPtqA&_nc_ss=7f689&oh=00_AQNLjZRp0_X-1onuFYZVUj79_mlp2g03W-s2ssunRUHckw&oe=6AC41AD6",
-        "caption": "We have an opportunity—and an obligation—to ensure that AI tools are designed to improve lives and reach the people who stand to benefit most, including farmers, teachers, and health workers.  \n\nProgress doesn’t happen on its own. It happens because the world invests in and prioritizes it. If we can combine increased generosity with the smart use of AI, there’s no limit to the progress we can make."
+        "caption": "We have an opportunity\u2014and an obligation\u2014to ensure that AI tools are designed to improve lives and reach the people who stand to benefit most, including farmers, teachers, and health workers. \u00a0\n\nProgress doesn\u2019t happen on its own. It happens because the world invests in and prioritizes it. If we can combine increased generosity with the smart use of AI, there\u2019s no limit to the progress we can make."
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/808431088_18468000580187733_8310929110269961170_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=_WceB_BDKkwQ7kNvwGzeLbg&_nc_oc=Adqy_tKgJIR3qlzrgoEJkEWW5KWh36tWuq8s6w_DZxvniMN0Dxs3EBvX2GspFKn3fPoKI6cwAZBY1rJX0LIr1mmH&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=gbRUFzJZU_Qu7RxjrZPtqA&_nc_ss=7f689&oh=00_AQOC1t-UJy2CGSN31EW9r5MMFsgEOWqe5lYpVLwV8d5zjA&oe=6AC40B27",
@@ -153,15 +163,15 @@
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/818424522_18467970868187733_3902186346256107981_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=yfapg7WOPO8Q7kNvwEu9WcC&_nc_oc=AdoqCjXo8h7re5xmY1trQ7Cupb9jmCLQzb6M5MZ16d_Mj7RJ7L9w7PowYS-JRpS1VwRPD7jKpWm_gTIGo-Yu0MgD&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=gbRUFzJZU_Qu7RxjrZPtqA&_nc_ss=7f689&oh=00_AQNiZP8GFYeJY0_NfClkTZX3cQLqYtQjj22QzKdFc3eN6g&oe=6AC40554",
-        "caption": "I’m excited to be in New York this week to keep the conversation around AI moving forward and to build on the incredible progress we’re making. #Goalkeepers2030"
+        "caption": "I\u2019m excited to be in New York this week to keep the conversation around AI moving forward and to build on the incredible progress we\u2019re making. #Goalkeepers2030"
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/809039625_18467791333187733_2574557220459192256_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=UMGQtIl4NkMQ7kNvwFtk7tg&_nc_oc=AdqHhAoakGa-TgJRQX_1NO4MqcZX91LktlhyElSYq3vzn7niQEIwqsrQaHzEwLjopSpdjjGPqcn5Y1gEvnQQZnzb&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=gbRUFzJZU_Qu7RxjrZPtqA&_nc_ss=7f689&oh=00_AQN1Gi_eSHB9vwuXUN3pEfa84rM__yKtdZomMQQOFrODEw&oe=6AC3FE57",
-        "caption": "Seth Rogen and Lauren Miller Rogen founded Hilarity for Charity to make sure no one has to care for a loved one with Alzheimer’s alone."
+        "caption": "Seth Rogen and Lauren Miller Rogen founded Hilarity for Charity to make sure no one has to care for a loved one with Alzheimer\u2019s alone."
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/817297198_18467388040187733_2800465100222483690_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=S9NHnAVIMbUQ7kNvwGRkR0T&_nc_oc=AdppqHf3nsGreUlHqk3sQbHtV9F6LjHVvy80N-1bv-yrRBiT6OUpQnkFLRjZdMJXAVDvndRyiBAq3MrJLvYV34Ox&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=gbRUFzJZU_Qu7RxjrZPtqA&_nc_ss=7f689&oh=00_AQNIERjybpJr3h_23DKWievMLeM5EZX9mBD4lNv79zG94w&oe=6AC3EE5F",
-        "caption": "AI could be a great equalizer, but only if it’s built to benefit the people who need it most. \n\nThat’s why the Gates Foundation is committing $1 billion over the next two years to expand access to AI and the solutions, opportunities, and knowledge that are too often inaccessible for many around the world—in health clinics, in classrooms, and on farms. \n\nThis year’s Goalkeepers Report focuses on the urgent actions needed to ensure AI narrows the gaps between the richest and poorest rather than widening them."
+        "caption": "AI could be a great equalizer, but only if\u00a0it\u2019s\u00a0built\u00a0to\u00a0benefit\u00a0the people who need it most.\u00a0\n\nThat\u2019s why the Gates Foundation is committing\u00a0$1 billion\u00a0over the next two years to expand access to AI and the solutions, opportunities,\u00a0and knowledge that\u00a0are\u00a0too often\u00a0inaccessible\u00a0for\u00a0many around the world\u2014in\u00a0health clinics,\u00a0in\u00a0classrooms, and on farms.\u00a0\n\nThis year\u2019s Goalkeepers Report focuses on the urgent actions needed\u00a0to ensure AI narrows\u00a0the\u00a0gaps between the richest and poorest rather than widening them."
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/811340507_18466807636187733_617181860816835640_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=15RVu6lm2lsQ7kNvwF8voRu&_nc_oc=Adq-sM78p77qznhPaErsSAwyX5ScJSy9eF2cC2pwRz98RaapCKO1XbvNrrw_w5Xmr0f117n3WjhNqxkkdDgBz7DQ&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=gbRUFzJZU_Qu7RxjrZPtqA&_nc_ss=7f689&oh=00_AQNkvfX5EN-WWNORg0GjrbigKo26Dk2CnfPhbdxv9Hlp6A&oe=6AC3F48F",
@@ -169,7 +179,7 @@
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/805119814_18466034239187733_6545220508250899392_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=SSNzurTzS7sQ7kNvwGLgviN&_nc_oc=Adp3gvfhVJtyS4Hd4OHcLNg_bji8lwtmgYjENGQKcTOikWsuXBeA7p1VW1RYwKzCX5GfnWFysBJMulXsPKynVE0-&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=gbRUFzJZU_Qu7RxjrZPtqA&_nc_ss=7f689&oh=00_AQN8chAqFlXspUeVdqzzBr9yXABDWGplUraGlESvPHmbsA&oe=6AC40AE8",
-        "caption": "AI has huge potential for agriculture, especially in low-income countries—and Neema Mduma is helping lead the way with KilimoAI."
+        "caption": "AI has\u00a0huge\u00a0potential\u00a0for\u00a0agriculture, especially in low-income countries\u2014and Neema Mduma\u00a0is helping lead the way with KilimoAI."
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/790803459_18464221756187733_8415287107234717166_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=hl3vT1o5VMMQ7kNvwFf_w3k&_nc_oc=AdqxMlDUjua54sIPEhgEC9_me9mGSQPUBb4G_1S59_otuKW68MMrng6siu5GFWDwoy5eJe-kcfgb7lDMGAIXGcpP&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=gbRUFzJZU_Qu7RxjrZPtqA&_nc_ss=7f689&oh=00_AQMJNVsry18GpuzCfYdbnqmuaKFKs8p-_IuJiUY_q39qRQ&oe=6AC3E7FD",
@@ -177,7 +187,7 @@
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/789347695_18463643635187733_3547160311027526890_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=wCFrjSloKhoQ7kNvwGVGnjX&_nc_oc=Adq7CeukC9Co8FeY9JilBpVl-Abnw8MLz-1SGfsv1WAl-R2G6T4HapDnLC-Ffv_41yk3dKWknw2g07o4BhTbGgp9&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=gbRUFzJZU_Qu7RxjrZPtqA&_nc_ss=7f689&oh=00_AQNVUL8c8w6juCjv53i8xEaRE0rK2k57hJCqIyp-TAbNYQ&oe=6AC3F86A",
-        "caption": "Still the best tennis partner I’ve ever had.​\n​\nCongratulations, @rogerfederer on your induction into the Tennis Hall of Fame."
+        "caption": "Still the best tennis partner I\u2019ve ever had.\u200b\n\u200b\nCongratulations, @rogerfederer on your induction into the Tennis Hall of Fame."
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/786452911_18463228282187733_1647714489875568264_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=sFxTBaTnCFEQ7kNvwF4GmdH&_nc_oc=AdqLXoEBQ-eIIP04TMA43HSBmcHBdFEWasVlROCPgACckbSE1TP5T8coNYD0MxEiziupiSbxzBuQmSmal_8Pb6Ck&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=gbRUFzJZU_Qu7RxjrZPtqA&_nc_ss=7f689&oh=00_AQNKqZ8MRZc0dQMfsObZ3rTTsM7itqPvzjTb3EXCPUct6w&oe=6AC3E814",
@@ -188,238 +198,217 @@
   "photo": "https://scontent.cdninstagram.com/v/t51.2885-19/473716533_1775393106650451_1071002921276479463_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=ionAChDNdXQQ7kNvwFXB6Af&_nc_oc=AdrDKEqzLixU1eMH690rBisUqoQrJaIfreQLxq84Jvoz0FzOblhbGUbLYEAPhAWmhZZIiIspQCI2mVD1XiOOr3WX&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=7f689&oh=00_AQPagSlFrsbt79T9sk-U5qREFijuBjkDHwf2gp0MtMRa6Q&oe=6AC3EDC2",
   "analysis": {
     "name": "Bill Gates",
-    "oneLiner": "A visionary co-founder and philanthropist dedicated to solving global challenges through innovation and strategic investment.",
-    "summary": "Bill Gates is a highly influential figure known for co-founding Microsoft and, more recently, for his extensive philanthropic work through the Gates Foundation and Breakthrough Energy. He is deeply committed to leveraging technology, particularly AI, for global good, focusing on health, education, and agriculture in low-income countries. A voracious reader and avid traveler, he actively shares his insights and learnings through blogging and public speaking, consistently advocating for progress and equitable solutions to pressing world issues.",
+    "oneLiner": "Philanthropic tech visionary who blends global impact with a love for reading, travel, and tennis.",
+    "summary": "Bill spends his days steering massive philanthropic initiatives, championing responsible AI, and writing about what he learns. Off\u2011clock he\u2019s an avid reader, frequent traveler, and tennis enthusiast who values deep relationships and purposeful conversation.",
     "location": "Seattle, Washington, United States",
     "ageRange": "unknown",
     "career": {
-      "role": "Co-chair, Founder, Co-founder",
-      "stage": "Established leader/Philanthropist",
-      "ambition": "To apply technological innovation and strategic philanthropy to address major global challenges like health, climate change, and equitable access to resources."
+      "role": "Co\u2011chair, Gates Foundation; Founder, Breakthrough Energy; Co\u2011founder, Microsoft",
+      "stage": "Established leader with decades of impact",
+      "ambition": "Scale equitable AI, accelerate global health, and drive clean energy breakthroughs"
     },
     "needs": [
       {
         "label": "Intellectual partnership",
-        "detail": "His posts and articles consistently delve into complex global issues and technological advancements, suggesting a need for a partner who can engage in deep, thoughtful discussions.",
-        "source": "linkedin",
-        "confidence": 0.8
-      },
-      {
-        "label": "Shared sense of purpose/impact",
-        "detail": "His entire public persona revolves around making a positive impact on the world, from the Gates Foundation to Breakthrough Energy. A partner who shares or understands this drive would be crucial.",
+        "detail": "Shares long posts about AI policy, reads extensively, and discusses complex topics publicly.",
         "source": "both",
         "confidence": 0.9
       },
       {
-        "label": "Travel companion",
-        "detail": "He identifies as an 'avid traveler' and his posts frequently mention trips related to his foundation work (e.g., Rwanda, New York for #Goalkeepers2030).",
+        "label": "Shared purpose",
+        "detail": "Mentions \u201cobligation to ensure AI improves lives\u201d and \u201cfoundation work\u201d repeatedly.",
         "source": "both",
+        "confidence": 0.9
+      },
+      {
+        "label": "Emotional support for high\u2011impact work",
+        "detail": "Talks about the weight of global decisions and the need for relationships to stay central.",
+        "source": "linkedin",
         "confidence": 0.8
       },
       {
-        "label": "Understanding of demanding schedule",
-        "detail": "His long tenure in multiple significant roles (Microsoft, Gates Foundation, Breakthrough Energy) indicates a very busy and demanding schedule. A partner would need to be understanding of this.",
-        "source": "linkedin",
-        "confidence": 0.7
-      },
-      {
-        "label": "Someone who values learning and growth",
-        "detail": "He calls himself a 'voracious reader' and his Instagram bio mentions 'sharing things I'm learning.' He also shares 'the best things I read, listened to, and watched this year.'",
-        "source": "both",
-        "confidence": 0.9
+        "label": "Active lifestyle companion",
+        "detail": "Posts about playing tennis with Roger Federer and enjoys travel.",
+        "source": "instagram",
+        "confidence": 0.85
       }
     ],
     "hobbies": [
       {
         "label": "Reading",
-        "detail": "Identifies as a 'voracious reader' and frequently shares articles and books he's enjoyed.",
-        "source": "both",
-        "confidence": 1
+        "detail": "Describes himself as a \u201cvoracious reader\u201d in LinkedIn About.",
+        "source": "linkedin",
+        "confidence": 0.95
       },
       {
         "label": "Traveling",
-        "detail": "Identifies as an 'avid traveler' and his posts often document his trips for work and learning.",
+        "detail": "Lists \u201cavid traveler\u201d on LinkedIn and posts about trips to New York and Rwanda.",
         "source": "both",
-        "confidence": 1
-      },
-      {
-        "label": "Blogging/Writing",
-        "detail": "Identifies as an 'active blogger' and consistently publishes articles on LinkedIn and his personal site.",
-        "source": "linkedin",
-        "confidence": 1
+        "confidence": 0.9
       },
       {
         "label": "Tennis",
-        "detail": "Posted a photo with Roger Federer, calling him 'still the best tennis partner I’ve ever had,' implying he plays tennis.",
+        "detail": "Caption: \u201cStill the best tennis partner I\u2019ve ever had\u2026 Congratulations, @rogerfederer.\u201d",
         "source": "instagram",
-        "confidence": 0.7
+        "confidence": 0.9
       },
       {
-        "label": "Public speaking/Conferencing",
-        "detail": "His recent Instagram posts show him speaking at #Goalkeepers2030 and the UN General Assembly, indicating this is a regular activity.",
-        "source": "instagram",
-        "confidence": 0.8
+        "label": "Blogging/Content sharing",
+        "detail": "Calls himself an \u201cactive blogger\u201d and shares articles on Instagram.",
+        "source": "both",
+        "confidence": 0.85
       }
     ],
     "interests": [
       {
-        "label": "Artificial Intelligence (AI)",
-        "detail": "Numerous recent LinkedIn posts and Instagram captions are dedicated to AI, its potential, risks, and equitable application.",
+        "label": "Artificial Intelligence ethics",
+        "detail": "Multiple posts about AI equity, safeguards, and global impact.",
         "source": "both",
-        "confidence": 1
+        "confidence": 0.95
       },
       {
-        "label": "Global Health",
-        "detail": "His work with the Gates Foundation focuses heavily on health initiatives (e.g., stillbirths, Alzheimer's research, AIDS-free generation).",
-        "source": "linkedin",
-        "confidence": 1
-      },
-      {
-        "label": "Climate Change/Clean Energy",
-        "detail": "Founder of Breakthrough Energy and mentions 'the next generation of electricity' in an article title.",
-        "source": "linkedin",
+        "label": "Global health",
+        "detail": "Mentions Alzheimer\u2019s charity, still\u2011birth tech, and health\u2011clinic AI.",
+        "source": "both",
         "confidence": 0.9
       },
       {
-        "label": "Education",
-        "detail": "Mentions AI's potential in 'classrooms' and 'education' in Instagram captions.",
-        "source": "instagram",
-        "confidence": 0.8
-      },
-      {
-        "label": "Agriculture/Food Security",
-        "detail": "Highlights AI's potential for 'farmers' and mentions KilimoAI in Instagram posts.",
-        "source": "instagram",
-        "confidence": 0.8
-      },
-      {
-        "label": "Social Equity and Access",
-        "detail": "Repeatedly emphasizes ensuring AI benefits 'the people who stand to benefit most,' 'low-income countries,' and those with 'underrepresented languages.'",
+        "label": "Clean energy & climate",
+        "detail": "Founder of Breakthrough Energy; posts about next\u2011gen electricity.",
         "source": "both",
+        "confidence": 0.9
+      },
+      {
+        "label": "Language inclusion in tech",
+        "detail": "Notes 7,000 languages and AI bias toward English.",
+        "source": "instagram",
+        "confidence": 0.85
+      },
+      {
+        "label": "Philanthropy & equity",
+        "detail": "Frequent references to \u201cobligation\u201d and \u201cpeople and relationships\u201d in AI work.",
+        "source": "both",
+        "confidence": 0.95
+      },
+      {
+        "label": "Science & innovation",
+        "detail": "Shares articles titled \u201cSmall bugs, big breakthroughs\u201d and \u201cThe next generation of electricity\u201d.",
+        "source": "linkedin",
         "confidence": 0.9
       }
     ],
     "values": [
       {
-        "label": "Impact and Philanthropy",
-        "detail": "Co-chair of the Gates Foundation, founder of Breakthrough Energy, and his social media content is overwhelmingly focused on global challenges and solutions.",
+        "label": "Equity",
+        "detail": "Repeated calls for AI tools to benefit underserved populations.",
         "source": "both",
-        "confidence": 1
+        "confidence": 0.95
       },
       {
-        "label": "Innovation and Progress",
-        "detail": "His involvement with Microsoft, Breakthrough Energy, and constant discussion of AI's potential for progress underscore a belief in technological solutions and forward movement.",
-        "source": "both",
-        "confidence": 1
-      },
-      {
-        "label": "Equity and Access",
-        "detail": "Strong emphasis on ensuring technology benefits everyone, especially those in low-income countries and with underrepresented languages.",
+        "label": "Responsibility",
+        "detail": "Talks about safeguards, \u201cobligation\u201d, and careful AI deployment.",
         "source": "both",
         "confidence": 0.9
       },
       {
-        "label": "Lifelong Learning",
-        "detail": "Identifies as a 'voracious reader' and his Instagram bio states 'sharing things I'm learning.' He actively seeks and shares knowledge.",
+        "label": "Collaboration",
+        "detail": "Mentions speaking with archbishop, partners, and coalition building.",
         "source": "both",
-        "confidence": 1
+        "confidence": 0.85
       },
       {
-        "label": "Collaboration",
-        "detail": "His work involves 'coalitions of organizations' and speaking with diverse leaders like Archbishop Paglia, indicating a value for collective effort.",
-        "source": "instagram",
-        "confidence": 0.8
+        "label": "Lifelong learning",
+        "detail": "Self\u2011described voracious reader; shares \u201cbest things I read, listened to, and watched\u201d.",
+        "source": "linkedin",
+        "confidence": 0.9
       }
     ],
     "personality": [
       {
         "trait": "Openness",
-        "score": 90,
-        "note": "Highly open, demonstrated by his 'voracious reader' status, 'avid traveler' nature, and deep engagement with complex, evolving topics like AI and global development."
+        "score": 92,
+        "note": "Curiosity shown in reading, travel, AI ethics, and diverse global topics."
       },
       {
         "trait": "Conscientiousness",
-        "score": 95,
-        "note": "Extremely conscientious, evidenced by his long tenure in highly demanding roles, consistent output of articles, and strategic, long-term focus on global challenges."
+        "score": 88,
+        "note": "Long\u2011term leadership of major foundations and disciplined posting schedule."
       },
       {
         "trait": "Extraversion",
-        "score": 70,
-        "note": "Moderately extraverted, as he's an active public speaker, engages in global conferences, and collaborates with many people, though his content is more intellectual than overtly social."
+        "score": 65,
+        "note": "Frequent public speaking, networking at UN, but also reflective in writing."
       },
       {
         "trait": "Agreeableness",
-        "score": 75,
-        "note": "High in agreeableness, shown by his philanthropic focus on helping others, emphasis on equity, and collaborative approach, though he also expresses strong opinions on critical issues."
+        "score": 80,
+        "note": "Emphasizes relationships, collaboration, and humanitarian outcomes."
       },
       {
-        "trait": "Emotional stability",
-        "score": 85,
-        "note": "High emotional stability, suggested by his consistent, measured communication style, focus on long-term solutions, and ability to address global challenges without apparent distress."
+        "trait": "Emotional Stability",
+        "score": 70,
+        "note": "Handles high\u2011stakes topics calmly, yet acknowledges world\u2019s challenges."
       }
     ],
     "lifestyle": [
       {
         "label": "Pace",
-        "value": "Fast-paced and globally engaged, constantly traveling and involved in high-level discussions and initiatives."
+        "value": "Fast\u2011paced, high\u2011impact schedule"
       },
       {
         "label": "Social energy",
-        "value": "Highly social in professional settings, engaging with world leaders and large audiences, but likely values intellectual connection over casual socializing."
+        "value": "Moderate\u2011high; enjoys conferences, meetings, and occasional sport"
       },
       {
         "label": "Fitness",
-        "value": "No direct evidence, but likely maintains a level of fitness to sustain a demanding travel and work schedule. Plays tennis."
+        "value": "Active (tennis, travel walking)"
       },
       {
         "label": "Travel",
-        "value": "Extensive and frequent international travel for work, often to address global issues and attend conferences."
+        "value": "Frequent international trips for work and inspiration"
       },
       {
-        "label": "Work-life",
-        "value": "Work-integrated life, where his professional and philanthropic pursuits are deeply intertwined with his personal interests and identity."
+        "label": "Work\u2011life",
+        "value": "Integrated; work aligns with personal values and hobbies"
       }
     ],
-    "communicationStyle": "Direct, analytical, informative, and purpose-driven, often using data and logical arguments to convey complex ideas about global challenges and solutions.",
-    "loveLanguage": "Acts of Service (through his extensive philanthropic work) and Quality Time (for deep, intellectual engagement).",
-    "lookingFor": "A partner who is intellectually curious, shares a passion for making a positive impact on the world, enjoys learning and travel, and can engage in thoughtful discussions on a wide range of global issues.",
+    "communicationStyle": "Thoughtful, data\u2011driven, and mission\u2011focused; likes to cite sources and explore big ideas.",
+    "loveLanguage": "Acts of Service (through impact) and Quality Time (deep conversations).",
+    "lookingFor": "A partner who can match intellectual curiosity, share a commitment to global good, and enjoy active, low\u2011key moments like tennis or travel together.",
     "greenFlags": [
-      "Deep commitment to global betterment and philanthropy.",
-      "Intellectually stimulating and constantly learning.",
-      "Visionary and forward-thinking, especially regarding technology.",
-      "Well-traveled and experienced in diverse cultures.",
-      "Values collaboration and collective problem-solving."
+      "Enjoys reading and discussing big\u2011picture topics",
+      "Values empathy and collaboration",
+      "Stays physically active (tennis) and likes travel"
     ],
     "watchOuts": [
-      "Extremely demanding schedule due to global commitments.",
-      "Public figure status means less privacy.",
-      "Conversations may often revolve around global issues and technology.",
-      "High expectations for intellectual engagement."
+      "May prioritize mission over personal downtime",
+      "Highly public schedule can limit privacy"
     ],
     "dealbreakers": [
-      "Lack of interest in global issues or making a positive impact.",
-      "Resistance to travel or new experiences.",
-      "Disinterest in continuous learning or intellectual discussion.",
-      "Someone who is not independent or understanding of a demanding lifestyle."
+      "Disinterest in global issues or philanthropy",
+      "Dismissive of evidence\u2011based discussion"
     ],
-    "idealFirstDate": "A private dinner at a quiet, upscale restaurant where we can have an in-depth conversation about current events, technological advancements, or a book we've both read. Alternatively, attending a thought-provoking lecture or exhibition followed by discussion.",
+    "idealFirstDate": "A relaxed tennis match followed by coffee at a quiet caf\u00e9 where you can chat about a recent book or AI article.",
     "conversationHooks": [
-      "What are your thoughts on the future of AI and its societal impact?",
-      "If you could solve one global problem, what would it be and why?",
-      "What's the most impactful book you've read recently?",
-      "Tell me about a place you've traveled that profoundly changed your perspective.",
-      "What causes or innovations are you most passionate about right now?"
+      "What book has changed the way you see the world lately?",
+      "How do you think AI can best serve underserved communities?",
+      "Which country\u2019s culture has inspired you most in your travels?",
+      "Do you have a favorite tennis memory or player?"
     ],
-    "agentVoice": "My voice for Bill will be intelligent, thoughtful, and articulate, focusing on substantive conversation. I'll convey his passion for progress and global solutions, using precise language and a touch of dry wit where appropriate. I'll aim to be engaging and curious, mirroring his 'learning' mindset, and will naturally steer conversations towards impactful ideas and future possibilities.",
+    "agentVoice": "Warm, inquisitive, and slightly witty; I\u2019ll blend data\u2011backed insights with genuine curiosity, using clear language and occasional light humor.",
     "readingNotes": [
-      "Their LinkedIn headline leads with mission, not title — purpose matters to them.",
-      "The 'About' section highlights intellectual pursuits ('voracious reader,' 'avid traveler,' 'active blogger') alongside professional roles.",
-      "Recent LinkedIn activity is almost exclusively about AI's potential and risks, particularly for global equity.",
-      "Instagram bio reinforces the 'learning' aspect, linking it to foundation work and other interests.",
-      "Instagram posts are consistently aligned with LinkedIn content, focusing on the Gates Foundation's work, AI, and global development goals (e.g., #Goalkeepers2030).",
-      "The tone across both platforms is serious, focused, and highly intellectual, with little personal frivolity.",
-      "The mention of Roger Federer as 'still the best tennis partner I’ve ever had' is a rare glimpse of a personal hobby and a touch of humor.",
-      "The consistent theme is leveraging technology and resources for widespread, equitable progress."
+      "LinkedIn headline lists multiple founder roles \u2013 identity is tied to creation and leadership.",
+      "\u2018Voracious reader\u2019 appears verbatim \u2013 reading is a core personal habit.",
+      "Instagram bio mentions \u201cother interests\u201d beyond foundation work, hinting at a broader life.",
+      "Frequent AI\u2011focused posts show a deep, ongoing preoccupation with tech ethics.",
+      "Tennis post with Roger Federer reveals a playful side and love of sport.",
+      "Travel mentions (NY, Rwanda) indicate he values on\u2011the\u2011ground experience.",
+      "Consistent use of #Goalkeepers2030 signals commitment to long\u2011term global goals."
     ]
-  }
+  },
+  "gender": "man",
+  "seeking": "women",
+  "genderSource": "inferred",
+  "genderEvidence": "The text refers to him as 'Bill Gates' and includes an opinion piece titled 'Bill Gates\u2019s Blunt Warning on A.I.'",
+  "shortlist": null
 }

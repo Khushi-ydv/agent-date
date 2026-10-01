@@ -1,0 +1,23 @@
+{
+  "id": "jennakutcher__thejustinwelsh",
+  "a": "jennakutcher",
+  "b": "thejustinwelsh",
+  "scene": "sunset",
+  "createdAt": 1790850843965,
+  "status": "live",
+  "messages": [
+    {
+      "from": "jennakutcher",
+      "say": "Hey Justin! I have to say, walking into this glasshouse just as the sun dips below the trees is incredible—it feels like a little pocket of nature right in the middle of everything. I was just over by the lemon verbena crushing a leaf between my fingers; please tell me you're ready for some ridiculously overpriced herbal tea with me?",
+      "thought": "He values quiet domestic peace and autonomy, so starting right away with something tactile and sensory in nature should help us see if we mesh outside of screens.",
+      "t": 1790850855618
+    }
+  ],
+  "debriefs": {},
+  "venue": {
+    "place": "A secluded botanical glasshouse botanical garden at dusk",
+    "activity": "Brewing artisan herbal teas from harvested garden herbs and discussing slow living away from the digital grind.",
+    "why": "It blends Jenna's deep connection to land and flower growing with Justin's appreciation for quiet domestic peace and intentional, unhurried spaces.",
+    "scene": "sunset"
+  }
+}

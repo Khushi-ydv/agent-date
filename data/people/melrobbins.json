@@ -1,40 +1,60 @@
 {
   "id": "melrobbins",
-  "createdAt": 1790848631303,
+  "createdAt": 1790849275195,
   "linkedinUrl": "https://www.linkedin.com/in/melrobbins/",
   "instagramUrl": "https://www.instagram.com/melrobbins/",
   "status": "ready",
-  "datingStatus": "idle",
+  "datingStatus": "dating",
   "log": [
     {
-      "t": 1790848631305,
+      "t": 1790849275197,
       "step": "Opening Instagram",
       "detail": "https://www.instagram.com/melrobbins/"
     },
     {
-      "t": 1790848631306,
+      "t": 1790849275198,
       "step": "Read Instagram @melrobbins",
       "detail": "12 recent posts, bio: “Hey 👋 I’m Mel\nHost @themelrobbinspodcast\nAuthor @letthemtheory, #1 sold book of” · via instagram-crawler-html (Mozilla)"
     },
     {
-      "t": 1790848631306,
+      "t": 1790849275199,
       "step": "Opening LinkedIn",
       "detail": "https://www.linkedin.com/in/melrobbins/"
     },
     {
-      "t": 1790848631308,
+      "t": 1790849275200,
       "step": "Read LinkedIn: Mel Robbins",
       "detail": "Co-Founder · Founder & CEO · 10 posts/articles · via linkedin-public-page via jina reader"
     },
     {
-      "t": 1790848631309,
+      "t": 1790849275201,
+      "step": "✓ Identity check",
+      "detail": "LinkedIn and Instagram names match"
+    },
+    {
+      "t": 1790849275202,
       "step": "Agent is reading both profiles",
       "detail": "cross-referencing career, captions and photos"
     },
     {
-      "t": 1790848779628,
+      "t": 1790849395441,
       "step": "Profile analysis complete",
-      "detail": "Motivational author, podcaster and CEO who turns mindset science into everyday action."
+      "detail": "Motivational author, podcaster and CEO who lives to help people reinvent themselves."
+    },
+    {
+      "t": 1790850793012,
+      "step": "Identified as a woman, looking for men",
+      "detail": "She’s also the founder and CEO of the media production company 143 Studios."
+    },
+    {
+      "t": 1790850837341,
+      "step": "Agent is reviewing the pool",
+      "detail": "20 other agents' clients"
+    },
+    {
+      "t": 1790850840235,
+      "step": "Asked out",
+      "detail": "Adam Grant, Guy Kawasaki, Alexis Ohanian Sr."
     }
   ],
   "linkedin": {
@@ -196,228 +216,275 @@
     ]
   },
   "photo": "https://scontent.cdninstagram.com/v/t51.2885-19/440074143_789167112847793_2497590725115182376_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=fuhGKjkJAx0Q7kNvwG4mip_&_nc_oc=AdoprxLiBLHgZkaEkp8pHbg-xW84Is2_YBxZBtosdE4kvgKayOGgzNnYivokfbJxAVIUrLMSIdKuY-VBq-Jl0M33&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=7f689&oh=00_AQOsjpZg7skf13V-fR-xmQjlegX4BjKhAiZDnVAwnbK3bQ&oe=6AC3EAB1",
-  "shortlist": null,
   "analysis": {
     "name": "Mel Robbins",
-    "oneLiner": "Motivational author, podcaster and CEO who turns mindset science into everyday action.",
-    "summary": "Mel is a high‑energy thought leader who built a media empire around behavior change. She writes best‑selling books, hosts a top‑ranked podcast, and runs a production studio while constantly sharing practical psychology on social media. Her public persona blends professional authority with a down‑to‑earth, coach‑like voice.",
+    "oneLiner": "Motivational author, podcaster and CEO who lives to help people reinvent themselves.",
+    "summary": "Mel is a high‑energy thought‑leader who built a media empire around mindset, behavior change and personal growth. She balances a demanding entrepreneurial schedule with a deep focus on family, authentic connection and practical life‑hacks, constantly sharing advice on Instagram and LinkedIn.",
     "location": "Greater Boston",
     "ageRange": "unknown",
     "career": {
-      "role": "Founder & CEO of 143 Studios; Co‑Founder of Pure Genius Protein; Podcast Host",
-      "stage": "Established entrepreneur & media influencer",
-      "ambition": "Scale her platform to reach more people with actionable mindset tools and expand her product ecosystem (e.g., protein shot, courses)."
+      "role": "Founder & CEO of 143 Studios; Co‑Founder of Pure Genius Protein",
+      "stage": "Established entrepreneur / industry influencer",
+      "ambition": "Scale impact‑driven media products while empowering individuals to reinvent their lives"
     },
     "needs": [
       {
-        "label": "Intellectual stimulation",
-        "detail": "She regularly posts podcast episodes with behavioral researchers and thought leaders, seeking deep conversations about psychology and performance.",
+        "label": "Emotional validation",
+        "detail": "She repeatedly emphasizes letting go of others' opinions and protecting her energy (Instagram post 5).",
         "source": "instagram",
         "confidence": 0.9
       },
       {
-        "label": "Emotional independence",
-        "detail": "Her LinkedIn post stresses not letting past titles or expectations dictate future choices, indicating a need for a partner who respects her autonomy.",
+        "label": "Intellectual curiosity",
+        "detail": "Her LinkedIn articles focus on research‑backed strategies for confidence, burnout, and career pivots.",
         "source": "linkedin",
         "confidence": 0.85
       },
       {
-        "label": "Shared growth mindset",
-        "detail": "Both LinkedIn and Instagram emphasize reinvention, learning from failure and continuous self‑improvement.",
-        "source": "both",
-        "confidence": 0.95
-      },
-      {
-        "label": "Support for a busy, high‑visibility life",
-        "detail": "She manages a media company, podcast, and product line while maintaining a massive online following, so she needs a partner who can handle public attention and irregular schedules.",
+        "label": "Support for her mission‑driven work",
+        "detail": "She promotes podcasts and books that teach life‑design; a partner who can champion those projects would align with her purpose (both).",
         "source": "both",
         "confidence": 0.9
       },
       {
-        "label": "Balance and downtime",
-        "detail": "Instagram caption #9 mentions “The secret to a better life isn’t doing more. It’s finding balance,” showing she values moments of rest.",
+        "label": "Balanced home life",
+        "detail": "Instagram captions about family, daughters, and living at home as generational wealth (posts 7 & 6).",
         "source": "instagram",
-        "confidence": 0.8
+        "confidence": 0.88
       }
     ],
     "hobbies": [
       {
         "label": "Podcast hosting",
-        "detail": "She hosts The Mel Robbins Podcast, releasing multiple episodes per week.",
-        "source": "instagram",
-        "confidence": 1
+        "detail": "Hosts The Mel Robbins Podcast (Instagram bio, LinkedIn headline).",
+        "source": "both",
+        "confidence": 0.95
       },
       {
         "label": "Reading & researching psychology",
-        "detail": "She frequently shares insights from behavioral researchers and books on her Instagram.",
+        "detail": "Shares episodes with behavioral researchers and body‑language experts (Instagram posts 2,10).",
         "source": "instagram",
         "confidence": 0.9
       },
       {
-        "label": "Public speaking / live events",
-        "detail": "LinkedIn notes award‑winning podcasts and speaking engagements; she’s a former CNN commentator.",
-        "source": "linkedin",
-        "confidence": 0.9
+        "label": "Family time with daughters",
+        "detail": "Posts advice directed to her daughters in their 20s (Instagram post 7).",
+        "source": "instagram",
+        "confidence": 0.92
       },
       {
-        "label": "Fitness / health product development",
-        "detail": "Co‑founded Pure Genius Protein, a protein shot product.",
+        "label": "Public speaking / workshops",
+        "detail": "Runs live events and webinars through 143 Studios (LinkedIn description).",
         "source": "linkedin",
         "confidence": 0.85
-      },
-      {
-        "label": "Family time",
-        "detail": "Instagram post #7 references her daughters and advice for them.",
-        "source": "instagram",
-        "confidence": 0.9
       }
     ],
     "interests": [
       {
         "label": "Behavioral science",
-        "detail": "She invites behavioral researchers like @vvanedwards onto her podcast.",
+        "detail": "Frequent guests are behavioral researchers; she discusses psychological tricks (Instagram posts 2,10).",
         "source": "instagram",
-        "confidence": 0.95
+        "confidence": 0.93
       },
       {
         "label": "Personal finance",
-        "detail": "Multiple Instagram captions promote episodes about money, marriage, and living at home.",
+        "detail": "Episodes with personal‑finance educators about money and marriage (Instagram posts 4,6).",
         "source": "instagram",
-        "confidence": 0.9
+        "confidence": 0.88
       },
       {
         "label": "Self‑improvement frameworks",
-        "detail": "LinkedIn articles on the 5‑Second Rule, burnout, and career reinvention.",
+        "detail": "Writes articles on the 5‑Second Rule, confidence formulas, burnout (LinkedIn articles).",
         "source": "linkedin",
-        "confidence": 0.95
+        "confidence": 0.94
       },
       {
-        "label": "Entrepreneurship & product innovation",
-        "detail": "Co‑founder of a media studio and a protein shot company.",
-        "source": "both",
+        "label": "Health & nutrition",
+        "detail": "Co‑founded Pure Genius Protein, a protein‑shot product (LinkedIn experience).",
+        "source": "linkedin",
         "confidence": 0.9
       },
       {
-        "label": "Women’s empowerment",
-        "detail": "She often addresses daughters and female audiences about taking space and intuition.",
-        "source": "instagram",
-        "confidence": 0.85
-      },
-      {
-        "label": "Media production",
-        "detail": "Runs 143 Studios, producing podcasts, courses, and events.",
+        "label": "Storytelling & media production",
+        "detail": "Runs 143 Studios producing podcasts, courses, events (LinkedIn).",
         "source": "linkedin",
         "confidence": 0.9
       }
     ],
     "values": [
       {
+        "label": "Empowerment",
+        "detail": "Mission to give people tools to change their lives (LinkedIn About, Instagram captions).",
+        "source": "both",
+        "confidence": 0.96
+      },
+      {
         "label": "Authenticity",
-        "detail": "Instagram caption #5 urges people to stop trying to control others’ perceptions.",
+        "detail": "Encourages letting go of others' perceptions and being true to oneself (Instagram post 5).",
         "source": "instagram",
         "confidence": 0.9
       },
       {
-        "label": "Resilience",
-        "detail": "LinkedIn bio highlights her journey from rejected manuscripts to bestseller status.",
-        "source": "linkedin",
-        "confidence": 0.95
-      },
-      {
-        "label": "Empowerment of others",
-        "detail": "She consistently shares tools for others to improve their lives (e.g., “You are allowed to…”) ",
+        "label": "Growth through failure",
+        "detail": "Highlights stories of rejection and reinvention (LinkedIn post about failed book, Instagram post 1).",
         "source": "both",
-        "confidence": 0.95
-      },
-      {
-        "label": "Continuous learning",
-        "detail": "Frequent collaborations with experts and sharing of research articles.",
-        "source": "both",
-        "confidence": 0.9
+        "confidence": 0.92
       }
     ],
     "personality": [
       {
         "trait": "Openness",
-        "score": 92,
-        "note": "High curiosity evident in her engagement with diverse experts and new product ventures."
+        "score": 88,
+        "note": "Loves new ideas, psychology, and creative media projects (both sources)."
       },
       {
         "trait": "Conscientiousness",
-        "score": 88,
-        "note": "Runs multiple businesses, publishes daily content, and maintains a disciplined publishing schedule."
+        "score": 85,
+        "note": "Runs multiple businesses, publishes regularly, disciplined content schedule (LinkedIn)."
       },
       {
         "trait": "Extraversion",
-        "score": 85,
-        "note": "Public speaking, large social following, and energetic Instagram presence show high sociability."
+        "score": 78,
+        "note": "Public speaker, podcast host, engages large audiences (both)."
       },
       {
         "trait": "Agreeableness",
         "score": 70,
-        "note": "Supportive tone toward audience but also direct, sometimes blunt advice (e.g., “stop exhausting yourself”)."
+        "note": "Shows empathy toward followers, focuses on helping others (Instagram)."
       },
       {
         "trait": "Emotional Stability",
-        "score": 78,
-        "note": "Handles criticism and burnout topics openly, indicating resilience but also acknowledges vulnerability."
+        "score": 65,
+        "note": "Open about burnout and vulnerability, but maintains a resilient public persona (LinkedIn)."
       }
     ],
     "lifestyle": [
       {
         "label": "Pace",
-        "value": "Fast‑paced, multiple projects simultaneously"
+        "value": "Fast‑paced, multiple concurrent ventures"
       },
       {
         "label": "Social energy",
-        "value": "High – frequent public speaking, podcast interviews, and social media interaction"
+        "value": "High – constant interaction with audience, guests, partners"
       },
       {
         "label": "Fitness",
-        "value": "Active – involved in health product development and likely personal fitness routines"
+        "value": "Active interest in health (protein product) but not explicitly workout‑focused"
       },
       {
         "label": "Travel",
-        "value": "Moderate – business travel for speaking engagements and podcast recordings"
+        "value": "Frequent speaking trips and podcast recordings in various cities"
       },
       {
         "label": "Work‑life",
-        "value": "Blended – work often overlaps with personal branding and family moments"
+        "value": "Blended – family moments shared publicly, but work often dominates schedule"
       }
     ],
-    "communicationStyle": "Direct, energetic, and evidence‑based; she mixes storytelling with actionable tips and often uses calls‑to‑action.",
-    "loveLanguage": "Words of affirmation & quality time (she frequently sends supportive messages and values deep conversations).",
-    "lookingFor": "A partner who can match her intellectual curiosity, respect her independence, and share a balanced, growth‑focused life.",
+    "communicationStyle": "Direct, upbeat, and data‑driven; she mixes storytelling with actionable tips.",
+    "loveLanguage": "Words of affirmation & quality time (frequent heartfelt messages to daughters, emphasis on meaningful conversations).",
+    "lookingFor": "A partner who champions personal growth, respects boundaries, and shares a purpose‑driven outlook.",
     "greenFlags": [
-      "Enjoys reading and discussing psychology or self‑improvement topics",
-      "Comfortable with public visibility and occasional media attention",
-      "Values personal growth and can support her busy schedule"
+      "Curiosity about psychology or self‑development",
+      "Comfort with public visibility",
+      "Willingness to discuss finances openly"
     ],
     "watchOuts": [
-      "May prioritize work over downtime, needing a partner who can set healthy boundaries",
-      "Direct communication style can feel intense for more conflict‑avoidant types"
+      "Tendency to dominate conversations with advice",
+      "High workload may limit spontaneous downtime"
     ],
     "dealbreakers": [
-      "Someone who dismisses personal development or self‑help concepts",
-      "A partner unwilling to handle public scrutiny",
-      "Lack of ambition or drive"
+      "Dismisses personal growth work",
+      "Disrespectful of boundaries or tries to control her schedule"
     ],
-    "idealFirstDate": "A relaxed coffee chat at a quiet café followed by a walk where they can exchange favorite books or recent podcast episodes, allowing deep conversation without the pressure of a formal setting.",
+    "idealFirstDate": "A relaxed coffee chat at a quiet boutique café followed by a short walk where they can exchange favorite personal‑development books and discuss a recent podcast episode.",
     "conversationHooks": [
-      "What recent behavioral research blew your mind?",
-      "If you could design a new habit‑forming product, what would it be?",
-      "Which author or speaker has shifted your perspective the most?",
-      "How do you recharge after a week of nonstop content creation?"
+      "What’s a recent ‘golden moment’ that shifted your perspective?",
+      "Which behavioral research finding blew your mind this month?",
+      "How do you balance building a media empire with family time?"
     ],
-    "agentVoice": "Enthusiastic, concise, and peppered with data‑driven insights—think a friendly coach who can flip between motivational pep talks and witty anecdotes, always ending with a clear, actionable takeaway.",
+    "agentVoice": "Warm, enthusiastic, and slightly witty; I’ll speak like a supportive coach, using concise, actionable language and sprinkling in relatable anecdotes.",
     "readingNotes": [
-      "Her LinkedIn headline lists multiple founder roles – she defines herself by creation, not title.",
-      "Instagram bio is casual (“Hey 👋 I’m Mel”) showing she values approachability.",
-      "Both profiles stress reinvention; she loves stories of failure turned into success.",
-      "She repeatedly asks followers to comment for deeper content – she craves interaction.",
-      "Posts blend personal (daughters) with professional (podcast guests) – integration of life spheres.",
-      "Frequent mentions of money and partnership indicate she thinks about relationship economics.",
-      "Her tone shifts from inspirational on LinkedIn to conversational on Instagram – she balances authority with relatability."
+      "LinkedIn headline leads with creator/host – purpose over title.",
+      "She repeatedly uses the phrase ‘let them’ – a mantra for personal boundaries.",
+      "Instagram bio lists multiple roles, showing she embraces a multi‑hatted identity.",
+      "Posts blend personal advice (daughters) with business promotion – no strict separation.",
+      "Frequent calls to comment for episode links reveal she values engagement and community interaction."
     ]
-  }
+  },
+  "gender": "woman",
+  "seeking": "men",
+  "genderSource": "inferred",
+  "genderEvidence": "She’s also the founder and CEO of the media production company 143 Studios.",
+  "shortlist": [
+    {
+      "id": "adamgrant",
+      "interest": 94,
+      "reason": "His expertise in organizational psychology aligns perfectly with Mel’s focus on behavioral science and provides the intellectual depth and evidence‑based mindset she values."
+    },
+    {
+      "id": "guykawasaki",
+      "interest": 88,
+      "reason": "His passion for making people remarkable and continuous learning dovetails with Mel’s empowerment ethos and media production interests."
+    },
+    {
+      "id": "alexisohanian",
+      "interest": 85,
+      "reason": "A family‑centric entrepreneur who values authenticity and community, matching Mel’s need for balanced home life and supportive partnership."
+    },
+    {
+      "id": "sahilbloom",
+      "interest": 83,
+      "reason": "His disciplined routine, growth mindset, and focus on family dynamics resonate with Mel’s love language of quality time and personal‑development focus."
+    },
+    {
+      "id": "steven",
+      "interest": 81,
+      "reason": "Shares a high‑energy creator mindset while seeking grounded emotional connection, fitting Mel’s desire for a partner who respects boundaries."
+    },
+    {
+      "id": "lewishowes",
+      "interest": 80,
+      "reason": "Both are media‑savvy storytellers with a personal‑growth focus, offering mutual support for podcasting and public speaking."
+    },
+    {
+      "id": "neilpatel",
+      "interest": 78,
+      "reason": "Data‑driven, entrepreneurial, and eager to brainstorm, he can champion Mel’s projects while providing calm grounding."
+    },
+    {
+      "id": "ankurwarikoo",
+      "interest": 76,
+      "reason": "Values consistency, transparency, and personal‑growth psychology, aligning with Mel’s intellectual curiosity and disciplined work style."
+    },
+    {
+      "id": "danielpriestley",
+      "interest": 74,
+      "reason": "Entrepreneurial focus and impact‑first mindset complement Mel’s mission‑driven ventures, though his pace may be slightly less frenetic."
+    },
+    {
+      "id": "richardbranson",
+      "interest": 72,
+      "reason": "Adventure spirit and storytelling flair match Mel’s media background, but his ultra‑high‑energy lifestyle may clash with family time priorities."
+    },
+    {
+      "id": "deepigoyal",
+      "interest": 66,
+      "reason": "Deep curiosity and quiet beauty complement Mel’s introspective side, though his preference for low‑key silence may limit collaborative media work."
+    },
+    {
+      "id": "garyvee",
+      "interest": 62,
+      "reason": "High‑octane energy and empathy match Mel’s drive, but his relentless hustle may challenge her need for protected family time."
+    },
+    {
+      "id": "rajshamani",
+      "interest": 58,
+      "reason": "Purpose‑driven impact and pet‑friendly lifestyle are appealing, yet his health‑tech focus is peripheral to Mel’s core interests."
+    },
+    {
+      "id": "thejustinwelsh",
+      "interest": 55,
+      "reason": "Values quiet domestic peace and autonomy, offering calm balance, but his low‑scale solo focus may not match Mel’s expansive media empire."
+    }
+  ]
 }

@@ -34,9 +34,9 @@ const list = (v: string | undefined, d: string) => (v || d).split(",").map((s) =
 function buildTargets(): Target[] {
   const t: Target[] = [];
   if (process.env.GEMINI_API_KEY) {
-    for (const model of list(process.env.GEMINI_SMART_MODELS, "gemini-3.5-flash,gemini-2.5-flash"))
+    for (const model of list(process.env.GEMINI_SMART_MODELS, "gemini-3.5-flash,gemini-2.5-flash,gemini-3.5-flash-lite"))
       t.push({ provider: "gemini", model, tiers: ["smart", "fast"], vision: true, cooldownUntil: 0, active: 0, max: 2 });
-    for (const model of list(process.env.GEMINI_FAST_MODELS, "gemini-3.5-flash-lite,gemini-2.5-flash-lite"))
+    for (const model of list(process.env.GEMINI_FAST_MODELS, "gemini-2.5-flash-lite"))
       t.push({ provider: "gemini", model, tiers: ["fast"], vision: true, cooldownUntil: 0, active: 0, max: 3 });
   }
   if (process.env.GROQ_API_KEY) {
@@ -125,9 +125,11 @@ function pick(o: ChatOptions, tried: Set<Target>): Target | null {
   targets ??= buildTargets();
   const tier = o.tier ?? "smart";
   const now = Date.now();
-  let pool = targets.filter((t) => t.tiers.includes(tier) && !tried.has(t));
-  if (o.images?.length && pool.some((t) => t.vision)) pool = pool.filter((t) => t.vision);
-  const ready = pool.filter((t) => t.cooldownUntil <= now && t.active < t.max);
+  const pool = targets.filter((t) => t.tiers.includes(tier) && !tried.has(t));
+  const isReady = (t: Target) => t.cooldownUntil <= now && t.active < t.max;
+  // Prefer vision models when images are attached; if they're all rate-limited, fall back to text-only.
+  const visionReady = o.images?.length ? pool.filter((t) => t.vision && isReady(t)) : [];
+  const ready = visionReady.length ? visionReady : pool.filter(isReady);
   if (!ready.length) return null;
   // Round-robin over ready targets, so load (and quota use) is spread out.
   rr = (rr + 1) % ready.length;

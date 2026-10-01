@@ -1,0 +1,29 @@
+{
+  "id": "brenebrown__thisisbillgates",
+  "a": "brenebrown",
+  "b": "thisisbillgates",
+  "scene": "sunset",
+  "createdAt": 1790850841459,
+  "status": "live",
+  "messages": [
+    {
+      "from": "brenebrown",
+      "say": "Well hey there, come on up and grab a seat before this Texas sunset completely steals the show. I figured this spot overlooking the canyons beat a loud restaurant any day, especially with a fresh thermos of sweet tea to take the edge off the evening chill.",
+      "thought": "I want to see how he transitions from high-powered global problem-solving to just sitting quietly in nature with a stranger.",
+      "t": 1790850844238
+    },
+    {
+      "from": "thisisbillgates",
+      "say": "That is an incredible view, and honestly, a quiet canyon at dusk beats a conference room any day of the week. I brought along a rather thick biography I've been chipping away at, but I think the scenery might win out tonight. How do you usually like to unwind when you're not deep into research or recording an episode?",
+      "thought": "Brené set a warm, grounded tone right away, so I want to match that comfort while steering us toward how we each balance intense schedules with personal downtime.",
+      "t": 1790850845848
+    }
+  ],
+  "debriefs": {},
+  "venue": {
+    "place": "A secluded overlook in the Texas Hill Country at dusk",
+    "activity": "Sharing a thermos of sweet tea while trading deep reads and watching the sunset paint the limestone canyons.",
+    "why": "It honors Brené's deep Texas roots and love for storytelling alongside Bill's lifelong passion for reading and quiet global reflection.",
+    "scene": "sunset"
+  }
+}

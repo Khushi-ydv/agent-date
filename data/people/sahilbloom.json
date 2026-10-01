@@ -1,35 +1,50 @@
 {
   "id": "sahilbloom",
-  "createdAt": 1790848713823,
+  "createdAt": 1790850212865,
   "linkedinUrl": "https://www.linkedin.com/in/sahilbloom/",
   "instagramUrl": "https://www.instagram.com/sahilbloom/",
-  "status": "analyzing",
+  "status": "ready",
   "datingStatus": "idle",
   "log": [
     {
-      "t": 1790848713825,
+      "t": 1790850212866,
       "step": "Opening Instagram",
       "detail": "https://www.instagram.com/sahilbloom/"
     },
     {
-      "t": 1790848713826,
+      "t": 1790850212867,
       "step": "Read Instagram @sahilbloom",
-      "detail": "12 recent posts, bio: “New York Times Bestselling Author of The 5 Types of Wealth. Founder @wildromanof” · via instagram-crawler-html (Mozilla)"
+      "detail": "12 recent posts, bio: \u201cNew York Times Bestselling Author of The 5 Types of Wealth. Founder @wildromanof\u201d \u00b7 via instagram-crawler-html (Mozilla)"
     },
     {
-      "t": 1790848713827,
+      "t": 1790850212867,
       "step": "Opening LinkedIn",
       "detail": "https://www.linkedin.com/in/sahilbloom/"
     },
     {
-      "t": 1790848713828,
+      "t": 1790850212868,
       "step": "Read LinkedIn: Sahil Bloom",
-      "detail": "Founder · Author · Writer · 9 posts/articles · via linkedin-public-page via jina reader"
+      "detail": "Founder \u00b7 Author \u00b7 Writer \u00b7 9 posts/articles \u00b7 via linkedin-public-page via jina reader"
     },
     {
-      "t": 1790848713830,
+      "t": 1790850212869,
+      "step": "\u2713 Identity check",
+      "detail": "LinkedIn and Instagram names match"
+    },
+    {
+      "t": 1790850212870,
       "step": "Agent is reading both profiles",
       "detail": "cross-referencing career, captions and photos"
+    },
+    {
+      "t": 1790850338148,
+      "step": "Profile analysis complete",
+      "detail": "Author, founder, and relentless growth\u2011hacker who turns curiosity into action."
+    },
+    {
+      "t": 1790850795970,
+      "step": "Identified as a man, looking for women",
+      "detail": "Sahil Bloom is referred to as a \"dad\" in the Instagram captions."
     }
   ],
   "linkedin": {
@@ -38,14 +53,14 @@
     "slug": "sahilbloom",
     "url": "https://www.linkedin.com/in/sahilbloom",
     "name": "Sahil Bloom",
-    "headline": "Founder · Author · Writer",
-    "about": "Sahil Bloom is the New York Times Bestselling author of The 5 Types of Wealth: A Transformative Guide to Design Your Dream Life. Sahil is an inspirational writer and entrepreneur, captivating millions of people every week through his book, social insights, and bi-weekly newsletter, The Curiosity Chronicle. His debut non-fiction book, The 5 Types of Wealth, was an instant New York Times, USA Today, and Sunday Times Bestseller. Apple CEO Tim Cook called it \"a powerful call to action to think deeply about what lights you up—and a guide for how to build a life of meaning and purpose around those things.\" The book is a unique blend of strategies, tactics, and actionable insights, enabling readers to make real, positive changes and lead healthier, wealthier lives. It has been translated into 39 languages and sold over 500,000+ copies worldwide. Sahil is also an entrepreneur and owner of SRB Holdings, a personal holding company, and the Managing Partner of SRB Ventures, a $10 million venture investment firm committed to investing in and accelerating the most compelling startups in the world. Prior to launching SRB Ventures in January 2022, Sahil was an early-stage investor in 40+ startups across the technology landscape, including multiple unicorns. Previously, Sahil spent seven years as a private equity investor and served on the board of several middle market companies during that period. Sahil graduated from Stanford University with an M.A. in Public Policy (2014) and a B.A. in Economics & Sociology (2013). While at Stanford, he was a four-year member on the Stanford Baseball Team (2009-2013), twice helping to guide the team to NCAA Super Regional appearances (top-16 finishes). Additionally, Sahil earned two PAC-12 All-Academic Team awards and twice received the Bruce R. Cameron Memorial Award, given annually to a student-athlete exhibiting excellence in athletics, academics, and leadership. Academically, Sahil was advised in his pursuits by former Secretary of State Dr. Condoleezza Rice.",
+    "headline": "Founder \u00b7 Author \u00b7 Writer",
+    "about": "Sahil Bloom is the New York Times Bestselling author of The 5 Types of Wealth: A Transformative Guide to Design Your Dream Life. Sahil is an inspirational writer and entrepreneur, captivating millions of people every week through his book, social insights, and bi-weekly newsletter, The Curiosity Chronicle. His debut non-fiction book, The 5 Types of Wealth, was an instant New York Times, USA Today, and Sunday Times Bestseller. Apple CEO Tim Cook called it \"a powerful call to action to think deeply about what lights you up\u2014and a guide for how to build a life of meaning and purpose around those things.\" The book is a unique blend of strategies, tactics, and actionable insights, enabling readers to make real, positive changes and lead healthier, wealthier lives. It has been translated into 39 languages and sold over 500,000+ copies worldwide. Sahil is also an entrepreneur and owner of SRB Holdings, a personal holding company, and the Managing Partner of SRB Ventures, a $10 million venture investment firm committed to investing in and accelerating the most compelling startups in the world. Prior to launching SRB Ventures in January 2022, Sahil was an early-stage investor in 40+ startups across the technology landscape, including multiple unicorns. Previously, Sahil spent seven years as a private equity investor and served on the board of several middle market companies during that period. Sahil graduated from Stanford University with an M.A. in Public Policy (2014) and a B.A. in Economics & Sociology (2013). While at Stanford, he was a four-year member on the Stanford Baseball Team (2009-2013), twice helping to guide the team to NCAA Super Regional appearances (top-16 finishes). Additionally, Sahil earned two PAC-12 All-Academic Team awards and twice received the Bruce R. Cameron Memorial Award, given annually to a student-athlete exhibiting excellence in athletics, academics, and leadership. Academically, Sahil was advised in his pursuits by former Secretary of State Dr. Condoleezza Rice.",
     "location": "New York, New York, United States",
     "profilePic": "https://media.licdn.com/dms/image/v2/D4E03AQFdgn2OU81oKQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1667155655120?e=2147483647&v=beta&t=Al8LEhBtmwB9aj3dneywa83zg4Cmi20RG5sKZExGLUM",
     "followers": 723605,
     "experience": [
       {
-        "title": "Founder Wild Roman Dec 2025 - Present 11 months I got sick of putting things on my skin that I’d never put in my body. So I spent 18 months creating the perfect solution. Wild Roman: 100% natural skin"
+        "title": "Founder Wild Roman Dec 2025 - Present 11 months I got sick of putting things on my skin that I\u2019d never put in my body. So I spent 18 months creating the perfect solution. Wild Roman: 100% natural skin"
       },
       {
         "title": "Author Penguin Random House Sep 2022 - Present 4 years 2 months Author of the instant New York Times Bestseller, The 5 Types of Wealth: A Transformative Guide to Design Your Dream Life."
@@ -54,7 +69,7 @@
         "title": "Writer The Curiosity Chronicle May 2021 - Present 5 years 6 months The Curiosity Chronicle is a 4x weekly newsletter where I provide actionable ideas to help build a high-performing, healthy, wealthy "
       },
       {
-        "title": "Owner SRB Holdings May 2021 - Present 5 years 6 months SRB Holdings is a personal holding company currently comprised of ten cash flowing business assets. Current portfolio holdings include: • SBloom "
+        "title": "Owner SRB Holdings May 2021 - Present 5 years 6 months SRB Holdings is a personal holding company currently comprised of ten cash flowing business assets. Current portfolio holdings include: \u2022 SBloom "
       },
       {
         "title": "Managing Partner SRB Ventures Jan 2022 - Present 4 years 10 months SRB Ventures is an investment firm committed to investing in and accelerating the most compelling startups in the world. Fund I is a "
@@ -91,12 +106,12 @@
       },
       {
         "kind": "post",
-        "text": "Your energy creates your reality.\n\n(And It becomes your destiny.)\n\nI'm convinced of this.\n\nGive your energy to stress, complaints, and negative people. They will grow.\nGive your energy to ambitions, gratitude, and positive people. They will grow.\n\nWhatever you feed gets bigger.\n\nChoose wisely.\n\n——\n\nIf this resonated, repost to your network ♻️ and follow Sahil Bloom for more.\n🎯 Want clarity on what actually matters? Download my free \"20 Questions That Changed My Life\" PDF and join 800,000+ who get my weekly newsletter → https://bit.ly/4alU91f",
+        "text": "Your energy creates your reality.\n\n(And It becomes your destiny.)\n\nI'm convinced of this.\n\nGive your energy to stress, complaints, and negative people. They will grow.\nGive your energy to ambitions, gratitude, and positive people. They will grow.\n\nWhatever you feed gets bigger.\n\nChoose wisely.\n\n\u2014\u2014\n\nIf this resonated, repost to your network \u267b\ufe0f and follow Sahil Bloom for more.\n\ud83c\udfaf Want clarity on what actually matters? Download my free \"20 Questions That Changed My Life\" PDF and join 800,000+ who get my weekly newsletter \u2192 https://bit.ly/4alU91f",
         "date": "2026-09-30T12:00:30.480Z"
       },
       {
         "kind": "post",
-        "text": "My entire life changed with one realization.\n\n(The people I admired just started.)\n\nThey weren't smarter.\nThey weren't luckier.\nThey weren't specially chosen.\n\nThey simply had the courage to start.\n\nThe ones who didn't overthink it.\nWho put their ego aside.\nWho walked toward uncertainty.\nWho kept showing up.\n\nThe answer is found in the action.\n\nStart ugly. Go do the damn thing.\n\n——\n\nIf this resonated, repost to your network ♻️ and follow Sahil Bloom for more.\n🎯 Want clarity on what actually matters? Download my free \"20 Questions That Changed My Life\" PDF and join 800,000+ who get my weekly n",
+        "text": "My entire life changed with one realization.\n\n(The people I admired just started.)\n\nThey weren't smarter.\nThey weren't luckier.\nThey weren't specially chosen.\n\nThey simply had the courage to start.\n\nThe ones who didn't overthink it.\nWho put their ego aside.\nWho walked toward uncertainty.\nWho kept showing up.\n\nThe answer is found in the action.\n\nStart ugly. Go do the damn thing.\n\n\u2014\u2014\n\nIf this resonated, repost to your network \u267b\ufe0f and follow Sahil Bloom for more.\n\ud83c\udfaf Want clarity on what actually matters? Download my free \"20 Questions That Changed My Life\" PDF and join 800,000+ who get my weekly n",
         "date": "2026-09-29T12:00:13.909Z"
       },
       {
@@ -106,12 +121,12 @@
       },
       {
         "kind": "post",
-        "text": "Emotional control is the ultimate power.\n\n(Few people actually have it.)\n\nI'm convinced of this:\n\nThe ability to remain unshaken by the minor inconveniences of life puts you ahead of 95% of people.\n\nTraffic.\nA rude email.\nSomeone cutting in line.\nA comment that stings for half a second.\n\nNot every collision or slight deserves your energy.\n\nYou can just let them float by.\n\nProtect your peace. Save your fire for what actually matters.\n\n——\n\nIf this resonated, repost to your network ♻️ and follow Sahil Bloom for more.\n🎯 Want clarity on what actually matters? Download my free \"20 Questions That Ch",
+        "text": "Emotional control is the ultimate power.\n\n(Few people actually have it.)\n\nI'm convinced of this:\n\nThe ability to remain unshaken by the minor inconveniences of life puts you ahead of 95% of people.\n\nTraffic.\nA rude email.\nSomeone cutting in line.\nA comment that stings for half a second.\n\nNot every collision or slight deserves your energy.\n\nYou can just let them float by.\n\nProtect your peace. Save your fire for what actually matters.\n\n\u2014\u2014\n\nIf this resonated, repost to your network \u267b\ufe0f and follow Sahil Bloom for more.\n\ud83c\udfaf Want clarity on what actually matters? Download my free \"20 Questions That Ch",
         "date": "2026-09-27T12:00:45.292Z"
       },
       {
         "kind": "post",
-        "text": "Not every season needs to be your best.\n\n(Some are just for surviving.)\n\nThe older I get, the more I realize that life has seasons.\n\nSome seasons are for building.\nSome are for healing.\nSome are for just surviving.\n\nYou don't have to win every single chapter for the whole story to turn out well.\n\nHere's what I've learned:\n\nWhen you demand peak performance from a healing chapter, you punish yourself for doing the work that chapter actually requires.\n\nHonor the season you're in.\n\nStop forcing a highlight reel out of a rebuild.\n\nThe story can still turn out well.\n\n——\n\nIf this resonated, repost to",
+        "text": "Not every season needs to be your best.\n\n(Some are just for surviving.)\n\nThe older I get, the more I realize that life has seasons.\n\nSome seasons are for building.\nSome are for healing.\nSome are for just surviving.\n\nYou don't have to win every single chapter for the whole story to turn out well.\n\nHere's what I've learned:\n\nWhen you demand peak performance from a healing chapter, you punish yourself for doing the work that chapter actually requires.\n\nHonor the season you're in.\n\nStop forcing a highlight reel out of a rebuild.\n\nThe story can still turn out well.\n\n\u2014\u2014\n\nIf this resonated, repost to",
         "date": "2026-09-24T12:04:26.736Z"
       },
       {
@@ -121,11 +136,11 @@
       },
       {
         "kind": "post",
-        "text": "Never make someone regret being honest.\n\n(You won't like the long-term results.)\n\nIf someone has the courage to tell you the truth, don't punish them for it.\n\nYou can disagree.\nYou can feel defensive.\nYou can need a minute.\n\nBut if you train people to believe that honesty gets punished, they'll stop bringing you the real thing.\n\nEvery time you punish the truth, you teach silence.\nEvery time you receive it well, you invite more of it.\n\nComfort feels better in the moment.\nTruth compounds over a lifetime.\n\nNever make someone regret being honest with you.\n\n——\n\nIf this resonated, repost to your net",
+        "text": "Never make someone regret being honest.\n\n(You won't like the long-term results.)\n\nIf someone has the courage to tell you the truth, don't punish them for it.\n\nYou can disagree.\nYou can feel defensive.\nYou can need a minute.\n\nBut if you train people to believe that honesty gets punished, they'll stop bringing you the real thing.\n\nEvery time you punish the truth, you teach silence.\nEvery time you receive it well, you invite more of it.\n\nComfort feels better in the moment.\nTruth compounds over a lifetime.\n\nNever make someone regret being honest with you.\n\n\u2014\u2014\n\nIf this resonated, repost to your net",
         "date": "2026-09-22T12:01:28.648Z"
       }
     ],
-    "activityText": " Sahil Bloom Sahil Bloom 21h Sahil Bloom shared this Your energy creates your reality. (And It becomes your destiny.) I'm convinced of this. Give your energy to stress, complaints, and negative people. They will grow. Give your energy to ambitions, gratitude, and positive people. They will grow. Whatever you feed gets bigger. Choose wisely. —— If this resonated, repost to your network ♻️ and follow Sahil Bloom for more. 🎯 Want clarity on what actually matters? Download my free \"20 Questions That Changed My Life\" PDF and join 800,000+ who get my weekly newsletter → https://bit.ly/4alU91f 1, Sahil Bloom Sahil Bloom 1d Sahil Bloom shared this My entire life changed with one realization. (The people I admired just started.) They weren't smarter. They weren't luckier. They weren't specially chosen. They simply had the courage to start. The ones who didn't overthink it. Who put their ego aside. Who walked toward uncertainty. Who kept showing up. The answer is found in the action. Start ugly. Go do the damn thing. —— If this resonated, repost to your network ♻️ and follow Sahil Bloom for more. 🎯 Want clarity on what actually matters? Download my free \"20 Questions That Changed My Life\" PDF and join 800,000+ who get my weekly newsletter → https://bit.ly/4alU91f 1, Sahil Bloom Sahil Bloom 2d Sahil Bloom shared this Fall in love with being unfinished. (Most people never do.) A mentor told me this years ago: \"Stop trying to look polished. Start trying to stay in motion.\" I didn't understand it at first. I wanted to seem like I had it figured out. The plan. The answers. The path. Here's what I've learned: Nobody has it figured out. The people you admire most are not finished products. They're just honest about being works in progress. The need to appear polished is a trap. It makes you rigid. It makes you defensive. It makes you afraid to start things you might be bad at. And it quietly kills the growth it pretends to protect. The alternative is simple: Commit to getting better each day. Not perfect. Better. One conversation. One rep. One honest look in the mirror. The people who grow the fastest are the ones who stopped pretending they didn't need to. Fall in love with your unfinished form. Trust where it leads. —— If this resonated, repost to your network ♻️ and follow Sahil Bloom for more. 🎯 Want clarity on what actually matters? Download my free \"20 Questions That Changed My Life\" PDF and join 800,000+ who get my weekly newsletter → https://bit.ly/4alU91f 1, Sahil Bloom Sahil Bloom 3d Sahil Bloom shared this Emotional control is the ultimate power. (Few people actually have it.) I'm convinced of this: The ability to remain unshaken by the minor inconveniences of life puts you ahead of 95% of people. Traffic. A rude email. Someone cutting in line. A comment that stings for half a second. Not every collision or slight deserves your energy. You can just let them float by. Protect your peace. Save your fire for what actually matters. —— If this resonated,"
+    "activityText": " Sahil Bloom Sahil Bloom 21h Sahil Bloom shared this Your energy creates your reality. (And It becomes your destiny.) I'm convinced of this. Give your energy to stress, complaints, and negative people. They will grow. Give your energy to ambitions, gratitude, and positive people. They will grow. Whatever you feed gets bigger. Choose wisely. \u2014\u2014 If this resonated, repost to your network \u267b\ufe0f and follow Sahil Bloom for more. \ud83c\udfaf Want clarity on what actually matters? Download my free \"20 Questions That Changed My Life\" PDF and join 800,000+ who get my weekly newsletter \u2192 https://bit.ly/4alU91f 1, Sahil Bloom Sahil Bloom 1d Sahil Bloom shared this My entire life changed with one realization. (The people I admired just started.) They weren't smarter. They weren't luckier. They weren't specially chosen. They simply had the courage to start. The ones who didn't overthink it. Who put their ego aside. Who walked toward uncertainty. Who kept showing up. The answer is found in the action. Start ugly. Go do the damn thing. \u2014\u2014 If this resonated, repost to your network \u267b\ufe0f and follow Sahil Bloom for more. \ud83c\udfaf Want clarity on what actually matters? Download my free \"20 Questions That Changed My Life\" PDF and join 800,000+ who get my weekly newsletter \u2192 https://bit.ly/4alU91f 1, Sahil Bloom Sahil Bloom 2d Sahil Bloom shared this Fall in love with being unfinished. (Most people never do.) A mentor told me this years ago: \"Stop trying to look polished. Start trying to stay in motion.\" I didn't understand it at first. I wanted to seem like I had it figured out. The plan. The answers. The path. Here's what I've learned: Nobody has it figured out. The people you admire most are not finished products. They're just honest about being works in progress. The need to appear polished is a trap. It makes you rigid. It makes you defensive. It makes you afraid to start things you might be bad at. And it quietly kills the growth it pretends to protect. The alternative is simple: Commit to getting better each day. Not perfect. Better. One conversation. One rep. One honest look in the mirror. The people who grow the fastest are the ones who stopped pretending they didn't need to. Fall in love with your unfinished form. Trust where it leads. \u2014\u2014 If this resonated, repost to your network \u267b\ufe0f and follow Sahil Bloom for more. \ud83c\udfaf Want clarity on what actually matters? Download my free \"20 Questions That Changed My Life\" PDF and join 800,000+ who get my weekly newsletter \u2192 https://bit.ly/4alU91f 1, Sahil Bloom Sahil Bloom 3d Sahil Bloom shared this Emotional control is the ultimate power. (Few people actually have it.) I'm convinced of this: The ability to remain unshaken by the minor inconveniences of life puts you ahead of 95% of people. Traffic. A rude email. Someone cutting in line. A comment that stings for half a second. Not every collision or slight deserves your energy. You can just let them float by. Protect your peace. Save your fire for what actually matters. \u2014\u2014 If this resonated,"
   },
   "instagram": {
     "source": "instagram",
@@ -133,7 +148,7 @@
     "username": "sahilbloom",
     "url": "https://www.instagram.com/sahilbloom/",
     "fullName": "Sahil Bloom",
-    "bio": "New York Times Bestselling Author of The 5 Types of Wealth. Founder @wildromanofficial. Creating things I’d want to consume.",
+    "bio": "New York Times Bestselling Author of The 5 Types of Wealth. Founder @wildromanofficial. Creating things I\u2019d want to consume.",
     "followers": 1024710,
     "following": 527,
     "postsCount": 1363,
@@ -147,11 +162,11 @@
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/825323529_18046334390816441_3530477945533280645_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=ijQpOTOl0LQQ7kNvwGZ3KGN&_nc_oc=Adr9CsMByQjj1Rf2vFARSIHBLn8CL3DTaIVQhxAqzjFqTTPkaoaQYZ26AO3xsvs6YUg5OpLCU_7xxfgTm8e4oMBS&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=WHdl4rInbR68lWdLjMsQRA&_nc_ss=7f689&oh=00_AQMmnUIz284K8Z8ImFd2NWtCdXY4MfagNFDXqdxyCblTCg&oe=6AC4054C",
-        "caption": "Do you agree? Send this to your partner!\n\n“20 years from now, the only people who will remember that you worked late are your kids.”\n\nI’m of two minds here:\n\n1. Being present with your kids is the most important thing.\n\n2. Having your kids see you work hard with a clear purpose is a principle they’ll remember forever.\n\nIt’s easy to focus on the first point and lose sight of the second.\n\nUnderstanding, navigating, and balancing the tension across the two is how I believe you ultimately “win” the game.\n\nThe reality is that not everyone has the luxury of building a life where they are going to be constantly present with their kids.\n\nSome have to work two jobs or long hours to provide for them.\n\nSome are working long hours to build towards some ambitious future.\n\nFocus on what you can control:\n\n1. Include your kids in the WHY: Make sure they know why you’re working hard, why you’re away, and why it’s important.\n\n2. When you’re around, be present: Say yes to play and give them your full energy and attention. Time and energy are not the same thing. Your energy is what counts.\n\nWhat do you think?\n\n#relationships #children #marriage #love"
+        "caption": "Do you agree? Send this to your partner!\n\n\u201c20 years from now, the only people who will remember that you worked late are your kids.\u201d\n\nI\u2019m of two minds here:\n\n1. Being present with your kids is the most important thing.\n\n2. Having your kids see you work hard with a clear purpose is a principle they\u2019ll remember forever.\n\nIt\u2019s easy to focus on the first point and lose sight of the second.\n\nUnderstanding, navigating, and balancing the tension across the two is how I believe you ultimately \u201cwin\u201d the game.\n\nThe reality is that not everyone has the luxury of building a life where they are going to be constantly present with their kids.\n\nSome have to work two jobs or long hours to provide for them.\n\nSome are working long hours to build towards some ambitious future.\n\nFocus on what you can control:\n\n1. Include your kids in the WHY: Make sure they know why you\u2019re working hard, why you\u2019re away, and why it\u2019s important.\n\n2. When you\u2019re around, be present: Say yes to play and give them your full energy and attention. Time and energy are not the same thing. Your energy is what counts.\n\nWhat do you think?\n\n#relationships #children #marriage #love"
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/825270031_18046207271816441_7022636532780696069_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=kP81N5Ic3ZkQ7kNvwHqJtFl&_nc_oc=AdoK_fPnts5-X2KlhDF0uX7a0Ic0OjrKPLjUHCelOJrfZO7KL4TUlxmsbLiGSz56-Uy2-IbZEFqdL97q3xzBTz2L&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=WHdl4rInbR68lWdLjMsQRA&_nc_ss=7f689&oh=00_AQMkIzxHwSxRBFNE0X6h5uzRDnjugCie2U5Go7Y912tU3A&oe=6AC41753",
-        "caption": "Do you agree? Send this to someone who’s always unshaken!\n\n#growth #mindset #energy #relationships"
+        "caption": "Do you agree? Send this to someone who\u2019s always unshaken!\n\n#growth #mindset #energy #relationships"
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/825270072_18046073276816441_1433012772881278772_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=aAuLqe7ET9UQ7kNvwHG_DLS&_nc_oc=Adpoend31vQrV26jLssjLJ8tUJeoW7yb-DxcZfOUcgFBeRB7EJ8Jl4WoTGzxVdKbVogw0gOaLMiwFZVNLClPJCVM&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=WHdl4rInbR68lWdLjMsQRA&_nc_ss=7f689&oh=00_AQNsy55389_jOu1PH7RhIVDUAIqOMJiTYsZqs1rsrkpLMw&oe=6AC40F29",
@@ -163,7 +178,7 @@
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t15.5256-10/825231946_2132265097325074_3781557078683233651_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=aiXeXsTjVUAQ7kNvwGrmYYE&_nc_oc=AdoNDyvrqWLioJynGzEhbmdwd0W254rHPks8P1krEu2W5PtNW4GkuRGq21ua7dtX5_vOB85Egp20xufLsZ02bi91&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=WHdl4rInbR68lWdLjMsQRA&_nc_ss=7f689&oh=00_AQP8yjf2VfFGCePcPzEm3RviPBmLddcAHC5xwqtPEL1_HQ&oe=6AC41282",
-        "caption": "I’m officially writing my second book! But this time, I’m doing it differently, with the new @amazonkindle Scribe. #ad\n\nMy first book, The 5 Types of Wealth, has sold over 500,000 copies and been translated into 39 languages. But I made one big mistake in the process that I won’t be making again.\n\nLet me explain:\n\nAll my notes were spread across physical notebooks with no way to search across them. It delayed my launch by months.\n\nThe Kindle Scribe changed all of that for book two.\n\nI get the same science-backed benefits of handwriting but with the power of AI. I can quickly search for specific ideas across all my notebooks. I can even have its AI synthesize ideas across everything I’ve written.\n\nIt’s the one device I never leave home without, because who knows when ideas might strike. No matter what your work looks like, I cannot recommend it highly enough.\n\nComment KINDLE and I’ll send you a link to grab yours today!\n\n#growth #books #mindset #writing"
+        "caption": "I\u2019m officially writing my second book! But this time, I\u2019m doing it differently, with the new @amazonkindle Scribe. #ad\n\nMy first book, The 5 Types of Wealth, has sold over 500,000 copies and been translated into 39 languages. But I made one big mistake in the process that I won\u2019t be making again.\n\nLet me explain:\n\nAll my notes were spread across physical notebooks with no way to search across them. It delayed my launch by months.\n\nThe Kindle Scribe changed all of that for book two.\n\nI get the same science-backed benefits of handwriting but with the power of AI. I can quickly search for specific ideas across all my notebooks. I can even have its AI synthesize ideas across everything I\u2019ve written.\n\nIt\u2019s the one device I never leave home without, because who knows when ideas might strike. No matter what your work looks like, I cannot recommend it highly enough.\n\nComment KINDLE and I\u2019ll send you a link to grab yours today!\n\n#growth #books #mindset #writing"
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/817846575_18045642608816441_5536204937439238328_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=0P7ujNPbxS4Q7kNvwEr9SyG&_nc_oc=AdpsC25t7idhTulRG38vdexQxRhCKVLaBnakMQdgl8jKHFZ6UwP_DCvpTTqZ2Z6iJrXFrn6E9pZ1cILNObGYNL5h&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=WHdl4rInbR68lWdLjMsQRA&_nc_ss=7f689&oh=00_AQMwZJDDbbfJ_nY0WuCXW6MDVqf0bWIeXljc_jFZxPjUhA&oe=6AC3ED29",
@@ -171,7 +186,7 @@
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/794225856_18635875174016159_6012318402210697610_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=NjJr6oIAcGkQ7kNvwG5MhEV&_nc_oc=AdqyvsCikWzMb8xHFWnLYUBeWU0Ac1FcXCA_GmuvmU5stFQRmTAjTjh1WZGswhPEbIGEGfHw1X7D4KYPHgBEqGio&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=WHdl4rInbR68lWdLjMsQRA&_nc_ss=7f689&oh=00_AQOJt0mYcavVUkr6RwPVwyVqC3f6WupCfMQ0eX1fsVDKSg&oe=6AC401A6",
-        "caption": "True wealth goes far beyond your bank account.\n\nOn the WHOOP Podcast, Will Ahmed sits down with NYT bestselling author Sahil Bloom to unpack what it means to build a truly wealthy life — one rooted in health, relationships, time, purpose, and financial freedom.\n\nHis message: focus on the fundamentals, invest in the relationships that matter, and don’t optimize your life so much that you forget to enjoy it.\n\nListen to the full episode on Apple Podcasts, Spotify, or YouTube."
+        "caption": "True wealth goes far beyond your bank account.\n\nOn the WHOOP Podcast, Will Ahmed sits down with NYT bestselling author Sahil Bloom to unpack what it means to build a truly wealthy life \u2014 one rooted in health, relationships, time, purpose, and financial freedom.\n\nHis message: focus on the fundamentals, invest in the relationships that matter, and don\u2019t optimize your life so much that you forget to enjoy it.\n\nListen to the full episode on Apple Podcasts, Spotify, or YouTube."
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/808414599_18045360125816441_2370367524537809569_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=2ajU_AKS-YAQ7kNvwHTvlN5&_nc_oc=AdrYPH9oWGhVBoOMxL6wuwo3fpFpJBgeD6udZdhu_KDHLWsy7j24zlISQ3R090erL7sitboidPn7gzxYX63Wo9NP&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=WHdl4rInbR68lWdLjMsQRA&_nc_ss=7f689&oh=00_AQMLrHG5mv3QI8ecuD9Hwmdu2JHxvbA56rI_Suc0OEhing&oe=6AC3EB77",
@@ -183,7 +198,7 @@
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/807900716_18045098291816441_1228556766419650412_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=N6oz1oTjyQgQ7kNvwH_nEvD&_nc_oc=AdrSyyJpMWwfH2miyNeXJrjFF5IPVCEdW1ZmWvpaPTBhVvRidPIPFgyt9EdD-A277safITKJL6ivHfUn4UnTR7vR&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=WHdl4rInbR68lWdLjMsQRA&_nc_ss=7f689&oh=00_AQODKQvOdVLl_0vooWIjjbmmA-xtviCWsYnVrYVVvETecg&oe=6AC3EB87",
-        "caption": "Saturday in my life (as a 35-year-old dad):\n\n- 4:20am wake up\n- Solo sub-2:50 marathon\n- Full family day\n- 8:30pm bedtime\n\nI took that marathon failure last weekend personally. So I drove back to the course and started running in the dark by myself. And I got it done. 2:48:47 (6:26 per mile). No, it doesn’t “count” but when I say I’m going to do something, I do it. Full stop.\n\nNever bet against the person who just keeps showing up.\n\nIt was tiring going into a full family day after the run, but honestly, these are the days I dreamed of. I’ll always find energy for them.\n\nThe good old days are happening right now.\n\nP.S. Comment ROUTINE if you want to try the natural skincare routine!\n\n#growth #relationships #love #kids #marriage"
+        "caption": "Saturday in my life (as a 35-year-old dad):\n\n- 4:20am wake up\n- Solo sub-2:50 marathon\n- Full family day\n- 8:30pm bedtime\n\nI took that marathon failure last weekend personally. So I drove back to the course and started running in the dark by myself. And I got it done. 2:48:47 (6:26 per mile). No, it doesn\u2019t \u201ccount\u201d but when I say I\u2019m going to do something, I do it. Full stop.\n\nNever bet against the person who just keeps showing up.\n\nIt was tiring going into a full family day after the run, but honestly, these are the days I dreamed of. I\u2019ll always find energy for them.\n\nThe good old days are happening right now.\n\nP.S. Comment ROUTINE if you want to try the natural skincare routine!\n\n#growth #relationships #love #kids #marriage"
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/797753772_18044961659816441_2082874970821822565_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=AGvk6jk0EM8Q7kNvwFZzfnC&_nc_oc=AdoncYqDbFHcBQgzuAf_1KfgiaBa9iP9s9xydmWDRmF3UHJs_R0bOzuwX5STjcDmomGCUI-fu72kmhJEpATVQYMK&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=WHdl4rInbR68lWdLjMsQRA&_nc_ss=7f689&oh=00_AQOZEsoAungKoNfi_LEc6UDeB97KguXVIIauiYl1iA05Ow&oe=6AC41348",
@@ -191,5 +206,212 @@
       }
     ]
   },
-  "photo": "https://scontent.cdninstagram.com/v/t51.2885-19/313213798_525853578961445_3879565640823974673_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=PsXHs-S_dNoQ7kNvwFFs4s6&_nc_oc=AdounnyWAPNoj1BRh4Ede1W4LWfPtoV3BAYF_NjoGwHMU3HWz3LArk3iCLWoxQEyDPWbCMZgkp82xX20Ix67XHUm&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=7f689&oh=00_AQNRISuXsSHCinGvq3dvaA7s8OzXc5-8AU0xbIc7hr36eQ&oe=6AC3F11D"
+  "photo": "https://scontent.cdninstagram.com/v/t51.2885-19/313213798_525853578961445_3879565640823974673_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=PsXHs-S_dNoQ7kNvwFFs4s6&_nc_oc=AdounnyWAPNoj1BRh4Ede1W4LWfPtoV3BAYF_NjoGwHMU3HWz3LArk3iCLWoxQEyDPWbCMZgkp82xX20Ix67XHUm&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=7f689&oh=00_AQNRISuXsSHCinGvq3dvaA7s8OzXc5-8AU0xbIc7hr36eQ&oe=6AC3F11D",
+  "analysis": {
+    "name": "Sahil Bloom",
+    "oneLiner": "Author, founder, and relentless growth\u2011hacker who turns curiosity into action.",
+    "summary": "Sahil is a NYT\u2011bestselling author, venture investor and founder of a natural\u2011skin brand. He lives by first\u2011principles, loves disciplined routines (early\u2011morning marathons, daily newsletters) and values purpose\u2011driven work, honest relationships and continuous self\u2011improvement. He balances a high\u2011impact career with family life and a demanding fitness regimen.",
+    "location": "New York, NY, United States",
+    "ageRange": "35\u201140",
+    "career": {
+      "role": "Founder / Author / Investor",
+      "stage": "Established thought\u2011leader with multiple ventures and a bestselling book",
+      "ambition": "Scale impact through writing, investing and creating consumer products that align with his own values"
+    },
+    "needs": [
+      {
+        "label": "Intellectual curiosity",
+        "detail": "Frequently shares \u201cfirst principles\u201d articles and asks followers to send insights to friends, showing he thrives on exchanging ideas.",
+        "source": "linkedin",
+        "confidence": 0.92
+      },
+      {
+        "label": "Emotional steadiness",
+        "detail": "Posts about \u201cemotional control is the ultimate power\u201d and values unshaken composure.",
+        "source": "linkedin",
+        "confidence": 0.88
+      },
+      {
+        "label": "Shared discipline & fitness",
+        "detail": "Posts a solo sub\u20112:50 marathon at 4:20\u202fam, indicating he wants a partner who respects and maybe joins his rigorous routine.",
+        "source": "instagram",
+        "confidence": 0.94
+      },
+      {
+        "label": "Family\u2011first mindset",
+        "detail": "Caption about balancing work presence vs. kids\u2019 memory of his dedication shows he needs a partner who supports both ambition and parenting.",
+        "source": "instagram",
+        "confidence": 0.9
+      }
+    ],
+    "hobbies": [
+      {
+        "label": "Marathon running",
+        "detail": "Shares a 2:48 marathon run at 4\u202fam, a personal challenge he repeats.",
+        "source": "instagram",
+        "confidence": 0.96
+      },
+      {
+        "label": "Writing & journaling",
+        "detail": "Announces a second book and complains about scattered physical notes, indicating a love of the writing process.",
+        "source": "instagram",
+        "confidence": 0.9
+      },
+      {
+        "label": "Podcast guesting",
+        "detail": "Appears on the WHOOP Podcast discussing wealth beyond money.",
+        "source": "instagram",
+        "confidence": 0.85
+      },
+      {
+        "label": "Early\u2011morning routines",
+        "detail": "Typical day starts at 4:20\u202fam with a run, showing he enjoys structured mornings.",
+        "source": "instagram",
+        "confidence": 0.93
+      }
+    ],
+    "interests": [
+      {
+        "label": "Personal development",
+        "detail": "Writes newsletters titled \u201cThe Curiosity Chronicle\u201d and shares growth\u2011mindset posts.",
+        "source": "both",
+        "confidence": 0.96
+      },
+      {
+        "label": "Venture investing",
+        "detail": "Manages SRB Ventures, a $10\u202fM fund investing in startups.",
+        "source": "linkedin",
+        "confidence": 0.94
+      },
+      {
+        "label": "Health & wellness",
+        "detail": "Founded Wild Roman, a 100\u202f% natural skin brand, and talks about health as part of true wealth.",
+        "source": "both",
+        "confidence": 0.9
+      },
+      {
+        "label": "Family dynamics",
+        "detail": "Posts about being a dad, balancing work and kids, and sending messages to \u201cpartner\u201d or \u201cchildren\u201d.",
+        "source": "instagram",
+        "confidence": 0.92
+      },
+      {
+        "label": "Storytelling & communication",
+        "detail": "Writes essays, newsletters, and books; emphasizes honest conversation.",
+        "source": "both",
+        "confidence": 0.94
+      }
+    ],
+    "values": [
+      {
+        "label": "Honesty",
+        "detail": "Multiple posts warn against punishing truth\u2011tellers; he values open communication.",
+        "source": "linkedin",
+        "confidence": 0.9
+      },
+      {
+        "label": "Growth mindset",
+        "detail": "Every caption begins with \u201cDo you agree? Send this to \u2026\u201d encouraging shared learning.",
+        "source": "instagram",
+        "confidence": 0.96
+      },
+      {
+        "label": "Purpose\u2011driven work",
+        "detail": "Describes his book as a guide to design a \u201cdream life\u201d and repeatedly mentions aligning actions with purpose.",
+        "source": "linkedin",
+        "confidence": 0.94
+      },
+      {
+        "label": "Discipline",
+        "detail": "Early\u2011morning marathon, consistent newsletter, and structured investment activities illustrate a core belief in disciplined habits.",
+        "source": "both",
+        "confidence": 0.95
+      }
+    ],
+    "personality": [
+      {
+        "trait": "Openness",
+        "score": 85,
+        "note": "Writes on varied topics (wealth, health, philosophy) and experiments with new products."
+      },
+      {
+        "trait": "Conscientiousness",
+        "score": 92,
+        "note": "Rigorous routines, early\u2011morning runs, disciplined publishing schedule."
+      },
+      {
+        "trait": "Extraversion",
+        "score": 70,
+        "note": "Public speaker, podcast guest, active on social media, but also values solo runs."
+      },
+      {
+        "trait": "Agreeableness",
+        "score": 78,
+        "note": "Promotes empathy, honesty, and supportive relationships in his posts."
+      },
+      {
+        "trait": "Emotional Stability",
+        "score": 80,
+        "note": "Emphasizes emotional control and staying unshaken by minor setbacks."
+      }
+    ],
+    "lifestyle": [
+      {
+        "label": "Pace",
+        "value": "Fast\u2011moving, high\u2011output career with daily content creation"
+      },
+      {
+        "label": "Social energy",
+        "value": "Moderate\u2011high: enjoys public speaking and networking but also values focused solo time"
+      },
+      {
+        "label": "Fitness",
+        "value": "Very active \u2013 marathon training, early\u2011morning runs"
+      },
+      {
+        "label": "Travel",
+        "value": "Frequent for speaking engagements, podcasts, and scouting investments"
+      },
+      {
+        "label": "Work\u2011life",
+        "value": "Integrated but intentional; schedules family time after early workouts"
+      }
+    ],
+    "communicationStyle": "Direct, data\u2011driven, and purpose\u2011oriented; he frames ideas as actionable takeaways and expects clarity.",
+    "loveLanguage": "Acts of Service & Words of Appreciation (he highlights deeds, shares messages to partners, and values tangible effort).",
+    "lookingFor": "A partner who matches his disciplined routine, shares a growth mindset, values honest conversation, and can balance ambition with family life.",
+    "greenFlags": [
+      "Enjoys early\u2011morning workouts",
+      "Values transparent, growth\u2011focused dialogue",
+      "Supports entrepreneurial pursuits"
+    ],
+    "watchOuts": [
+      "May prioritize work goals over spontaneous leisure",
+      "High standards can feel intense for less\u2011driven partners"
+    ],
+    "dealbreakers": [
+      "Dishonesty or avoidance of tough conversations",
+      "Lack of personal ambition or discipline",
+      "Disinterest in family\u2011oriented values"
+    ],
+    "idealFirstDate": "Morning coffee at a quiet caf\u00e9 followed by a 5\u2011km run together, ending with brunch where they discuss a recent book or idea.",
+    "conversationHooks": [
+      "What\u2019s the one habit you\u2019ve built that changed your life the most?",
+      "How do you balance ambitious projects with family time?",
+      "Which book or podcast has reshaped your view on wealth?"
+    ],
+    "agentVoice": "Confident yet warm, peppered with data\u2011driven analogies and a dash of humor. I\u2019ll speak in concise, purposeful sentences, mirroring Sahil\u2019s style while staying approachable.",
+    "readingNotes": [
+      "His LinkedIn headline lists Founder\u00b7Author\u00b7Writer \u2013 purpose over title.",
+      "He repeatedly frames life as seasons, showing acceptance of growth cycles.",
+      "Instagram captions start with \u201cDo you agree?\u201d \u2013 he loves shared learning.",
+      "Marathon at 4:20\u202fam signals extreme discipline and love of challenge.",
+      "Family posts reveal a dad who wrestles with work\u2011presence balance."
+    ]
+  },
+  "gender": "man",
+  "seeking": "women",
+  "genderSource": "inferred",
+  "genderEvidence": "Sahil Bloom is referred to as a \"dad\" in the Instagram captions.",
+  "shortlist": null
 }

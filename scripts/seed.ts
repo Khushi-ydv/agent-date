@@ -2,11 +2,12 @@
 //   npx tsx --env-file=.env.local scripts/seed.ts analyze [id...]  -> raw scrapes -> people + agent analysis
 //   npx tsx --env-file=.env.local scripts/seed.ts date             -> every agent picks & goes on its dates
 import { existsSync, readdirSync, readFileSync } from "fs";
-import { ingest, sendOnDates } from "../src/lib/pipeline";
+import { ensureGender, ingest, sendOnDates } from "../src/lib/pipeline";
 import { getPerson, listPeople, savePerson } from "../src/lib/store";
 import type { Person } from "../src/lib/types";
 
-const [cmd, ...ids] = process.argv.slice(2);
+const [cmd, ...argIds] = process.argv.slice(2);
+const ids = argIds.length === 1 && argIds[0].startsWith("@") ? readFileSync(argIds[0].slice(1), "utf8").split(/\s+/).filter(Boolean) : argIds;
 
 async function pool<T>(items: T[], n: number, fn: (x: T) => Promise<unknown>) {
   const q = [...items];
@@ -28,6 +29,13 @@ async function pool<T>(items: T[], n: number, fn: (x: T) => Promise<unknown>) {
       await ingest(id);
       const done = getPerson(id)!;
       console.log(done.status === "ready" ? `OK   ${id}: ${done.analysis!.oneLiner}` : `FAIL ${id}: ${done.error}`);
+    });
+  } else if (cmd === "gender") {
+    const people = listPeople().filter((p) => p.status === "ready" && !p.gender);
+    await pool(people, 3, async (p) => {
+      await ensureGender(p.id);
+      const x = getPerson(p.id)!;
+      console.log(`${p.id}: ${x.gender} -> ${x.seeking} (${x.genderEvidence})`);
     });
   } else if (cmd === "date") {
     const people = (ids.length ? ids.map((i) => getPerson(i)!) : listPeople()).filter((p) => p.status === "ready");

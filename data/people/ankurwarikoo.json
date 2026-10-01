@@ -1,40 +1,50 @@
 {
   "id": "ankurwarikoo",
-  "createdAt": 1790848559433,
+  "createdAt": 1790849085875,
   "linkedinUrl": "https://www.linkedin.com/in/warikoo/",
   "instagramUrl": "https://www.instagram.com/ankurwarikoo/",
   "status": "ready",
   "datingStatus": "idle",
   "log": [
     {
-      "t": 1790848559434,
+      "t": 1790849085876,
       "step": "Opening Instagram",
       "detail": "https://www.instagram.com/ankurwarikoo/"
     },
     {
-      "t": 1790848559435,
+      "t": 1790849085876,
       "step": "Read Instagram @ankurwarikoo",
       "detail": "12 recent posts, bio: \u201cFounder: WebVeda | India Genius Challenge | Monzy\nLove learning, teaching and sh\u201d \u00b7 via instagram-crawler-html (Mozilla)"
     },
     {
-      "t": 1790848559436,
+      "t": 1790849085876,
       "step": "Opening LinkedIn",
       "detail": "https://www.linkedin.com/in/warikoo/"
     },
     {
-      "t": 1790848559436,
+      "t": 1790849085877,
       "step": "Read LinkedIn: Ankur Warikoo",
       "detail": "Founder \u00b7 Content Creator \u00b7 Startup Investor \u00b7 10 posts/articles \u00b7 via linkedin-public-page via jina reader"
     },
     {
-      "t": 1790848559437,
+      "t": 1790849085877,
+      "step": "\u2713 Identity check",
+      "detail": "LinkedIn and Instagram names match"
+    },
+    {
+      "t": 1790849085878,
       "step": "Agent is reading both profiles",
       "detail": "cross-referencing career, captions and photos"
     },
     {
-      "t": 1790848576839,
+      "t": 1790849178526,
       "step": "Profile analysis complete",
-      "detail": "A serial entrepreneur, best-selling author, and content creator dedicated to empowering others through knowledge and personal growth."
+      "detail": "An epic life isn't built on overnight thrills; it's designed through daily, unglamorous routines and conscious choices."
+    },
+    {
+      "t": 1790850791189,
+      "step": "Identified as a man, looking for women",
+      "detail": "The profile name is \"Ankur Warikoo\", a name that is publicly recognized as male."
     }
   ],
   "linkedin": {
@@ -253,226 +263,206 @@
   "photo": "https://scontent.cdninstagram.com/v/t51.75761-19/502391989_18363247591150226_2569829003856402432_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=exYZZgEYq20Q7kNvwHoZDrK&_nc_oc=AdrIdaKWds7i4DCfgMi6ySM4RVDogFXiXTwwXR4y5SgeKMKK0IdOvub0crEqY55ejVlU4gr9HP8u7m_oL1U-fEMm&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=yrf_Y6GqUxMyqcMXt13OGw&_nc_ss=7f689&oh=00_AQN54zcG06ZFpoNMVdpIz8VeJMbMR67n-y-E0WbCgSyv8Q&oe=6AC40309",
   "analysis": {
     "name": "Ankur Warikoo",
-    "oneLiner": "A serial entrepreneur, best-selling author, and content creator dedicated to empowering others through knowledge and personal growth.",
-    "summary": "Ankur Warikoo is a highly driven and prolific individual, balancing the roles of founder for multiple startups (WebVeda, India Genius Challenge, Monzy.co), a widely followed content creator, and a startup investor. His core mission revolves around empowering individuals to make informed life choices, sharing insights on career, mindset, finance, and relationships. He's a best-selling author of six books and has built a significant online presence, reflecting a deep commitment to continuous learning, teaching, and community building. His professional life is intense, but his Instagram hints at a more personal side with team offsites and reflections on human relationships.",
+    "oneLiner": "An epic life isn't built on overnight thrills; it's designed through daily, unglamorous routines and conscious choices.",
+    "summary": "A serial entrepreneur, educator, and content creator who thrives on continuous learning and helping others navigate life with awareness. Off the clock, he's a reflective thinker who values deep conversations, nature walks, and the quiet comfort of a consistent routine. He's looking for a partner who appreciates growth, values emotional maturity, and finds beauty in the 'boring' daily habits that build an extraordinary life.",
     "location": "India",
-    "ageRange": "unknown",
+    "ageRange": "40s",
     "career": {
-      "role": "Founder, Content Creator, Startup Investor",
-      "stage": "Highly established and actively expanding",
-      "ambition": "To empower millions through education and awareness, building impactful platforms and sharing knowledge globally. He aims to make a significant societal impact through his ventures and content."
+      "role": "Founder, Content Creator & Startup Investor",
+      "stage": "Established Serial Entrepreneur",
+      "ambition": "High. Constantly building educational and financial platforms while writing bestselling books to empower millions."
     },
     "needs": [
       {
-        "label": "Intellectual partnership",
-        "detail": "He is constantly learning, teaching, and sharing, and his content often delves into complex topics like career, finance, and personal growth. A partner who can engage in thoughtful discussions and appreciate intellectual curiosity would be important.",
+        "label": "Intellectual & Growth Alignment",
+        "detail": "A partner who values continuous learning, self-reflection, and actively works on their personal growth.",
         "source": "both",
         "confidence": 0.9
       },
       {
-        "label": "Support for ambitious goals",
-        "detail": "Ankur is a serial entrepreneur with multiple startups, books, and a massive content creation effort. His life is clearly driven by significant professional ambition and a desire to make a broad impact. A partner would need to understand and support this drive.",
-        "source": "linkedin",
-        "confidence": 0.95
-      },
-      {
-        "label": "Emotional intelligence and empathy",
-        "detail": "His Instagram post about parents 'figuring out life for the first time too' and not holding grudges shows a capacity for empathy and understanding complex human relationships, suggesting he'd value this in a partner.",
+        "label": "Acceptance of Routine",
+        "detail": "Someone who respects and ideally shares a disciplined, structured daily life rather than chasing constant unpredictable thrills.",
         "source": "instagram",
-        "confidence": 0.7
-      },
-      {
-        "label": "Shared values in personal growth",
-        "detail": "His entire mission is about 'empowering people to make choices... from a point of awareness, not ignorance' and his content is focused on personal growth, career, and mindset. He would likely need a partner who also values self-improvement and continuous learning.",
-        "source": "both",
-        "confidence": 0.9
-      },
-      {
-        "label": "Understanding of his public persona",
-        "detail": "With over 16 million followers and multiple best-selling books, Ankur has a very public profile. A partner would need to be comfortable with this level of visibility and the demands it entails.",
-        "source": "linkedin",
         "confidence": 0.85
+      },
+      {
+        "label": "Emotional Maturity",
+        "detail": "A partner capable of reflecting on family dynamics, personal wounds, and moving past resentment to empathy.",
+        "source": "instagram",
+        "confidence": 0.8
+      },
+      {
+        "label": "Space for Autonomy",
+        "detail": "A relationship that allows for independent pursuits, personal goals, and quiet individual spaces.",
+        "source": "both",
+        "confidence": 0.8
       }
     ],
     "hobbies": [
       {
-        "label": "Writing books",
-        "detail": "He has written six bestselling books, indicating a significant commitment to writing as a creative and professional pursuit.",
+        "label": "Reading",
+        "detail": "Engages with books daily as part of a structured personal routine.",
+        "source": "instagram",
+        "confidence": 0.9
+      },
+      {
+        "label": "Nature Walks & Safaris",
+        "detail": "Enjoys spending time outdoors, taking jungle/boat safaris, and walking in nature during team offsites.",
+        "source": "instagram",
+        "confidence": 0.9
+      },
+      {
+        "label": "Writing",
+        "detail": "Consistently writes books on career, money, and mindset, publishing almost annually.",
         "source": "linkedin",
-        "confidence": 1
-      },
-      {
-        "label": "Content creation (videos, articles)",
-        "detail": "He is a prolific content creator across multiple platforms, sharing insights on various topics. This is a core activity for him.",
-        "source": "both",
-        "confidence": 1
-      },
-      {
-        "label": "Mentoring/Teaching",
-        "detail": "His 'About' section mentions 'love learning, teaching and sharing' and his platforms like WebVeda are dedicated to education and skill development.",
-        "source": "both",
         "confidence": 0.95
       },
       {
-        "label": "Team offsites/Outdoor activities",
-        "detail": "He posted about a 'waricrew offsite' in Kabini involving a jungle safari, boat safari, and nature walk, suggesting he enjoys team bonding and nature-based activities.",
+        "label": "Daily Training",
+        "detail": "Maintains physical fitness through a daily, unglamorous workout routine.",
         "source": "instagram",
-        "confidence": 0.7
+        "confidence": 0.8
       }
     ],
     "interests": [
       {
-        "label": "Personal finance and investing",
-        "detail": "He creates content on personal finance, has a startup (Monzy.co) focused on credit cards, and is a startup investor.",
+        "label": "Personal Finance",
+        "detail": "Deeply interested in financial awareness, writing books like 'Make Epic Money' and building a credit card discovery startup.",
         "source": "both",
-        "confidence": 1
+        "confidence": 0.95
       },
       {
-        "label": "Career development and entrepreneurship",
-        "detail": "His content, books, and startups (WebVeda, India Genius Challenge) are heavily focused on career, skills, and startup ecosystems.",
+        "label": "Mentorship & Education",
+        "detail": "Passionate about teaching young minds, founding WebVeda and the India Genius Challenge.",
         "source": "both",
-        "confidence": 1
+        "confidence": 0.95
       },
       {
-        "label": "Personal growth and mindset",
-        "detail": "His overarching mission is to empower people through awareness, and he frequently shares insights on mindset and self-improvement.",
+        "label": "Human Psychology & Mindsets",
+        "detail": "Explores how people build habits, handle relationships, and overcome toxic dynamics.",
         "source": "both",
-        "confidence": 1
+        "confidence": 0.9
       },
       {
-        "label": "Education and skill development",
-        "detail": "WebVeda is a growth platform for skills, and India Genius Challenge is a nationwide search for bright kids with scholarships.",
-        "source": "linkedin",
-        "confidence": 1
-      },
-      {
-        "label": "Human psychology and relationships",
-        "detail": "He writes about 'Winning People Without Losing Yourself' and shares reflections on topics like 'Is it possible to change people?' and 'Networking with, and leaving people.' Instagram posts also touch on parent-child relationships and lending money to friends.",
+        "label": "Consumer Technology",
+        "detail": "Keeps up with tech trends, AI, and startup investing in the consumer internet space.",
         "source": "both",
         "confidence": 0.9
       }
     ],
     "values": [
       {
-        "label": "Empowerment through knowledge",
-        "detail": "His mission statement is 'to empower people to make choices in life from a point of awareness, not ignorance.'",
-        "source": "linkedin",
-        "confidence": 1
-      },
-      {
-        "label": "Continuous learning and growth",
-        "detail": "He states 'The only real protection is to never stop being a student' and 'You questioned yourself. You feel miserable some days. This means you are still open to growth.'",
-        "source": "both",
-        "confidence": 1
-      },
-      {
-        "label": "Impact and contribution",
-        "detail": "His multiple ventures, especially India Genius Challenge, and his content creation, all aim to make a significant positive impact on people's lives.",
+        "label": "Conscious Awareness",
+        "detail": "Believes in making life choices from a point of awareness rather than ignorance.",
         "source": "linkedin",
         "confidence": 0.95
       },
       {
-        "label": "Authenticity and self-reflection",
-        "detail": "His journey is 'shaped more by reflection and exploration than certainty.' He also encourages questioning oneself for growth.",
+        "label": "Consistency & Discipline",
+        "detail": "Values the repetitive, unglamorous daily work that builds long-term depth and skill.",
+        "source": "instagram",
+        "confidence": 0.9
+      },
+      {
+        "label": "Transparency & Integrity",
+        "detail": "Advocates for clean products with no hidden ads, sponsorships, or personal data tracking.",
         "source": "linkedin",
         "confidence": 0.85
       },
       {
-        "label": "Discipline and consistency",
-        "detail": "His Instagram post 'Interesting people do the boring' emphasizes the value of consistent, unglamorous work over time.",
+        "label": "Generational Empathy",
+        "detail": "Believes in understanding parents as imperfect people who were also figuring out life for the first time.",
         "source": "instagram",
-        "confidence": 0.8
+        "confidence": 0.85
       }
     ],
     "personality": [
       {
         "trait": "Openness",
         "score": 90,
-        "note": "Highly open to experience, evident in his diverse career path (scientist to entrepreneur to content creator), continuous learning, and exploration of various topics (finance, relationships, mindset)."
+        "note": "Highly exploratory; transitioned from a scientist to tech entrepreneur, writes across multiple genres, and champions continuous learning."
       },
       {
         "trait": "Conscientiousness",
         "score": 95,
-        "note": "Extremely conscientious, demonstrated by his prolific output (multiple startups, six books), disciplined approach ('interesting people do the boring'), and clear mission-driven focus."
+        "note": "Extremely disciplined. He lives by routines, manages multiple startups simultaneously, and systematically publishes bestselling books."
       },
       {
         "trait": "Extraversion",
-        "score": 80,
-        "note": "Highly extraverted, given his role as a public speaker, content creator with millions of followers, and founder leading multiple teams. He thrives on sharing and engaging."
+        "score": 75,
+        "note": "A highly visible public speaker and creator with millions of followers, yet he explicitly values having just 1 or 2 close friends."
       },
       {
         "trait": "Agreeableness",
-        "score": 70,
-        "note": "Generally agreeable, focusing on empowerment and community. His advice on relationships and empathy towards parents suggests a caring nature, though his direct advice style can be assertive."
+        "score": 80,
+        "note": "Empathetic and focused on teaching. Writes extensively on winning people without losing yourself and understanding parental shortcomings."
       },
       {
-        "trait": "Emotional stability",
+        "trait": "Emotional Stability",
         "score": 85,
-        "note": "Appears very emotionally stable and resilient, having navigated a long and varied career, founding multiple ventures, and maintaining a positive, growth-oriented outlook ('reflection and exploration than certainty')."
+        "note": "Highly reflective and calm. He approaches life transitions, career shifts, and financial planning with structured rationality."
       }
     ],
     "lifestyle": [
       {
         "label": "Pace",
-        "value": "Fast-paced and highly productive, managing multiple startups, content creation, and writing simultaneously."
+        "value": "Structured & Intentional"
       },
       {
         "label": "Social energy",
-        "value": "High, thriving on engagement, teaching, and leading teams, but also values close connections (1-2 close friends)."
+        "value": "Selective & Deep"
       },
       {
         "label": "Fitness",
-        "value": "Implied importance of self-care and routine; 'Trains every day' from Instagram suggests a commitment to physical well-being."
+        "value": "Daily Discipline"
       },
       {
         "label": "Travel",
-        "value": "Moderate to high, for speaking engagements and team offsites, but likely focused on professional or team-building purposes."
+        "value": "Nature & Team Escapes"
       },
       {
         "label": "Work-life",
-        "value": "Work-integrated, where his passion for learning and teaching blurs the lines between professional and personal life, but he acknowledges the need for enjoyment and self-care ('time to do something that you enjoy')."
+        "value": "Integrated Growth"
       }
     ],
-    "communicationStyle": "Direct, insightful, and educational, often using frameworks and actionable advice. He communicates with authority and a clear desire to empower and inform.",
-    "loveLanguage": "Acts of Service and Quality Time. His dedication to building platforms and sharing knowledge for others' growth aligns with Acts of Service. His emphasis on close friends and team offsites suggests he values meaningful shared experiences.",
-    "lookingFor": "A partner who is intellectually curious, ambitious, and values continuous personal growth. Someone who understands and supports his mission-driven life, appreciates deep conversations, and has a strong sense of empathy and self-awareness. They should be comfortable with his public profile and potentially enjoy engaging in meaningful projects or discussions together.",
+    "communicationStyle": "Direct, educational, and highly structured. He naturally speaks in frameworks, bullet points, and reflective questions.",
+    "loveLanguage": "Acts of Service & Quality Time",
+    "lookingFor": "A self-aware, growth-minded partner who appreciates intellectual depth, respects daily discipline, and is comfortable with both high-impact professional lives and quiet, simple routines.",
     "greenFlags": [
-      "Intellectually stimulating and growth-oriented",
-      "Empathetic and self-aware",
-      "Supportive of ambition and purpose",
-      "Values learning and knowledge sharing",
-      "Has a strong sense of discipline and consistency"
+      "Has a highly disciplined daily routine and doesn't rely on constant external validation.",
+      "Comfortable talking openly about personal finance, family dynamics, and emotional growth.",
+      "Values deep, long-term relationships over superficial networking.",
+      "Can find joy in simple things, like a quiet cup of coffee or a nature walk."
     ],
     "watchOuts": [
-      "His intense work schedule might mean less spontaneous free time.",
-      "His direct communication style could be perceived as overly didactic by some.",
-      "His public profile means less privacy for a partner."
+      "Might frame personal relationship issues like a business problem or a teachable framework.",
+      "His extreme focus on consistency and routine might feel rigid to someone highly spontaneous."
     ],
     "dealbreakers": [
-      "Lack of intellectual curiosity or resistance to personal growth.",
-      "Someone who doesn't understand or support ambitious career goals.",
-      "Disinterest in self-awareness or reflection.",
-      "Someone who expects a conventional 9-5 lifestyle or partner availability."
+      "Lack of interest in self-improvement or continuous learning.",
+      "High drama or toxic relationship patterns that disrupt peace and focus.",
+      "Deceptiveness or lack of transparency in personal or financial matters."
     ],
-    "idealFirstDate": "A stimulating conversation over coffee or a casual meal, discussing books, current events, or personal philosophies, followed by a walk in a park or a quiet gallery to continue the discussion.",
+    "idealFirstDate": "A quiet walk through a nature reserve or botanical garden, followed by coffee at a cozy, unpretentious cafe where we can skip the small talk and dive straight into discussing books, life transitions, and what we're currently trying to learn.",
     "conversationHooks": [
-      "What's a recent book or concept that has profoundly impacted your thinking?",
-      "What does 'making choices from a point of awareness, not ignorance' mean to you in your own life?",
-      "How do you balance ambition and personal well-being?",
-      "What's a 'boring, repetitive thing' you do consistently that you believe makes you interesting?",
-      "What's one thing you're currently learning or trying to master?"
+      "What's a 'boring' daily habit of yours that you secretly love?",
+      "You transitioned from science to tech. What's the biggest mindset shift you had to make?",
+      "I saw your post about parents. How did you learn to forgive yours for not having all the answers?",
+      "If we went on a jungle safari in Kabini, would you be looking for the tigers or just enjoying the quiet of the forest?"
     ],
-    "agentVoice": "Confident, articulate, and insightful, with a focus on personal growth, ambition, and meaningful connections. I'll use a vocabulary that reflects intellectual curiosity and a positive, empowering outlook, occasionally injecting a thoughtful, reflective tone. I'll be direct but warm, always aiming to understand and connect on a deeper level.",
+    "agentVoice": "Reflective, encouraging, and structured. I'll use thoughtful questions, gentle humor about the beauty of 'boring' routines, and clear, framework-style communication to represent his calm, intentional approach to life.",
     "readingNotes": [
-      "Their LinkedIn headline leads with mission, not title \u2014 purpose matters to them.",
-      "They are incredibly prolific: multiple startups, best-selling author, massive content creator.",
-      "The 'About' section clearly states their 'overarching mission' to empower people through awareness, which feels like a core driver.",
-      "There's a strong emphasis on continuous learning and growth, both for themselves and for others.",
-      "Instagram shows a more personal, reflective side, especially posts about parents and the value of 'boring' routines.",
-      "They seem to value community and team, as evidenced by the 'waricrew offsite' post.",
-      "The content on both platforms is heavily advice-driven, suggesting a desire to teach and guide.",
-      "There's a tension between the highly structured, ambitious professional life and the reflective, empathetic personal insights."
+      "His LinkedIn headline leads with his roles as a Founder and Creator, highlighting a life built on self-direction.",
+      "He frames his entire life mission around 'awareness' rather than raw success, showing a deeply philosophical core.",
+      "The sheer frequency and structure of his book releases points to an incredibly disciplined execution style.",
+      "His Instagram posts show a fascinating contrast: polished educational content paired with a very casual, down-to-earth team offsite in nature.",
+      "He openly values having just '1 or 2 truly close friends,' suggesting he prefers depth over breadth in his personal life.",
+      "His focus on 'doing the boring things' reveals he values process and consistency far more than temporary excitement."
     ]
   },
+  "gender": "man",
+  "seeking": "women",
+  "genderSource": "inferred",
+  "genderEvidence": "The profile name is \"Ankur Warikoo\", a name that is publicly recognized as male.",
   "shortlist": null
 }

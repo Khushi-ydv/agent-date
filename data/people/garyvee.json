@@ -1,40 +1,50 @@
 {
   "id": "garyvee",
-  "createdAt": 1790848587706,
+  "createdAt": 1790849254953,
   "linkedinUrl": "https://www.linkedin.com/in/garyvaynerchuk/",
   "instagramUrl": "https://www.instagram.com/garyvee/",
   "status": "ready",
   "datingStatus": "idle",
   "log": [
     {
-      "t": 1790848587707,
+      "t": 1790849254954,
       "step": "Opening Instagram",
       "detail": "https://www.instagram.com/garyvee/"
     },
     {
-      "t": 1790848587708,
+      "t": 1790849254955,
       "step": "Read Instagram @garyvee",
       "detail": "12 recent posts, bio: \u201c\u2708\ufe0fCEO/Chairman @vaynermedia\n\ud83d\udc08\u200d\u2b1bCEO/Founder   @veefriends\n\ud83d\udd2eInvestor FB,Venmo,Tw\u201d \u00b7 via instagram-crawler-html (Mozilla)"
     },
     {
-      "t": 1790848587709,
+      "t": 1790849254956,
       "step": "Opening LinkedIn",
       "detail": "https://www.linkedin.com/in/garyvaynerchuk/"
     },
     {
-      "t": 1790848587711,
+      "t": 1790849254957,
       "step": "Read LinkedIn: Gary Vaynerchuk",
       "detail": "Chairman of VaynerX, CEO of VaynerMedia \u00b7 Creator \u00b7 CEO \u00b7 10 posts/articles \u00b7 via linkedin-public-page via jina reader"
     },
     {
-      "t": 1790848587712,
+      "t": 1790849254958,
+      "step": "\u2713 Identity check",
+      "detail": "LinkedIn and Instagram names match"
+    },
+    {
+      "t": 1790849254959,
       "step": "Agent is reading both profiles",
       "detail": "cross-referencing career, captions and photos"
     },
     {
-      "t": 1790848607635,
+      "t": 1790849291386,
       "step": "Profile analysis complete",
-      "detail": "A relentless entrepreneur, visionary, and media mogul who thrives on building businesses and inspiring others, all while staying deeply connected to pop culture and human values."
+      "detail": "A high-octane entrepreneur blending relentless ambition with a deeply empathetic, old-school heart."
+    },
+    {
+      "t": 1790850792493,
+      "step": "Identified as a man, looking for women",
+      "detail": "The profile uses the name Gary Vaynerchuk and the text refers to him with the pronoun 'he' (e.g., 'he is described as one of the most forward thinkers')."
     }
   ],
   "linkedin": {
@@ -197,139 +207,109 @@
   "photo": "https://scontent.cdninstagram.com/v/t51.2885-19/447913595_1241465900569550_7339008130351792368_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=a_Zd8XKr2k8Q7kNvwHSKgja&_nc_oc=AdqVYWXppB-Z6YX2mv5f4ouHroQmoXfJf00k3j7wE15fnAGnOfxXx-awUVUpvqfZaRgguombzTcQf0p-a5kWdHgf&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=7f689&oh=00_AQM9bGN9ssai4g1Skjo1N3X3Ho4JQycQpf8Z9Ufk42b1cg&oe=6AC3F5AB",
   "analysis": {
     "name": "Gary Vaynerchuk",
-    "oneLiner": "A relentless entrepreneur, visionary, and media mogul who thrives on building businesses and inspiring others, all while staying deeply connected to pop culture and human values.",
-    "summary": "Gary Vaynerchuk, known as 'GaryVee,' is a highly successful serial entrepreneur, investor, and author. He chairs VaynerX and is CEO of VaynerMedia, a global advertising agency. He's a prolific content creator, recognized for his insights into business, culture, and the internet. Despite his massive professional success and global reach, his Instagram reveals a focus on kindness, self-worth, and authentic connection, often delivered with a direct, motivational style. He's passionate about sports, wine, and constantly identifying 'what's next' in consumer attention and technology.",
+    "oneLiner": "A high-octane entrepreneur blending relentless ambition with a deeply empathetic, old-school heart.",
+    "summary": "Gary is a whirlwind of energy, business building, and cultural intuition. While his professional life is a masterclass in hyper-scale, content creation, and relentless drive, his personal philosophy is grounded in radical accountability, kindness, optimism, and human connection. He is looking for a partner who can match his high-tempo lifestyle but ground him in authentic, analog moments away from the screens.",
     "location": "New York, New York, United States",
     "ageRange": "unknown",
     "career": {
-      "role": "Chairman of VaynerX, CEO of VaynerMedia",
-      "stage": "Established Leader / Visionary",
-      "ambition": "To buy the New York Jets, continue building and scaling brands, and remain a leading voice on future trends in business and culture."
+      "role": "Chairman of VaynerX & CEO of VaynerMedia",
+      "stage": "Established Executive / Serial Entrepreneur",
+      "ambition": "To buy the New York Jets and continuously build cultural and business empires."
     },
     "needs": [
       {
-        "label": "Intellectual Stimulation",
-        "detail": "He is constantly thinking about 'what's next' in culture, business, and the internet, and invests in cutting-edge companies like VeeFriends and Vayner3. He'd need a partner who can engage with these forward-thinking ideas.",
-        "source": "linkedin",
-        "confidence": 0.9
-      },
-      {
-        "label": "Support for Ambitious Goals",
-        "detail": "His life ambition is to buy the New York Jets, and he's involved in numerous businesses and investments. A partner would need to understand and support this high-drive, goal-oriented lifestyle.",
-        "source": "linkedin",
-        "confidence": 0.9
-      },
-      {
-        "label": "Authenticity and Realness",
-        "detail": "He advocates for 'document, don't create' and for people to 'just start talking about your life' on Instagram. He also promotes the 'rise of the 'real world' and analog.' He values genuine expression over curated perfection.",
+        "label": "Emotional Grounding",
+        "detail": "Needs a partner who values his 'essence' and 'heart' over materialistic and mathematical tallies of success.",
         "source": "instagram",
-        "confidence": 0.8
+        "confidence": 0.95
       },
       {
-        "label": "Emotional Intelligence & Kindness",
-        "detail": "His Instagram posts frequently emphasize kindness, self-worth, empathy, and focusing on 'your heart' over 'materialistic and mathematical tallys.' He needs a partner who embodies these values.",
-        "source": "instagram",
+        "label": "Independent Drive & Accountability",
+        "detail": "Requires a partner who focuses on self-improvement and doesn't fall into a victim mindset or constant complaining.",
+        "source": "both",
         "confidence": 0.9
       },
       {
-        "label": "Understanding of his Public Persona",
-        "detail": "He documents his daily life as a CEO through social media, has over 50 million followers, and is known as 'GaryVee.' A partner would need to be comfortable with his very public and influential presence.",
-        "source": "linkedin",
-        "confidence": 0.8
+        "label": "Analog Presence",
+        "detail": "A partner willing to disconnect and lean into 'real world' experiences, matching his belief in an upcoming analog shift.",
+        "source": "instagram",
+        "confidence": 0.85
+      },
+      {
+        "label": "Radical Optimism",
+        "detail": "Needs someone who actively chooses optimism over cynicism, as he finds choosing optimism to be a heroic and necessary trait.",
+        "source": "instagram",
+        "confidence": 0.9
       }
     ],
     "hobbies": [
       {
-        "label": "Investing",
-        "detail": "Prolific angel investor in companies like Facebook, Twitter, Uber, Slack, Liquid Death, and co-founder of several ventures.",
-        "source": "linkedin",
-        "confidence": 1
+        "label": "Wine Tasting & Collecting",
+        "detail": "A lifelong passion starting from his early WineLibrary TV days, tasting earthy tones and red burgundies.",
+        "source": "both",
+        "confidence": 0.98
       },
       {
-        "label": "Sports Ownership/Investment",
-        "detail": "Owns a Major League Pickleball team (the 5s), part owner of a Big3 basketball team, and investor in SlamBall League revival. His ultimate ambition is to buy the New York Jets.",
-        "source": "linkedin",
-        "confidence": 1
+        "label": "Sports Fanaticism",
+        "detail": "Cheering for the Detroit Lions, owning a Pickleball team (the 5s), and passionately pursuing his dream of buying the Jets.",
+        "source": "both",
+        "confidence": 0.95
       },
       {
         "label": "Content Creation & Podcasting",
-        "detail": "Documents his daily life as a CEO through social media, has a globally ranked podcast ('The GaryVee Audio Experience'), and actively shares content across platforms.",
-        "source": "linkedin",
-        "confidence": 1
-      },
-      {
-        "label": "Wine Tasting/Reviewing",
-        "detail": "Mentions bringing back wine reviews and tells a story about 'jersey dirt tasting' on YouTube to build his wine palate, referencing his past 'Winelibrary TV'.",
-        "source": "instagram",
-        "confidence": 0.9
-      },
-      {
-        "label": "Public Speaking / Mentorship",
-        "detail": "Serves on multiple boards, is an advisor, and his social media content is highly motivational and instructional, aiming to help others.",
-        "source": "linkedin",
-        "confidence": 0.9
+        "detail": "Documenting his daily life and sharing motivational audio experiences.",
+        "source": "both",
+        "confidence": 0.95
       }
     ],
     "interests": [
       {
-        "label": "Future Trends & Technology",
-        "detail": "Considered a leading global mind on 'what's next in culture, business, and the internet.' He founded Vayner3 to navigate connected consumer behavior and VeeCon for innovation and technology.",
-        "source": "linkedin",
-        "confidence": 1
-      },
-      {
-        "label": "Business & Entrepreneurship",
-        "detail": "Serial entrepreneur, CEO of multiple companies, angel investor, and his content often focuses on business strategy, marketing, and building.",
-        "source": "linkedin",
-        "confidence": 1
-      },
-      {
         "label": "Pop Culture & Consumer Attention",
-        "detail": "His approach sits at the intersection of business and pop culture. He keenly understands how to bring brand relevance to the forefront and identifies shifts in consumer attention.",
-        "source": "linkedin",
-        "confidence": 1
-      },
-      {
-        "label": "Personal Growth & Mindset",
-        "detail": "His Instagram and LinkedIn posts frequently offer motivational advice, encouraging focus on self, accountability, learning from missteps, and choosing optimism.",
+        "detail": "Fascinated by where consumer attention goes, from live social shopping to streaming culture.",
         "source": "both",
-        "confidence": 1
+        "confidence": 0.95
       },
       {
-        "label": "Marketing & Social Media Strategy",
-        "detail": "His agency VaynerMedia helps brands leverage consumer attention, and he actively shares insights on platforms like LinkedIn as a 'content microphone' and 'live social shopping' as an opportunity.",
+        "label": "Alternative Sports",
+        "detail": "Involved in Pickleball, Big3 basketball, and the revival of the SlamBall League.",
         "source": "linkedin",
-        "confidence": 1
+        "confidence": 0.9
+      },
+      {
+        "label": "Philanthropy",
+        "detail": "Active board member and supporter of charity: water, Pencils of Promise, and Global Citizen Forum.",
+        "source": "linkedin",
+        "confidence": 0.9
+      },
+      {
+        "label": "Emerging Tech & Web3",
+        "detail": "Exploring the intersection of art, storytelling, and innovative technologies through VeeFriends and Vayner3.",
+        "source": "both",
+        "confidence": 0.95
       }
     ],
     "values": [
       {
-        "label": "Accountability & Self-Reliance",
-        "detail": "Emphasizes 'less pointing fingers and more accountability' and 'you can only change YOU. Focus on yourself, your joy, your happiness.'",
+        "label": "Kindness & Civility",
+        "detail": "Believes kindness to oneself leads to kindness to others, and begs people to lean into old-school civility.",
+        "source": "instagram",
+        "confidence": 0.98
+      },
+      {
+        "label": "Radical Accountability",
+        "detail": "Believes we are in control of our own lives and our algorithms, strongly opposing complaining and finger-pointing.",
+        "source": "instagram",
+        "confidence": 0.95
+      },
+      {
+        "label": "Creative Freedom",
+        "detail": "Values curiosity, taking chances, and avoiding robotic consistency just to please an audience.",
         "source": "instagram",
         "confidence": 0.9
       },
       {
-        "label": "Kindness & Empathy",
-        "detail": "Frequent Instagram posts about 'kindness to yourself leads to kindness to others,' 'give kindness towards strangers,' and valuing 'your heart' over material wealth.",
-        "source": "instagram",
-        "confidence": 1
-      },
-      {
-        "label": "Building & Creating",
-        "detail": "His 'About' section states he 'builds businesses' and his article title 'Build for The Love of Building' reinforces this core drive.",
-        "source": "linkedin",
-        "confidence": 1
-      },
-      {
-        "label": "Optimism & Positivity",
-        "detail": "States 'choosing optimism is harder than cynicism' and encourages focusing on joy and happiness, and changing your social media feed to be more positive.",
-        "source": "instagram",
-        "confidence": 0.9
-      },
-      {
-        "label": "Long-term Vision",
-        "detail": "His article 'The Secret to Winning: Think Decades, Move Daily' and his early angel investments demonstrate a focus on long-term impact and growth.",
+        "label": "Self-Compassion",
+        "detail": "Advocates for eradicating the idea of 'wasted time' and stopping self-punishment over life's missteps.",
         "source": "linkedin",
         "confidence": 0.9
       }
@@ -338,91 +318,87 @@
       {
         "trait": "Openness",
         "score": 95,
-        "note": "Highly open, constantly seeking 'what's next' in technology, culture, and business, and encourages creativity and trying new things."
+        "note": "Constantly looking for 'what's next' in culture, tech, and business, and highly values creativity and curiosity."
       },
       {
         "trait": "Conscientiousness",
-        "score": 90,
-        "note": "Extremely driven and ambitious, building multiple businesses, a prolific investor, and consistently producing content. Highly disciplined in pursuing his goals."
+        "score": 92,
+        "note": "Incredibly disciplined, runs multiple global organizations, and preaches daily execution and long-term building."
       },
       {
         "trait": "Extraversion",
-        "score": 90,
-        "note": "Very public persona, active on social media with millions of followers, a speaker, podcaster, and clearly thrives on engagement and interaction."
+        "score": 98,
+        "note": "A highly public figure who literally documents his daily life for over 50 million followers across platforms."
       },
       {
         "trait": "Agreeableness",
-        "score": 75,
-        "note": "While direct and opinionated, he strongly advocates for kindness, empathy, and humility, suggesting a core desire for positive human connection."
+        "score": 85,
+        "note": "Deeply values empathy, old-school manners, and kindness, though he maintains a highly competitive edge in business."
       },
       {
         "trait": "Emotional stability",
-        "score": 85,
-        "note": "Presents as very resilient and self-assured, constantly pushing forward, encouraging others to 'stop dwelling on the past' and focus on what they can control."
+        "score": 88,
+        "note": "Highly resilient, rejects dwelling on the past, and actively coaches others on self-worth and mental strength."
       }
     ],
     "lifestyle": [
       {
         "label": "Pace",
-        "value": "Extremely Fast-paced: Juggling multiple CEO roles, investments, content creation, and global travel. His 'move daily' philosophy indicates constant motion."
+        "value": "Hyper-speed / Non-stop execution"
       },
       {
         "label": "Social energy",
-        "value": "Highly Social & Public: Engages with millions online, speaks, podcasts, and is involved in numerous ventures. Thrives in highly visible, interactive environments."
+        "value": "Extremely high / Constant public engagement"
       },
       {
         "label": "Fitness",
-        "value": "Active (Sports-oriented): Owns multiple sports teams (Pickleball, Big3, SlamBall), indicating an interest in physical activity and competition, though not explicitly personal fitness routine."
+        "value": "Active / Sports-oriented"
       },
       {
         "label": "Travel",
-        "value": "Extensive Global Travel: VaynerMedia has offices in numerous cities worldwide (Amsterdam, Bangkok, London, Tokyo, etc.), and his bio includes a plane emoji, suggesting frequent international travel."
+        "value": "Global jet-setter with offices worldwide"
       },
       {
         "label": "Work-life",
-        "value": "Work-integrated Life: His daily life as a CEO is documented, and his passion for building seems to be deeply intertwined with his personal identity. The line between work and 'life' is blurred, if not entirely merged."
+        "value": "Highly integrated / Life is documented"
       }
     ],
-    "communicationStyle": "Direct, passionate, motivational, and highly articulate. He uses strong language and frequent emojis on Instagram to convey enthusiasm and conviction. He is also a prolific writer and speaker, known for his clear, actionable advice.",
-    "loveLanguage": "Words of Affirmation (through his constant motivation and encouragement) and Acts of Service (through his dedication to building and helping others succeed).",
-    "lookingFor": "Someone intelligent and forward-thinking who is comfortable with a highly ambitious, public, and fast-paced lifestyle. They should value kindness, authenticity, and personal growth, and be able to engage deeply in discussions about business, culture, and future trends. A partner who can offer emotional support and understanding amidst his demanding schedule, and who shares a positive, accountable outlook on life.",
+    "communicationStyle": "High-energy, direct, and deeply motivational, mixed with casual 'real talk', intense passion, and plenty of heart emojis.",
+    "loveLanguage": "Words of Affirmation and Quality Time (specifically unplugged, analog moments).",
+    "lookingFor": "An optimistic, high-agency partner who values empathy and old-school kindness, ready to share a fast-paced life but also cherish quiet, analog moments of genuine connection.",
     "greenFlags": [
-      "Deeply values kindness, empathy, and humility.",
-      "Extremely driven and successful, yet emphasizes non-materialistic values.",
-      "Highly communicative and expressive, constantly sharing thoughts and insights.",
-      "Passionate about helping and inspiring others to achieve their potential.",
-      "Possesses a strong sense of accountability and encourages self-improvement."
+      "He actively practices and preaches self-kindness and emotional accountability.",
+      "Deeply philanthropic, supporting clean water and education initiatives.",
+      "He values your 'essence' and heart over material wealth or social status."
     ],
     "watchOuts": [
-      "His extremely demanding schedule and public life might mean limited personal time.",
-      "His direct and unfiltered communication style might be perceived as intense by some.",
-      "His focus on business and future trends might dominate conversation topics."
+      "His life is heavily documented; finding private, unshared moments will require deliberate boundaries.",
+      "His schedule is packed with global travel and running multiple massive enterprises."
     ],
     "dealbreakers": [
-      "Cynicism or a negative outlook on life, as he actively promotes optimism.",
-      "Lack of ambition or drive, given his relentless pursuit of goals.",
-      "Materialistic focus, as he explicitly states it's not where true value lies.",
-      "Resistance to new ideas or technology, as he is constantly at the forefront of innovation."
+      "Cynicism, constant complaining, or a victim mentality.",
+      "Superficiality or valuing people solely based on material or mathematical tallies."
     ],
-    "idealFirstDate": "A high-energy, engaging event that allows for deep conversation and shared experience, perhaps a live sports game (given his interest in sports ownership) or a visit to an innovative tech exhibition, followed by a relaxed dinner where they can discuss their observations and passions. Alternatively, a wine tasting where he can share his knowledge and passion.",
+    "idealFirstDate": "An unpretentious, high-energy evening starting with a casual blind wine tasting (perhaps testing some earthy red burgundies) followed by a lively debate about pop culture, ending with a walk where you both leave your phones in your pockets.",
     "conversationHooks": [
-      "What's 'next' in [industry/culture/technology] that excites you the most?",
-      "How do you approach building something from the ground up, and what's been your biggest lesson?",
-      "What's your take on the 'rise of the real world and analog' in today's digital age?",
-      "Given your passion for sports, what's your dream sports experience or team to follow?",
-      "What's a recent 'misstep' you've learned from, and how did you adjust your path?"
+      "What's your current take on the 'analog renaissance' and how do you unplug?",
+      "If we did a blind wine tasting right now, do you think you could spot the 'earthy tones'?",
+      "What's the most 'old-school' value you think society is losing right now?",
+      "How close are we actually to seeing you buy the New York Jets?"
     ],
-    "agentVoice": "Energetic, direct, and highly enthusiastic, with a touch of motivational wisdom. I'll use confident language, occasional business analogies, and emphasize authenticity and kindness. I'll be quick to share insights and ask thought-provoking questions, always with a positive and forward-looking tone. Expect some emojis to convey warmth and excitement.",
+    "agentVoice": "Punchy, passionate, and relentlessly encouraging. I'll lead with high energy, cut through any pretension, and focus heavily on mutual growth, kindness, and big-picture dreaming. Expect some 'listen to me' intensity mixed with genuine warmth.",
     "readingNotes": [
-      "His LinkedIn headline leads with mission, not just title \u2014 purpose matters to him.",
-      "He's a true 'builder' \u2013 not just an investor, but actively creating companies and movements.",
-      "There's a strong tension between his hyper-professional, global business empire on LinkedIn and the more personal, motivational, and even goofy (wine review meme) content on Instagram.",
-      "He uses social media not just for business, but as a platform for genuine connection and mentorship, often emphasizing self-worth and kindness.",
-      "He's obsessed with 'what's next' and identifying trends, constantly pushing boundaries.",
-      "His ultimate ambition to buy the New York Jets reveals a deep, personal passion beyond pure business success.",
-      "He actively encourages self-reflection and accountability, often with a 'tough love' approach.",
-      "The consistent theme of kindness and empathy on Instagram, despite his intense business persona, is striking."
+      "His LinkedIn is a powerhouse of business accolades, but his recent posts focus heavily on human happiness, self-compassion, and not beating oneself up.",
+      "The Instagram feed shows a fascinating contrast: he's a tech/social media pioneer, yet he's begging people to embrace 'analog' and 'old-school values' like opening doors.",
+      "His passion for wine isn't just a business; it's a nostalgic, sensory journey that literally started with tasting dirt on early YouTube.",
+      "He has a massive public persona, but his dating needs point toward wanting someone who sees past the 'mathematical tallies' of his success to his actual essence.",
+      "His ultimate goal of buying the Jets shows his ambition isn't just about money\u2014it's about the long-term, playful pursuit of a childhood dream.",
+      "He despises the 'complaining minority' and values extreme accountability, which means his partner must be a self-starter who doesn't play the victim."
     ]
   },
+  "gender": "man",
+  "seeking": "women",
+  "genderSource": "inferred",
+  "genderEvidence": "The profile uses the name Gary Vaynerchuk and the text refers to him with the pronoun 'he' (e.g., 'he is described as one of the most forward thinkers').",
   "shortlist": null
 }

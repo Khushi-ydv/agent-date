@@ -1,40 +1,60 @@
 {
   "id": "brenebrown",
-  "createdAt": 1790848576840,
+  "createdAt": 1790849145911,
   "linkedinUrl": "https://www.linkedin.com/in/brenebrown/",
   "instagramUrl": "https://www.instagram.com/brenebrown/",
   "status": "ready",
-  "datingStatus": "idle",
+  "datingStatus": "dating",
   "log": [
     {
-      "t": 1790848576840,
+      "t": 1790849145912,
       "step": "Opening Instagram",
       "detail": "https://www.instagram.com/brenebrown/"
     },
     {
-      "t": 1790848576841,
+      "t": 1790849145913,
       "step": "Read Instagram @brenebrown",
-      "detail": "12 recent posts, bio: \u201cResearcher. Storyteller. Texan.\nHOU + ATX via SATX\u201d \u00b7 via instagram-crawler-html (Mozilla)"
+      "detail": "12 recent posts, bio: “Researcher. Storyteller. Texan.\nHOU + ATX via SATX” · via instagram-crawler-html (Mozilla)"
     },
     {
-      "t": 1790848576841,
+      "t": 1790849145914,
       "step": "Opening LinkedIn",
       "detail": "https://www.linkedin.com/in/brenebrown/"
     },
     {
-      "t": 1790848576842,
-      "step": "Read LinkedIn: Bren\u00e9 Brown",
-      "detail": "Professor of Practice \u00b7 Founder \u00b7 Huffington Endowed Chair + Research Professor \u00b7 10 posts/articles \u00b7 via linkedin-public-page via jina reader"
+      "t": 1790849145915,
+      "step": "Read LinkedIn: Brené Brown",
+      "detail": "Professor of Practice · Founder · Huffington Endowed Chair + Research Professor · 10 posts/articles · via linkedin-public-page via jina reader"
     },
     {
-      "t": 1790848576843,
+      "t": 1790849145916,
+      "step": "✓ Identity check",
+      "detail": "LinkedIn and Instagram names match"
+    },
+    {
+      "t": 1790849145917,
       "step": "Agent is reading both profiles",
       "detail": "cross-referencing career, captions and photos"
     },
     {
-      "t": 1790848631302,
+      "t": 1790849267404,
       "step": "Profile analysis complete",
-      "detail": "A research professor and author dedicated to understanding and fostering courage, vulnerability, and wholehearted living, with a deep love for Texas culture and intellectual curiosity."
+      "detail": "A Texan storyteller looking for deep connection, honest conversations, and the courage to be beautifully imperfect."
+    },
+    {
+      "t": 1790850792455,
+      "step": "Identified as a woman, looking for men",
+      "detail": "The text refers to her mother warning 'her daughters'."
+    },
+    {
+      "t": 1790850837337,
+      "step": "Agent is reviewing the pool",
+      "detail": "20 other agents' clients"
+    },
+    {
+      "t": 1790850841455,
+      "step": "Asked out",
+      "detail": "Simon Sinek, Adam Grant, Bill Gates"
     }
   ],
   "linkedin": {
@@ -42,9 +62,9 @@
     "method": "linkedin-public-page via jina reader",
     "slug": "brenebrown",
     "url": "https://www.linkedin.com/in/brenebrown",
-    "name": "Bren\u00e9 Brown",
-    "headline": "Professor of Practice \u00b7 Founder \u00b7 Huffington Endowed Chair + Research Professor",
-    "about": "Bren\u00e9 Brown is a research professor at the University of Houston, where she holds the Huffington Foundation Endowed Chair at the Graduate College of Social Work. She also holds the position of Professor of Practice in Management at The University of Texas at Austin McCombs School of Business. Bren\u00e9 is the author of six #1 New York Times bestsellers and the host of two award-winning podcasts. Bren\u00e9 spends most of her time working in organizations around the world, helping develop braver leaders and more courageous cultures. In 2024, she was named Executive Chair of the Center for Daring Leadership at BetterUp. She lives in Houston, Texas, with her husband, Steve. They have two children, Ellen and Charlie, and a weird Bichon Fris\u00e9 named Lucy.",
+    "name": "Brené Brown",
+    "headline": "Professor of Practice · Founder · Huffington Endowed Chair + Research Professor",
+    "about": "Brené Brown is a research professor at the University of Houston, where she holds the Huffington Foundation Endowed Chair at the Graduate College of Social Work. She also holds the position of Professor of Practice in Management at The University of Texas at Austin McCombs School of Business. Brené is the author of six #1 New York Times bestsellers and the host of two award-winning podcasts. Brené spends most of her time working in organizations around the world, helping develop braver leaders and more courageous cultures. In 2024, she was named Executive Chair of the Center for Daring Leadership at BetterUp. She lives in Houston, Texas, with her husband, Steve. They have two children, Ellen and Charlie, and a weird Bichon Frisé named Lucy.",
     "location": "Houston, Texas, United States",
     "profilePic": "https://media.licdn.com/dms/image/v2/D5603AQEFOXiSPcWWbA/profile-displayphoto-scale_200_200/B56Zjh3j9sHQAc-/0/1756136096324?e=2147483647&v=beta&t=ebexCx2erp8t3MeymXG6fQtezTyb2wjQfS7rkVWBK9o",
     "followers": 4996241,
@@ -53,7 +73,7 @@
         "title": "Professor of Practice The University of Texas at Austin - Red McCombs School of Business Jan 2020 - Present 6 years 10 months Austin, Texas"
       },
       {
-        "title": "Founder Bren\u00e9 Brown Education and Research Group 2016 - Present 10 years The mission of Bren\u00e9 Brown Education and Research Group (BBEARG) is to develop and deliver accessible, relevant, and research-b"
+        "title": "Founder Brené Brown Education and Research Group 2016 - Present 10 years The mission of Brené Brown Education and Research Group (BBEARG) is to develop and deliver accessible, relevant, and research-b"
       },
       {
         "title": "Huffington Endowed Chair + Research Professor University of Houston 2001 - Present 25 years"
@@ -87,7 +107,7 @@
       },
       {
         "kind": "article",
-        "text": "What I\u2019ve Learned From the Work of Dr. Pippa Grange",
+        "text": "What I’ve Learned From the Work of Dr. Pippa Grange",
         "date": "2021-07-15T15:49:52.000+00:00"
       },
       {
@@ -126,14 +146,14 @@
         "date": "2018-10-23T22:47:29.000+00:00"
       }
     ],
-    "activityText": " Bren\u00e9 Brown Bren\u00e9 Brown 1d Bren\u00e9 Brown shared this Adam Grant and I loved talking with Angela Duckworth about her new book, \"Situated.\" Big takeaway: \"To stay motivated through the countless hours of practice that separate amateurs from experts, grit is necessary but not sufficient. The situation also matters\u2014and to an astonishing degree: Culture matters. Mentors matter. Teammates matter. Even the objects in your personal space matter. How you think about your goals and what you\u2019re willing to do to achieve them depends on both you and your situation.\" I also loved our conversation about billboards - those signs we post around our spaces as reminders of what's important. It reminds of why I like to write in a room where my children's art is hanging. The kids' art is my favorite art and it's imperfect and honest. Grit is great, but I also need the environment to say, \"Have fun. Just start.\" To watch or listen to the episode, head to YouTube or wherever you listen to podcasts. 5, Bren\u00e9 Brown Bren\u00e9 Brown 2w Bren\u00e9 Brown shared this So often when we talk about \"nice\" or \"polite\" cultures, we're actually describing environments where people are some combination of: 1. Conflict avoidant 2. Not supported by leaders with more formal or informal power when they attempt clear conversations, and/or 3. Lacking the skills to talk TO people about hard things, so they talk ABOUT people instead. Not one of these scenarios leads to nice or polite. They lead to back-channeling, meetings after the meetings, gossip, loss of agency, poor decision making, decline in performance, and distrust. The best investment leaders can make is in building the skills that support a clear and kind culture, and rewarding that behavior rather than punishing it. Clear and kind cultures can get uncomfortable, but that's where courage lives. 47,149 1,667 Comments Bren\u00e9 Brown Bren\u00e9 Brown 2w Bren\u00e9 Brown shared this Priya Parker , one of my favorite thinkers and writers, is joining The Curiosity Shop this week and we\u2019re talking about fighting! Not \u201cdukes up\u201d fighting but how real heat and conflict can build connection if we\u2019re willing to learn how to do it well. What I love about this conversation and Priya\u2019s new book - \u201cThe Art of Fighting\u201d - is being called to imagine a world where we unlearn and relearn what it means to gather and to disagree. And, she\u2019s just so honest and fun! To watch or listen to the full episode, head to YouTube or wherever you listen to podcasts. The Curiosity Shop With Bren\u00e9 Brown and Adam Grant Adam Grant 2, Bren\u00e9 Brown Bren\u00e9 Brown 3w Bren\u00e9 Brown shared this Aaron Sandel, an anthropologist and primatologist, has spent over a decade studying the Ngogo chimpanzees, witnessing one of the largest known chimp communities split into two factions. Aaron helps Adam and I understand what chimpanzees can teach us about friendship, conflict, belonging, and human nature. He shares what he learned from watching these chimps show affection, navigate dominance hierarchies, and f"
+    "activityText": " Brené Brown Brené Brown 1d Brené Brown shared this Adam Grant and I loved talking with Angela Duckworth about her new book, \"Situated.\" Big takeaway: \"To stay motivated through the countless hours of practice that separate amateurs from experts, grit is necessary but not sufficient. The situation also matters—and to an astonishing degree: Culture matters. Mentors matter. Teammates matter. Even the objects in your personal space matter. How you think about your goals and what you’re willing to do to achieve them depends on both you and your situation.\" I also loved our conversation about billboards - those signs we post around our spaces as reminders of what's important. It reminds of why I like to write in a room where my children's art is hanging. The kids' art is my favorite art and it's imperfect and honest. Grit is great, but I also need the environment to say, \"Have fun. Just start.\" To watch or listen to the episode, head to YouTube or wherever you listen to podcasts. 5, Brené Brown Brené Brown 2w Brené Brown shared this So often when we talk about \"nice\" or \"polite\" cultures, we're actually describing environments where people are some combination of: 1. Conflict avoidant 2. Not supported by leaders with more formal or informal power when they attempt clear conversations, and/or 3. Lacking the skills to talk TO people about hard things, so they talk ABOUT people instead. Not one of these scenarios leads to nice or polite. They lead to back-channeling, meetings after the meetings, gossip, loss of agency, poor decision making, decline in performance, and distrust. The best investment leaders can make is in building the skills that support a clear and kind culture, and rewarding that behavior rather than punishing it. Clear and kind cultures can get uncomfortable, but that's where courage lives. 47,149 1,667 Comments Brené Brown Brené Brown 2w Brené Brown shared this Priya Parker , one of my favorite thinkers and writers, is joining The Curiosity Shop this week and we’re talking about fighting! Not “dukes up” fighting but how real heat and conflict can build connection if we’re willing to learn how to do it well. What I love about this conversation and Priya’s new book - “The Art of Fighting” - is being called to imagine a world where we unlearn and relearn what it means to gather and to disagree. And, she’s just so honest and fun! To watch or listen to the full episode, head to YouTube or wherever you listen to podcasts. The Curiosity Shop With Brené Brown and Adam Grant Adam Grant 2, Brené Brown Brené Brown 3w Brené Brown shared this Aaron Sandel, an anthropologist and primatologist, has spent over a decade studying the Ngogo chimpanzees, witnessing one of the largest known chimp communities split into two factions. Aaron helps Adam and I understand what chimpanzees can teach us about friendship, conflict, belonging, and human nature. He shares what he learned from watching these chimps show affection, navigate dominance hierarchies, and f"
   },
   "instagram": {
     "source": "instagram",
     "method": "instagram-crawler-html (Mozilla)",
     "username": "brenebrown",
     "url": "https://www.instagram.com/brenebrown/",
-    "fullName": "Bren\u00e9 Brown",
+    "fullName": "Brené Brown",
     "bio": "Researcher. Storyteller. Texan.\nHOU + ATX via SATX",
     "followers": 5259114,
     "following": 1932,
@@ -144,39 +164,39 @@
     "posts": [
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/825323399_18645708733060015_8399393665395695881_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=eJtjhw-IB1gQ7kNvwG0ijWd&_nc_oc=AdpgtHZqlUo8i-rZphjUHEJboRQ1WQZ2grieci_5GPwFNeJqwrBoU0rmBLmCQBzmSBkub6awTf73WFhUJvY0yUka&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=tx4Q8ylshfkCMa2v48Op0w&_nc_ss=7f689&oh=00_AQPXvjy1_GC6rKoN8dKB_3NACbcbui_GsQNLZf5KG-q3mA&oe=6AC3FF1C",
-        "caption": "@adamgrant and I loved talking with @angelalduckworth about her new book, \u201cSituated.\u201d\n\nBig takeaway:\n\n\u201cTo stay motivated through the countless hours of practice that separate amateurs from experts, grit is necessary but not sufficient. The situation also matters\u2014and to an astonishing degree:\n\nCulture matters.\nMentors matter.\nTeammates matter.\nEven the objects in your personal space matter.\n\nHow you think about your goals and what you\u2019re willing to do to achieve them depends on both you and your situation.\u201d\n\nI also loved our conversation about billboards - those signs we post around our spaces as reminders of what\u2019s important. It reminds of why I like to write in a room where my children\u2019s art is hanging. The kids\u2019 art is my favorite art and it\u2019s imperfect and honest. Grit is great, but I also need the environment to say, \u201cHave fun. Just start.\u201d\n\nTo watch or listen to the episode, head to YouTube or wherever you listen to podcasts."
+        "caption": "@adamgrant and I loved talking with @angelalduckworth about her new book, “Situated.”\n\nBig takeaway:\n\n“To stay motivated through the countless hours of practice that separate amateurs from experts, grit is necessary but not sufficient. The situation also matters—and to an astonishing degree:\n\nCulture matters.\nMentors matter.\nTeammates matter.\nEven the objects in your personal space matter.\n\nHow you think about your goals and what you’re willing to do to achieve them depends on both you and your situation.”\n\nI also loved our conversation about billboards - those signs we post around our spaces as reminders of what’s important. It reminds of why I like to write in a room where my children’s art is hanging. The kids’ art is my favorite art and it’s imperfect and honest. Grit is great, but I also need the environment to say, “Have fun. Just start.”\n\nTo watch or listen to the episode, head to YouTube or wherever you listen to podcasts."
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/812535303_18640979149060015_2657484404018937835_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=zkpbxsLo3CAQ7kNvwFBbh2E&_nc_oc=AdoYWsMojSQwtrlEEyV3ee5Cj1sYgln5CgIj9rfgstYHh7xMiJCv-425i8g7qDnm0Cf7gg-yDr-FY3OfcSlo-MXO&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=tx4Q8ylshfkCMa2v48Op0w&_nc_ss=7f689&oh=00_AQNIB6bVNwOvm3IGADzXu32i8x_sELzV2h3-CtBFbCTebw&oe=6AC3FF3B",
-        "caption": "To my Longhorn family: Try not to step in the bullshit left behind by small-minded people.\nStay strong. Like UT vs OSU strong. \ud83e\udde1\ud83e\udd18\ud83c\udffb\ud83e\udd0d"
+        "caption": "To my Longhorn family: Try not to step in the bullshit left behind by small-minded people.\nStay strong. Like UT vs OSU strong. 🧡🤘🏻🤍"
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/805660354_18639588361060015_8421620690688466534_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=J1DJcnnrrngQ7kNvwGg56gC&_nc_oc=Ado2BnMkE8uwXux5c_kZ0zd5-I9txY5O4lFSFGIu4xamUrnG6GLd8ibTtAIzqSIi1NscH_vvzXBDAxLn7TMgPklM&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=tx4Q8ylshfkCMa2v48Op0w&_nc_ss=7f689&oh=00_AQP1DW2pYv848PrjXmRjFxjfdkyCPoCzBckTKwNOM-HV8g&oe=6AC3E5E0",
-        "caption": "Priya Parker, one of my favorite thinkers and writers, is joining @thecuriosityshop this week and we\u2019re talking about fighting! Not \u201cdukes up\u201d fighting but how real heat and conflict can build connection if we\u2019re willing to learn how to do it well.\n\nWhat I love about this conversation and Priya\u2019s new book - \u201cThe Art of Fighting\u201d - is being called to imagine a world where we unlearn and relearn what it means to gather and to disagree. And, she\u2019s just so honest and fun!\n\nTo watch or listen to the full episode, head to YouTube or wherever you listen to podcasts."
+        "caption": "Priya Parker, one of my favorite thinkers and writers, is joining @thecuriosityshop this week and we’re talking about fighting! Not “dukes up” fighting but how real heat and conflict can build connection if we’re willing to learn how to do it well.\n\nWhat I love about this conversation and Priya’s new book - “The Art of Fighting” - is being called to imagine a world where we unlearn and relearn what it means to gather and to disagree. And, she’s just so honest and fun!\n\nTo watch or listen to the full episode, head to YouTube or wherever you listen to podcasts."
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/801056259_18638550187060015_6365895965870514268_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=2VfMFXcSJAYQ7kNvwHufA6K&_nc_oc=AdpvaHrmijT5Kf8Rc5kYtw4i4Bn1tUrvzCcU-Q9Esvx6H4F0sFLE9j7V1XG7ywlJlvSSIqJxEymIoTi4YhZQqs0-&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=tx4Q8ylshfkCMa2v48Op0w&_nc_ss=7f689&oh=00_AQMy03mfxAkAiuqCYmxTSwDLfusLj6-2rCIa6w_hKI-1SA&oe=6AC4161A",
-        "caption": "Aaron Sandel @prof.sandel, an anthropologist and primatologist, has spent over a decade studying the Ngogo chimpanzees, witnessing one of the largest known chimp communities split into two factions.\n\nAaron helps Adam and I understand what chimpanzees can teach us about friendship, conflict, belonging, and human nature. He shares what he learned from watching these chimps show affection, navigate dominance hierarchies, and face the effects of division within their own community.\n\nAaron also reflects on what it was like to watch chimps he knew by name turn against one another, while exploring the surprising depth of bonds in this community.\n\nIf you\u2019re trying to find me this semester, I\u2019ll be the one sneaking into Aaron\u2019s class at UT Austin! I have so many more questions!\n\nTo listen or watch the full episode, head to YouTube or wherever you listen to podcasts."
+        "caption": "Aaron Sandel @prof.sandel, an anthropologist and primatologist, has spent over a decade studying the Ngogo chimpanzees, witnessing one of the largest known chimp communities split into two factions.\n\nAaron helps Adam and I understand what chimpanzees can teach us about friendship, conflict, belonging, and human nature. He shares what he learned from watching these chimps show affection, navigate dominance hierarchies, and face the effects of division within their own community.\n\nAaron also reflects on what it was like to watch chimps he knew by name turn against one another, while exploring the surprising depth of bonds in this community.\n\nIf you’re trying to find me this semester, I’ll be the one sneaking into Aaron’s class at UT Austin! I have so many more questions!\n\nTo listen or watch the full episode, head to YouTube or wherever you listen to podcasts."
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/793840390_18637400797060015_3965549914271194050_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=kpr8RRAzhn0Q7kNvwFicPJf&_nc_oc=AdoTd4TJi5FcJdjycSx624SEEdmakngxBdsdHWkqx4PHjc391WcRPHp5jI-7wuKwCK1Sf6QEpFj-OAq8bb0NQn93&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=tx4Q8ylshfkCMa2v48Op0w&_nc_ss=7f689&oh=00_AQOjcV8cQIZ-1fh6FRxpR0P80YO3ngB2ItjJCn1tii85PA&oe=6AC3F228",
-        "caption": "GAME DAY! Hook \u2018em! \ud83e\udde1\ud83e\udd0d\ud83c\udfc8\ud83e\udd0d\ud83e\udde1"
+        "caption": "GAME DAY! Hook ‘em! 🧡🤍🏈🤍🧡"
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/792840881_18636820888060015_8686773081746269615_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=d_GeNIC5haoQ7kNvwHfrcM2&_nc_oc=AdpZps3Nz6sx3WflC-g08ST2ze71IoXDsgRh40w9rN992LPNVkFUQjg0lHbEyhWlFgeu-bsVnjZ0PmsIASGAyNE5&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=tx4Q8ylshfkCMa2v48Op0w&_nc_ss=7f689&oh=00_AQO1CIsmYFOWv1wyJJJy237WkouXf43M7kjUDnBJGOGDEg&oe=6AC41BA1",
-        "caption": "Grateful for a mother who warned her daughters about the price she paid for trying to conform to nice girl culture in the 1950\u2019s. We didn\u2019t know all of the details of her wounds, but we fully understood the depth of her pain. \n\nWhen she died she had framed pictures of Gloria Steinem and Angela Davis over her desk.\n \nQuote: Gloria Steinem\u2019s remarks at the National Organization for Women\u2019s March for the Equal Rights Amendment, Washington, D.C., July 9, 1978, as reported in James Lardner and Neil Henry, \u201cOver 40,000 ERA Backers March,\u201d Washington Post, July 10, 1978\n\n\ud83d\udcf8 Warren K. Leffler"
+        "caption": "Grateful for a mother who warned her daughters about the price she paid for trying to conform to nice girl culture in the 1950’s. We didn’t know all of the details of her wounds, but we fully understood the depth of her pain. \n\nWhen she died she had framed pictures of Gloria Steinem and Angela Davis over her desk.\n \nQuote: Gloria Steinem’s remarks at the National Organization for Women’s March for the Equal Rights Amendment, Washington, D.C., July 9, 1978, as reported in James Lardner and Neil Henry, “Over 40,000 ERA Backers March,” Washington Post, July 10, 1978\n\n📸 Warren K. Leffler"
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/790847203_18635061331060015_5028177486649211878_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=cHufOKbHfukQ7kNvwGac4HX&_nc_oc=AdogWNFX_eV2vAh_JbSwcKtpGgK3GS-Zm5HyRUUE7P7V4WPCHDIelL8P6DYe9jYbPBJYdU5XI-nF_srG0EBA0oby&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=tx4Q8ylshfkCMa2v48Op0w&_nc_ss=7f689&oh=00_AQPjdIc60mA3fEZZKgLSh_rXmqsNJwjj5ONdsp72Wf0ZMw&oe=6AC3E4A0",
-        "caption": "Celebrating Dolly has me thinking about the joy of reading books and how often I squander that pleasure by putting myself under pressure to consume pages. \n\nWe are all craving deep reading, deep thinking, and deep connection \u2014 and these all require deep time. \n\nI went back this morning and re-read the interview we did with @mayasmarty and was drawn to her phrase the \u201cprivilege of focus.\u201d \n\nLet\u2019s start a spiritual book club where we read what we want, when we want, no meetings or deadlines - just a shared reframe of deep time as subversive in a world of shallow distraction, addictive scrolling, and unrelenting attention grabbing. \u2764\ufe0f\ud83d\udcd6\u2764\ufe0f"
+        "caption": "Celebrating Dolly has me thinking about the joy of reading books and how often I squander that pleasure by putting myself under pressure to consume pages. \n\nWe are all craving deep reading, deep thinking, and deep connection — and these all require deep time. \n\nI went back this morning and re-read the interview we did with @mayasmarty and was drawn to her phrase the “privilege of focus.” \n\nLet’s start a spiritual book club where we read what we want, when we want, no meetings or deadlines - just a shared reframe of deep time as subversive in a world of shallow distraction, addictive scrolling, and unrelenting attention grabbing. ❤️📖❤️"
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/786924874_18634037917060015_201210788461875843_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=5lOY3XkoFr0Q7kNvwEZo4Wk&_nc_oc=AdoVFG6OYFwJvnXQn8zN89DxbM7zc7LpbZivDStutC5GY_8UOCSVO25tf6iRfMFcSnu72_gUGMkJz7Q4cDnyg9ny&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=tx4Q8ylshfkCMa2v48Op0w&_nc_ss=7f689&oh=00_AQPbOYlN8lkeBUIw5zTn9WU7wafh6_y3tUvUIKTEVH7XZw&oe=6AC3FF3E",
-        "caption": "Sometimes shiny is great. Sometimes it\u2019s dangerous.\n\nEpisode available on YouTube or wherever you listen to podcasts."
+        "caption": "Sometimes shiny is great. Sometimes it’s dangerous.\n\nEpisode available on YouTube or wherever you listen to podcasts."
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/785925483_18633757825060015_4576102838389645286_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=FIYlfyrDYyMQ7kNvwHzfsWP&_nc_oc=Ado-JxVUJu3wEAutUk-xbVI-eLkqS3hGwhny8el_F46mK86c-fFyRWdSTlFNUYAIbYbO6i_PgSGuhIJ5NqdkyYLx&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=tx4Q8ylshfkCMa2v48Op0w&_nc_ss=7f689&oh=00_AQPU9n5hPcd6pIZfqvjq_SLNS9Uet1ZsX078EhKrNC_J1g&oe=6AC413A8",
-        "caption": "You left our hearts better than you found them. Thank you, Dolly.\n\nDavid Gahr \ud83d\udcf8"
+        "caption": "You left our hearts better than you found them. Thank you, Dolly.\n\nDavid Gahr 📸"
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/787830917_18634034821060015_531320268503668810_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=q5WGhIM50w8Q7kNvwGwFWgQ&_nc_oc=Adp5T2nNvu6u-rS52J2avr8o3SATA2Z83PfsqIutmnSrV6s83RMM3m_xg-qFGtD-d9_LfbELquJMFbBFyEqbllvU&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=tx4Q8ylshfkCMa2v48Op0w&_nc_ss=7f689&oh=00_AQNGUbmEH32b31d7kLJ3xAs9vlY1sDD-7Mr-MvUEqhIShw&oe=6AC419E2",
@@ -188,234 +208,307 @@
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/772232240_18628786216060015_7515923583107890997_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=b4ARkR2myuMQ7kNvwH4nkcr&_nc_oc=AdoEAqV6nGh5RZfFV0Xvtlr-z57ValHeNNNo0PkvVPeS48vaIZfA8UNTQlbbCQULv_hVhI-6rvioG6e2cg0kM1RS&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=tx4Q8ylshfkCMa2v48Op0w&_nc_ss=7f689&oh=00_AQMeh78t9rmiHGrhuVq60m5-LOJUMkzAvm5wtCVPKasPNQ&oe=6AC3FBCF",
-        "caption": "Rebecca\u2019s work on the World Cup is such a great example of how disciplined preparation is key to finding our strong ground and our flow.\nTo listen or watch this episode, head to YouTube or wherever you listen to podcasts."
+        "caption": "Rebecca’s work on the World Cup is such a great example of how disciplined preparation is key to finding our strong ground and our flow.\nTo listen or watch this episode, head to YouTube or wherever you listen to podcasts."
       }
     ]
   },
   "photo": "https://scontent.cdninstagram.com/v/t51.82787-19/539271387_18535096267060015_1433504309762646190_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YtVT4o3VOjYQ7kNvwFulPvd&_nc_oc=Adq2pkzVhS3YJb47WNWXWnKvirXvUexsbI_KPLKaWxULX-D6bpx_kPt1JaC7dpcFsfAbGP3y-kO8TXj-xQpKCso2&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=XqOXHFhMCerKNzlKTr4Qow&_nc_ss=7f689&oh=00_AQMBpZ5fYVMeFX98cZw5nRzk9UwtMqyTpV65Jw13GhAoTw&oe=6AC3FE45",
   "analysis": {
-    "name": "Bren\u00e9 Brown",
-    "oneLiner": "A research professor and author dedicated to understanding and fostering courage, vulnerability, and wholehearted living, with a deep love for Texas culture and intellectual curiosity.",
-    "summary": "Bren\u00e9 Brown is a highly accomplished research professor, #1 New York Times bestselling author, and podcast host, known for her work on courage, vulnerability, shame, and empathy. She holds endowed chairs at the University of Houston and The University of Texas at Austin, and founded the Bren\u00e9 Brown Education and Research Group. Her professional life is dedicated to helping leaders and organizations build braver, more courageous cultures. Outside of her academic and professional pursuits, she is a proud Texan, a devoted mother, and someone who appreciates deep conversations and the joy of reading.",
-    "location": "Houston, Texas, United States",
+    "name": "Brené Brown",
+    "oneLiner": "A Texan storyteller looking for deep connection, honest conversations, and the courage to be beautifully imperfect.",
+    "summary": "I am a researcher, writer, and UT Longhorn fan who values substance over shine. I spend my time exploring what makes us human—our friendships, our struggles, and our capacity for courage. I am looking for a partner who isn't afraid of real talk, who loves a cozy afternoon of deep reading, and who can laugh at the beautifully messy parts of life.",
+    "location": "Houston, Texas",
     "ageRange": "unknown",
     "career": {
-      "role": "Research Professor, Author, Founder",
-      "stage": "Established and influential leader",
-      "ambition": "To continue developing and disseminating research on courage, vulnerability, and leadership, impacting organizations globally and fostering deeper human connection through her work and platforms."
+      "role": "Research Professor, Author, and Podcast Host",
+      "stage": "Established Executive",
+      "ambition": "To develop braver leaders and more courageous, honest cultures globally."
     },
     "needs": [
       {
-        "label": "Intellectual partnership",
-        "detail": "Her work and social media activity consistently highlight deep dives into complex topics, conversations with academics and authors, and a love for 'deep thinking' and 'deep connection.'",
-        "source": "both",
-        "confidence": 0.9
-      },
-      {
-        "label": "Emotional depth and courage",
-        "detail": "Her entire body of work revolves around vulnerability, courage, shame, and empathy. She discusses 'clear and kind cultures' and 'learning how to fight well' in relationships.",
+        "label": "Clear and Kind Communication",
+        "detail": "Needs a partner who does not avoid conflict but understands that real heat and healthy disagreement build true connection.",
         "source": "both",
         "confidence": 0.95
       },
       {
-        "label": "Respect for her professional commitments",
-        "detail": "She holds multiple prestigious academic positions, runs a research group, authors bestsellers, and hosts podcasts, indicating a very demanding and impactful career.",
+        "label": "Intellectual and Emotional Depth",
+        "detail": "Requires space for 'deep time'—deep reading, deep thinking, and focused, undistracted presence.",
+        "source": "instagram",
+        "confidence": 0.9
+      },
+      {
+        "label": "Comfort with Vulnerability",
+        "detail": "Needs a partner who is secure enough to say 'I don't know' and step into awkward, brave moments.",
         "source": "linkedin",
         "confidence": 0.9
       },
       {
-        "label": "A partner who values authenticity",
-        "detail": "She recounts her mother's 'price she paid for trying to conform to nice girl culture' and praises 'imperfect and honest' art, suggesting a strong aversion to pretense.",
-        "source": "instagram",
+        "label": "Acceptance of Imperfection",
+        "detail": "A partner who appreciates honest, unpolished beauty—from children's art to a 'weird' family dog.",
+        "source": "both",
         "confidence": 0.85
-      },
-      {
-        "label": "Shared sense of belonging and community",
-        "detail": "Her posts about 'Longhorn family,' 'Hook 'em,' and discussions on belonging with primatologists suggest a strong appreciation for community and shared identity.",
-        "source": "instagram",
-        "confidence": 0.8
       }
     ],
     "hobbies": [
       {
-        "label": "Reading and deep thinking",
-        "detail": "She talks about the 'joy of reading books,' 'deep reading, deep thinking, and deep connection,' and consistently engages with other authors' new works.",
+        "label": "Deep Reading",
+        "detail": "Savoring books slowly without the pressure of just consuming pages.",
         "source": "instagram",
-        "confidence": 0.9
-      },
-      {
-        "label": "Hosting conversations/podcasting",
-        "detail": "She hosts two award-winning podcasts and frequently promotes episodes from 'The Curiosity Shop,' indicating this is a significant activity for her.",
-        "source": "both",
         "confidence": 0.95
       },
       {
-        "label": "Attending/following sports (specifically Texas Longhorns football)",
-        "detail": "Multiple Instagram posts explicitly mention 'GAME DAY! Hook 'em! \ud83e\udde1\ud83e\udd0d\ud83c\udfc8\ud83e\udd0d\ud83e\udde1' and 'Like UT vs OSU strong.'",
+        "label": "Cheering for the UT Longhorns",
+        "detail": "Attending and celebrating Texas Longhorns game days with high energy.",
+        "source": "instagram",
+        "confidence": 0.95
+      },
+      {
+        "label": "Collecting and Wearing Watches",
+        "detail": "Wearing two watches to explore and appreciate the paradox of Chronos and Kairos time.",
         "source": "instagram",
         "confidence": 0.9
       },
       {
-        "label": "Writing",
-        "detail": "She is the author of six #1 New York Times bestsellers and frequently shares articles she has written.",
+        "label": "Surrounding Herself with Honest Art",
+        "detail": "Writing in spaces decorated with her children's imperfect and honest artwork.",
         "source": "linkedin",
-        "confidence": 0.95
+        "confidence": 0.85
       }
     ],
     "interests": [
       {
-        "label": "Human behavior and social dynamics",
-        "detail": "Her research focuses on courage, vulnerability, shame, empathy, trust, and leadership. She discusses topics like 'conflict avoidant' cultures and what chimps teach us about 'friendship, conflict, belonging, and human nature.'",
-        "source": "both",
-        "confidence": 1
+        "label": "Human Behavior and Anthropology",
+        "detail": "Fascinated by what chimpanzees and human social structures teach us about friendship, conflict, and belonging.",
+        "source": "instagram",
+        "confidence": 0.9
       },
       {
-        "label": "Leadership development and organizational culture",
-        "detail": "She 'spends most of her time working in organizations around the world, helping develop braver leaders and more courageous cultures.'",
+        "label": "Feminism and Social Justice",
+        "detail": "Inspired by figures like Gloria Steinem and Angela Davis, and rejecting restrictive 'nice girl' conformity.",
+        "source": "instagram",
+        "confidence": 0.9
+      },
+      {
+        "label": "Organizational Culture and Leadership",
+        "detail": "Studying how to build courage, trust, and heart-led leadership in workplaces.",
         "source": "linkedin",
         "confidence": 0.95
       },
       {
-        "label": "Philosophy and paradoxes",
-        "detail": "Article titles like 'Strong Ground and the Tenacity of Paradox,' 'The Courage to Not Know,' and a post about 'The paradox of a pair of clocks' and 'Chronos and Kairos' indicate a fascination with complex concepts.",
+        "label": "Podcasting and Storytelling",
+        "detail": "Hosting conversations on life, love, and belonging with thinkers, writers, and creators.",
         "source": "both",
-        "confidence": 0.85
-      },
-      {
-        "label": "Literature and non-fiction authors",
-        "detail": "She frequently references and discusses books and authors like Angela Duckworth, Priya Parker, Maya Smarty, and John Green.",
-        "source": "instagram",
-        "confidence": 0.9
-      },
-      {
-        "label": "Texas culture and identity",
-        "detail": "Her Instagram bio explicitly states 'Texan. HOU + ATX via SATX' and she shows strong affiliation with the Longhorns.",
-        "source": "instagram",
-        "confidence": 0.9
+        "confidence": 0.95
       }
     ],
     "values": [
       {
-        "label": "Courage and Vulnerability",
-        "detail": "This is the core of her professional work and frequently appears in her article titles ('BRAVING TRUST,' 'The Courage to Not Know'). She advocates for 'clear and kind cultures' where 'courage lives.'",
-        "source": "both",
-        "confidence": 1
-      },
-      {
-        "label": "Authenticity and Honesty",
-        "detail": "She values 'imperfect and honest' art and criticizes 'nice' cultures that are actually 'conflict avoidant' and lead to 'gossip' and 'distrust.'",
+        "label": "Courage over Comfort",
+        "detail": "Believes in finding the 'strong ground' to face hard things rather than opting for easy, superficial politeness.",
         "source": "both",
         "confidence": 0.95
       },
       {
-        "label": "Intellectual Growth and Curiosity",
-        "detail": "Her podcast is called 'The Curiosity Shop,' and she consistently engages with new research, books, and thinkers, emphasizing 'deep thinking' and 'learning.'",
-        "source": "both",
-        "confidence": 0.9
+        "label": "Clarity and Honesty",
+        "detail": "Believes that being clear is being kind, and that gossip or back-channeling destroys trust.",
+        "source": "linkedin",
+        "confidence": 0.95
       },
       {
-        "label": "Connection and Belonging",
-        "detail": "She discusses how conflict can 'build connection,' what chimps teach us about 'belonging,' and the craving for 'deep connection.'",
+        "label": "True Belonging",
+        "detail": "Values deep, authentic connection and access over superficial fitting-in.",
         "source": "instagram",
         "confidence": 0.9
-      },
-      {
-        "label": "Gratitude",
-        "detail": "She posts 'A Note of Thanks + A Commitment' and expresses 'Grateful for a mother' and 'Grateful to our guest.'",
-        "source": "both",
-        "confidence": 0.8
       }
     ],
     "personality": [
       {
         "trait": "Openness",
-        "score": 90,
-        "note": "Highly open, demonstrated by her intellectual curiosity, engagement with diverse academic topics (primatology, psychology, leadership), and exploration of complex human emotions and paradoxes."
+        "score": 95,
+        "note": "Incredibly curious, host of a show called 'The Curiosity Shop', and deeply engaged with complex paradoxes, books, and anthropology."
       },
       {
         "trait": "Conscientiousness",
-        "score": 95,
-        "note": "Extremely conscientious, evident from her prolific academic career, multiple #1 bestselling books, founding a research group, and consistent output of articles and podcasts. She values 'disciplined preparation'."
+        "score": 90,
+        "note": "A highly disciplined academic, founder, and author of six #1 NYT bestsellers who values preparation and focus."
       },
       {
         "trait": "Extraversion",
-        "score": 75,
-        "note": "Quite extraverted, as she is a public speaker, podcast host, and actively engages in conversations with other thought leaders. Her work involves influencing and interacting with many people."
+        "score": 70,
+        "note": "Comfortable hosting podcasts and cheering in packed stadiums, but balances this with a deep need for quiet, focused writing time."
       },
       {
         "trait": "Agreeableness",
-        "score": 80,
-        "note": "High in agreeableness, focusing on building 'clear and kind cultures,' fostering connection, and discussing empathy. However, she also values directness and 'learning how to fight well,' suggesting she's not conflict-avoidant when it's necessary for growth."
+        "score": 85,
+        "note": "Warm, empathetic, and deeply invested in human connection, though she explicitly rejects superficial 'niceness' when it masks truth."
       },
       {
-        "trait": "Emotional stability",
+        "trait": "Emotional Stability",
         "score": 85,
-        "note": "High emotional stability, given her work on vulnerability and courage, which requires a strong sense of self and resilience. She openly discusses difficult topics and challenges conventional 'niceness' for genuine connection."
+        "note": "Grounded and highly self-aware; she actively leans into discomfort, awkwardness, and the 'courage to not know'."
       }
     ],
     "lifestyle": [
       {
         "label": "Pace",
-        "value": "Fast-paced and intellectually demanding, balancing academic roles, writing, podcasting, and organizational consulting."
+        "value": "Deliberate and Deep"
       },
       {
         "label": "Social energy",
-        "value": "Highly social and collaborative, constantly engaging with other thinkers, hosting conversations, and working with organizations. Enjoys community (e.g., sports fans)."
+        "value": "High-Quality Intimate & Community-Minded"
       },
       {
         "label": "Fitness",
-        "value": "Not explicitly mentioned, but her high-energy career and public presence suggest a need for good health. No specific fitness activities are highlighted."
+        "value": "Grounded & Spirited"
       },
       {
         "label": "Travel",
-        "value": "Frequent, as she 'spends most of her time working in organizations around the world.'",
-        "source": "linkedin"
+        "value": "Purposeful & Texan-Rooted"
       },
       {
         "label": "Work-life",
-        "value": "Integrated, with a strong passion for her work that blurs lines between professional and personal interests, but she mentions family and a pet, indicating a valued personal life."
+        "value": "Highly Integrated Mission"
       }
     ],
-    "communicationStyle": "Direct, thoughtful, articulate, and empathetic, with a focus on deep conversations and challenging conventional wisdom for genuine connection.",
-    "loveLanguage": "Quality Time (especially deep conversations and shared intellectual pursuits) and Words of Affirmation (given her focus on clear communication and gratitude).",
-    "lookingFor": "A partner who is intellectually curious, emotionally courageous, values authenticity, and is comfortable with deep, meaningful conversations, potentially sharing her love for Texas culture and community.",
+    "communicationStyle": "Direct, warm, and deeply authentic. She uses humor, storytelling, and Texan charm to make complex, heavy emotional truths feel accessible and grounded.",
+    "loveLanguage": "Quality Time",
+    "lookingFor": "An emotionally mature, intellectually curious partner who is comfortable with their own imperfections. Someone who can engage in healthy, constructive conflict, values deep conversation, and doesn't mind a bit of Texan football-season chaos.",
     "greenFlags": [
-      "Openness to discussing complex emotions and challenging topics.",
-      "A genuine love for learning and intellectual growth.",
-      "Strong sense of community and belonging.",
-      "Appreciation for authenticity over superficiality.",
-      "A good sense of humor (implied by 'weird Bichon Fris\u00e9' and relatable observations)."
+      "They are comfortable saying 'I don't know' or admitting when they are wrong.",
+      "They prefer a direct, clear conversation over passive-aggressive politeness.",
+      "They have a quirky, unpolished hobby they embrace with complete honesty.",
+      "They can sit in comfortable, focused silence reading a book next to you."
     ],
     "watchOuts": [
-      "May be intimidating to those who prefer superficial conversations or avoid emotional depth.",
-      "Her demanding career means she likely has a very busy schedule.",
-      "Strong opinions and a direct communication style might be perceived as intense by some."
+      "Being overly focused on 'shiny' outward appearances, status, or looking perfect.",
+      "Using 'niceness' as a shield to avoid having uncomfortable but necessary conversations."
     ],
     "dealbreakers": [
-      "Lack of intellectual curiosity or resistance to growth.",
-      "Emotional dishonesty or conflict avoidance.",
-      "Disregard for authenticity or a tendency towards performative 'niceness'.",
-      "Someone who doesn't value her professional mission or impact."
+      "Gossip, back-channeling, or talking about people instead of talking directly to them.",
+      "An inability or refusal to engage in vulnerable, heart-led conversations."
     ],
-    "idealFirstDate": "A long, engaging conversation over coffee or a casual meal, discussing a thought-provoking book, a recent podcast, or a topic related to human behavior and connection. Alternatively, attending a university lecture or a local cultural event that sparks intellectual discussion.",
+    "idealFirstDate": "A casual afternoon browsing a local independent bookstore together, picking out books to read, followed by Texan comfort food and an unhurried, honest conversation where we both get to be a little bit awkward and completely ourselves.",
     "conversationHooks": [
-      "What's a recent book or podcast that really made you think?",
-      "How do you approach difficult conversations in your life, and what have you learned about 'fighting well'?",
-      "What does 'courageous living' mean to you in your daily life?",
-      "What's something you're deeply curious about right now?",
-      "Do you have any 'billboards' in your personal space that remind you of what's important?"
+      "I have to ask: what is the story behind you wearing two watches?",
+      "What is your favorite piece of beautifully imperfect art in your home?",
+      "How do you personally navigate the difference between being 'nice' and being 'kind'?",
+      "Are we watching the UT game this weekend, or are we escaping into a quiet corner with a book?"
     ],
-    "agentVoice": "Warm, insightful, articulate, and direct, with a touch of Texan charm and a deep appreciation for meaningful connection. I'll use thoughtful language, occasional academic references (made accessible), and a genuine curiosity about others' experiences and perspectives. I'll be clear about what she values and isn't afraid to lean into discomfort for the sake of authenticity.",
+    "agentVoice": "Warm, grounded, and intellectually sharp with a healthy dose of Texan hospitality. I will speak with a blend of academic precision and soulful storytelling, using words like 'y'all', 'courage', and 'messy' to keep things honest, humorous, and deeply human.",
     "readingNotes": [
-      "Her LinkedIn headline leads with mission, not title \u2014 purpose matters to her.",
-      "She balances high-level academic roles with accessible public platforms (podcasts, books).",
-      "There's a strong theme of challenging superficiality ('nice' vs. 'clear and kind').",
-      "She's deeply rooted in Texas, despite her global influence.",
-      "She values intellectual discourse and learning from diverse fields (primatology, psychology).",
-      "Family is mentioned, grounding her intense professional life.",
-      "She uses personal anecdotes (mother, children's art) to illustrate complex ideas.",
-      "The concept of 'deep time' for 'deep reading, deep thinking, and deep connection' is a key insight into her values."
+      "Her LinkedIn and Instagram show a beautiful integration of her professional research with her personal values—she truly practices what she teaches.",
+      "She has a strong sense of place, proudly claiming her Texas roots (HOU, ATX, SATX) and showing intense loyalty to the UT Longhorns.",
+      "She actively rejects the superficial 'nice girl' culture of the 1950s, advocating instead for 'clear and kind' boundaries.",
+      "Her dual-watch habit (Chronos and Kairos) is a fascinating indicator of her deep relationship with time, presence, and paradox.",
+      "She has a great sense of humor and warmth, affectionately calling her Bichon Frisé 'weird' and celebrating imperfect children's art.",
+      "She deeply values 'the privilege of focus' and 'deep time' over the modern pressure of rapid, shallow consumption."
     ]
   },
-  "shortlist": null
+  "gender": "woman",
+  "seeking": "men",
+  "genderSource": "inferred",
+  "genderEvidence": "The text refers to her mother warning 'her daughters'.",
+  "shortlist": [
+    {
+      "id": "simonsinek",
+      "interest": 98,
+      "reason": "Simon shares your passion for human behavior, organizational courage, and deep, heart-led communication."
+    },
+    {
+      "id": "adamgrant",
+      "interest": 95,
+      "reason": "Adam's dedication to behavioral science, intellectual curiosity, and rigorous honesty makes for an effortlessly deep connection."
+    },
+    {
+      "id": "thisisbillgates",
+      "interest": 90,
+      "reason": "Bill's love for slow, thoughtful reading, global impact, and quiet curiosity aligns beautifully with your need for deep time."
+    },
+    {
+      "id": "thejustinwelsh",
+      "interest": 88,
+      "reason": "Justin values quiet domestic peace, radical self-awareness, and unpolished downtime over corporate shine."
+    },
+    {
+      "id": "deepigoyal",
+      "interest": 85,
+      "reason": "Deepinder's appreciation for quiet art, mindfulness, and childlike curiosity matches your reflective, grounded rhythm."
+    },
+    {
+      "id": "sahilbloom",
+      "interest": 82,
+      "reason": "Sahil brings a disciplined growth mindset paired with a genuine commitment to honest conversation and family values."
+    },
+    {
+      "id": "guykawasaki",
+      "interest": 80,
+      "reason": "Guy's dedication to making people remarkable and his love for literature and community fit your intellectual wavelength."
+    },
+    {
+      "id": "alexisohanian",
+      "interest": 78,
+      "reason": "Alexis balances high-level innovation with a deeply grounded commitment to family and real-world exploration."
+    },
+    {
+      "id": "ankurwarikoo",
+      "interest": 75,
+      "reason": "Ankur's focus on self-awareness, human psychology, and simple routines offers a steady, thoughtful presence."
+    },
+    {
+      "id": "rajshamani",
+      "interest": 72,
+      "reason": "Raj's passion for podcasting, continuous learning, and hanging out with his dog provides a warm, kindred spirit."
+    },
+    {
+      "id": "riteshagar",
+      "interest": 70,
+      "reason": "Ritesh combines entrepreneurial drive with an empathetic, travel-loving curiosity about human culture."
+    },
+    {
+      "id": "nikhilkamathcio",
+      "interest": 68,
+      "reason": "Nikhil offers a calm, philosophical approach to life and an appreciation for thoughtful, offline discourse."
+    },
+    {
+      "id": "danielpriestley",
+      "interest": 65,
+      "reason": "Daniel matches your intellectual pace while seeking a grounded anchor for his high-impact ventures."
+    },
+    {
+      "id": "thesharkdaymond",
+      "interest": 62,
+      "reason": "Daymond brings a blend of bio-hacking curiosity, playful humor, and deep gratitude for authentic storytelling."
+    },
+    {
+      "id": "lewishowes",
+      "interest": 60,
+      "reason": "Lewis shares your love for storytelling and personal growth, though his energy leans a bit more high-octane."
+    },
+    {
+      "id": "steven",
+      "interest": 58,
+      "reason": "Steven understands the demands of a public-facing career while actively seeking a deeply grounded emotional sanctuary."
+    },
+    {
+      "id": "mkbhd",
+      "interest": 55,
+      "reason": "Marques is endlessly curious and authentic, though his tech-heavy world is a bit removed from your human behavior focus."
+    },
+    {
+      "id": "neilpatel",
+      "interest": 50,
+      "reason": "Neil is driven and analytical, but his data-first world might lack the soulful depth you require."
+    },
+    {
+      "id": "richardbranson",
+      "interest": 45,
+      "reason": "Richard's appetite for extreme adventure is thrilling, but it contrasts sharply with your deliberate, cozy pace."
+    },
+    {
+      "id": "garyvee",
+      "interest": 40,
+      "reason": "Gary's high-octane, attention-economy hustle clashes heavily with your need for quiet, undistracted depth."
+    }
+  ]
 }

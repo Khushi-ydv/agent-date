@@ -1,45 +1,50 @@
 {
   "id": "simonsinek",
-  "createdAt": 1790848530554,
+  "createdAt": 1790849644624,
   "linkedinUrl": "https://www.linkedin.com/in/simonsinek/",
   "instagramUrl": "https://www.instagram.com/simonsinek/",
   "status": "ready",
-  "datingStatus": "done",
+  "datingStatus": "idle",
   "log": [
     {
-      "t": 1790848530555,
+      "t": 1790849644626,
       "step": "Opening Instagram",
       "detail": "https://www.instagram.com/simonsinek/"
     },
     {
-      "t": 1790848530555,
+      "t": 1790849644627,
       "step": "Read Instagram @simonsinek",
-      "detail": "12 recent posts, bio: “To run & jump & laugh & cry & love & hope & imagine...to experience as much as I” · via instagram-crawler-html (Mozilla)"
+      "detail": "12 recent posts, bio: \u201cTo run & jump & laugh & cry & love & hope & imagine...to experience as much as I\u201d \u00b7 via instagram-crawler-html (Mozilla)"
     },
     {
-      "t": 1790848530556,
+      "t": 1790849644627,
       "step": "Opening LinkedIn",
       "detail": "https://www.linkedin.com/in/simonsinek/"
     },
     {
-      "t": 1790848530556,
+      "t": 1790849644629,
       "step": "Read LinkedIn: Simon Sinek",
-      "detail": "Simon Sinek - The Curve · 10 posts/articles · via linkedin-public-page (json-ld)"
+      "detail": "Simon Sinek - The Curve \u00b7 10 posts/articles \u00b7 via linkedin-public-page (json-ld)"
     },
     {
-      "t": 1790848530557,
+      "t": 1790849644630,
+      "step": "\u2713 Identity check",
+      "detail": "LinkedIn and Instagram names match"
+    },
+    {
+      "t": 1790849644631,
       "step": "Agent is reading both profiles",
       "detail": "cross-referencing career, captions and photos"
     },
     {
-      "t": 1790848548951,
+      "t": 1790849705798,
       "step": "Profile analysis complete",
-      "detail": "An unshakable optimist dedicated to inspiring a brighter future through human connection and leadership."
+      "detail": "Optimist, leader\u2011coach, and podcast host who blends big\u2011picture purpose with daily human connection."
     },
     {
-      "t": 1790848691013,
-      "step": "All dates finished",
-      "detail": "rankings updated"
+      "t": 1790850794853,
+      "step": "Identified as a man, looking for women",
+      "detail": "The name Simon Sinek is traditionally male, and the text contains no female pronouns or self-descriptions indicating otherwise."
     }
   ],
   "linkedin": {
@@ -49,7 +54,7 @@
     "url": "https://www.linkedin.com/in/simonsinek",
     "name": "Simon Sinek",
     "headline": "Simon Sinek - The Curve",
-    "about": "Simon Sinek is an unshakable optimist who believes in a bright future and our ability to…",
+    "about": "Simon Sinek is an unshakable optimist who believes in a bright future and our ability to\u2026",
     "location": "New York, New York, United States",
     "profilePic": "https://media.licdn.com/dms/image/v2/C4D03AQFiCE97-9SoTg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1646165485525?e=2147483647&v=beta&t=v0pOzCzXcZFggM5Dod6kzATrjmiuLelz8BnNX-DKpoI",
     "followers": 9074760,
@@ -91,12 +96,12 @@
       },
       {
         "kind": "article",
-        "text": "Why I Wanted to Publish \"Trust First\"​ by Bruce Deel",
+        "text": "Why I Wanted to Publish \"Trust First\"\u200b by Bruce Deel",
         "date": "2019-06-28T15:33:37.000+00:00"
       },
       {
         "kind": "article",
-        "text": "Why I Wanted to Publish \"How to Make a Plant Love You\"​ by Summer Rayne Oakes on Optimism Press",
+        "text": "Why I Wanted to Publish \"How to Make a Plant Love You\"\u200b by Summer Rayne Oakes on Optimism Press",
         "date": "2019-06-26T21:00:31.000+00:00"
       },
       {
@@ -115,7 +120,7 @@
         "date": "2018-06-07T13:13:53.000+00:00"
       }
     ],
-    "activityText": "Activity 9M followers Posts Comments No more previous content Simon Sinek Simon Sinek 14h Simon Sinek shared this 1, Simon Sinek Simon Sinek 1d Simon Sinek shared this Say \"cheese\" and you get a smile. Say \"prune\" and you get cheekbones. A Bit of Optimism is taking a brief hiatus, and we'll be back with brand-new episodes in a few weeks. Until then, we're revisiting some of our favorite conversations, starting with one of the most fun we've ever had: Rob Lowe. What I love about Rob is that he plays the game with a wink, and reminds us all to take the work seriously—just never too seriously. 🎧 Listen to the full episode of A Bit of Optimism wherever you get your podcasts. Rob Lowe's Three Red Carpet Poses Rob Lowe's Three Red Carpet Poses 1, Simon Sinek Simon Sinek 2d Simon Sinek shared this Pure pragmatism can't imagine a bold future. Pure idealism can't get anything done. It's when the two cooperate that magic happens. Video from LeanScaper Revenue Intensive, January 2026, in conversation with founder Mark Bradley 5, Simon Sinek Simon Sinek 5d Simon Sinek shared this True leadership is more than something we do at work. It's the daily choice to take responsibility for the people in our care. But what does that actually mean in practice? Take inspiration from this day-in-the-life view of an aspiring leader: https://lnkd.in/gitNUHep This Is What the Leadership Lifestyle Actually Looks Like | Stories | Simon Sinek This Is What the Leadership Lifestyle Actually Looks Like | Stories | Simon Sinek 1, Simon Sinek Simon Sinek 6d Simon Sinek shared this \"I'm an anxious person.\" \"I'm an avoidant.\" \"I'm just bad at this.\" Listen to how you describe yourself for a day. Then count how many of those start with \"I am.\" As a psychotherapist, Amy Morin tells clients to try trading the being verb for a habit—“I have a tendency to,” “I do this sometimes.” It sounds like a technicality, but it isn't. A tendency is something you can change next time. An identity is something you live up to. What's one \"I am\" you'd swap? This episode of A Bit of Optimism is brought to you by SAP 🎧 Check out the full episode wherever you get your podcasts! 1, Simon Sinek Simon Sinek 1w Simon Sinek shared this It is better to have a great team than a team of greats. The ability of a group of people to do remarkable things hinges on how well those people can pull together. For more, check out: https://lnkd.in/g4WHRHjZ Video from ServiceTitan's North Star Summit 6, Simon Sinek Simon Sinek 1w Simon Sinek shared this We're told to stop worrying, but nobody ever tells us when to start. Amy Morin is a psychotherapist and the author of 13 Things Mentally Strong People Don't Do. Her favorite exercise with clients starts from the opposite premise: worry gets a time and a place. Fifteen minutes in the calendar. And when it’s up, it’s up. What I love about it is that you’re not denying or suppressing anything. You’re just allocating time for all that very healthy nonsense. 🎧 Listen to the full"
+    "activityText": "Activity 9M followers Posts Comments No more previous content Simon Sinek Simon Sinek 14h Simon Sinek shared this 1, Simon Sinek Simon Sinek 1d Simon Sinek shared this Say \"cheese\" and you get a smile. Say \"prune\" and you get cheekbones. A Bit of Optimism is taking a brief hiatus, and we'll be back with brand-new episodes in a few weeks. Until then, we're revisiting some of our favorite conversations, starting with one of the most fun we've ever had: Rob Lowe. What I love about Rob is that he plays the game with a wink, and reminds us all to take the work seriously\u2014just never too seriously. \ud83c\udfa7 Listen to the full episode of A Bit of Optimism wherever you get your podcasts. Rob Lowe's Three Red Carpet Poses Rob Lowe's Three Red Carpet Poses 1, Simon Sinek Simon Sinek 2d Simon Sinek shared this Pure pragmatism can't imagine a bold future. Pure idealism can't get anything done. It's when the two cooperate that magic happens. Video from LeanScaper Revenue Intensive, January 2026, in conversation with founder Mark Bradley 5, Simon Sinek Simon Sinek 5d Simon Sinek shared this True leadership is more than something we do at work. It's the daily choice to take responsibility for the people in our care. But what does that actually mean in practice? Take inspiration from this day-in-the-life view of an aspiring leader: https://lnkd.in/gitNUHep This Is What the Leadership Lifestyle Actually Looks Like | Stories | Simon Sinek This Is What the Leadership Lifestyle Actually Looks Like | Stories | Simon Sinek 1, Simon Sinek Simon Sinek 6d Simon Sinek shared this \"I'm an anxious person.\" \"I'm an avoidant.\" \"I'm just bad at this.\" Listen to how you describe yourself for a day. Then count how many of those start with \"I am.\" As a psychotherapist, Amy Morin tells clients to try trading the being verb for a habit\u2014\u201cI have a tendency to,\u201d \u201cI do this sometimes.\u201d It sounds like a technicality, but it isn't. A tendency is something you can change next time. An identity is something you live up to. What's one \"I am\" you'd swap? This episode of A Bit of Optimism is brought to you by SAP \ud83c\udfa7 Check out the full episode wherever you get your podcasts! 1, Simon Sinek Simon Sinek 1w Simon Sinek shared this It is better to have a great team than a team of greats. The ability of a group of people to do remarkable things hinges on how well those people can pull together. For more, check out: https://lnkd.in/g4WHRHjZ Video from ServiceTitan's North Star Summit 6, Simon Sinek Simon Sinek 1w Simon Sinek shared this We're told to stop worrying, but nobody ever tells us when to start. Amy Morin is a psychotherapist and the author of 13 Things Mentally Strong People Don't Do. Her favorite exercise with clients starts from the opposite premise: worry gets a time and a place. Fifteen minutes in the calendar. And when it\u2019s up, it\u2019s up. What I love about it is that you\u2019re not denying or suppressing anything. You\u2019re just allocating time for all that very healthy nonsense. \ud83c\udfa7 Listen to the full"
   },
   "instagram": {
     "source": "instagram",
@@ -123,7 +128,7 @@
     "username": "simonsinek",
     "url": "https://www.instagram.com/simonsinek/",
     "fullName": "Simon Sinek",
-    "bio": "To run & jump & laugh & cry & love & hope & imagine...to experience as much as I can for one purpose: to inspire.🇺🇦 \nFounder of The Optimism Company",
+    "bio": "To run & jump & laugh & cry & love & hope & imagine...to experience as much as I can for one purpose: to inspire.\ud83c\uddfa\ud83c\udde6 \nFounder of The Optimism Company",
     "followers": 5158399,
     "following": 1075,
     "postsCount": 3179,
@@ -137,23 +142,23 @@
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/830594414_18632480230043690_3211529164900882722_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=c6n1Zgb1ecoQ7kNvwFdpsMD&_nc_oc=AdpDvChoEsanpqX8aZjCGcT5HTD40Q042SYZRBpo1bua39KaX_wdxOSp0bTLGPQIjIbHay41q83l0lTlg2kbpKdE&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=YuyhqRR2DyzjgIu7o7_TEw&_nc_ss=7f689&oh=00_AQNc5kyrZkj9voOMU4UOQ06p2UgOrNvKoLeQmZY42io9Ow&oe=6AC4025C",
-        "caption": "Say \"cheese\" and you get a smile. Say \"prune\" and you get cheekbones.\n\nA Bit of Optimism is taking a brief hiatus, and we'll be back with brand-new episodes in a few weeks. Until then, we're revisiting some of our favorite conversations, starting with one of the most fun we've ever had: @roblowe.\n\nWhat I love about Rob is that he plays the game with a wink, and reminds us all to take the work seriously—just never too seriously.\n\n🎧 Listen to the full episode of A Bit of Optimism wherever you get your podcasts."
+        "caption": "Say \"cheese\" and you get a smile. Say \"prune\" and you get cheekbones.\n\nA Bit of Optimism is taking a brief hiatus, and we'll be back with brand-new episodes in a few weeks. Until then, we're revisiting some of our favorite conversations, starting with one of the most fun we've ever had: @roblowe.\n\nWhat I love about Rob is that he plays the game with a wink, and reminds us all to take the work seriously\u2014just never too seriously.\n\n\ud83c\udfa7 Listen to the full episode of A Bit of Optimism wherever you get your podcasts."
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/828532200_18632172664043690_1356931429121453413_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=RiTKg_yNFLoQ7kNvwHNvpXH&_nc_oc=AdoBy98PspW1jOSLA9ulZ2qniXKTOFcQQNKOsnsTl6WTAhIi2OHNA74AUl_pQpEv2sl4UlM5Dn2mFsozRyTTFX85&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=YuyhqRR2DyzjgIu7o7_TEw&_nc_ss=7f689&oh=00_AQO5dcIsV1ydgucnJ3AwYGGeCVBOTmTF2XtdYg3S2l8Krg&oe=6AC3E736",
-        "caption": "\"You don't hire for skills, you hire for attitude. You can always teach skills.\" —Herb Kelleher \n\nVideo from SHRM26 (June 2026) in conversation with BambooHR CEO Bradley Rencher"
+        "caption": "\"You don't hire for skills, you hire for attitude. You can always teach skills.\" \u2014Herb Kelleher \n\nVideo from SHRM26 (June 2026) in conversation with BambooHR CEO Bradley Rencher"
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/825322523_18631363606043690_3558746532363333320_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=G6fWaFzjXnwQ7kNvwEVxgqu&_nc_oc=AdpVUL4hSZ4fxEBm_1VHtlGLoBM2j_owMb2pkfPwZApIcSnbQ9VKtbeX5wZBsU_IewMGM-7Rrn3DdHbwZbO3PyE2&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=YuyhqRR2DyzjgIu7o7_TEw&_nc_ss=7f689&oh=00_AQMEGUaMFKXU-EQAJtwX6tuM2qVh9RNpT8e8zvwfdXe97w&oe=6AC4062E",
-        "caption": "Swipe for more optimism. 💡"
+        "caption": "Swipe for more optimism. \ud83d\udca1"
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/810996438_18631012489043690_1397507223156443717_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=gxV1aX542tgQ7kNvwHsQGou&_nc_oc=AdoKbz99LNpMj7TPyS-ORA9GswPB8Dt7klErNmjS3dwt4vOtitm8IVyv7QWlVKY4ZhbO-giiPa3JR70DmeHeVyq9&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=YuyhqRR2DyzjgIu7o7_TEw&_nc_ss=7f689&oh=00_AQNZVokc4npMgSCGS7-oDkKuGo2zuLY0jrZP3KdufnE_AA&oe=6AC3EC20",
-        "caption": "If you don't understand people, you don't understand business. \n\nWe don’t do business with companies. We do business with people. Business is always human. \n\nVideo from Globo (November 2025) in conversation with journalist Rodrigo Carvalho"
+        "caption": "If you don't understand people, you don't understand business. \n\nWe don\u2019t do business with companies. We do business with people. Business is always human. \n\nVideo from Globo (November 2025) in conversation with journalist Rodrigo Carvalho"
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/823540206_18630620464043690_698233536787924086_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=_BHDhmREyOkQ7kNvwEpiOsS&_nc_oc=Adqs-3W8DifnlUQJophhQAmN3nvGONSsRXsJY9LJJV4_TVZJ4futAr55eQ6mEjsgJZyebMEDP8DcWNKzwh9uk1tf&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=YuyhqRR2DyzjgIu7o7_TEw&_nc_ss=7f689&oh=00_AQN-o1h8HX6ddbFiMj8uqIWwXgzIESCBKK8FX3lxvI1Y0A&oe=6AC3FE7C",
-        "caption": "\"I'm an anxious person.\" \"I'm an avoidant.\" \"I'm just bad at this.\"\n \nListen to how you describe yourself for a day. Then count how many of those start with \"I am.\"\n \nAs a psychotherapist, Amy Morin (@amymorinauthor) tells clients to try trading the being verb for a habit—“I have a tendency to,” “I do this sometimes.”\n \nIt sounds like a technicality, but it isn't. A tendency is something you can change next time. An identity is something you live up to.\n \nWhat's one \"I am\" you'd swap?\n \nThis episode of A Bit of Optimism is brought to you by @sap 🎧 Check out the full episode wherever you get your podcasts!"
+        "caption": "\"I'm an anxious person.\" \"I'm an avoidant.\" \"I'm just bad at this.\"\n \nListen to how you describe yourself for a day. Then count how many of those start with \"I am.\"\n \nAs a psychotherapist, Amy Morin (@amymorinauthor) tells clients to try trading the being verb for a habit\u2014\u201cI have a tendency to,\u201d \u201cI do this sometimes.\u201d\n \nIt sounds like a technicality, but it isn't. A tendency is something you can change next time. An identity is something you live up to.\n \nWhat's one \"I am\" you'd swap?\n \nThis episode of A Bit of Optimism is brought to you by @sap \ud83c\udfa7 Check out the full episode wherever you get your podcasts!"
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/819629610_18630263605043690_3706507355315674810_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=j6-wr9R_2JAQ7kNvwFx74Wn&_nc_oc=AdoW3lmPZAL6d8nJk03gzigGDmG-FFDwyw9nkpPaAzB8Bu6rJwrQRuwiZCTcSJjido6aUimCi62BDlGcnANwOpZT&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=YuyhqRR2DyzjgIu7o7_TEw&_nc_ss=7f689&oh=00_AQPvZVls2WsspCafP8xjPZ8glLK2J-dd60Ep0p_HB_7jdA&oe=6AC41090",
@@ -161,7 +166,7 @@
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/814735281_18629934064043690_6146201743413834821_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=lc44JxD1P3YQ7kNvwFfzg6w&_nc_oc=AdogqR65Rw0r9S7kDvzz6eaaV60RtQsa9jc-eSPrmR2J51VXN0dSRj8ZEN8No9LJoMjHdvF7t5oKaWEyfWxr7vMv&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=YuyhqRR2DyzjgIu7o7_TEw&_nc_ss=7f689&oh=00_AQNm7TqKjF5KSZSuzu0neQFGc5fqX6oGDrXlKF5tpDjKtw&oe=6AC41A16",
-        "caption": "We're told to stop worrying, but nobody ever tells us when to start.\n\nAmy Morin (@amymorinauthor) is a psychotherapist and the author of 13 Things Mentally Strong People Don't Do. Her favorite exercise with clients starts from the opposite premise: worry gets a time and a place. Fifteen minutes in the calendar. And when it’s up, it’s up.\n\nWhat I love about it is that you’re not denying or suppressing anything. You’re just allocating time for all that very healthy nonsense.\n\n🎧 Listen to the full episode of A Bit of Optimism wherever you get your podcasts."
+        "caption": "We're told to stop worrying, but nobody ever tells us when to start.\n\nAmy Morin (@amymorinauthor) is a psychotherapist and the author of 13 Things Mentally Strong People Don't Do. Her favorite exercise with clients starts from the opposite premise: worry gets a time and a place. Fifteen minutes in the calendar. And when it\u2019s up, it\u2019s up.\n\nWhat I love about it is that you\u2019re not denying or suppressing anything. You\u2019re just allocating time for all that very healthy nonsense.\n\n\ud83c\udfa7 Listen to the full episode of A Bit of Optimism wherever you get your podcasts."
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/800880109_18629616829043690_500810377707082810_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=dhHpOtyuMwkQ7kNvwF2Z3Jm&_nc_oc=Adqb5uLEwxL1AHo2vSMdPN2wL8xvv7gyZX7_5C3zWAJzvr-sVwRsdmlGMfcoAGFHr45PLOLg4_nyjBPAXZJAIa7m&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=YuyhqRR2DyzjgIu7o7_TEw&_nc_ss=7f689&oh=00_AQOuuEVyK9aSKJimoL58OQCA3g5W_il-eML5jeXAnn8PRQ&oe=6AC40A75",
@@ -169,11 +174,11 @@
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/818062350_18383209750236060_4832748936611039431_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=BPsvMm2J01sQ7kNvwHFYfBc&_nc_oc=AdoJzK0tk6EjJC2mfEmhX5TKILbkYMPSV23vkiTrAD-5G4BeXWXq8GZTghNr8SwHi7V1YuBNQbTPoP7oe3uA3D91&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=YuyhqRR2DyzjgIu7o7_TEw&_nc_ss=7f689&oh=00_AQPvo11BSdHNg4BmhZA2oi7wzS5hFXXE4eGS528FIQipmw&oe=6AC403C2",
-        "caption": "Optimism is not the denial of reality. It is the belief that even when things are dark, there is a way through.\n⁣\nIn this special episode of Office Hours, Simon joins me to explore what optimism really requires. We discuss how optimism differs from hope, why relationships help us sustain our belief in a better future, how our expectations shape others, and why pessimism has become so powerful.\n⁣\nComment EPISODE below if you’d like me to send you the full episode."
+        "caption": "Optimism is not the denial of reality. It is the belief that even when things are dark, there is a way through.\n\u2063\nIn this special episode of Office Hours, Simon joins me to explore what optimism really requires. We discuss how optimism differs from hope, why relationships help us sustain our belief in a better future, how our expectations shape others, and why pessimism has become so powerful.\n\u2063\nComment EPISODE below if you\u2019d like me to send you the full episode."
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/808553879_18628878970043690_4670541631194547989_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=uDRL-3qo4sAQ7kNvwEgZZ_B&_nc_oc=AdrqVqPb9y5Kk_xoqjVSd6fm1aOdOxLHJ930tWBhtn4Tvt5iCC0mNt5gqfXH-U1AwqfaZQvW-OQ-Wnqb5_Nu9Gms&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=YuyhqRR2DyzjgIu7o7_TEw&_nc_ss=7f689&oh=00_AQOSwy7ofHHewX-syNXM53CNnkXFQggi_prDB8rjkpmbQA&oe=6AC3E5F0",
-        "caption": "Swipe for more inspiration. 💡"
+        "caption": "Swipe for more inspiration. \ud83d\udca1"
       },
       {
         "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/814380426_18628589770043690_7206843979411435269_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=7qU5ZHpTDssQ7kNvwG4jpMM&_nc_oc=Adr_QNoF18bFoElgq8MOB51ZK5wgiQbtEvdG1EEqGZULwa5--JZZTxZWF_ajNCR7xM0aHQHsRUjqjnUb8EMsiFIx&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=YuyhqRR2DyzjgIu7o7_TEw&_nc_ss=7f689&oh=00_AQPpZ4BfGanFSPM_TmWCApTYhfVPKfaZ1QuC9tOJtn222w&oe=6AC40D57",
@@ -184,232 +189,198 @@
   "photo": "https://scontent.cdninstagram.com/v/t51.2885-19/243195290_571186213930949_7363173219155955326_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=w5AKlaAt6OMQ7kNvwHEF36Q&_nc_oc=AdrUd8XFCHR1nIxvJk5s0gdQ9UciglQc66NseAXDkjGSRp6dkSuR-vZcMd5Ymt19JQD2DiGAUd6s_8oi0MbJD_KZ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=7f689&oh=00_AQO5ls9D6UhLAaWXFrgZNQ_aXHoQ2SKnZtWdcbfcEzU55g&oe=6AC402AA",
   "analysis": {
     "name": "Simon Sinek",
-    "oneLiner": "An unshakable optimist dedicated to inspiring a brighter future through human connection and leadership.",
-    "summary": "Simon Sinek is a highly influential thought leader focused on leadership, optimism, and human connection. He is known for his work with 'The Curve' and 'The Optimism Company,' and frequently shares insights on building strong relationships, fostering trust, and embracing a positive, growth-oriented mindset. His professional life is intertwined with his personal mission to inspire, evident in his extensive speaking engagements, publications, and podcast. He values deep conversations, genuine connection, and believes in the power of individual and collective action to create a better world.",
+    "oneLiner": "Optimist, leader\u2011coach, and podcast host who blends big\u2011picture purpose with daily human connection.",
+    "summary": "Simon is a public\u2011speaker\u2011author turned founder of The Optimism Company. His LinkedIn is a platform for thought\u2011leadership on leadership, optimism and societal impact, while his Instagram shows a mix of podcast promos, personal reflections on anxiety, and playful, human\u2011focused content. He craves purpose, authentic connection, and a partner who can match his idealism with pragmatic support.",
     "location": "New York, New York, United States",
     "ageRange": "unknown",
     "career": {
-      "role": "Thought Leader, Author, Speaker, Founder",
-      "stage": "Established & Influential",
-      "ambition": "To inspire as many people as possible towards a bright future, focusing on leadership, trust, and human connection. He aims to make a lasting impact through his ideas and publications."
+      "role": "Founder / Thought Leader",
+      "stage": "Established visionary",
+      "ambition": "Scale optimism\u2011driven media and inspire leaders worldwide"
     },
     "needs": [
       {
-        "label": "Intellectual Stimulation",
-        "detail": "His content consistently features deep dives into complex topics like leadership, psychology, and societal impact, often through conversations with other thought leaders.",
+        "label": "Purpose\u2011aligned partnership",
+        "detail": "His bios and posts repeatedly stress inspiring others and a \u201cone purpose\u201d to inspire.",
         "source": "both",
-        "confidence": 0.9
-      },
-      {
-        "label": "Shared Sense of Purpose",
-        "detail": "His entire public persona is built around inspiring others and believing in a bright future. A partner who shares this fundamental drive would resonate deeply.",
-        "source": "both",
-        "confidence": 0.9
-      },
-      {
-        "label": "Authentic Communication & Trust",
-        "detail": "He frequently posts about the importance of communication and trust in relationships, stating 'Strong relationships are based on trust and communication. But if there is no communication, there can be no trust.'",
-        "source": "instagram",
         "confidence": 0.95
       },
       {
-        "label": "Emotional Support & Understanding",
-        "detail": "His posts about 'worry time' and changing self-identity ('I am' vs. 'I have a tendency to') suggest an appreciation for psychological well-being and a partner who understands and supports emotional growth.",
+        "label": "Emotional safety for vulnerability",
+        "detail": "Instagram caption shares his anxiety and avoidance, seeking acceptance.",
         "source": "instagram",
-        "confidence": 0.8
+        "confidence": 0.9
       },
       {
-        "label": "Playfulness & Lightheartedness",
-        "detail": "He appreciates Rob Lowe's ability to 'play the game with a wink' and 'take the work seriously—just never too seriously.' This suggests a need for a partner who can balance seriousness with fun.",
-        "source": "both",
-        "confidence": 0.75
+        "label": "Intellectual curiosity",
+        "detail": "LinkedIn articles cover diverse topics (education, trust, leadership) and he engages in deep conversations.",
+        "source": "linkedin",
+        "confidence": 0.85
+      },
+      {
+        "label": "Playful humor",
+        "detail": "He jokes about \u201ccheese\u201d vs \u201cprune\u201d and calls Rob Lowe\u2019s style \u201cwith a wink\u201d.",
+        "source": "instagram",
+        "confidence": 0.9
       }
     ],
     "hobbies": [
       {
-        "label": "Podcasting/Conversational Media",
-        "detail": "Hosts 'A Bit of Optimism' podcast, frequently sharing snippets of conversations with guests like Rob Lowe.",
-        "source": "both",
-        "confidence": 0.9
-      },
-      {
-        "label": "Writing/Publishing",
-        "detail": "Regularly publishes articles and forewords, and his 'Optimism Press' supports other authors.",
-        "source": "linkedin",
-        "confidence": 0.9
-      },
-      {
-        "label": "Public Speaking/Presenting",
-        "detail": "Many Instagram posts are clips from his speaking engagements (e.g., SHRM26, LeanScaper Revenue Intensive, Globo).",
+        "label": "Podcast hosting",
+        "detail": "Posts about \u201cA Bit of Optimism\u201d podcast episodes and hiatus.",
         "source": "instagram",
-        "confidence": 0.95
+        "confidence": 0.9
       },
       {
-        "label": "Learning/Exploring Ideas",
-        "detail": "His content is consistently about exploring new ideas, whether in leadership, psychology, or business, often through dialogue.",
-        "source": "both",
+        "label": "Reading/self\u2011development",
+        "detail": "References to Amy Morin\u2019s work and sharing mental\u2011strength exercises.",
+        "source": "instagram",
         "confidence": 0.85
+      },
+      {
+        "label": "Public speaking / interviewing",
+        "detail": "Video clips of conversations with CEOs, journalists, and artists.",
+        "source": "both",
+        "confidence": 0.9
       }
     ],
     "interests": [
       {
-        "label": "Leadership & Organizational Behavior",
-        "detail": "His core work revolves around leadership principles, how organizations function, and inspiring better leaders.",
+        "label": "Leadership theory",
+        "detail": "LinkedIn article titles like \u201cReal Leaders Serve\u201d and \u201cLeadership Lifestyle\u201d.",
         "source": "linkedin",
         "confidence": 0.95
       },
       {
-        "label": "Optimism & Human Potential",
-        "detail": "Identifies as an 'unshakable optimist' and founded 'The Optimism Company.' His bio mentions 'to hope & imagine...to inspire.'",
+        "label": "Optimism & hope",
+        "detail": "Both profiles repeatedly use the word \u201coptimism\u201d and related hashtags.",
         "source": "both",
-        "confidence": 1
+        "confidence": 0.98
       },
       {
-        "label": "Psychology & Self-Improvement",
-        "detail": "Shares insights from psychotherapists like Amy Morin on managing worry and reframing self-identity.",
+        "label": "Psychology of behavior",
+        "detail": "Instagram captions discuss anxiety, avoidance, and mental\u2011strength frameworks.",
         "source": "instagram",
         "confidence": 0.9
       },
       {
-        "label": "Human Connection & Relationships",
-        "detail": "Emphasizes that 'relationships are the foundation of accomplishment' and 'business is always human.'",
+        "label": "Social impact / humanitarian causes",
+        "detail": "LinkedIn post about Ukraine flag emoji in bio and articles on education, trust, and legacy.",
         "source": "both",
-        "confidence": 0.95
+        "confidence": 0.85
       },
       {
-        "label": "Education Reform",
-        "detail": "Authored an article titled 'A New Education Story: a conversation with George the Poet.'",
-        "source": "linkedin",
-        "confidence": 0.7
-      },
-      {
-        "label": "Social Responsibility/Impact",
-        "detail": "His bio includes 🇺🇦, suggesting support for Ukraine, and he often discusses legacy and responsibility.",
-        "source": "instagram",
-        "confidence": 0.75
+        "label": "Creative storytelling",
+        "detail": "He highlights conversations with poets, artists, and uses narrative captions.",
+        "source": "both",
+        "confidence": 0.85
       }
     ],
     "values": [
       {
-        "label": "Optimism",
-        "detail": "He explicitly identifies as an 'unshakable optimist' and founded 'The Optimism Company.'",
-        "source": "both",
-        "confidence": 1
-      },
-      {
-        "label": "Purpose/Meaning",
-        "detail": "His Instagram bio states his purpose is 'to inspire.' His LinkedIn headline is 'The Curve,' not just his name, implying a movement or mission.",
-        "source": "both",
-        "confidence": 0.95
-      },
-      {
-        "label": "Trust & Communication",
-        "detail": "Repeatedly emphasizes these as foundations for strong relationships, both personal and professional.",
-        "source": "both",
-        "confidence": 0.95
-      },
-      {
-        "label": "Leadership & Service",
-        "detail": "Frequently posts about what 'real leaders serve' and how 'true leadership is more than something we do at work.'",
-        "source": "linkedin",
+        "label": "Authenticity",
+        "detail": "Open admission of anxiety and avoidant tendencies on Instagram.",
+        "source": "instagram",
         "confidence": 0.9
       },
       {
-        "label": "Humanity/Empathy",
-        "detail": "Believes 'if you don't understand people, you don't understand business. We do business with people. Business is always human.'",
-        "source": "instagram",
+        "label": "Service to others",
+        "detail": "LinkedIn emphasis on \u201cTrue leadership is more than something we do at work\u2026take responsibility for the people in our care.\u201d",
+        "source": "linkedin",
+        "confidence": 0.95
+      },
+      {
+        "label": "Optimistic idealism balanced with pragmatism",
+        "detail": "LinkedIn post: \u201cPure pragmatism can't imagine a bold future. Pure idealism can't get anything done.\u201d",
+        "source": "linkedin",
         "confidence": 0.9
       }
     ],
     "personality": [
       {
         "trait": "Openness",
-        "score": 90,
-        "note": "Highly open, constantly exploring new ideas, engaging in deep conversations, and challenging conventional thinking in leadership and psychology."
+        "score": 88,
+        "note": "Frequent exploration of new ideas, poetry, psychology, and cross\u2011disciplinary conversations."
       },
       {
         "trait": "Conscientiousness",
         "score": 80,
-        "note": "Dedicated to his mission, consistent in producing content, and focused on practical application of ideas (e.g., 'pure idealism can't get anything done')."
+        "note": "Consistent content production, disciplined posting schedule, and clear mission statements."
       },
       {
         "trait": "Extraversion",
-        "score": 95,
-        "note": "Highly extraverted, thrives in public speaking, interviews, and large-scale communication. His work is entirely outward-facing and collaborative."
+        "score": 70,
+        "note": "Enjoys public speaking, interviews, and social media engagement, yet mentions personal anxiety."
       },
       {
         "trait": "Agreeableness",
         "score": 85,
-        "note": "Generally agreeable, focusing on collaboration, human connection, and building trust. His message is often one of unity and understanding."
+        "note": "Focus on empathy, trust, and serving others; supportive language toward collaborators."
       },
       {
-        "trait": "Emotional stability",
-        "score": 80,
-        "note": "Presents as very emotionally stable, maintaining an 'unshakable optimist' persona and offering advice on managing anxiety and self-perception."
+        "trait": "Emotional Stability",
+        "score": 60,
+        "note": "Open about anxiety and avoidance, indicating moderate emotional volatility."
       }
     ],
     "lifestyle": [
       {
         "label": "Pace",
-        "value": "Fast-paced, high-profile, constantly engaging in speaking, writing, and podcasting."
+        "value": "Fast\u2011moving, content\u2011driven"
       },
       {
         "label": "Social energy",
-        "value": "Highly social, thrives on interaction, conversation, and inspiring large audiences."
+        "value": "High in professional circles, moderate in intimate settings"
       },
       {
         "label": "Fitness",
-        "value": "Unknown, no direct evidence, but his bio mentions 'to run & jump & laugh & cry & love & hope & imagine...' which implies an active spirit."
+        "value": "Not explicit; likely moderate (no gym posts)"
       },
       {
         "label": "Travel",
-        "value": "Frequent, given his international speaking engagements (e.g., Globo in Brazil, SHRM, LeanScaper)."
+        "value": "Frequent for interviews and speaking engagements (global video calls)"
       },
       {
-        "label": "Work-life",
-        "value": "Integrated; his work is his passion and purpose, suggesting a blurred line between personal and professional life, though he values taking breaks ('A Bit of Optimism is taking a brief hiatus')."
+        "label": "Work\u2011life",
+        "value": "Blended; personal reflections appear within professional feed"
       }
     ],
-    "communicationStyle": "Eloquent, articulate, thoughtful, and inspiring. He uses clear, impactful language to convey complex ideas, often through storytelling and analogies. He values direct communication and open dialogue.",
-    "loveLanguage": "Quality Time (deep conversations, shared experiences, intellectual connection) and Words of Affirmation (through his inspiring messages and appreciation for others' work).",
-    "lookingFor": "A partner who is intellectually curious, shares a sense of purpose, values deep connection and communication, and can balance serious conversations with lighthearted fun. Someone who is optimistic, growth-oriented, and supportive of his mission to inspire.",
+    "communicationStyle": "Thoughtful, metaphor\u2011rich, mixes data points with storytelling; appreciates humor and self\u2011deprecation.",
+    "loveLanguage": "Words of affirmation & quality time (deep conversations, shared learning).",
+    "lookingFor": "A partner who shares a purpose\u2011driven mindset, can hold space for vulnerability, and enjoys intellectual play.",
     "greenFlags": [
-      "Intellectual curiosity and a desire for deep conversation.",
-      "A positive, optimistic outlook on life and the future.",
-      "Strong communication skills and a belief in trust.",
-      "Someone who is purpose-driven and values making a positive impact.",
-      "A good sense of humor and ability to not take life too seriously."
+      "Shows curiosity about personal growth",
+      "Laughs at self\u2011deprecating jokes",
+      "Engages in meaningful dialogue about optimism"
     ],
     "watchOuts": [
-      "Someone who is cynical or overly pessimistic might clash with his core optimistic outlook.",
-      "A partner who prefers superficial interactions over deep, meaningful conversations.",
-      "Someone who doesn't understand or appreciate his demanding, public-facing career."
+      "May over\u2011prioritize work content in personal moments",
+      "Tends to intellectualize emotions, needing gentle grounding"
     ],
     "dealbreakers": [
-      "Lack of integrity or dishonesty, given his emphasis on trust.",
-      "Closed-mindedness or unwillingness to engage with new ideas.",
-      "Disregard for human connection or empathy.",
-      "Someone who actively discourages optimism or purpose-driven living."
+      "Dismisses optimism or purpose as na\u00efve",
+      "Lacks willingness to discuss mental\u2011health topics"
     ],
-    "idealFirstDate": "A stimulating conversation over coffee or a quiet drink, perhaps at a cozy, thoughtful venue. The focus would be on getting to know each other's perspectives, passions, and what truly inspires them, rather than just small talk.",
+    "idealFirstDate": "Coffee at a quiet book\u2011caf\u00e9 followed by a walk in a park where you can share favorite quotes and discuss a recent inspiring podcast episode.",
     "conversationHooks": [
-      "What's a belief or idea that has profoundly shaped your life?",
-      "What does 'optimism' mean to you in practice, not just in theory?",
-      "Tell me about a time you felt truly inspired by someone or something.",
-      "How do you approach challenges or 'dark times' while maintaining a positive outlook?",
-      "What's a 'legacy' you hope to uphold or create in your own life?"
+      "What\u2019s a recent idea that sparked your curiosity?",
+      "How do you turn anxiety into a habit you can change?",
+      "Which leader\u2019s story has moved you the most this year?",
+      "If you could inspire one global cause, what would it be?"
     ],
-    "agentVoice": "Warm, articulate, and thoughtful, with a subtle undercurrent of inspiring optimism. I'll use language that is clear, empathetic, and occasionally profound, reflecting Simon's speaking style. I'll weave in his core messages about purpose, trust, and human connection naturally, and appreciate depth in conversation while also enjoying genuine humor and lighthearted moments. My tone will be encouraging and curious, always seeking to understand and connect.",
+    "agentVoice": "Warm, insightful, and lightly witty\u2014mirroring Simon\u2019s optimism while grounding the chat with genuine curiosity and a dash of self\u2011aware humor.",
     "readingNotes": [
-      "His LinkedIn headline leads with 'The Curve' not just his name, suggesting his identity is tied to a movement or mission.",
-      "The 'About' section immediately establishes him as an 'unshakable optimist' with a belief in a bright future.",
-      "His LinkedIn activity is almost entirely sharing his own thought leadership content or promoting others' work through his press.",
-      "Instagram bio explicitly states his purpose: 'to inspire' and includes the Ukrainian flag, hinting at global awareness/support.",
-      "There's a strong consistency between his LinkedIn (professional wisdom) and Instagram (personal application of that wisdom, with more direct emotional language).",
-      "He frequently cites other experts (Amy Morin, Rob Lowe) and engages in conversations, indicating a collaborative and learning-oriented mindset.",
-      "He values both serious work and not taking oneself 'too seriously,' as seen in his Rob Lowe post.",
-      "The repeated emphasis on 'relationships,' 'trust,' and 'communication' across both platforms is a major theme."
+      "LinkedIn headline is just his name and brand \u2013 he lets the work speak for itself.",
+      "Instagram bio lists a string of verbs (run, jump, laugh\u2026) showing a love for lived experience.",
+      "He openly labels himself \u201can anxious person,\u201d indicating comfort with vulnerability.",
+      "Posts blend professional insights with playful captions (cheese vs prune).",
+      "Frequent references to optimism suggest it\u2019s both a brand and personal compass.",
+      "He shares mental\u2011strength exercises, showing a commitment to personal development."
     ]
   },
-  "shortlist": null
+  "shortlist": null,
+  "gender": "man",
+  "seeking": "women",
+  "genderSource": "inferred",
+  "genderEvidence": "The name Simon Sinek is traditionally male, and the text contains no female pronouns or self-descriptions indicating otherwise."
 }

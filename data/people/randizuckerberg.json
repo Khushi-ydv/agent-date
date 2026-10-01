@@ -1,0 +1,403 @@
+{
+  "id": "randizuckerberg",
+  "createdAt": 1790850152644,
+  "linkedinUrl": "https://www.linkedin.com/in/randizuckerberg/",
+  "instagramUrl": "https://www.instagram.com/randizuckerberg/",
+  "status": "ready",
+  "datingStatus": "idle",
+  "log": [
+    {
+      "t": 1790850152645,
+      "step": "Opening Instagram",
+      "detail": "https://www.instagram.com/randizuckerberg/"
+    },
+    {
+      "t": 1790850152646,
+      "step": "Read Instagram @randizuckerberg",
+      "detail": "12 recent posts, bio: \u201c\u2728 Business Speaker & Radio Host\n\u2728 22x marathon/18x ultramarathon\n\u2728 2x Finisher @\u201d \u00b7 via instagram-crawler-html (Mozilla)"
+    },
+    {
+      "t": 1790850152647,
+      "step": "Opening LinkedIn",
+      "detail": "https://www.linkedin.com/in/randizuckerberg/"
+    },
+    {
+      "t": 1790850152648,
+      "step": "Read LinkedIn: Randi Zuckerberg",
+      "detail": "Randi Zuckerberg - 11x Marathons since Sept 2023 \u2728 7x Ultramarathons (Longest: 100 miles) \u2728 3 Tony Awards \u2728 Host on SiriusXM \u2728 Mom x 3 \u2728 Author x 3 \u2728 Bad Golfer \u2728 \u00b7 10 posts/articles \u00b7 via linkedin-public-page via jina reader"
+    },
+    {
+      "t": 1790850152649,
+      "step": "\u2713 Identity check",
+      "detail": "LinkedIn and Instagram names match"
+    },
+    {
+      "t": 1790850152650,
+      "step": "Agent is reading both profiles",
+      "detail": "cross-referencing career, captions and photos"
+    },
+    {
+      "t": 1790850397339,
+      "step": "Profile analysis complete",
+      "detail": "Ultra\u2011marathoner, mom of three, and tech\u2011savvy speaker who turns every race into a celebration."
+    },
+    {
+      "t": 1790850795428,
+      "step": "Identified as a woman, looking for men",
+      "detail": "The profile text explicitly identifies her as \"Mom x 3\" and an Instagram caption states she achieved \"First place female\" in a race."
+    }
+  ],
+  "linkedin": {
+    "source": "linkedin",
+    "method": "linkedin-public-page via jina reader",
+    "slug": "randizuckerberg",
+    "url": "https://www.linkedin.com/in/randizuckerberg",
+    "name": "Randi Zuckerberg",
+    "headline": "Randi Zuckerberg - 11x Marathons since Sept 2023 \u2728 7x Ultramarathons (Longest: 100 miles) \u2728 3 Tony Awards \u2728 Host on SiriusXM \u2728 Mom x 3 \u2728 Author x 3 \u2728 Bad Golfer \u2728",
+    "about": "11x Marathons since Sept 2023 \u2728 7x Ultramarathons (Longest: 100 miles) \u2728 3 Tony Awards \u2728 Host on SiriusXM \u2728 Mom x 3 \u2728 Author x 3 \u2728 Bad Golfer \u2728 \u00b7 Location: New York \u00b7 500+ connections on LinkedIn. View Randi Zuckerberg\u2019s profile on LinkedIn, a professional community of 1 billion members.",
+    "location": "New York, New York, United States",
+    "profilePic": "https://media.licdn.com/dms/image/v2/D4E03AQEFlxenehEofw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1715882018814?e=2147483647&v=beta&t=0oHnDjjLMaP71ucuSTRVLnBxXdt2odhhk6aRBHK8nyo",
+    "followers": 1201468,
+    "experience": [],
+    "education": [],
+    "languages": [],
+    "posts": [
+      {
+        "kind": "article",
+        "text": "Exciting news\u2014HUG has been acquired by .ART Registry! ",
+        "date": "2024-12-12T17:00:03.000+00:00"
+      },
+      {
+        "kind": "article",
+        "text": "$1000 Award: Will you be HUG's Artist of the Year? ",
+        "date": "2024-10-15T16:27:28.000+00:00"
+      },
+      {
+        "kind": "article",
+        "text": "Art books, art festivals in NYC, and art for your home with HUG",
+        "date": "2024-09-09T18:29:19.000+00:00"
+      },
+      {
+        "kind": "article",
+        "text": "\ud83d\udce3 Last Call: Free Course to Own, Grow, & Earn on Social Media with Lens ",
+        "date": "2024-09-03T18:16:36.000+00:00"
+      },
+      {
+        "kind": "article",
+        "text": "Deadline Extended: Open Call to Exhibit Art at the United Nations \ud83c\uddfa\ud83c\uddf3\u2728",
+        "date": "2024-08-12T17:52:50.000+00:00"
+      },
+      {
+        "kind": "article",
+        "text": "\ud83c\udf93Free Course! Learn how to own & earn from your audience with Lens",
+        "date": "2024-08-08T19:12:10.000+00:00"
+      },
+      {
+        "kind": "article",
+        "text": "Open Call: Share your art with the UN SDG Action Campaign! ",
+        "date": "2024-07-29T20:33:01.000+00:00"
+      },
+      {
+        "kind": "article",
+        "text": "\ud83c\udf99\ufe0f Live Interview: Join me with Refik Anadol ",
+        "date": "2024-07-27T12:30:09.000+00:00"
+      },
+      {
+        "kind": "article",
+        "text": "\ud83c\udf1f Claim your free .ART domain, courtesy of HUG's latest partnership! ",
+        "date": "2024-07-11T20:41:48.000+00:00"
+      },
+      {
+        "kind": "article",
+        "text": "\ud83d\udea8 LAST CALL: Elevate Your Creativity with AI with HUG & Stability AI (Scholarships inside)",
+        "date": "2024-06-27T14:48:25.000+00:00"
+      }
+    ],
+    "activityText": "Activity 1M followers Posts Comments No more previous content Randi Zuckerberg Randi Zuckerberg 6mo Randi Zuckerberg shared this I had a fantastic time joining ICSC 's President & CEO Tom McGee on his From Where I Sit podcast. We covered everything from entrepreneurship to navigating rapid technological change to the power of creativity as a strategic advantage. Conversations like this remind me how important it is to stay curious, bold and willing to reinvent. I\u2019m especially excited because this discussion is the perfect lead\u2011into my upcoming role as keynote speaker at ICSC+PROPTECH this May, where you can discover the tech transforming the commercial real estate industry. There is so much innovation happening at the intersection of retail, real estate and technology and I can\u2019t wait to explore where we\u2019re headed next. I hope you enjoy the conversation as much as I enjoyed being part of it and hope to see you at ICSC+PROPTECH! Register here to attend and hear me speak: https://lnkd.in/eZrA9XHe Randi Zuckerberg Randi Zuckerberg 9mo Randi Zuckerberg shared this I\u2019ll be the emcee for Catalyst at BHASe Summit , a showcase designed for founders solving the toughest challenges in behavioral health. If your company is driving measurable impact, improving care access, supporting clinicians, or helping organizations operate more effectively, Catalyst is where your work can get the spotlight it deserves. Applications are open now and the deadline is December 22. Apply here: https://lnkd.in/eFx-HJ9J Randi Zuckerberg Randi Zuckerberg 9mo Randi Zuckerberg shared this I\u2019m excited to share that I\u2019ll be returning to host Catalyst at eCap Summit ! If you\u2019re building solutions within long-term care that make operations smoother, care teams stronger, or outcomes better across the post-acute world, this is your moment. You\u2019ll pitch directly to operators and investors who are ready to move fast. Applications are open now and the deadline is December 22. Apply here: https://lnkd.in/e8fjWgVP Randi Zuckerberg Randi Zuckerberg 9mo Randi Zuckerberg shared this How I (Accidentally) Became a Marathon Swimmer and Other Leadership Lessons Learned from Injury This fall, I was forced to take three months off running due to a hip injury. In the big picture of life, three months is a blip. But when you\u2019re deep in training for peak marathon season, just like when you are deep in it at work with a major project, fast-moving timelines, or industry innovating at speed of light, being benched for that long feels like an eternity. But in business and in life, unexpected roadblocks can either become a dead end or an opportunity to strengthen resilience. I don\u2019t do dead ends. After dropping out of my fall races and allowing myself a brief pity party, I picked myself up and did what most leaders eventually have to do \u2014 I pivoted. I picked a new non-running goal. I found forward motion. And I committed fully. Two months later, that pivot turned into my first marathon swim. A marathon swim"
+  },
+  "instagram": {
+    "source": "instagram",
+    "method": "instagram-crawler-html (Mozilla)",
+    "username": "randizuckerberg",
+    "url": "https://www.instagram.com/randizuckerberg/",
+    "fullName": "Randi Zuckerberg",
+    "bio": "\u2728 Business Speaker & Radio Host\n\u2728 22x marathon/18x ultramarathon\n\u2728 2x Finisher @cocodona250 \n\u2728 BOD @nyrr @life360 \n\u2728 FKT: 135km Baja Sur Trail\n\u2728 Mom",
+    "followers": 90320,
+    "following": 5046,
+    "postsCount": 2333,
+    "isVerified": true,
+    "isPrivate": false,
+    "profilePic": "https://scontent.cdninstagram.com/v/t51.2885-19/441037339_802706941766057_4779141895137310564_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=101&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTcuQzMifQ%3D%3D&_nc_ohc=AAp6qg8DQREQ7kNvwHEwAiW&_nc_oc=AdoKRYPTdPXwKqjalQUymTNqgYLkb1ORl-bWhwP1d-XYE6k4Lnt7IP6Ky8NqSp9XZuAVk8TYNjs7tIUP6MQLe7wm&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=7f689&oh=00_AQMdLqpB6lpgMt3OHaB1v6c8UBUsP4YfYqlKqYygXd120Q&oe=6AC3F807",
+    "posts": [
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/825324363_18130165585773593_1830047407736694747_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=2ZhmpIVfT8oQ7kNvwFz1ci2&_nc_oc=AdrUntKho_tQ8uNagjIR56hxM2bsM8wv4cnbv2l3fSDH6HEMtrvq-SsTIgI2KW3DN7xSxI2_fEYDrStURVypbhtl&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=YlB1UaWbPjAReAVMrWVBjw&_nc_ss=7f689&oh=00_AQMVr5SULSo2PaEKj6i_hbdVtFD8edS0sC792uBLftuRNQ&oe=6AC407D1",
+        "caption": "NYC Marathon weekend is almost here, and we\u2019re getting you race-ready. \ud83d\uddfd\n\nJoin us Monday, October 5 at 5pm PT / 8pm ET for NYC Prep with Randi Zuckerberg, ahead of the rabbit NYC Clubhouse Hotel experience during race weekend.\n\nYou may know Randi from tech and media, but her running r\u00e9sum\u00e9 is just as impressive. She went from road marathons like New York City to some of the toughest ultra-endurance challenges in the country, including back-to-back finishes at the 250-mile Cocodona and an 82-mile FKT across Baja California.\n\nOn the call, Randi will share:\n\ud83c\udfc3\u200d\u2640\ufe0f Actionable race-day strategy for 26.2\n\ud83e\udde0 How she pushes through the tough mental and physical miles\n\ud83e\udd6f Her favorite NYC spots to prep, fuel, and celebrate\n\nThis is interactive, so bring your questions, whether they\u2019re about this year\u2019s race or any year\u2019s race. Everyone is welcome.\n\n\ud83d\udd17 Luma link in bio to join\n\n#runinrabbit #PoweredByHalo #MarathonWeekend #NYC"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/825269601_18638574217043699_264251393187498169_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=eELIA9kzjrAQ7kNvwHOZmaY&_nc_oc=Adot693xtC2kU3bCabUd5tBa2Y92X0EhOp2omPYQnVg_7p0jI_3I4xzgA30nbRS2-YHy9aZAJEMeGEN4BCckkezn&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=YlB1UaWbPjAReAVMrWVBjw&_nc_ss=7f689&oh=00_AQMQKzovw2eob5-QU3C4vuPJFftV7qdK5USKYtBDm0tf7g&oe=6AC3FFA9",
+        "caption": "Miami 100 mile ultra.\nFirst place female and second fastest female time ever!\n\nMiami, you were beautiful, painful, chaotic, insane and amazing in all the best ways. The race was an adventure-style checkpoint race, where you didn\u2019t learn the course until you were in it, and you got the directions for each checkpoint in real time. I ran over bridges, around islands, through neighborhoods, and navigated crowded touristy areas. All in hot and crazy humid Florida weather. \n\nWhen @joecorcione said he thought I was capable of running a ~20 hour 100 miler time (roughly a 12 minute mile, including stops) I didn\u2019t quite believe him. My PR for the distance is 23:30 which I just ran in July. \n\nBut 20 hours and 24 minutes later, I crossed the finish line as first place female and third place overall, averaging a 12:03 pace after running 100 miles non-stop, with very few breaks, except to change water logged sneakers a few times or use the restroom.\n\nBut a race performance like this doesn\u2019t happen without an absolute incredible crew firing on all cylinders. @murrclurr_ is beyond amazing as a crew chief. @joecorcione and Ben Thompson did an unreal job pacing, helping me navigate the course, and pushing me through peak heat. And my husband @btworetzky absolutely crushed it on my crew out there. This race was just as challenging to crew, as to run, and I was in absolute awe of my team the entire time. \n\nSpecial shoutout to @dr.joelipsky who wasn\u2019t physically there with us, but absolutely was in spirit, and helped me crush one of the best training blocks I\u2019ve ever had. And to @pinknoelephants who has become an essential part of the team and @quietgratefullife who surprised me out on the course. \n\nMy legs are sore and my body is a bit wrecked, but my heart is so happy and I feel beyond proud and excited for what lies beyond."
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/818855070_18637675939043699_4253447297982016198_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=iAYsvBA4_D8Q7kNvwG_anF8&_nc_oc=AdpBbx-ZkGKoGmf-0zZxelALMcREnCJj9ZP0Uk7GkExKMucVNxSDL_Xc24u6TAzGuNe-ghdNWHQ5aKVuq70id3cc&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=YlB1UaWbPjAReAVMrWVBjw&_nc_ss=7f689&oh=00_AQMihNBLWUGu70LSysUKylS9cCpv4cdc0vSrjKZep-2NCA&oe=6AC3FBFF",
+        "caption": "The past few days have seen some fun milestones!!\n\n\ud83c\udf4a My 1,000th OrangeTheory class! \nI walked into OTF almost four years ago with no clue how that gym would change my life. Countless 6am classes, some of my closest friendships, big goals dreamt & done, and a whole lot of life lived under those orange lights. Naturally, we celebrated the only reasonable way: a 6am toga party. \n\n\ud83d\udd25 My son\u2019s new 5k PR! I got to run side by side in matching outfits with my son Simi, as he dug so deep and set a new PR on the exact same course where he last set a PR at this distance, two years ago. Super proud mom. Even prouder of the fact that Simi has poured so much heart into his Team for Kids charity fundraiser for his upcoming Disney race. \n\n\ud83c\udfd9\ufe0f Bronx 10 Mile: My first ever 10 mile race! The course was so fun - starting and ending at Yankee Stadium. And my first time racing for @jhenwood72\u2019s @henwoodshounds team. Held a 7:24/mile pace and felt so good doing it. Even better was getting to run bonus warm-up and cool down miles to and from the race with Sydney.\n\nThree milestones that look totally different on paper. My first race for a new team. My kid\u2019s PR. A hilariously large number of 6am workouts.\n\nBut really, they\u2019re all the same thing. Keep showing up for yourself and find people who make showing up wildly fun. \n\nOh. And always, always wear a costume."
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/808896789_18634152271043699_3355435663909088569_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=OgkzqtDxS6QQ7kNvwHUOQTF&_nc_oc=AdpDBNWrGfGyWjZyifgzXeIzUYoORHDUJwOQ8OcoP49ICb0cFv9cgndDod_Jeu5SCjwVNN9HcbNKwOaSBJCQfQ-N&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=YlB1UaWbPjAReAVMrWVBjw&_nc_ss=7f689&oh=00_AQNm0KsKp0ARMeu_z-2Xfr-CWbJJwHP9CV2mTVIRk8_sIQ&oe=6AC40F68",
+        "caption": "Apparently tapering for a race doesn\u2019t HAVE to be a disaster. (Who knew?)\n\nThis week included: 70 miles, an actual full rest day (!!) and a truly unreasonable amount of fun:\n\n\ud83d\udc6b Doubles HYROX with my husband \u2014 we crushed our goals and had an absolute blast. Thank goodness for his ability to pull a sled and let me passenger princess that one\u2026\n\n\ud83c\udfc3\u200d\u2640\ufe0f A long run to visit a friend, because apparently I now make house calls by foot\n\n\ud83c\udfc3\u200d\u2642\ufe0f Intervals with rock star friend + pacer Ben, who for some reason, continues to voluntarily participate in my nonsense\n\n\ud83d\ude02 An \u201capology tour\u201d park loop \u2014 because deep conversations are always better while moving your body\n\n\ud83d\udd25 Live Peloton class with Matt Wilpers + some of my favorite Pelo-friends\n\n\ud83d\udcaa Another live Tread with Mariana Fernandez, side-by-side with my bestie Sydney \u2014 who is about to CRUSH her 70.3 Half Ironman!!!\n\n\ud83d\udecb\ufe0f AN ACTUAL REST DAY. Please respect my privacy during this unprecedented time.\n\n\ud83c\udf4e\ud83c\udf6f A beautiful Rosh Hashanah run with my husband + 11-year-old son, who is 500 miles into his goal of running 800 miles this year for charity. Proud mom. \n\n\ud83c\udf27\ufe0f Urban Iron with my 15-year-old in the pouring rain: 8.6 miles, 3 gyms with strength workouts, a post-race cold plunge that didn\u2019t even make us any wetter than we already were, and an obscene amount of energy beverages that we accidentally thought were recovery beverages.\n\n\ud83c\udfc1 Holding the finisher tape at the NYRR 5th Avenue Mile \u2764\ufe0f This was such a cool life experience. \n\nAnd because I don\u2019t want to falsely advertise emotional stability during taper week\u2026\n\nA formal apology to my mahjong friends, who witnessed the portion of the taper where I VERY MUCH did not hold it together.\n\nTurns out ugly crying and mahjong are, in fact, compatible activities. \ud83d\ude02\ud83c\udc04\ufe0f"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/798477399_18631772533043699_5990632118758300734_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=e7wRSnUVVXoQ7kNvwFGwje2&_nc_oc=AdqkCJpR5KeUg1pFWT0Xv_-thoPVNH08GtyI8WCJf0uaJ40T6xc62Yz0mRRZe6T4Hc9yux701HYJnpf3we866HHm&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=YlB1UaWbPjAReAVMrWVBjw&_nc_ss=7f689&oh=00_AQO3ZNQzsEX3w37pVMRLouVcum2yMJfm2-DUEHm3vb2NAg&oe=6AC3EE2A",
+        "caption": "93 miles this week in the most unhinged, fun, \u201cRandi\u201d way ever\n\n\ud83c\udfc3\u200d\u2640\ufe0f Monday: A new 50K PR in a time trial with @dr.joelipsky biking alongside me for all 31.1 miles\n\ud83c\udf19 Thursday (Weds night?): An all-out 1-mile race through Times Square at 1AM with my son \n@orchardstreetrunners absolutely epic OSR1\n\ud83c\udfa5: Also Thursday: Live taping of a Peloton tread class with @mattwilpers \n\ud83d\udcaa Friday: A solo HYROX with @sydneysmith812 \u2014 and my husband cheering. And then getting to cheer for him! \n\ud83c\udfc5 Sunday: Carderock Trail Half Marathon in 1:45:43 \u2014 4th place woman, 1st in my age group!\nThanks @bishopseventsllc for the awesome event!\n\nPlus so many shared fun social miles and workouts in between with some of my favorite people. \n\nOn paper, 93 miles sounds like a pretty solitary pursuit. But even though it was tough and my body feels a bit wrecked, none of my favorite miles this week felt solo.\n\nThey looked like an incredible friend and coach pedaling beside me for hours. My son, who has become one of my favorite running partners, lining up with me at 1AM, laughing about how fun and crazy we are. A best friend willingly following me to DC to join my latest terrible idea. An amazing coach in @joecorcione encouraging me to push to new levels. And a husband who has apparently accepted that \u201cwhat are we doing this weekend?\u201d is now a dangerous question that includes destroying our bodies and eating a LOT of delicious carbs. \n\nI\u2019m proud of the miles and grateful for a body that carried me through my biggest training week ever.\n\nBut mostly, I\u2019m grateful for the people, the adventures, and the memories. \n\nAnd now, for my hardest endurance event of all: sitting down.\n\nThanks to @dhash for the incredible pics from OSR1"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/792863648_18630716542043699_6917902702379434852_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=RveWCfT_gnEQ7kNvwH-30fh&_nc_oc=AdrlqUMaXxy89hgYYls4CNUIwdFwHocakMcv44ytukiEdfY9yNvYZSC1v054_xCc-banqQp90YybAltXrcZQH8B6&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=YlB1UaWbPjAReAVMrWVBjw&_nc_ss=7f689&oh=00_AQN6-YeKqoeKm1WOJMwAB9en06vMhzCHiF7mDITDCIsVWw&oe=6AC40BA7",
+        "caption": "Normal mother-son activities: dinner, movies, a board game\n\nUs: racing one mile at 1am through Times Square \ud83c\udfc3\u200d\u2640\ufe0f\ud83c\udfc3\u200d\u2642\ufe0f\n\nDo I have a mini me or what?! \ud83d\ude02 \n\nSome families make memories during normal waking hours. We are not those families. \n\nThanks @orchardstreetrunners for the awesome vibes and great memories. \n\nSide note: Both Asher and I got PRs in the mile! Asher ran a 5:05 and I ran a 6:24!"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/791728332_18630522118043699_8230026325937470211_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=ULHsYCrwJHMQ7kNvwFurJmx&_nc_oc=Adoq9yA7FG0yoqXpmPV71BNwzlOHZjmQZd7GRdiBvI4ifBgUr2XWzrF902E9mWQtyWD84I_Ts_Q9BGFROOddGdSg&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=YlB1UaWbPjAReAVMrWVBjw&_nc_ss=7f689&oh=00_AQNI0HFw5YYfFInvfaGW2s8xnSMbxmrmW8ZXx4z4jKhqCA&oe=6AC402D5",
+        "caption": "I\u2019ve been thinking a LOT about pressure lately.\n\nThe pressure to perform. To lead. To win. To keep going when things get hard. And, as someone who thinks running 100 miles is a reasonable recreational activity \ud83d\ude02, I\u2019m endlessly fascinated by the question:\n\nWhat makes some people extraordinarily good under pressure?\n\nI\u2019m SO excited to share that after twelve years of my business talk radio show on SiriusXM, our show is back better than ever for our thirteenth year with a whole new relaunch:\n\n\ud83c\udf99\ufe0f UNDER PRESSURE with Randi Zuckerberg\n\nI\u2019ll be sitting down with some of the mentally toughest people I know across business, sports & life\u2014not just to hear what they accomplished, but also their failures, fears & moments they wanted to quit\u2026but didn\u2019t. What secret mental fortitude did they access to push beyond what most other people could not?\n\nBecause I want us to steal their secrets. \n\nAnd I could not imagine a more extraordinary first guest than Ali Feller. \ud83d\udc99 @aliontherun1 - Ali is one of the toughest, most resilient, badass women I have had the pleasure of getting to know - and through it all, has the most infectious smile, energy, and spirit. \n\nJoin us for a conversation where we dive into it all. \n\n\ud83c\udfa7 Under Pressure with Randi Zuckerberg\nSiriusXM Business Radio \u2022 Channel 132\nLIVE Wednesdays \u2022 12\u20131pm ET\nON DEMAND on the SiriusXM app after\n\nPressure is inevitable. Let\u2019s get better at it. \ud83d\udc99\n\nSpecial thanks to my amazing team: Dana, Brian & Rory!"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/792404218_18630006835043699_1905516718846811301_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=LZ_ZDKXDClkQ7kNvwHHFPh-&_nc_oc=AdoyzDXUEo0A3FXYx2JcSE7pa8YwTgusqhk8zZ5TrtU_zn4kD1mPT470Nd-POJCM_lejT8lKhxGmD0P7_WjwW8fa&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=YlB1UaWbPjAReAVMrWVBjw&_nc_ss=7f689&oh=00_AQP8iQUG1Esdhd6C56YxNJKEHSa0XlZ62qF05Vt6oPOnxA&oe=6AC3F756",
+        "caption": "I found a new puzzle and I\u2019m having so much fun being a beginner at it!\n\nRather than get increasingly good at surviving ridiculously long distances, @dr.joelipsky and I schemed that maybe this should be the summer of seeing how fast I could learn to run the 50k distance. It\u2019s a deceiving distance - on the surface, it\u2019s \u201conly five miles longer than the marathon\u201d - but in reality, those five extra miles feel like a whole entire marathon in themselves. \n\nEarlier in the summer, I ran a time trial 50k on a bike path, with Joe supporting me on the bike, and finished in 4:44 (a 9:07/mile pace). I loved it \u2014 but finished knowing there was a lot more there.\n\nSo we started playing around with new workouts, different types of long runs, and how to get the most out of tired legs.\n\nToday I went back to the exact same bike path, exact same starting time, Joe supporting me, and ran another 50K.\n\n4:31:46\n8:43/mile pace\n\nMore than 12 minutes faster.\n\nI\u2019m 44 years old. When I got back into running at age 41, my one mile PR was 9:30. It absolutely blows my mind that today I ran 31.1 miles at a pace almost a full minute a mile faster than that. I love that I have run almost every distance imaginable (and some distances that seem unimaginable!) and there are STILL so many completely new things to learn. \n\nOne of my favorite things about endurance sports is that you never reach a point where someone hands you a certificate saying, \u201cCongratulations, you\u2019re done. You have now discovered your full potential.\u201d\n\nYou just get to keep being entrepreneurial, keep finding new puzzles to solve, and keep pushing the limits."
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/786811424_18627990988043699_8631007941265494887_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=DmO16i_PqTIQ7kNvwHt3ycD&_nc_oc=AdrGHSB5iUK7UYRtpjCMLIwb9GxyNXaRWFijykWr8K1aYwp8w8N1JIRLDM7qP89e8YENOm6pobdDQHf7HX49jbbT&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=YlB1UaWbPjAReAVMrWVBjw&_nc_ss=7f689&oh=00_AQNZtKDl45_gXKqBCos0F7KCwtxsKNEN6Dzio70DqK4uYg&oe=6AC3FC22",
+        "caption": "I\u2019m well aware that running 100+ mile races as a 44 year old mom of three is\u2026.well\u2026unusual. \n\nI know most people have no desire to do it.\nI know there are WAY easier ways to see beautiful places.\nI know that eating quesadillas out of a folding chair at 2am while someone patches up 15 blisters on your feet is not everyone\u2019s idea of a good time.\n\nBut one of my favorite things about getting older is that I no longer need the things I love to make sense to anybody else.\n\nI love short races, too! You\u2019ll find me at tons of them! But I don\u2019t run ultramarathons simply because I haven\u2019t learned to \u201cjust be ok with fewer miles.\u201d I run them because I genuinely love what happens when the distance get long: the adventures, the places, the empowering confidence, the problem-solving, the ridiculousness of it all - and most importantly, the new tiny corners of myself that I discover along the way. \n\nIf your thing is 18 holes, go live your best life!\nIf your thing is knitting, knit the WHOLE DAMN BLANKET!\nAnd if your thing is running absurdly long distances while eating gas station snacks\u2026well, I\u2019ll probably see you out there! \n\nJust please don\u2019t expect me to make the thing that I love smaller, just because you could never see yourself enjoying it. We\u2019re old enough to know what brings us joy. We don\u2019t have to shrink it into something other people understand."
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/774033533_18623120980043699_8778526607047976332_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=xRnai4u7gY8Q7kNvwEJZAEI&_nc_oc=Adq_FqDi3fWecIUO8r6wh-5L3YTA_XiW671L6VXbS6sBR7UKrupFnSgdiyAW_1IZ2_ehWAnC-6HvXOyEuWEzvxho&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=YlB1UaWbPjAReAVMrWVBjw&_nc_ss=7f689&oh=00_AQMN1MG_GSqMwqXhjyMExMOip1j6_WdT9LG_cVbB7zs1PQ&oe=6AC3FAB4",
+        "caption": "Random Wednesday seemed like a perfect time to throw down a 50k road time trial! \n\nThanks to @dr.joelipsky\u2019s awesome motivation, bike support (and friendship) we emerged 4 hours and 43 minutes later with a shiny new PR for the 50k distance. 9:07 pace for 31.1 miles in the summer heat and humidity!"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/763618157_18620161321043699_8287585144778070580_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=2z2a8kZh454Q7kNvwHBnaVY&_nc_oc=AdrkWRsntFoM3IbtnBGZIDTVxRtl1ciPY370aKh-XDMH58ajQiYfOepjSiQFE8KA6WUHfgUn7yeO3c455s3biSZ9&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=YlB1UaWbPjAReAVMrWVBjw&_nc_ss=7f689&oh=00_AQMJ5HvXNYL6szaAZjEvDdD6QZJY_2uvB_3nuvdb_TSeUA&oe=6AC40C0E",
+        "caption": "If happiness came in a box\u2026\nLet\u2019s unbox this awesome care package from @devremon @runinrabbit full of the most beautiful, colorful items\nNow I need to sign up for more races, ASAP!"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/762180477_18619719682043699_611358732822017982_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=R8olF9IzhnsQ7kNvwHBQ9hT&_nc_oc=AdqOosBN22RsbwY9obZ-Fh1e0az4WsCXvSLEAstXVy-9ATQZRpGVtd4kspBaNbRDs2ibjBbuR-CgE3B8g49-pzQp&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=YlB1UaWbPjAReAVMrWVBjw&_nc_ss=7f689&oh=00_AQNFZRnKLHNx0Kg6cICwNFUdFtRK0M0CcP6vzXdyHXVHIw&oe=6AC3E838",
+        "caption": "Training in Tahoe at altitude.\nThe scenery was breathtaking.\nLiterally. \nThe altitude totally kicked my butt but the views were absolutely incredible. 10/10 would get humbled here again. \n\nThanks to @dr.joelipsky for supporting my long run on a bike, for enthusiastically agreeing to train in a place with 11/10 views and 3/10 oxygen just days after co-crewing Badwater 135 together, and for quite literally \u201criding at dawn\u201d with me all week long. Nobody else I\u2019d rather have as my ride-or-die from the depths of Death Valley to the heights of Tahoe. \n\nAnd special shoutout to my amazing sister @az who is back running like a beast just a few months post-partum. Nothing better than sharing sister miles!"
+      }
+    ]
+  },
+  "photo": "https://scontent.cdninstagram.com/v/t51.2885-19/441037339_802706941766057_4779141895137310564_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=101&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTcuQzMifQ%3D%3D&_nc_ohc=AAp6qg8DQREQ7kNvwHEwAiW&_nc_oc=AdoKRYPTdPXwKqjalQUymTNqgYLkb1ORl-bWhwP1d-XYE6k4Lnt7IP6Ky8NqSp9XZuAVk8TYNjs7tIUP6MQLe7wm&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=7f689&oh=00_AQMdLqpB6lpgMt3OHaB1v6c8UBUsP4YfYqlKqYygXd120Q&oe=6AC3F807",
+  "analysis": {
+    "name": "Randi Zuckerberg",
+    "oneLiner": "Ultra\u2011marathoner, mom of three, and tech\u2011savvy speaker who turns every race into a celebration.",
+    "summary": "Randi is a high\u2011energy entrepreneur and media personality who lives for the next endurance challenge. She balances a demanding public career\u2014hosting a SiriusXM show, speaking at tech conferences, and running a creative\u2011tech venture\u2014with a family life that includes three kids and a supportive husband. Her Instagram shows a ritual of early\u2011morning workouts, quirky family competitions, and a love for outdoor adventure, while her LinkedIn highlights her leadership roles and award\u2011winning creative projects. She craves partners who can match her ambition, share her love of movement, and appreciate her playful, purposeful approach to life.",
+    "location": "New York, New York, United States",
+    "ageRange": "unknown",
+    "career": {
+      "role": "Business Speaker, Radio Host, Founder of HUG",
+      "stage": "Established leader / serial entrepreneur",
+      "ambition": "Scale creative\u2011tech platforms, inspire innovation at the intersection of art, AI, and commerce"
+    },
+    "needs": [
+      {
+        "label": "Shared fitness drive",
+        "detail": "She regularly runs marathons, ultramarathons and does HYROX with her husband (Instagram post 4).",
+        "source": "instagram",
+        "confidence": 0.95
+      },
+      {
+        "label": "Family\u2011centric partnership",
+        "detail": "Posts about mother\u2011son 5K PRs, board games, and weekend races with kids (Instagram posts 5\u20116).",
+        "source": "instagram",
+        "confidence": 0.9
+      },
+      {
+        "label": "Intellectual curiosity",
+        "detail": "Talks about pressure, performance, and creativity on LinkedIn articles and podcasts (LinkedIn activity).",
+        "source": "both",
+        "confidence": 0.85
+      },
+      {
+        "label": "Support for her entrepreneurial ventures",
+        "detail": "She promotes HUG, AI art partnerships, and speaks at industry summits (LinkedIn posts).",
+        "source": "linkedin",
+        "confidence": 0.9
+      }
+    ],
+    "hobbies": [
+      {
+        "label": "Endurance running",
+        "detail": "11 marathons since Sep\u202f2023, 7 ultramarathons, 22x marathon/18x ultra listed in Instagram bio.",
+        "source": "instagram",
+        "confidence": 0.99
+      },
+      {
+        "label": "Group fitness classes",
+        "detail": "Celebrated her 1,000th OrangeTheory class (Instagram post 3).",
+        "source": "instagram",
+        "confidence": 0.95
+      },
+      {
+        "label": "Family competitions",
+        "detail": "1\u2011am Times Square mile race with her son, board game nights (Instagram posts 5\u20116).",
+        "source": "instagram",
+        "confidence": 0.9
+      },
+      {
+        "label": "Travel for training",
+        "detail": "Training in Tahoe at altitude, Miami 100\u2011mile ultra (Instagram posts 2,12).",
+        "source": "instagram",
+        "confidence": 0.9
+      },
+      {
+        "label": "Podcast/Radio hosting",
+        "detail": "Hosts a SiriusXM show and mentions a 12\u2011year business talk radio show (Instagram bio).",
+        "source": "instagram",
+        "confidence": 0.85
+      }
+    ],
+    "interests": [
+      {
+        "label": "Tech & AI creativity",
+        "detail": "Shares articles about AI art, .ART domains, and partnerships with Stability AI (LinkedIn posts).",
+        "source": "linkedin",
+        "confidence": 0.9
+      },
+      {
+        "label": "Behavioral health innovation",
+        "detail": "Emcee for Catalyst at BHASe Summit, supporting founders in behavioral health (LinkedIn post).",
+        "source": "linkedin",
+        "confidence": 0.85
+      },
+      {
+        "label": "Commercial real estate tech",
+        "detail": "Keynote speaker at ICSC+PROPTECH discussing retail\u2011real\u2011estate tech (LinkedIn activity).",
+        "source": "linkedin",
+        "confidence": 0.85
+      },
+      {
+        "label": "Running community building",
+        "detail": "Hosts NYC Prep sessions, runs club events, and engages with NYRR (Instagram bio).",
+        "source": "instagram",
+        "confidence": 0.95
+      },
+      {
+        "label": "Personal development under pressure",
+        "detail": "Reflects on pressure, performance, and resilience in caption about 100\u2011mile races (Instagram post 7).",
+        "source": "instagram",
+        "confidence": 0.9
+      },
+      {
+        "label": "Creative storytelling",
+        "detail": "Three Tony Awards listed in LinkedIn headline, indicating involvement in entertainment production.",
+        "source": "linkedin",
+        "confidence": 0.8
+      }
+    ],
+    "values": [
+      {
+        "label": "Ambition & achievement",
+        "detail": "Multiple marathon/ultra finishes, Tony Awards, and entrepreneurial milestones (both).",
+        "source": "both",
+        "confidence": 0.95
+      },
+      {
+        "label": "Family & community",
+        "detail": "Frequent mentions of her kids, husband, and group workouts (Instagram posts 3\u20116).",
+        "source": "instagram",
+        "confidence": 0.95
+      },
+      {
+        "label": "Curiosity & learning",
+        "detail": "Shares free courses, explores AI art, and discusses pressure psychology (LinkedIn posts, Instagram post 7).",
+        "source": "both",
+        "confidence": 0.9
+      },
+      {
+        "label": "Health & resilience",
+        "detail": "Commitment to high\u2011volume training, altitude runs, and recovery strategies (Instagram posts 1\u20112,12).",
+        "source": "instagram",
+        "confidence": 0.9
+      }
+    ],
+    "personality": [
+      {
+        "trait": "Openness",
+        "score": 88,
+        "note": "Explores new tech (AI art), creative projects (Tony Awards), and unconventional training (ultras)."
+      },
+      {
+        "trait": "Conscientiousness",
+        "score": 92,
+        "note": "Tracks mileage, PRs, and maintains a disciplined training schedule."
+      },
+      {
+        "trait": "Extraversion",
+        "score": 80,
+        "note": "Hosts public events, runs group races, and engages large audiences on social media."
+      },
+      {
+        "trait": "Agreeableness",
+        "score": 78,
+        "note": "Shows warmth in family posts, collaborative spirit in community races."
+      },
+      {
+        "trait": "Emotional Stability",
+        "score": 70,
+        "note": "Open about pressure but frames it as a growth opportunity; high endurance suggests resilience."
+      }
+    ],
+    "lifestyle": [
+      {
+        "label": "Pace",
+        "value": "Fast\u2011paced, goal\u2011driven"
+      },
+      {
+        "label": "Social energy",
+        "value": "High \u2013 thrives in group workouts and public speaking"
+      },
+      {
+        "label": "Fitness",
+        "value": "Ultra\u2011endurance athlete, daily training"
+      },
+      {
+        "label": "Travel",
+        "value": "Frequent \u2013 races and training trips (Miami, Tahoe, NYC)"
+      },
+      {
+        "label": "Work\u2011life",
+        "value": "Integrated \u2013 blends family, fitness, and entrepreneurship"
+      }
+    ],
+    "communicationStyle": "Direct, enthusiastic, and peppered with humor; loves sharing data (miles, PRs) and storytelling.",
+    "loveLanguage": "Acts of Service (training together, supporting race logistics) and Quality Time (family races, shared adventures).",
+    "lookingFor": "A partner who can keep up on the trails, cheer her on at the finish line, and engage in deep conversations about creativity and impact.",
+    "greenFlags": [
+      "Enjoys regular exercise and can join her for early\u2011morning runs.",
+      "Values family time and is comfortable with playful competition.",
+      "Has curiosity about tech, art, or entrepreneurship."
+    ],
+    "watchOuts": [
+      "May prioritize training over downtime; needs someone who respects her schedule.",
+      "High ambition can translate to intense focus on goals, requiring emotional balance."
+    ],
+    "dealbreakers": [
+      "Disinterest in fitness or unwillingness to support her race commitments.",
+      "Lack of respect for her entrepreneurial pursuits."
+    ],
+    "idealFirstDate": "Morning hike to a scenic overlook followed by a post\u2011trek brunch where you can swap stories about your biggest challenges.",
+    "conversationHooks": [
+      "Ask about her favorite ultra\u2011marathon moment and what she learned about pressure.",
+      "Discuss the intersection of AI art and storytelling.",
+      "Share a quirky family tradition you have and ask about hers.",
+      "Talk about a recent book or podcast that sparked a new idea."
+    ],
+    "agentVoice": "Enthusiastic, witty, and slightly sporty\u2014think a friendly race\u2011coach who can drop a clever tech metaphor while laughing at a goofy dad\u2011joke.",
+    "readingNotes": [
+      "Her LinkedIn headline packs achievements (marathons, Tony Awards, radio) \u2013 she loves showcasing milestones.",
+      "Instagram bio repeats marathon stats, adding board memberships \u2013 she values community leadership.",
+      "Posts blend professional promos with personal race recaps, showing little separation between work and play.",
+      "Frequent mentions of her husband and kids in training contexts reveal family as a core support system.",
+      "She celebrates tiny victories (1,000th OTF class, 5K PRs with son) \u2013 ritualized celebration is important to her.",
+      "Talks about pressure and performance openly, indicating a reflective side beyond the athlete persona."
+    ]
+  },
+  "gender": "woman",
+  "seeking": "men",
+  "genderSource": "inferred",
+  "genderEvidence": "The profile text explicitly identifies her as \"Mom x 3\" and an Instagram caption states she achieved \"First place female\" in a race.",
+  "shortlist": null
+}

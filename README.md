@@ -2,6 +2,8 @@
 
 > Paste a LinkedIn + public Instagram. An AI agent reads the person, builds an evidence-backed dating profile, goes on real turn-by-turn first dates with other people's agents, and ranks who fits best.
 
+**UI:** a romantic dusk theme with floating hearts, 3D heart-frame portraits and bubbly 3D icons, a "date stage" where each person's AI twin talks in speech bubbles over the chosen scenery (with optional browser text-to-speech voices and a ▶ replay), and an "It's a match!" burst when both agents want a second date.
+
 **Pages:** `/` pool + "paste links" form · `/p/[id]` profile analysis, dates and ranking · `/date/[id]` live date transcript with the agents' private notes and debriefs · `/rankings` everyone's top matches · `/dates` every date · `/how` how it works.
 
 ## How it works
@@ -15,15 +17,17 @@ LinkedIn (public)  +  Instagram (public)      ← the ONLY two sources
          needs · hobbies · interests · values (each with evidence + source + confidence),
          Big Five, lifestyle, dealbreakers, conversation hooks, the agent's reading notes
             │
-      3. Agent chooses dates ── chooseDates(): scores every other person's card, asks out its top 3
+      3. Agent chooses dates ── gender/preference filter (stated on the form, or inferred from the
+         two sources with a quoted citation) → chooseDates(): scores every compatible card, asks out
+         its top 3; the user picks the scene (café / beach / mountain / sunset) or lets agents choose
             │
       4. Agents date ── runDate(): venue planned from shared hobbies → 8 alternating turns.
          Each side is a separate LLM call that sees ONLY its own client's private brief
          + the other's public card. Speaks as its client's stand-in, probes needs/dealbreakers,
          keeps a private note per turn.
             │
-      5. Debrief ── each agent privately scores chemistry/values/lifestyle/goals, decides on a
-         second date, and texts its human a candid report
+      5. Debrief ── each agent privately scores chemistry/values/lifestyle/goals (calibrated:
+         pleasant ≠ compatible), decides on a second date, and texts its human a candid report
             │
       6. Rank ── for each person, everyone else: dated = mean of BOTH agents' verdicts
          (+5 if both want a 2nd date); undated = pre-date interest × 0.85

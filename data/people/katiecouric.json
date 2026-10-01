@@ -1,0 +1,451 @@
+{
+  "id": "katiecouric",
+  "createdAt": 1790850152303,
+  "linkedinUrl": "https://www.linkedin.com/in/katiecouric/",
+  "instagramUrl": "https://www.instagram.com/katiecouric/",
+  "status": "ready",
+  "datingStatus": "idle",
+  "log": [
+    {
+      "t": 1790850152304,
+      "step": "Opening Instagram",
+      "detail": "https://www.instagram.com/katiecouric/"
+    },
+    {
+      "t": 1790850152305,
+      "step": "Read Instagram @katiecouric",
+      "detail": "12 recent posts, bio: \u201cFood influencer\nCo-founder of @katiecouricmedia \n\ud83d\udce7 Subscribe to my newsletter W\u201d \u00b7 via instagram-crawler-html (Mozilla)"
+    },
+    {
+      "t": 1790850152305,
+      "step": "Opening LinkedIn",
+      "detail": "https://www.linkedin.com/in/katiecouric/"
+    },
+    {
+      "t": 1790850152307,
+      "step": "Read LinkedIn: Katie Couric",
+      "detail": "Co-Founder \u00b7 10 posts/articles \u00b7 via linkedin-public-page via jina reader"
+    },
+    {
+      "t": 1790850152307,
+      "step": "\u2713 Identity check",
+      "detail": "LinkedIn and Instagram names match"
+    },
+    {
+      "t": 1790850152308,
+      "step": "Agent is reading both profiles",
+      "detail": "cross-referencing career, captions and photos"
+    },
+    {
+      "t": 1790850274095,
+      "step": "Profile analysis complete",
+      "detail": "Journalist\u2011turned\u2011media founder who blends serious advocacy with a love for coffee, food, and playful curiosity."
+    },
+    {
+      "t": 1790850795947,
+      "step": "Identified as a woman, looking for men",
+      "detail": "The text refers to her as 'America's sweetheart' and quotes her discussing experiences of 'women' in the first person."
+    }
+  ],
+  "linkedin": {
+    "source": "linkedin",
+    "method": "linkedin-public-page via jina reader",
+    "slug": "katiecouric",
+    "url": "https://www.linkedin.com/in/katiecouric",
+    "name": "Katie Couric",
+    "headline": "Co-Founder",
+    "about": "Founder of Katie Couric Media, award-winning journalist, best-selling author and documentary filmmaker of \"Fed Up,\" \"Gender Revolution\" and \"America Inside Out\". I hosted The Today Show, CBS Evening News, was a Special Correspondent for ABC News and Global Anchor for Yahoo News. Also: Cancer advocate, coffee lover and full-time New Yorker!",
+    "location": "New York, New York, United States",
+    "profilePic": "https://media.licdn.com/dms/image/v2/D4E03AQFCNvW4wex3Lw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1707158724401?e=2147483647&v=beta&t=FPdr2dSRE12S5Q3XyZNyLG6kOhtDzctuF8jWyC4rbFs",
+    "followers": 645230,
+    "experience": [
+      {
+        "title": "Co-Founder Katie Couric Media Jun 2018 - Present 8 years 5 months New York, New York, United States"
+      },
+      {
+        "title": "Executive Producer \"America Inside Out with Katie Couric\" Apr 2018 - May 2018 2 months"
+      },
+      {
+        "title": "Yahoo Global News Anchor Yahoo Mar 2014 - Jul 2017 3 years 5 months New York City Metropolitan Area"
+      },
+      {
+        "title": "Executive Producer Gender Revolution: A Journey with Katie Couric May 2016 - Feb 2017 10 months"
+      },
+      {
+        "title": "Host, \"The Katie Show\" Disney ABC Television Group Sep 2012 - Jun 2014 1 year 10 months New York City Metropolitan Area"
+      },
+      {
+        "title": "Executive Producer and Narrator Fed Up 2013 - 2014 1 year A documentary about the alarming spread of childhood obesity in the United States."
+      },
+      {
+        "title": "Special Correspondent ABC News Aug 2011 - Dec 2013 2 years 5 months New York City Metropolitan Area Contributed to ABC World News, Nightline, 20/20, Good Morning America, This Week and primetime news "
+      },
+      {
+        "title": "Anchor, CBS Evening News CBS News 2006 - 2011 5 years New York City Metropolitan Area"
+      }
+    ],
+    "education": [
+      {
+        "org": "\"America Inside Out with Katie Couric\"",
+        "start": "2018-04",
+        "end": "2018-05"
+      },
+      {
+        "org": "Yahoo",
+        "start": "2014-03",
+        "end": "2017-07"
+      },
+      {
+        "org": "Gender Revolution: A Journey with Katie Couric",
+        "start": "2016-05",
+        "end": "2017-02"
+      },
+      {
+        "org": "Disney ABC Television Group",
+        "start": "2012-09",
+        "end": "2014-06"
+      },
+      {
+        "org": "Fed Up",
+        "start": 2013,
+        "end": 2014
+      },
+      {
+        "org": "ABC News",
+        "start": "2011-08",
+        "end": "2013-12"
+      },
+      {
+        "org": "CBS News",
+        "start": 2006,
+        "end": 2011
+      },
+      {
+        "org": "NBC News",
+        "start": 1991,
+        "end": 2006
+      }
+    ],
+    "languages": [],
+    "posts": [
+      {
+        "kind": "article",
+        "text": "An A-List Conversation",
+        "date": "2026-06-03T19:21:35.000+00:00"
+      },
+      {
+        "kind": "article",
+        "text": "Follow Me...",
+        "date": "2026-04-08T18:42:27.000+00:00"
+      },
+      {
+        "kind": "article",
+        "text": "Where Do You Fall?",
+        "date": "2026-03-12T17:34:34.000+00:00"
+      },
+      {
+        "kind": "article",
+        "text": "Ups and Downs",
+        "date": "2026-02-26T19:50:40.000+00:00"
+      },
+      {
+        "kind": "article",
+        "text": "The Founders of Fitbit Are Back With a Bold New Idea \ud83d\udca1",
+        "date": "2026-02-12T20:32:00.000+00:00"
+      },
+      {
+        "kind": "article",
+        "text": "Eight Questions With \"The Man Who Dressed America\"",
+        "date": "2026-01-29T18:06:17.000+00:00"
+      },
+      {
+        "kind": "article",
+        "text": "Miles Ahead: A Conversation With Expedia\u2019s CEO",
+        "date": "2026-01-15T20:10:28.000+00:00"
+      },
+      {
+        "kind": "article",
+        "text": "Words of Wisdom",
+        "date": "2026-01-01T18:24:59.000+00:00"
+      },
+      {
+        "kind": "article",
+        "text": "Leaning Out?",
+        "date": "2025-12-18T19:01:12.000+00:00"
+      },
+      {
+        "kind": "article",
+        "text": "Knock, Knock: The Founder of Ring Opens Up",
+        "date": "2025-12-04T18:38:15.000+00:00"
+      }
+    ],
+    "activityText": " Katie Couric Katie Couric 2mo Katie Couric shared this An hour of being serious and silly at the same time, which I've spent a whole career being told you're not supposed to do. Thank you Connor Diemand-Yauman ! Connor Diemand-Yauman Connor Diemand-Yauman 2mo Katie Couric shared this For years, Katie Couric struggled with which identity to bring to work. \"People often aren't allowed in a professional setting to be multi-dimensional,\" she told me during our latest episode of Is This Working?! (out today). \"You're put in a box, and people have a hard time if they can't categorize you.\" I've been thinking about that ever since. Identity and work is such a rich, perplexing topic--and not just for America's sweetheart. On the one hand, we're programmed to be excellent at work. To find that Goldilocks zone of kind but firm, humble but decisive, serious but lighthearted (\"but never too silly...\" a mentor once told me). On the other, we're told that work should be the fullest, most authentic expression of who we are. Like our job is the Rorschach test of our soul (no pressure!). But what I realized after this interview was that the very tension that Katie Couric struggled with for years--Katherine or Katie, serious journalist or smiley cutup--is exactly what made her irreplaceable. Nobody else could grill a sitting president at 7:05, then fly across Rockefeller Plaza dressed as Peter Pan flinging confetti at 8:43. Which makes me wonder: how many of us are sanding off our messy contradictions at work in service of picking a lane? In this conversation, Katie and I go deep on this topic and lots more. I couldn't believe how unfiltered she was: how fame fucked with her head, what she's still thin-skinned about, what her late husband Jay told her at the end of his life about what really matters. Plus pickleball, breast milk, and a report card grading my interview chops. If you filed Katie Couric under \"Serious Important Newswoman\" and never got to see her be heartbroken and hilarious in the same beat, I think you'll really like this one. Watch the full episode here: https://lnkd.in/gwiBYy3b . And I'm genuinely curious: how have you thought about balancing (or not) your many identities at work and life? Katie Couric Katie Couric 3mo Katie Couric shared this Calling all Scarlett Johansson fans \u2014 and skincare addicts! Here's the 411 on how to get our exclusive interview with the founder of The Outset , coming this Friday. \u2b07\ufe0f An A-List Conversation An A-List Conversation Katie Couric Katie Couric Katie Couric 5mo Katie Couric shared this Thank you, Variety and Michael Schneider, for explaining Katie Couric Media to the world. I\u2019m so proud of our team and what we\u2019ve built and continue to build. This is for the occasional person who walks up to me and asks if I\u2019m retired! PS: And thank you for letting me vent about the state of journalism today! https://lnkd.in/ekqxEGpv Katie Couric on Her Indie Era, Media Companies\u2019 \u2018Capitulation\u2019 to Trump, Network News \u2018Blurring"
+  },
+  "instagram": {
+    "source": "instagram",
+    "method": "instagram-crawler-html (Mozilla)",
+    "username": "katiecouric",
+    "url": "https://www.instagram.com/katiecouric/",
+    "fullName": "Katie Couric",
+    "bio": "Food influencer\nCo-founder of @katiecouricmedia \n\ud83d\udce7 Subscribe to my newsletter Wake-Up Call\n\ud83c\udf99\ufe0fNext Question podcast \n\ud83d\udd38Find me on Substack: Katie Couric",
+    "followers": 2366799,
+    "following": 5503,
+    "postsCount": 5636,
+    "isVerified": true,
+    "isPrivate": false,
+    "profilePic": "https://scontent.cdninstagram.com/v/t51.82787-19/686915174_18584911900021708_6967998000779310322_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Dc-Ogh4A8NMQ7kNvwH5CnK0&_nc_oc=AdqNkD1UTy_imWK7h29Opcye4C-y6eTVWuBXYlchfzgXcF1_PsoB1-xlWbkcFNdc9-FwpJi5jFN3TPqMJadiefdH&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Q92HR97c3BI4DU6PATl7AA&_nc_ss=7f689&oh=00_AQN7EC-u2Y6EgKeZt7ymfp-q9_IaWnjNf3Gd3ro5tmTS_w&oe=6AC3EB39",
+    "posts": [
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/828443377_18630941152021708_6370245724753409601_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=1&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=NOatg62roAcQ7kNvwFFqLrH&_nc_oc=Adr3CAHTuhhwjRDxddIlFmWxgaNOZ0fFgfm-J38ILIg_KkJ-qUb_S4OiEnbWLDsM9Mxb2aTwlQii02v-mVbQyNbe&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=UHItwcnst6jZB9E72uJmtA&_nc_ss=7f689&oh=00_AQPEkljPlOd5rC8VURJNPnTr1XuWT0EPwmSPtZ1n_rU85g&oe=6AC4173A",
+        "caption": "The Cornell case has unleashed a torrent of first-person accounts from women revisiting traumatic experiences they had long kept buried. Here are just a few of them."
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/829225822_1083398084431951_5634649464290712481_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=RvbyULQuYXcQ7kNvwH8u5Jv&_nc_oc=AdrHK8SxSjQlfkabolr8GwW8u5N0Sn8bA9I5T0PnEG7Hd1lqqmz1y6-lgWEXiKqdt3phcVYm0pC3kyD1NmiB-E6X&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=UHItwcnst6jZB9E72uJmtA&_nc_ss=7f689&oh=00_AQO646Dsq4yVl2TR2BApQ8KgxJzPZt2CneneBfogsK0UNw&oe=6AC4141C",
+        "caption": "In the never admit you\u2019ve made a mistake department, @tmztv caught up with Sen. Eric Schmitt after #JackSmith hearing on Tuesday to ask about the Atlanta Hawks\u2013Iowa Hawkeyes basketball game mix-up. Watch what the senator had to say about the exchange. \ud83d\udc40\n\n#Repost @tmztv"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/825320799_1127231413326923_893100774252237554_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=QnJKpKE_rnAQ7kNvwEApbFb&_nc_oc=Adqlmiq0tFmHG56hslEuAZw8djzGUlP7hW9bPgOY8ciT7bTadWUNd59Oc_XyN7V7OiitkEyB23iKomekEGk5Zp4q&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=UHItwcnst6jZB9E72uJmtA&_nc_ss=7f689&oh=00_AQO1FkgT2GItIQYktHVd3EIhHVQbpjTQrBMbKomgp5F3CQ&oe=6AC41924",
+        "caption": "This was truly unbelievable.  In a much-talked-about exchange during Tuesday\u2019s hearing, Sen. Eric Schmitt accused former special counsel Jack Smith of attending an Atlanta Hawks NBA basketball game on February 3, 2024. It appears Sen. Schmitt was attempting to show that Smith had perjured himself and was involved in a plot with Atlanta prosecutors to take down Trump. (FYI: Around this time, Atlanta prosecutor Fani Willis was leading a criminal investigation into Trump that was mired in drama and was eventually dropped last fall.)\n\nDuring the hearing, Sen. Schmitt showed a poster board, held up by Louisiana Sen. John Kennedy (who, during the hearing, said that Smith made him want to \u201cthrow up in my mouth\u201d), displaying text messages among Smith\u2019s team about a basketball game. A different basketball game. Schmitt and his staff had mixed up the Atlanta Hawks with the IOWA Hawkeyes\u2026.a women's basketball game Smith had attended when they played at the University of Maryland.\n\nWhen Smith denied attending the Atlanta Hawks game in February, Sen. Schmitt called Smith a \u201cdirtbag\u201d and said, \u201cI think you\u2019ve already perjured yourself.\u201d\n\nSen. Amy Klobuchar invited Smith to respond to Schmitt\u2019s accusation, at which point he clarified that he was at a women\u2019s NCAA basketball game in Maryland that night, not Atlanta. Sen. Klobuchar suggested that Schmitt had confused the Atlanta Hawks with the Iowa Hawkeyes. After the hearing, Klobuchar posted on X: \u201cBefore calling someone a \u2018dirtbag,\u2019 the Senator should have had his facts straight. An apology is in order.\u201d\nBut wait! There\u2019s more: Senator Eric Schmitt is being mentioned as a possible JD Vance running mate for 2028. Axios reported that Schmitt has grown close to Vance and is viewed as a \u201ctop prospect.\u201d Its sources say Vance considers him trustworthy, intelligent and politically skilled. \ud83d\ude33\n\n\ud83d\udcf9: CSPAN"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/828831418_18630554542021708_8248717211977176405_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=xz_dQWQgFnsQ7kNvwHseYKA&_nc_oc=AdomkcvGMxQI4iqHLD6PD6PB2cmk3Qpsd5DwrjhqHNv-CmJabZ3Wuauw0D38MJI0gatWIKprcDLkPyp7Uby2UhsE&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=UHItwcnst6jZB9E72uJmtA&_nc_ss=7f689&oh=00_AQPIVJPuZHEuTHAjgkOyWrVQDydY1Oe7OeOad7n0Os8YYA&oe=6AC402C8",
+        "caption": "Happy Pub Day! So fun interviewing my friend Danny Meyer the\ud83e\udd34of hospitality and author of the new book \u201cWhat Could Possibly Go Right?\u201d Twenty years after \u201cSetting the Table\u201d Danny talks about his successes but more importantly his failures and what he\u2019s learned along the way. Danny is SUCH a high quality person. I think you all will love his new book because while his \u201claboratory\u201d is the restaurant business, the takeaways can be applied to anyone wanting to succeed.  Thank you Danny! \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f PS. My assistant Alyssa who produced this interview and I celebrated where else but @shakeshack !!!!! \ud83c\udf54\ud83e\udd64\ud83d\ude0b\n\nWatch my full interview with Danny on YouTube (link in bio) or listen wherever you get your podcasts!"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/828871898_18629946856021708_3945411473989758034_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=LM_CTIOCaOcQ7kNvwEWd5FT&_nc_oc=AdqSDHDNxK8IajFf42BqtyH4VcTkKO6ZaayIQDyByPQyrE80XMfliPlkPnhXyOsswfgjYjA5Xxui6DID3N53FeOO&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=UHItwcnst6jZB9E72uJmtA&_nc_ss=7f689&oh=00_AQP8P7qctNdnDY9jveffO0D5Dye5J6TsNxI_TZbFjNSWmQ&oe=6AC3ED58",
+        "caption": "I was scheduled to interview @gloriasteinem tonight about her wonderful new book \u201cAn Unexpected Life.\u201d \ud83d\ude22 Instead I will be moderating a panel about her extraordinary 92 years on the planet.  Here is a video I took of the front of Gloria\u2019s townhouse a week after her death.  It\u2019s beautiful tribute to her (I love the bra and the aviators) If you\u2019re coming to the @92ndstreety tonight I will see you there! \u2764\ufe0f"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/825322636_1656492965842727_1290822813768428935_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=anR8H_B1VxQQ7kNvwFtSYIb&_nc_oc=Adrg2wrjYNMNAFmT1ffntLBhPIx3WHpW6CFApeg1wW9bbIbbpIBzR6K4ZsaVzieafZnez1LLO9Yw8D9ZmyEhLytA&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=UHItwcnst6jZB9E72uJmtA&_nc_ss=7f689&oh=00_AQPtXrVdfRp_7m6eufvuQqkEK_wNIaaCIPLgorAPZ5lwSw&oe=6AC42121",
+        "caption": "It was such a treat to have @thisispattismith in our studio earlier this month to talk about her beautiful book, Bread of Angels, which is a work of gratitude to the people who shaped her life.\n\nBread of Angels is now out in paperback. You can watch our full conversation on my YouTube channel (link in bio) or listen wherever you get your podcasts."
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/825322807_18629565730021708_7059197576040484684_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=1F8RnJOZ38MQ7kNvwHfrw45&_nc_oc=AdpnCRfDn63jhqIuRKEWKOK0H3xdSfrFUfIW9PtrrpKUGDZ8SFglH0R1lHD9FFuN6_CYKIbHWdDyaJbmpntNavK7&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=UHItwcnst6jZB9E72uJmtA&_nc_ss=7f689&oh=00_AQPaXG-O3gLDCycb24OH2fGMEnzIPOzFYfM_Xy3Jgqlcuw&oe=6AC3F80E",
+        "caption": "This is one of the most consequential elections of my lifetime. So consider this a reminder friends! \n\nIf you want to make sure your vote counts this year, make a plan now:\n\n1. Go to Vote.gov\u2060\ufffc, choose your state, and check your registration\u2014even if you\u2019ve voted before. Update it if you\u2019ve moved or changed your name.\n\n2. Check your state\u2019s deadlines and decide whether you\u2019ll vote early, by mail, or in person on Election Day.\n\n3. Look up your polling place, hours, and any ID requirements before you go.\n\n4. Put your voting plan on your calendar. If voting by mail, request and return your ballot early.\n\nQuestions or trouble voting? Call or text the nonpartisan Election Protection hotline: 866-OUR-VOTE (866-687-8683).\n\n \u201cSomeone struggled for your right to vote. Use it.\u201d\n\u2014Susan B. Anthony (historical rock star and badass) \n\n\u201cEvery election is determined by the people who show up.\u201d\n\u2014-Larry Sabato (my friend and founder and director of the Center for Politics at @uva) \n\n\ud83c\uddfa\ud83c\uddf8\ud83d\uddf3\ufe0f\ud83d\uddfd\ud83c\uddfa\ud83c\uddf8\ud83d\uddf3\ufe0f\ud83d\uddfd\ud83c\uddfa\ud83c\uddf8\ud83d\uddf3\ufe0f\ud83d\uddfd\ud83c\uddfa\ud83c\uddf8\ud83d\uddf3\ufe0f\ud83d\uddfd\ud83c\uddfa\ud83c\uddf8\ud83d\uddf3\ufe0f"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/825324108_2115633779846125_2632777962992159692_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=zCpe75L-rpQQ7kNvwH5h2Z9&_nc_oc=AdpmZ4eTDVsllIIinmQfHJ4UqXghzZ6zPZi3GqIayUz2CzlDywapI9QB9NdtuZmJYm23vpl02lOIHu7prpxlOheT&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=UHItwcnst6jZB9E72uJmtA&_nc_ss=7f689&oh=00_AQM9ypyhbHc6Uv6bDRvcd8fs1sv-_r7UixmvXiNRq-cqgA&oe=6AC3FD30",
+        "caption": "Earlier this week, Paramount Skydance reached a settlement with California Attorney General Rob Bonta and 11 other states that had sued to block its proposed $110 billion merger with Warner Bros. Discovery, clearing a major hurdle for the deal.\n\nThe merger would bring together two historic film studios, Paramount and Warner Bros.; two popular streaming platforms, Paramount+ and HBO Max; and two news organizations, CBS News and CNN, under the leadership of David Ellison.\n\nWhile Bonta praised the terms of the settlement, he made clear that it did not mean he supported the merger, saying, \u201cThis settlement is not a vote of support for this merger.\u201d\n\nAs part of the agreement, the combined company will be required to release at least 30 films a year for the first two years and 32 films a year for the following three years, with financial penalties if it falls short. Paramount also agreed to invest more than $1 billion in U.S. production and film releases and establish independent editorial boards overseeing CNN and CBS News.\n\nWhen I spoke with Marc Elias (@democracydocket) on my podcast, I asked him about the merger and what it could mean for CNN and the broader media landscape. Marc has been outspoken about his concerns, telling me that if Ellison takes control of CNN, he believes it would be \u201cincredibly dangerous\u201d and \u201cdamaging to democracy.\u201d\n\nWatch our full conversation at the link in my bio."
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/825323407_18629490022021708_890874896253079722_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=fqFzMDprTn8Q7kNvwHz3_aP&_nc_oc=AdrTKaz3KVbLUtVtlUWJ11FUmZxysqK64s_Zt6U3qbJNO1gSZtnQVZsJ_uTX68-qNZZ5dpsWhdQybQKjromuho3p&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=UHItwcnst6jZB9E72uJmtA&_nc_ss=7f689&oh=00_AQPmUtiwUncCj6RsgMwctr6rAlxA0627f05sClOW1rF0vw&oe=6AC3F3A1",
+        "caption": "Trump escalated his war with the media by blocking CNN from joining him on Air Force One as he travels to Knoxville, Tennessee  on Saturday to attend a college football game, a CNN spokeswoman confirmed. According to @npr, CNN was replaced by the conservative network Real America\u2019s Voice News.\n\nThe news comes just after Trump\u2019s ban on CNN, MS NOW, and Politico journalists lifted and network pool coverage was up and running again. CNN\u2019s spot on Air Force One was reserved for a member of the U.S. network video pool, which Real America\u2019s Voice News is not part of. \n\nThis is a developing story.\n\n\ud83d\udcf7: Getty/Johnny Louis"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/825323365_18629285245021708_8427927711171658902_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=DcgTB4rWlsUQ7kNvwEYLtiE&_nc_oc=Ado1irU_ajN_fFtGPqiwZuSHmsGEjLUe9CKVegxZnnpY34XdgTgSnDM8A82Al5IpwSZiYWbVFM9kPTJH2f_SAWRP&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=UHItwcnst6jZB9E72uJmtA&_nc_ss=7f689&oh=00_AQO7ntDaEusSI2N52RHsz3IerCgWPnzgsrQxuKFKM9t7ug&oe=6AC40F04",
+        "caption": "\u201cGenuine emergency.\u201d\n\nThat\u2019s how @scaramucci describes the current moment in Washington, arguing that the administration is testing the limits of presidential power and the institutions meant to check it.\n\nIn this conversation, the Mooch and I discuss the role of the courts, the administration\u2019s approach to power and conflict, and what it could all mean heading into the midterms.\n\nWatch the full conversation on YouTube (link in bio) or listen wherever you get your podcasts."
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/819236727_18629169784021708_2640848245182245073_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=tpt4p4CtK3IQ7kNvwEnQk7F&_nc_oc=AdpZl_765ri-Dqi1NnYtDlJhuVRnIolLevOOgykfYYrj7Ffha9-aOPQEcEvVk4lkitQ6N9pIKJq-7ySitmqNPjSW&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=UHItwcnst6jZB9E72uJmtA&_nc_ss=7f689&oh=00_AQMQItr1lPF34k6CLR-DQRXmQ5Z9W9xjPVWOWW-MJUQxcA&oe=6AC3F230",
+        "caption": "The major TV networks\u2013CNN, Fox News, ABC, CBS, and NBC\u2013 will resume their pool coverage of Trump on Friday, after they received confirmation from the Trump administration that CNN would be allowed back into the pool rotation. On Thursday evening, the White House denied CNN and MS NOW journalists from covering the arrival of Chinese leader Xi Jinping to the White House for a state dinner. @cnn reported that other television networks were allowed to cover the event. The White House allowed CNN to send a photo journalist and audio technician to the event, but not a reporter and producer who tried to gain access.\n\nXi Jinping's visit to the White House hasn\u2019t been covered on major American networks so far. On Truth Social, Trump posted that the networks had \u201crefused\u201d to cover the event, not mentioning that outlets were barred from the grounds. On Thursday morning, despite having their press access restored overnight by a federal judge, some reporters from CNN, Politico, and MS NOW were still denied access to the White House. Their credentials have been restored as of Thursday afternoon. \n\n\ud83d\udcf7: AP Photo/Alex Brandon"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/818909691_18628973710021708_7832121622084670979_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=iyAgVQTgOBQQ7kNvwGQ7K6g&_nc_oc=AdriMst-8HO4a8iXTKUHPrZ1PbzWkdFZhslIKQGNe0rkAXYC0t4yfJP3fiv2igYtgQ6AFWhnAtZCsHGB1fkuAFFH&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=UHItwcnst6jZB9E72uJmtA&_nc_ss=7f689&oh=00_AQPxQtTuMZifoGEUVY4ZjpckXoTG1cnde25NJa-iD-7c_A&oe=6AC419DC",
+        "caption": "What happens when the lawyers who once \u201cflooded the zone\u201d to defend civil rights and democracy start sitting on the sidelines?\n\n@democracydocket founder Marc Elias says the retreat of some of the country\u2019s biggest law firms is changing the legal landscape and making it harder for nonprofits and smaller firms to take on cases across the country.\n\nWe talked about what he believes is behind this shift, how it\u2019s affecting the legal battles being fought right now, and what it could mean for the future of our legal system.\n\nWatch the full conversation on YouTube (link in bio) or listen wherever you get your podcasts."
+      }
+    ]
+  },
+  "photo": "https://scontent.cdninstagram.com/v/t51.82787-19/686915174_18584911900021708_6967998000779310322_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Dc-Ogh4A8NMQ7kNvwH5CnK0&_nc_oc=AdqNkD1UTy_imWK7h29Opcye4C-y6eTVWuBXYlchfzgXcF1_PsoB1-xlWbkcFNdc9-FwpJi5jFN3TPqMJadiefdH&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Q92HR97c3BI4DU6PATl7AA&_nc_ss=7f689&oh=00_AQN7EC-u2Y6EgKeZt7ymfp-q9_IaWnjNf3Gd3ro5tmTS_w&oe=6AC3EB39",
+  "analysis": {
+    "name": "Katie Couric",
+    "oneLiner": "Journalist\u2011turned\u2011media founder who blends serious advocacy with a love for coffee, food, and playful curiosity.",
+    "summary": "Katie is a veteran journalist turned media entrepreneur. Her LinkedIn shows a career built on high\u2011impact storytelling, documentary work and advocacy (cancer, nutrition, gender). On Instagram she positions herself as a food influencer, podcast host and civic\u2011engaged commentator, sharing behind\u2011the\u2011scenes moments, book talks and political analysis. The tension between a polished news\u2011anchor persona and a more informal, humor\u2011infused social feed suggests she values authenticity, intellectual depth, and the freedom to be both serious and silly.",
+    "location": "New York, New York, United States",
+    "ageRange": "unknown",
+    "career": {
+      "role": "Co\u2011Founder & Media Executive",
+      "stage": "Established senior leader / entrepreneur",
+      "ambition": "Expand her media brand while shaping public discourse on health, politics and culture"
+    },
+    "needs": [
+      {
+        "label": "Intellectual stimulation",
+        "detail": "She regularly hosts deep\u2011dive interviews on politics, health and culture (LinkedIn posts about podcasts and documentaries).",
+        "source": "both",
+        "confidence": 0.9
+      },
+      {
+        "label": "Emotional safety for vulnerability",
+        "detail": "LinkedIn activity mentions struggling with identity at work and wanting a space where \u201cmulti\u2011dimensional\u201d selves are accepted.",
+        "source": "linkedin",
+        "confidence": 0.85
+      },
+      {
+        "label": "Shared love of food & coffee culture",
+        "detail": "Instagram bio calls her a \u201cFood influencer\u201d and she frequently posts about dining experiences and coffee.",
+        "source": "instagram",
+        "confidence": 0.95
+      },
+      {
+        "label": "Support for advocacy work",
+        "detail": "Her LinkedIn highlights cancer advocacy and public\u2011health documentaries; she needs a partner who respects and possibly participates in cause\u2011driven projects.",
+        "source": "linkedin",
+        "confidence": 0.8
+      }
+    ],
+    "hobbies": [
+      {
+        "label": "Podcasting",
+        "detail": "Promotes \u201cNext Question\u201d podcast in Instagram bio and shares episode clips.",
+        "source": "instagram",
+        "confidence": 0.9
+      },
+      {
+        "label": "Cooking & food tasting",
+        "detail": "Instagram posts often feature meals, restaurant visits and food commentary.",
+        "source": "instagram",
+        "confidence": 0.95
+      },
+      {
+        "label": "Reading & writing",
+        "detail": "LinkedIn lists her as a best\u2011selling author; Instagram mentions a Substack newsletter.",
+        "source": "both",
+        "confidence": 0.9
+      },
+      {
+        "label": "Pickleball",
+        "detail": "LinkedIn activity references playing pickleball in a recent interview.",
+        "source": "linkedin",
+        "confidence": 0.7
+      }
+    ],
+    "interests": [
+      {
+        "label": "Public\u2011health policy",
+        "detail": "Documentaries like \u201cFed Up\u201d and \u201cGender Revolution\u201d focus on health issues (LinkedIn).",
+        "source": "linkedin",
+        "confidence": 0.9
+      },
+      {
+        "label": "Political journalism",
+        "detail": "Frequent Instagram captions discuss Senate hearings, elections and media freedom.",
+        "source": "instagram",
+        "confidence": 0.95
+      },
+      {
+        "label": "Hospitality industry",
+        "detail": "Interview with restaurateur Danny Meyer highlighted in Instagram caption.",
+        "source": "instagram",
+        "confidence": 0.85
+      },
+      {
+        "label": "Media entrepreneurship",
+        "detail": "Co\u2011founder of Katie Couric Media; shares articles about founders and tech deals (LinkedIn activity).",
+        "source": "both",
+        "confidence": 0.9
+      },
+      {
+        "label": "Travel & cultural exploration",
+        "detail": "LinkedIn shows global anchor roles; Instagram occasionally tags locations like Rockefeller Plaza.",
+        "source": "both",
+        "confidence": 0.75
+      }
+    ],
+    "values": [
+      {
+        "label": "Authenticity",
+        "detail": "LinkedIn post about being \u201cmulti\u2011dimensional\u201d at work; desire to be genuine.",
+        "source": "linkedin",
+        "confidence": 0.85
+      },
+      {
+        "label": "Social impact",
+        "detail": "Cancer advocacy, public\u2011health documentaries, voter\u2011registration calls on Instagram.",
+        "source": "both",
+        "confidence": 0.9
+      },
+      {
+        "label": "Lifelong learning",
+        "detail": "Continues producing documentaries, podcasts, and writing newsletters.",
+        "source": "both",
+        "confidence": 0.9
+      }
+    ],
+    "personality": [
+      {
+        "trait": "Openness",
+        "score": 88,
+        "note": "Curious about politics, health, food; creates documentaries and podcasts (LinkedIn, Instagram)."
+      },
+      {
+        "trait": "Conscientiousness",
+        "score": 82,
+        "note": "Long career in news, disciplined publishing schedule, multiple leadership roles."
+      },
+      {
+        "trait": "Extraversion",
+        "score": 70,
+        "note": "Comfortable on camera, hosts live panels, engages large audiences."
+      },
+      {
+        "trait": "Agreeableness",
+        "score": 76,
+        "note": "Advocacy work, collaborative interviews, supportive tone in captions."
+      },
+      {
+        "trait": "Emotional Stability",
+        "score": 65,
+        "note": "Open about vulnerability and \u201cthin\u2011skinned\u201d moments; manages high\u2011pressure news environment."
+      }
+    ],
+    "lifestyle": [
+      {
+        "label": "Pace",
+        "value": "Fast\u2011paced, high\u2011visibility career with frequent travel"
+      },
+      {
+        "label": "Social energy",
+        "value": "High \u2013 regularly hosts events, panels, podcasts"
+      },
+      {
+        "label": "Fitness",
+        "value": "Active (pickleball mentioned, walking NYC streets)"
+      },
+      {
+        "label": "Travel",
+        "value": "Frequent domestic and international trips for reporting and speaking"
+      },
+      {
+        "label": "Work\u2011life",
+        "value": "Blended \u2013 work often overlaps with personal interests (food, advocacy)"
+      }
+    ],
+    "communicationStyle": "Direct, articulate, and evidence\u2011based, but peppered with humor and personal anecdotes.",
+    "loveLanguage": "Words of affirmation & quality time (appreciates deep conversation and public acknowledgment).",
+    "lookingFor": "A partner who can match her intellectual curiosity, share her love of food and coffee, and respect her need for both professional ambition and personal authenticity.",
+    "greenFlags": [
+      "Enjoys thoughtful debate and current events",
+      "Loves trying new restaurants and coffee spots",
+      "Supports charitable causes and community engagement"
+    ],
+    "watchOuts": [
+      "May prioritize work commitments over spontaneous downtime",
+      "Highly public life can bring media scrutiny to the relationship"
+    ],
+    "dealbreakers": [
+      "Disinterest in politics or social issues",
+      "Lack of respect for her advocacy work",
+      "Inflexibility around her busy schedule"
+    ],
+    "idealFirstDate": "A relaxed brunch at a trendy NYC caf\u00e9 followed by a walk through a museum or gallery where they can discuss art, food, and current events.",
+    "conversationHooks": [
+      "Ask about the most surprising story she\u2019s covered in her journalism career.",
+      "Discuss a recent documentary or podcast episode she\u2019s proud of.",
+      "Talk about favorite coffee roasters or hidden\u2011gem restaurants in the city.",
+      "Share thoughts on a current policy issue she\u2019s highlighted on Instagram."
+    ],
+    "agentVoice": "Warm, witty, and well\u2011read. I\u2019ll match Katie\u2019s blend of professionalism and playfulness\u2014using crisp facts, a dash of humor, and genuine curiosity to keep the conversation lively and respectful.",
+    "readingNotes": [
+      "LinkedIn headline emphasizes co\u2011founder role over past titles \u2013 she values creation over titles.",
+      "Her LinkedIn activity repeatedly mentions identity tension, hinting at a need for authenticity.",
+      "Instagram bio calls her a food influencer, showing a personal passion beyond journalism.",
+      "Posts on Instagram are heavily news\u2011oriented, indicating she lives her work publicly.",
+      "Mentions of coffee and pickleball reveal small\u2011scale, everyday joys she cherishes."
+    ]
+  },
+  "gender": "woman",
+  "seeking": "men",
+  "genderSource": "inferred",
+  "genderEvidence": "The text refers to her as 'America's sweetheart' and quotes her discussing experiences of 'women' in the first person.",
+  "shortlist": null
+}

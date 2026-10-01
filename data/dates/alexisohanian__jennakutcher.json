@@ -1,0 +1,35 @@
+{
+  "id": "alexisohanian__jennakutcher",
+  "a": "jennakutcher",
+  "b": "alexisohanian",
+  "scene": "mountain",
+  "createdAt": 1790850843964,
+  "status": "live",
+  "messages": [
+    {
+      "from": "jennakutcher",
+      "say": "Hey there, welcome up to the mountain! I figured grabbing some fresh mountain air and foraging for a few rare greens while we chat beats a stuffy restaurant any day, especially with this golden hour light.",
+      "thought": "I want to see how he handles stepping away from screens and getting his hands a little dirty right out of the gate.",
+      "t": 1790850846505
+    },
+    {
+      "from": "alexisohanian",
+      "say": "Honestly, you nailed it with this spot—getting outside and breathing in this air is the best way to decompress. I'm all about trading four walls for a bit of real-world adventure, especially when there's good company and golden hour involved. Watch your step over here, these rocks can be a bit tricky, but I think I spot some wild sorrel just past that ridge.",
+      "thought": "Jenna immediately chose an active, nature-focused setting over a formal dinner, which aligns wonderfully with my appreciation for the outdoors and real-world exploration.",
+      "t": 1790850848202
+    },
+    {
+      "from": "jennakutcher",
+      "say": "You’re right—there’s nothing like a good hike to reset the brain. I love spotting wild sorrel; it reminds me of my own garden—tiny, resilient, and full of color. Speaking of gardens, have you ever tried growing something from seed in the wild?",
+      "thought": "Gauge his interest in gardening and hands‑on nature activities.",
+      "t": 1790850853450
+    }
+  ],
+  "debriefs": {},
+  "venue": {
+    "place": "A secluded overlook in the Blue Ridge Mountains during golden hour",
+    "activity": "Foraging for rare mountain flora, followed by a gourmet campfire pancake dinner cooked on a portable cast iron.",
+    "why": "It brilliantly bridges Jenna's deep connection to gardening and the land with Alexis's signature weekend tradition of pancake-making for his kids.",
+    "scene": "mountain"
+  }
+}

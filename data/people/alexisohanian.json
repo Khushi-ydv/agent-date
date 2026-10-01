@@ -1,0 +1,434 @@
+{
+  "id": "alexisohanian",
+  "createdAt": 1790849085869,
+  "linkedinUrl": "https://www.linkedin.com/in/alexisohanian/",
+  "instagramUrl": "https://www.instagram.com/alexisohanian/",
+  "status": "ready",
+  "datingStatus": "idle",
+  "log": [
+    {
+      "t": 1790849085870,
+      "step": "Opening Instagram",
+      "detail": "https://www.instagram.com/alexisohanian/"
+    },
+    {
+      "t": 1790849085870,
+      "step": "Read Instagram @alexisohanian",
+      "detail": "12 recent posts, bio: \u201c@776fund\u201d \u00b7 via instagram-crawler-html (Mozilla)"
+    },
+    {
+      "t": 1790849085871,
+      "step": "Opening LinkedIn",
+      "detail": "https://www.linkedin.com/in/alexisohanian/"
+    },
+    {
+      "t": 1790849085872,
+      "step": "Read LinkedIn: Alexis Ohanian Sr.",
+      "detail": "Alexis Ohanian Sr. - Seven Seven Six 7\ufe0f\u20e37\ufe0f\u20e36\ufe0f\u20e3 \u00b7 10 posts/articles \u00b7 via linkedin-public-page (json-ld)"
+    },
+    {
+      "t": 1790849085872,
+      "step": "\u2713 Identity check",
+      "detail": "LinkedIn and Instagram names match"
+    },
+    {
+      "t": 1790849085873,
+      "step": "Agent is reading both profiles",
+      "detail": "cross-referencing career, captions and photos"
+    },
+    {
+      "t": 1790849106208,
+      "step": "Profile analysis complete",
+      "detail": "A 'Business Dad' passionately building a future where his kids thrive, both in tech and in the real world, while championing women's sports."
+    },
+    {
+      "t": 1790850791352,
+      "step": "Identified as a man, looking for women",
+      "detail": "He refers to himself as a 'Business Dad' and states he is a rookie when it comes to 'fatherhood'."
+    }
+  ],
+  "linkedin": {
+    "source": "linkedin",
+    "method": "linkedin-public-page (json-ld)",
+    "slug": "alexisohanian",
+    "url": "https://www.linkedin.com/in/alexisohanian",
+    "name": "Alexis Ohanian Sr.",
+    "headline": "Alexis Ohanian Sr. - Seven Seven Six 7\ufe0f\u20e37\ufe0f\u20e36\ufe0f\u20e3",
+    "about": "I'm a Business Dad.",
+    "location": "Miami-Fort Lauderdale Area",
+    "profilePic": "https://media.licdn.com/dms/image/v2/D4E03AQGjIXe99f4dcA/profile-displayphoto-scale_200_200/B4EaAWW1zxKYAc-/0/1787081483302?e=2147483647&v=beta&t=dauap22F9ZfJJH1X5bSiHWbILp6zCNy8AP75PLpFQAc",
+    "followers": 394111,
+    "experience": [
+      {
+        "title": "Seven Seven Six 7\ufe0f\u20e37\ufe0f\u20e36\ufe0f\u20e3"
+      },
+      {
+        "title": "- San Francisco Bay Area"
+      },
+      {
+        "title": "- San Francisco Bay Area"
+      },
+      {
+        "title": "- Brooklyn, NY"
+      },
+      {
+        "title": "- Brooklyn, NY"
+      }
+    ],
+    "education": [
+      {
+        "org": "University of Virginia",
+        "start": "2001-08",
+        "end": "2005-05"
+      }
+    ],
+    "languages": [
+      "German"
+    ],
+    "posts": [
+      {
+        "kind": "article",
+        "text": "From Reddit IPO to Track & Field: Why Athlete Equity Changes Everything",
+        "date": "2026-06-01T12:45:06.000+00:00"
+      },
+      {
+        "kind": "article",
+        "text": "Incubating a Modern Dog Wellness Brand \u2014 Jinx",
+        "date": "2020-02-17T21:39:14.000+00:00"
+      },
+      {
+        "kind": "article",
+        "text": "One Thing I Wish I'd Had When We Started Reddit",
+        "date": "2017-07-13T14:10:19.000+00:00"
+      },
+      {
+        "kind": "article",
+        "text": "Take Your Content Marketing Further",
+        "date": "2014-09-22T15:48:11.000+00:00"
+      },
+      {
+        "kind": "article",
+        "text": "My 2013 in Review: Year of the Entrepreneur",
+        "date": "2014-02-12T00:54:43.000+00:00"
+      },
+      {
+        "kind": "article",
+        "text": "Your Corporate Gift Idea Sucks: Here Are Three That Don't",
+        "date": "2013-12-20T20:51:05.000+00:00"
+      },
+      {
+        "kind": "article",
+        "text": "30 Days of Awesome: Katie Miller & Garnet Griebel (Scarlett Garnet)",
+        "date": "2013-09-23T15:20:06.000+00:00"
+      },
+      {
+        "kind": "article",
+        "text": "30 Days of Awesome: frank & jan",
+        "date": "2013-09-14T20:24:57.000+00:00"
+      },
+      {
+        "kind": "article",
+        "text": "30 Days of Awesome: Baratunde Thurston (Cultivated Wit)",
+        "date": "2013-09-09T16:11:57.000+00:00"
+      },
+      {
+        "kind": "article",
+        "text": "30 Days of Awesome: Sean \"Day[9]\" Plott",
+        "date": "2013-09-08T04:40:18.000+00:00"
+      }
+    ],
+    "activityText": " Alexis Ohanian Sr. Alexis Ohanian Sr. 8h Alexis Ohanian Sr. shared this I was very excited to lead this at pre-seed because I want my kids to have a healthy relationship with tech while ALSO spending as much time in the world as possible - and this is the first phone that actually had the goal of keeping kids engaged in the WORLD. Lemme know what you think - we just launched and we're already at thousands of pre-orders Sam Terris Sam Terris 17h Alexis Ohanian Sr. shared this Freckle is the first kids phone built for real-world adventure. It is available for pre-order today, and we will begin shipping in December of this year. I\u2019m still a rookie when it comes to fatherhood. It can feel like an impossible sum of new information to get my arms around and the protocols have become rather data-centric & exacting. I sometimes feel the mild judgement of older generations who are skeptical of our obsession around naps, feeding schedules, etc. But I think for the most part, we\u2019ve made a lot of progress in our understanding of creating systems to help kids best self-actualize. One area where we seem to have moved in the wrong direction, however, is kids\u2019 independence. They are spending remarkably little time exploring, playing, and just being kids outside the supervision of an adult. It\u2019s so hard for a kid to develop in an environment where a parent is hovering over their shoulder. There\u2019s no space to experiment, to expand. At the same time, passive screen consumption has gone way up. A loss of physical freedom was replaced with essentially unfettered digital access. In response, the market has produced a bunch of products oriented around parent anxiety, completely optimized for the job of giving parents more control. Billed as tools for safety, they're generally used as ankle monitors and can make it even harder for kids to develop autonomy. At Freckle, we believe the best product in this space will focus less on restriction, and more on safely empowering kids. We started by asking kids what they want, designed to their sensibilities, and ultimately developed tools to give them more agency, and more space to explore the world beyond the screen. We created a product where parents can meaningfully participate beyond surveillance & control. Right-sizing technology doesn't have to mean stripping it to its studs. Freckle is fun! And it is exactly what I want for my own family. Alexis Ohanian Sr. Alexis Ohanian Sr. 18h Alexis Ohanian Sr. shared this I've learned a lot in my 6 years of team ownership: launching teams is actually more similar to launching tech startups than people realize and the MOST important thing you can get right as an owner is who you hire as President. The success of our rollout so far is a testament to Ana and the team she's built; the future is bright for women's volleyball in LA and we're gonna continue to set a standard not just for global volleyball, but for sports! Follow LA Orbit and join us on the journey... Sports Business Journa"
+  },
+  "instagram": {
+    "source": "instagram",
+    "method": "instagram-crawler-html (Mozilla)",
+    "username": "alexisohanian",
+    "url": "https://www.instagram.com/alexisohanian/",
+    "fullName": "Alexis Ohanian Sr.",
+    "bio": "@776fund",
+    "followers": 928091,
+    "following": 1482,
+    "postsCount": 5164,
+    "isVerified": true,
+    "isPrivate": false,
+    "profilePic": "https://scontent.cdninstagram.com/v/t51.82787-19/766195037_18611550430004554_3404803053353582857_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=vp0-YIZHUCoQ7kNvwHA8DGy&_nc_oc=Adq4PHNXTGzWm7LNX2HohpFuJx3XkHSC5PqRJwMUX09k3JM4_Jfzg0OVC3FwRSsFaJWt6Ekn5hQ6LB1yY7eTOm7v&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=oSpMiK3wCmD7DxnlKsVdsw&_nc_ss=7f689&oh=00_AQNvTsQjTE_uFaJX_gcnAdEwIJfUAIajVs1H9HdASiPR7g&oe=6AC41844",
+    "posts": [
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/832476118_18097573853370191_4304692545418868289_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=TKaglxhBWEIQ7kNvwHuUcLm&_nc_oc=AdoCYBfCPK_likW0Bdbow1tz6dPyb03_B_QZ8RBtL9I5mFlLZrtYGdB7WQM8-zTP5J2kEo9HNBk8PUe90_duwP0g&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=Goi9clVQt9QyOYes2w149A&_nc_ss=7f689&oh=00_AQOSleBgPQRyfnon1uDaPOZsyi6uPphArYAgvGLK5fyOzA&oe=6AC417A8",
+        "caption": "We haven\u2019t played a match yet and already have two Day 1s campaigning to lead The Wall aka Fan section \ud83d\udd25\n\nThink you can bring the noise? Tag your loudest friends\ud83e\udde1 \ud83d\udcaa\ud83c\udfd0\ud83e\ude90"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/825325721_18630956254038992_6088350794887988267_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=aX4CVZNHXNsQ7kNvwG9DFvR&_nc_oc=AdoS0hfog9CLTCbWy1G3b4TXqjn5UFufc1-FgwduwWGBFgt5xybMGRbCfT9NW-4OXhj7c8aKqaXPHz6PSb15Jrij&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=Goi9clVQt9QyOYes2w149A&_nc_ss=7f689&oh=00_AQMO1hRrbPSwy5So_QpARrahkrrH0Ea56WqfnFQFYeTpBw&oe=6AC40E9B",
+        "caption": "Still not over this weekend\u2019s brand launch and fan fest! \ud83e\udde1\ud83d\udcab\n\nShoutout to everyone who came to @intuitdome to celebrate @laorbitvb!\n\nI feel so lucky to get to play volleyball in my hometown and be part of building something so special in LA. Can\u2019t wait for season \ud83d\ude80"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/825324546_17921226966482975_216003041932894166_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=5Ji4GtxUnXsQ7kNvwE2epLi&_nc_oc=AdpNrIzczdn5WOvpP1qHpRSOUAQvi4DX0CEYZ_WfBRvtf-Hnw0dxSDDCgpcQsOUR9FZVfELK3Sjs5snYdU6ZP7ae&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=Goi9clVQt9QyOYes2w149A&_nc_ss=7f689&oh=00_AQNQebtbnYNn2Y-lsogYd48guKXWOQ53EsNLT9AVWk1V9Q&oe=6AC41855",
+        "caption": "We felt alllllllll the LOVB over the weekend! \ud83e\udd72\ud83e\udde1\n\n#LAOrbit #EverythingRevolvesAroundHer"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/828532267_18097394792370191_5283566600209719424_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=4QkF9YIuwL4Q7kNvwEUzoXw&_nc_oc=AdptpClRvyPTpECYPn6sz6m-zyKirsOLEKe_ZBg1L1Uyyyn2yj0gKzKecQeeT5lWVN4zij54whLxg0m74iqzitmU&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=Goi9clVQt9QyOYes2w149A&_nc_ss=7f689&oh=00_AQPzw1fp3Pg-gAHH8rGAta7QiF61I2Zj335HaqsbbBcK9A&oe=6AC4142F",
+        "caption": "Met @burfordbeachhomes, her daughter @kennedyb.2032, and her incredible mom at our first-ever Fan Fest at @watchme_sportsbar in Long Beach during the @lovb championship weekend in April, the week before I even started this job.\n\nThis weekend, I got to be there as Brittny, her mom and her daughter picked out their season tickets for LA Orbit. Three generations, together \ud83e\udde1\ud83c\udfd0\ud83e\udde1\n\nAnd then I heard what her mom had done the very same day we first met: she got a @laorbitvb (LOVB LA back then!) inspired tattoo. @alexisohanian we may have our first fan ready for that @laorbitvb logo tat \ud83d\ude1d \n\nIn all seriousness, this is what being a Day One looks like.\n\nBrittny, I\u2019m never going to forget this! Thank you for believing in us before there was even an LA Orbit to believe in \ud83e\udd79\ud83e\udde1\ud83c\udfd0"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/825269902_18080909954705758_1714470748145834416_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Th9Lo92TUzMQ7kNvwFTyFOu&_nc_oc=AdoTlB7fsiuVVW41rUhzvEnubI5pNOFoGw79uth5VGU87RANv0CHpE3IZ8A_1d23hpdatzo-NnDdamBm6MDLK13o&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=Goi9clVQt9QyOYes2w149A&_nc_ss=7f689&oh=00_AQNR3GFlKToBxFGmECIwyuYsusfgTRI3JEd1CxXDeoQC_g&oe=6AC3F773",
+        "caption": "@laorbitvb Outside Hitter @madi_kingdon said the goal out loud \u27a1\ufe0f Become the BIGGEST volleyball team in LA! \ud83d\udcab\ud83e\ude90\ud83e\udde1\ud83c\udfd0\n\nAnd based on what we\u2019ve seen so far? I have 0 doubts!\n\n\ud83d\udc47\ud83c\udffd Send this to someone who also has a champion\u2019s mentality! \ud83d\udcaa\ud83c\udffe\ud83c\udfc6\n\n#LOVB #volleyball #losangeles #womenssports #sportstravel"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/828508360_1074260495487622_8998665252410308678_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=vTdTloLg0fUQ7kNvwEVX2M4&_nc_oc=Adoj14wXBT3Nr83t1g0rzaRHOvUS3ZMNdnD9C5y4fR5NmDqjbVYzr4taFSZ-CVgcs_po7jJOLdxUkN3pi5z_wZ8x&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=Goi9clVQt9QyOYes2w149A&_nc_ss=7f689&oh=00_AQOa93YDl4mlDMDPY6pL_CRF5mWjMDOCXnY5Gf3-WgVR_Q&oe=6AC3EB13",
+        "caption": "The finish line moment that ...\n\u3164\n\u2728 Secured @marileidy_paulino_'s 15th career sub-49-second performance, equaling the all-time record (48.73)\n\u2728 @henriette.jeager earned a new PR and Norwegian national record (48.78)\n\u3164\nRelive the epic 400M finish thanks to the 3D capture of @arcturus_sports!"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/825277005_18113433425325766_8927848538273307478_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=5wApFvuoDoYQ7kNvwGfGCZg&_nc_oc=Adqe2SolVs1sTrs8fbe_fJBRfWB2cxBDlsSO6c_Ndpv7ZTgLNSLxqKctOAgqg2VeK-Xbq3U7qKlhevcr6xoU_7G0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=Goi9clVQt9QyOYes2w149A&_nc_ss=7f689&oh=00_AQMqrnrUeuTn8gQDoKYQArEh0iarcKD7ovRsDz6URTJBPA&oe=6AC411AD",
+        "caption": "LONDON energy captured on film \ud83d\udcf8"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/825324370_18438819394179780_6111599504726095498_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=AiGJCBhyVpUQ7kNvwFAtJ3f&_nc_oc=Adp8_HCJthet0KXC_-ib9KbUoYegFhGUNTk6bt06I8o7w6Pdv1UAGrKXOYKCj-3BU1kh4pxUl68-FNIuUztW8pxM&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=Goi9clVQt9QyOYes2w149A&_nc_ss=7f689&oh=00_AQOI4Mpo_lWN_vTaz0nYYkTO1ZVDGwYJ01p3jUrJeS2nqg&oe=6AC411E7",
+        "caption": "Thank you to @laorbitvb for including us in the LOVB LA Launch Reveal \ud83e\udde1\ud83d\udcab\n\nSo grateful for opportunities like this that allow us to share special moments with our players and expose them to the continued growth of women\u2019s volleyball.\n\nA huge thank you to all of the incredible leaders, athletes, advocates, and visionaries who continue to invest in women\u2019s volleyball and help push our game forward. It was special for our girls to be in the room and connect with so many influential people in our sport \ud83d\ude4c\ud83c\udffc\n\n\ud83d\udcf8: @boniiia \n\nForever LB | LA Orbit \ud83e\udde1\ud83d\udc99"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/825324378_1573385504043820_2896367055069763824_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=aKaolIkluYMQ7kNvwGhlrHX&_nc_oc=AdoBHexZ4O72Dt7pwhIalsSb9xFxXEdOblitENIUibzDg-3tHz3-PygZVxnSLQWiBkhzw7cNLxK8t9JgGSk85DMZ&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=Goi9clVQt9QyOYes2w149A&_nc_ss=7f689&oh=00_AQPgg-yS4x9207qNq34WjfjlIHj440QcLYDuG5pTRTwYHA&oe=6AC3E952",
+        "caption": "\ud83e\udde1Weekend report from your LA Orbit CEO\ud83e\udde1\n\n\u2714\ufe0f Brand reveal\n\u2714\ufe0f Fan fest \n\u2714\ufe0f Season ticket seats picked (thanks mom!)\n\u2714\ufe0f Got the merch\n\u2714\ufe0f Met the players\n\u2714\ufe0f Hung out with fellow CEO\u2019s\n\u2714\ufe0f Excited for the season\n\n@laorbitvb, see you at @intuitdome soon \ud83d\udcab\n\n#laorbit #lovblosangeles #everythingrevolvesaroundher #provolleyball #lovb"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/825326388_18114985013064003_3490907335203555489_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=C9Usa5LeCpIQ7kNvwGO7EsN&_nc_oc=AdpGW2uH6I5tfGrI0WBkVvtdyBt6BXDiS-AFpN991nN6ujNN9dKc4PuYj1tK4zukWiQ2HT-DOemcUtI0DPUbQb_Y&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=Goi9clVQt9QyOYes2w149A&_nc_ss=7f689&oh=00_AQO-HIEUbJNXecPkKIeWGSjkHBnQNnBMIFLFqr3m_N0_qg&oe=6AC3F88F",
+        "caption": "FAN FEST RECAP \ud83e\ude90\ud83c\udfd0\n\nIf you felt the earthquake this morning\u2026yes, that was real. But I think yesterday\u2019s Fan Fest shook LA into Orbit! \ud83d\ude02\ud83e\udde1\n\nCEO sisters, my WNS and LAVBC family, and our Day One seats\u2026 what a day! My favorite part was finally meeting Mrs. Tayyiba. Just look at Milan\u2019s face. \ud83e\udd79\n\nWho\u2019s coming to an Orbit game with us? \ud83d\udc40\n@laorbitvb \n\n#LAOrbit #FanFest #DayOne"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/828508405_18629436382004554_5479121515038403611_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=C4yriYHjriQQ7kNvwELbj_Z&_nc_oc=AdoNSuZ3QL_1Dr1Tcq__lmftKYmsMnivoZwHLPBizYDfoh3az01XfCLqyVrGMicKVYXbH2a7yUPTS7NiZlVSrTkR&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=Goi9clVQt9QyOYes2w149A&_nc_ss=7f689&oh=00_AQOluwapN8WuoHbHzzaQ3ABFxXoIfyNneCXdQbVqH2AxpA&oe=6AC40762",
+        "caption": "#PapaPancake Sunday and I had to try an @laorbitvb pancake to celebrate our newest pro sports team in LA \ud83d\udcaa\ud83e\ude90\ud83c\udfd0\ud83d\udcab then the girls\u2019 orders came in and I was back to making Mer-Pups and Maltipoos. Thanks to all of you who packed our brand reveal and Fan Fest the last two days!!"
+      },
+      {
+        "imageUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/825269902_18080699771705758_295248897903834962_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=X8XxBV7AaJAQ7kNvwGWOPjp&_nc_oc=Adpf_h_DKNdof7NnS_ZLpnraQhtd6ZUhHjhgalsZ9gE9rzKsUcbJAaEiMU2lwEP_tx4d3fS2hKsBFxvL9JGioSOe&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=Goi9clVQt9QyOYes2w149A&_nc_ss=7f689&oh=00_AQNRKUXmPyuBsp0m_E63ho30tHAv34Rc85HwmYsmUw871Q&oe=6AC40B04",
+        "caption": "POV: You strut into @laorbitvb \u2019s new \ud83c\udfe0 and thought \u201cTHIS is the stage indoor pro volleyball in the U.S. deserves!\u201d \u2728\ud83c\udfd0\n\n\ud83d\udc47\ud83c\udffdAre they resetting the standards for other pro teams in America? \ud83d\udc40 \ud83e\udde1\n\nNow I need to see this incredible venue full of fans at first serve. Who\u2019s coming with me? \ud83e\ude90\n\n#LOVB #volleyball #losangeles #sportstravel #IntuitDome"
+      }
+    ]
+  },
+  "photo": "https://scontent.cdninstagram.com/v/t51.82787-19/766195037_18611550430004554_3404803053353582857_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=vp0-YIZHUCoQ7kNvwHA8DGy&_nc_oc=Adq4PHNXTGzWm7LNX2HohpFuJx3XkHSC5PqRJwMUX09k3JM4_Jfzg0OVC3FwRSsFaJWt6Ekn5hQ6LB1yY7eTOm7v&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=oSpMiK3wCmD7DxnlKsVdsw&_nc_ss=7f689&oh=00_AQNvTsQjTE_uFaJX_gcnAdEwIJfUAIajVs1H9HdASiPR7g&oe=6AC41844",
+  "analysis": {
+    "name": "Alexis Ohanian Sr.",
+    "oneLiner": "A 'Business Dad' passionately building a future where his kids thrive, both in tech and in the real world, while championing women's sports.",
+    "summary": "Alexis is a visionary entrepreneur and investor, known for co-founding Reddit and now leading Seven Seven Six. He's deeply committed to his role as a 'Business Dad,' actively shaping a healthier relationship between kids and technology, and fostering real-world exploration. His recent focus is on elevating women's sports, particularly volleyball, in Los Angeles, demonstrating a strong drive for community building and empowering athletes. He balances a professional, ambitious LinkedIn presence with a more personal, engaged Instagram showing his family life and passion projects.",
+    "location": "Miami-Fort Lauderdale Area",
+    "ageRange": "unknown",
+    "career": {
+      "role": "Entrepreneur, Investor, CEO of LA Orbit Volleyball",
+      "stage": "Established leader, serial entrepreneur",
+      "ambition": "To build impactful companies, particularly those that empower future generations and underrepresented communities (like women's sports), while excelling as a father."
+    },
+    "needs": [
+      {
+        "label": "A partner who values family and fatherhood",
+        "detail": "He explicitly calls himself a 'Business Dad' and his LinkedIn activity shows deep engagement with topics like kids' tech use and independence, and his Instagram features 'Papa Pancake Sunday' and his daughters' pancake orders.",
+        "source": "both",
+        "confidence": 0.9
+      },
+      {
+        "label": "Someone who appreciates ambition and drive",
+        "detail": "His entire career trajectory, from Reddit to Seven Seven Six, and now leading LA Orbit, demonstrates a relentless pursuit of building and scaling ventures. His posts on 'Athlete Equity' and 'Year of the Entrepreneur' reinforce this.",
+        "source": "linkedin",
+        "confidence": 0.8
+      },
+      {
+        "label": "A partner who shares or supports his passion for social impact and empowerment",
+        "detail": "His investment in Freckle (kids' tech for real-world engagement) and his fervent support for women's volleyball (LA Orbit) show a clear desire to make a positive societal impact.",
+        "source": "both",
+        "confidence": 0.9
+      },
+      {
+        "label": "Someone who enjoys community building and shared experiences",
+        "detail": "His Instagram is full of 'Fan Fest' recaps, meeting fans, and encouraging people to come to games, highlighting a desire for collective enthusiasm and shared moments.",
+        "source": "instagram",
+        "confidence": 0.8
+      },
+      {
+        "label": "A partner who understands and respects his demanding schedule",
+        "detail": "His 'Business Dad' identity and the sheer volume of high-level projects (Seven Seven Six, LA Orbit, various articles) suggest a very busy individual who needs understanding for his commitments.",
+        "source": "linkedin",
+        "confidence": 0.7
+      }
+    ],
+    "hobbies": [
+      {
+        "label": "Supporting and promoting women's volleyball",
+        "detail": "His Instagram is almost entirely dedicated to LA Orbit, attending games, fan events, and promoting the team and sport. He's the CEO of LA Orbit.",
+        "source": "instagram",
+        "confidence": 1
+      },
+      {
+        "label": "Pancake making for his kids",
+        "detail": "He mentions '#PapaPancake Sunday' and making 'Mer-Pups and Maltipoos' for his girls, indicating a fun, hands-on parenting activity.",
+        "source": "instagram",
+        "confidence": 0.9
+      },
+      {
+        "label": "Attending sporting events and fan festivals",
+        "detail": "Multiple Instagram posts show him at 'Fan Fests' and encouraging attendance at LA Orbit games, actively engaging with the sports community.",
+        "source": "instagram",
+        "confidence": 0.9
+      },
+      {
+        "label": "Investing in and incubating new ventures",
+        "detail": "His role at Seven Seven Six and articles about Jinx and Freckle show a consistent engagement in identifying and growing new businesses.",
+        "source": "linkedin",
+        "confidence": 0.9
+      }
+    ],
+    "interests": [
+      {
+        "label": "Kids' healthy relationship with technology and real-world exploration",
+        "detail": "His LinkedIn post about leading a pre-seed investment in Freckle, a kids' phone for 'real-world adventure,' highlights this specific interest.",
+        "source": "linkedin",
+        "confidence": 1
+      },
+      {
+        "label": "Athlete equity and the business of sports",
+        "detail": "His article 'From Reddit IPO to Track & Field: Why Athlete Equity Changes Everything' and his involvement with LOVB demonstrate a deep interest in the financial and structural aspects of sports.",
+        "source": "linkedin",
+        "confidence": 0.9
+      },
+      {
+        "label": "Entrepreneurship and startup growth",
+        "detail": "Numerous articles like 'My 2013 in Review: Year of the Entrepreneur' and his work at Seven Seven Six underscore his ongoing engagement with the startup ecosystem.",
+        "source": "linkedin",
+        "confidence": 0.9
+      },
+      {
+        "label": "Content marketing and brand building",
+        "detail": "His article 'Take Your Content Marketing Further' and the detailed brand launch of LA Orbit on Instagram show expertise and interest in this area.",
+        "source": "both",
+        "confidence": 0.8
+      },
+      {
+        "label": "Modern parenting and child development systems",
+        "detail": "His LinkedIn post about fatherhood, 'data-centric & exacting' protocols, and 'systems to help kids best self-actualize' shows a thoughtful approach to parenting.",
+        "source": "linkedin",
+        "confidence": 0.8
+      }
+    ],
+    "values": [
+      {
+        "label": "Empowerment",
+        "detail": "He champions 'safely empowering kids' with Freckle, and actively invests in and promotes women's sports, aiming to 'push our game forward' and ensure 'Everything revolves around HER.'",
+        "source": "both",
+        "confidence": 1
+      },
+      {
+        "label": "Innovation and progress",
+        "detail": "His career is built on disruptive innovation (Reddit) and he continuously seeks new solutions, from kids' tech to modern dog wellness brands, and 'resetting the standards for other pro teams.'",
+        "source": "linkedin",
+        "confidence": 0.9
+      },
+      {
+        "label": "Community and shared experience",
+        "detail": "His Instagram is filled with 'Fan Fest' events, meeting fans, and building the 'Day 1s' for LA Orbit, emphasizing collective enthusiasm and belonging.",
+        "source": "instagram",
+        "confidence": 0.9
+      },
+      {
+        "label": "Family and fatherhood",
+        "detail": "His self-identification as a 'Business Dad' and his posts about his kids' tech use and 'Papa Pancake Sunday' clearly indicate this as a core value.",
+        "source": "both",
+        "confidence": 1
+      },
+      {
+        "label": "Authenticity and real-world engagement",
+        "detail": "He advocates for kids spending 'as much time in the world as possible' and for products that keep kids 'engaged in the WORLD,' contrasting with 'passive screen consumption.'",
+        "source": "linkedin",
+        "confidence": 0.9
+      }
+    ],
+    "personality": [
+      {
+        "trait": "Openness",
+        "score": 90,
+        "note": "Highly open, evident in his serial entrepreneurship, investment in diverse ventures (dog wellness, kids' tech, sports), and willingness to challenge norms (kids' independence, athlete equity)."
+      },
+      {
+        "trait": "Conscientiousness",
+        "score": 85,
+        "note": "Very conscientious, demonstrated by his consistent high-level work, strategic thinking (investing, brand building), and detailed approach to fatherhood ('data-centric & exacting protocols')."
+      },
+      {
+        "trait": "Extraversion",
+        "score": 80,
+        "note": "Quite extraverted, as he's actively engaged in public-facing roles, leading teams, speaking at events, and building fan communities for LA Orbit, clearly enjoying social interaction."
+      },
+      {
+        "trait": "Agreeableness",
+        "score": 75,
+        "note": "Generally agreeable, showing a collaborative spirit in team building, appreciating others ('Thank you to all of the incredible leaders'), and focusing on empowerment, though his strong opinions on parenting/tech suggest he can be assertive."
+      },
+      {
+        "trait": "Emotional stability",
+        "score": 80,
+        "note": "Appears emotionally stable, handling high-pressure roles and public scrutiny with a consistent, focused, and positive demeanor, even when discussing challenges in fatherhood."
+      }
+    ],
+    "lifestyle": [
+      {
+        "label": "Pace",
+        "value": "Fast-paced and dynamic, driven by entrepreneurial ventures and a busy family life."
+      },
+      {
+        "label": "Social energy",
+        "value": "Highly social, thriving in community-building, public events, and team environments."
+      },
+      {
+        "label": "Fitness",
+        "value": "Active and engaged in sports, particularly volleyball, both as a fan and an executive."
+      },
+      {
+        "label": "Travel",
+        "value": "Frequent, with mentions of London and various locations for business and sports events."
+      },
+      {
+        "label": "Work-life",
+        "value": "Integrated, with work often revolving around family values and personal passions (e.g., 'Business Dad,' investing in kids' tech, women's sports)."
+      }
+    ],
+    "communicationStyle": "Direct, enthusiastic, visionary, and often uses storytelling or personal anecdotes to convey his message. He's articulate and passionate, especially about his projects and family.",
+    "loveLanguage": "Acts of Service (building things for others, investing in causes) and Quality Time (Papa Pancake Sunday, attending events with family).",
+    "lookingFor": "Someone ambitious, family-oriented, and passionate about making a positive impact, who can keep up with his dynamic lifestyle and share in his enthusiasm for building and community.",
+    "greenFlags": [
+      "Deeply committed and loving father.",
+      "Visionary and highly successful entrepreneur.",
+      "Passionate advocate for social causes, especially women's empowerment.",
+      "Engaged in community building and fostering shared experiences.",
+      "Thoughtful about societal issues like kids' tech usage."
+    ],
+    "watchOuts": [
+      "His schedule is likely very demanding and integrated with his personal life.",
+      "He has strong opinions and a clear vision, which might require a partner who is comfortable with that drive.",
+      "His public profile is very high, which means a partner would also be in the public eye to some extent."
+    ],
+    "dealbreakers": [
+      "Lack of ambition or drive.",
+      "Disinterest in family or children.",
+      "Aversion to social impact or community engagement.",
+      "Someone who doesn't appreciate or support his entrepreneurial spirit."
+    ],
+    "idealFirstDate": "Attending a live LA Orbit volleyball game, followed by a casual dinner where they can discuss the game, their passions, and life goals. It combines his work, hobby, and allows for genuine conversation.",
+    "conversationHooks": [
+      "His vision for the future of women's sports, especially volleyball.",
+      "His insights on balancing fatherhood with a demanding career ('Business Dad' philosophy).",
+      "The challenges and opportunities in creating healthy tech for kids.",
+      "His journey as an entrepreneur and lessons learned from Reddit to Seven Seven Six.",
+      "What 'awesome' means to him, referencing his '30 Days of Awesome' series."
+    ],
+    "agentVoice": "Enthusiastic, driven, and warm, with a touch of entrepreneurial flair. I'll highlight his passion for building, his commitment to family, and his forward-thinking approach, using phrases like 'visionary,' 'impact-driven,' and 'game-changer.' I'll weave in his 'Business Dad' persona and his dedication to women's sports with genuine excitement.",
+    "readingNotes": [
+      "Their LinkedIn headline leads with 'Seven Seven Six' and an emoji, indicating a modern, slightly informal professional brand.",
+      "The 'Business Dad' bio immediately signals family as a core part of his identity, not just an afterthought.",
+      "LinkedIn activity shows a deep, thoughtful engagement with the topic of kids and technology, beyond just a simple investment.",
+      "Instagram is almost entirely focused on LA Orbit volleyball, showing an intense, personal commitment to this new venture and women's sports.",
+      "The 'Papa Pancake Sunday' post on Instagram offers a glimpse into a hands-on, fun aspect of his fatherhood.",
+      "There's a strong theme of 'building' \u2013 companies, teams, communities, and a better future for kids.",
+      "He consistently uses emojis on both platforms, suggesting a friendly, approachable communication style despite his high-level roles."
+    ]
+  },
+  "gender": "man",
+  "seeking": "women",
+  "genderSource": "inferred",
+  "genderEvidence": "He refers to himself as a 'Business Dad' and states he is a rookie when it comes to 'fatherhood'.",
+  "shortlist": null
+}

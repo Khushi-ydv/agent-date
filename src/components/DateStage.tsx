@@ -73,11 +73,14 @@ function chunks(text: string) {
 
 const keepAlive: SpeechSynthesisUtterance[] = []; // Chrome can GC utterances mid-speech, dropping onend
 
-export function DateStage({ scene, venue, a, b, messages, live }: { scene?: SceneKey; venue?: { place: string; activity: string }; a: Who; b: Who; messages: DateMessage[]; live: boolean }) {
+export function DateStage({ dateId, scene, venue, a, b, messages, live }: { dateId: string; scene?: SceneKey; venue?: { place: string; activity: string }; a: Who; b: Who; messages: DateMessage[]; live: boolean }) {
   const meta = SCENE_META[scene ?? "cafe"] ?? SCENE_META.cafe;
   const [playIdx, setPlayIdx] = useState<number | null>(null); // replay mode for finished dates
   const [voice, setVoice] = useState(false);
   const [speaking, setSpeaking] = useState(false);
+  const [loadingVoice, setLoadingVoice] = useState(false);
+  const audioRef = useRef<HTMLAudioElement | null>(null);
+  const neuralDown = useRef(0); // consecutive neural-voice failures; after 2 we use the browser voice
   const voices = useVoices();
   const spokenIdx = useRef(-1);
   const gen = useRef(0); // bumps on every new line / stop, so stale speech callbacks are ignored
@@ -89,8 +92,53 @@ export function DateStage({ scene, venue, a, b, messages, live }: { scene?: Scen
 
   const stopSpeech = () => {
     gen.current++;
+    audioRef.current?.pause();
     if (supported) window.speechSynthesis.cancel();
     setSpeaking(false);
+    setLoadingVoice(false);
+  };
+
+  const lineSrc = (m: DateMessage, idx: number) => m.audio ?? `/api/tts/${encodeURIComponent(dateId)}/${idx}?t=${m.t}`;
+
+  /** Neural voice (Groq Orpheus, or a bundled pre-render) with browser speech as the fallback. */
+  const playLine = (m: DateMessage, idx: number, onDone?: () => void) => {
+    if (neuralDown.current >= 2) return speakLine(m, idx, onDone);
+    const my = ++gen.current;
+    spokenIdx.current = idx;
+    audioRef.current?.pause();
+    if (supported) window.speechSynthesis.cancel();
+    const el = new Audio(lineSrc(m, idx));
+    audioRef.current = el;
+    let finished = false;
+    const done = () => {
+      if (finished || my !== gen.current) return;
+      finished = true;
+      setSpeaking(false);
+      setLoadingVoice(false);
+      onDone?.();
+    };
+    const fallback = () => {
+      if (finished || my !== gen.current) return;
+      finished = true;
+      neuralDown.current++;
+      setLoadingVoice(false);
+      speakLine(m, idx, onDone);
+    };
+    el.onplaying = () => {
+      if (my !== gen.current) return;
+      neuralDown.current = 0;
+      setLoadingVoice(false);
+      setSpeaking(true);
+    };
+    el.onended = done;
+    el.onerror = fallback;
+    setLoadingVoice(true);
+    el.play().catch(fallback);
+    // Watchdog: generation can take a few seconds the first time a line is spoken.
+    setTimeout(() => (el.paused && el.currentTime === 0 ? fallback() : undefined), 25_000);
+    // Warm up the next line so playback flows.
+    const next = messages[idx + 1];
+    if (next) fetch(lineSrc(next, idx + 1)).catch(() => {});
   };
 
   /** Speak one line; calls onDone when finished (or after a watchdog timeout if the browser never reports it). */
@@ -142,26 +190,26 @@ export function DateStage({ scene, venue, a, b, messages, live }: { scene?: Scen
   // Replay without voice: advance on a reading timer.
   useEffect(() => {
     if (playIdx === null) return;
-    if (playIdx >= messages.length - 1 && !(voice && speaking)) {
+    if (playIdx >= messages.length - 1 && !(voice && (speaking || loadingVoice))) {
       const t = setTimeout(() => setPlayIdx(null), 4000);
       return () => clearTimeout(t);
     }
     if (voice) return; // with voice, speech completion advances the replay
     const t = setTimeout(() => setPlayIdx((i) => (i === null ? null : i + 1)), Math.min(7000, 1800 + (messages[playIdx]?.say.length ?? 0) * 35));
     return () => clearTimeout(t);
-  }, [playIdx, voice, speaking, messages]);
+  }, [playIdx, voice, speaking, loadingVoice, messages]);
 
   // Voice on: speak each newly shown line (live dates and replays).
   const lastIdx = shown.length - 1;
   useEffect(() => {
     if (!voice || !last || spokenIdx.current === lastIdx) return;
-    speakLine(last, lastIdx, () => {
+    playLine(last, lastIdx, () => {
       if (playIdx !== null) setPlayIdx((i) => (i === null ? null : Math.min(i + 1, messages.length - 1)));
     });
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [voice, lastIdx]);
 
-  useEffect(() => () => { gen.current++; if (typeof window !== "undefined") window.speechSynthesis?.cancel(); }, []);
+  useEffect(() => () => { gen.current++; audioRef.current?.pause(); if (typeof window !== "undefined") window.speechSynthesis?.cancel(); }, []);
 
   const toggleVoice = () => {
     if (voice) {
@@ -173,9 +221,9 @@ export function DateStage({ scene, venue, a, b, messages, live }: { scene?: Scen
     // Start speaking inside the click (browsers require a user gesture). On a finished date, play it from the top.
     if (!live && messages.length && playIdx === null) {
       setPlayIdx(0);
-      speakLine(messages[0], 0, () => setPlayIdx((i) => (i === null ? null : Math.min(i + 1, messages.length - 1))));
+      playLine(messages[0], 0, () => setPlayIdx((i) => (i === null ? null : Math.min(i + 1, messages.length - 1))));
     } else if (last) {
-      speakLine(last, lastIdx, () => playIdx !== null && setPlayIdx((i) => (i === null ? null : Math.min(i + 1, messages.length - 1))));
+      playLine(last, lastIdx, () => playIdx !== null && setPlayIdx((i) => (i === null ? null : Math.min(i + 1, messages.length - 1))));
     }
   };
 
@@ -186,7 +234,7 @@ export function DateStage({ scene, venue, a, b, messages, live }: { scene?: Scen
       return;
     }
     setPlayIdx(0);
-    if (voice) speakLine(messages[0], 0, () => setPlayIdx((i) => (i === null ? null : Math.min(i + 1, messages.length - 1))));
+    if (voice) playLine(messages[0], 0, () => setPlayIdx((i) => (i === null ? null : Math.min(i + 1, messages.length - 1))));
     else spokenIdx.current = -1;
   };
 
@@ -208,9 +256,9 @@ export function DateStage({ scene, venue, a, b, messages, live }: { scene?: Scen
           {!live && messages.length > 0 && (
             <button className="btn-ghost bg-black/40" onClick={togglePlay}>{playIdx === null ? "▶ Play the date" : "■ Stop"}</button>
           )}
-          {supported && (
+          {(
             <button className={`btn-ghost bg-black/40 ${voice ? "border-pink-400 text-pink-200" : ""}`} onClick={toggleVoice} title="Hear the agents (uses your browser's voices)">
-              {voice ? (speaking ? "🔊 Speaking…" : "🔊 Voices on") : "🔈 Hear the agents"}
+              {voice ? (loadingVoice ? "🎧 Tuning voices…" : speaking ? "🔊 Speaking…" : "🔊 Voices on") : "🎧 Hear the agents"}
             </button>
           )}
         </div>

@@ -68,6 +68,7 @@ export interface DateMessage {
   say: string;
   thought: string; // the agent's private aside, shown in the UI as "agent's notes"
   t: number;
+  audio?: string; // pre-rendered neural voice for this line (bundled for showcase dates)
 }
 
 export interface Debrief {

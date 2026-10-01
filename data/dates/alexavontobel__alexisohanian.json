@@ -10,31 +10,36 @@
       "from": "alexavontobel",
       "say": "Hey there, welcome! I figured a golden hour view of Malibu paired with some camp-stove artisan pancakes was the only proper way to kick off a date, especially since I hear you know a thing or two about mastering the art of the weekend pancake breakfast.",
       "thought": "I want to see if his reputation for being a hands-on 'Business Dad' who makes pancakes translates into genuine warmth and shared values right out of the gate.",
-      "t": 1790851213412
+      "t": 1790851213412,
+      "audio": "/voices/alexavontobel__alexisohanian/0.m4a"
     },
     {
       "from": "alexisohanian",
       "say": "You know it, though I have to admit my usual Sunday morning routine involves strict requests from my girls for custom shapes like Mer-Pups and Maltipoos, so I'm curious what your signature pancake creation is. Honestly, there's nothing quite like trading the boardrooms and venture calls for a portable camp stove and watching the sunset over Malibu.",
       "thought": "Alexa matches high ambition with family roots, so bonding over weekend dad-duties and pancake rituals is a great way to see how she balances the startup grind with real life.",
-      "t": 1790851215152
+      "t": 1790851215152,
+      "audio": "/voices/alexavontobel__alexisohanian/1.m4a"
     },
     {
       "from": "alexavontobel",
       "say": "Okay, Mer-Pups are adorable, but I have to warn you, my son is a tiny pirate, so I’m usually stuck making skull shapes while he tries to flip them before they’re properly cooked. I love that you trade the hustle for this kind of quiet, hands-on time; it’s the exact opposite of my usual Sunday, but I think we’d both agree it’s worth the burn blisters.",
       "thought": "",
-      "t": 1790851257874
+      "t": 1790851257874,
+      "audio": "/voices/alexavontobel__alexisohanian/2.m4a"
     },
     {
       "from": "alexisohanian",
       "say": "A pirate son flipping skulls? Sounds like a perfect recipe for chaos—and a lot of laughter. I’ve had my share of kitchen mishaps, especially when the kids think they’re chefs, so I totally get the burn blisters. It’s those messy, spontaneous moments that make the best memories, especially when you’re juggling a whole team of investors and a squad of tiny athletes at the same time.",
       "thought": "Probing her ability to handle spontaneous family moments while staying ambitious.",
-      "t": 1790851267684
+      "t": 1790851267684,
+      "audio": "/voices/alexavontobel__alexisohanian/3.m4a"
     },
     {
       "from": "alexavontobel",
       "say": "I hear you, and honestly, those kitchen mishaps are the best kind of chaos—I’ve got a whole list of startup failures I call ‘burn blisters’ too. Speaking of juggling, I’ve been thinking a lot lately about how to keep the boardroom energy without sacrificing family moments. How do you make sure your kids feel as much priority as your next pitch?",
       "thought": "Probe his work‑family balance; look for commitment to family.",
-      "t": 1790851284930
+      "t": 1790851284930,
+      "audio": "/voices/alexavontobel__alexisohanian/4.m4a"
     },
     {
       "from": "alexisohanian",
@@ -52,7 +57,8 @@
       "from": "alexisohanian",
       "say": "A rogue six-day trip to Greece for card games and views sounds incredible, and I totally agree that building big things and being there for our kids only makes us better at both. I’ve really loved trading stories and getting a glimpse of your world today, Alexa. Let's definitely do this again—maybe next time with a camp stove and a pirate-themed pancake competition.",
       "thought": "Alexa completely gets the high-ambition, family-first balance, values real-world adventure, and respects the grind while prioritizing her son, making her a fantastic match.",
-      "t": 1790851322125
+      "t": 1790851322125,
+      "audio": "/voices/alexavontobel__alexisohanian/7.m4a"
     }
   ],
   "debriefs": {

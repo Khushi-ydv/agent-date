@@ -76,7 +76,7 @@ export function DateView({ id }: { id: string }) {
         <Link href={`/p/${B.id}`} className="font-display text-2xl italic hover:underline">{B.name}</Link>
         <span className="w-full text-xs uppercase tracking-[0.25em] text-pink-200/70">{A.name.split(" ")[0]}&apos;s agent asked {B.name.split(" ")[0]}&apos;s agent out{date.venue?.why ? ` · ${date.venue.why}` : ""}</span>
       </div>
-      <DateStage scene={(date.scene ?? date.venue?.scene) as SceneKey | undefined} venue={date.venue} a={A} b={B} messages={date.messages} live={live} />
+      <DateStage dateId={id} scene={(date.scene ?? date.venue?.scene) as SceneKey | undefined} venue={date.venue} a={A} b={B} messages={date.messages} live={live} />
 
       {notice && <div className="glass px-4 py-2 text-center text-sm text-pink-200">💗 {notice}</div>}
       <div className="flex items-center justify-between text-sm">
